@@ -89,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="http://https://pensive-torvalds-020d34.netlify.app/wp-includes/js/wp-util.min.js?ver=5.7" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"828b182433"};
+var userProfileL10n = {"user_id":"0","nonce":"391e960b61"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
