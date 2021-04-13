@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -48,9 +48,9 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/02/the-frustrations-of-research/">The Frustrations of Research</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="http://www.lmharnisch.com/images/1907_0802.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 238px; height: 72px;" src="//www.lmharnisch.com/images/1907_0802.jpg" alt="" border="0" /></a><br />
+<div><a href="https://www.lmharnisch.com/images/1907_0802.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 238px; height: 72px;" src="//www.lmharnisch.com/images/1907_0802.jpg" alt="" border="0" /></a><br />
 Aug. 2, 1907<br />
-Los AngelesThe Times reports the death of Dr. Lucy Hall-Brown, a prominent woman physician who was active in the Red Cross. Although we know where she lived (Vermont and 30th Street), we have no idea where she went to school, her age or whether she had any survivors. Nor are we told why she was buried at the <a href="http://www.green-wood.com/">Green-Wood Cemetery</a> in Brooklyn, N.Y., rather than Los Angeles.A Google search reveals that Hall-Brown was a frequent correspondent with <a href="http://memory.loc.gov/cgi-bin/query/r?faid/faid:@field%28DOCID+ms005010%29">Clara Barton</a>, but not much more.</p>
+Los AngelesThe Times reports the death of Dr. Lucy Hall-Brown, a prominent woman physician who was active in the Red Cross. Although we know where she lived (Vermont and 30th Street), we have no idea where she went to school, her age or whether she had any survivors. Nor are we told why she was buried at the <a href="https://www.green-wood.com/">Green-Wood Cemetery</a> in Brooklyn, N.Y., rather than Los Angeles.A Google search reveals that Hall-Brown was a frequent correspondent with <a href="https://memory.loc.gov/cgi-bin/query/r?faid/faid:@field%28DOCID+ms005010%29">Clara Barton</a>, but not much more.</p>
 <p>Still, it</p>
 </div>
 </div>

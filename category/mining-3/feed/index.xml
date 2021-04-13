@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -46,7 +46,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/01/alive/">Alive!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0101B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 351px; height: 164px;" src="//www.lmharnisch.com/images/1907_0101B.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 7, 1906-Dec. 22, 1906,<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0101B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 351px; height: 164px;" src="//www.lmharnisch.com/images/1907_0101B.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 7, 1906-Dec. 22, 1906,<br />
 </span><span style="font-size:100%;">Bakersfield<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Jan. 1, 1907<br />
@@ -82,7 +82,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/11/the-45-caliber-ombudsman/">The .45-Caliber Ombudsman</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1211.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 300px;" src="//www.lmharnisch.com/images/1907_1211.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1211.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 300px;" src="//www.lmharnisch.com/images/1907_1211.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Dec. 12, 1907<br />
 </span><span style="font-size:100%;">Los Angeles via the Associated Press<br />
 </span><span style="font-size:100%;"><br />
@@ -115,7 +115,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/06/a-horse-avenged/">A Horse Avenged</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0606.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 288px;" src="//lmharnisch.com/images/1907_0606.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0606.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 288px;" src="//lmharnisch.com/images/1907_0606.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">June 6, 1907<br />
 </span><span style="font-size:100%;">San Bernardino<br />
 </span><span style="font-size:100%;"><br />

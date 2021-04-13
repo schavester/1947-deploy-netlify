@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -53,8 +53,8 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>January 17, 1927<br />Hollywood</p>
 <p>When the doc refused to keep things quiet after treating oilman Grover Lawler&#8217;s (happily superficial) bullet wounds at his home in the Dickerson apartments at Berendo and Beverly, Lawler told visiting cops that he&#8217;d shot himself. No, he would not produce the weapon. Damn, won&#8217;t you flatfoots let a guy recuperate in peace?</p>
-<p><a title="Grauman Court apartments, Melrose &#038; Kenmore by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2206685545/"><img loading="lazy" width="500" height="388" border="0" alt="Grauman Court apartments, Melrose &#038; Kenmore" src="//farm3.static.flickr.com/2224/2206685545_4b6a1fc61c.jpg" /></a></p>
-<p>Not so fast, Grover. You wouldn&#8217;t know anything about reports that a hysterical blond woman armed with a .38 had fired wildly at a car bearing two men and a woman tonight, just six blocks from your place, at the Grauman Court apartments at <a target="_blank" href="http://maps.google.com/maps?f=d&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;saddr=4428+Melrose,+los+angeles,+ca&#038;daddr=berendo+and+beverly,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=34.08078,-118.295696&#038;spn=0.007411,0.014205&#038;t=h&#038;z=16&#038;om=0">4428 Melrose</a>? No? Because G.A. Hessman, resident, has described the incident thoroughly, and turned over the gun that the woman threw into the grass at his feet when she was finished.</p>
+<p><a title="Grauman Court apartments, Melrose &#038; Kenmore by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2206685545/"><img loading="lazy" width="500" height="388" border="0" alt="Grauman Court apartments, Melrose &#038; Kenmore" src="//farm3.static.flickr.com/2224/2206685545_4b6a1fc61c.jpg" /></a></p>
+<p>Not so fast, Grover. You wouldn&#8217;t know anything about reports that a hysterical blond woman armed with a .38 had fired wildly at a car bearing two men and a woman tonight, just six blocks from your place, at the Grauman Court apartments at <a target="_blank" href="https://maps.google.com/maps?f=d&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;saddr=4428+Melrose,+los+angeles,+ca&#038;daddr=berendo+and+beverly,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=34.08078,-118.295696&#038;spn=0.007411,0.014205&#038;t=h&#038;z=16&#038;om=0">4428 Melrose</a>? No? Because G.A. Hessman, resident, has described the incident thoroughly, and turned over the gun that the woman threw into the grass at his feet when she was finished.</p>
 <p>Grover reconsidered, and admitted some dizzy dame had shot at him as his party left a dinner engagement at the Melrose address, but refused the identify his assailant. Perhaps recognizing that Mrs. Lawler, now playing nurse, would provide better punishment than the law allowed, the officers went on their way.</p>
 </div>
 </div>
@@ -91,7 +91,7 @@
 <div>
 <p>July 5, 1927<br />Venice&nbsp;</p>
 <p>It was April 12, 1924, south of the border down Mehico way, when two brigands confronted Fedosis Alvarado on his ranch near Monte Escobeda, stole $2400 and shot him dead when he tried to defend his property. Arrested for the crime, Santiago Figueroa used the victim&#8217;s money to avoid prison time.</p>
-<p>Fedosis&#8217; daughter, Maria Alvarado Gomez, was not satified with the verdict, and when she heard her father&#8217;s killer had moved to the beach at Los Angeles, she followed, taking a home at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1508+Pennsylvania+Avenue,+Santa+Monica,+ca&#038;sll=37.0625,-95.677068&#038;sspn=63.215425,105.117188&#038;ie=UTF8&#038;ll=34.032034,-118.469524&#038;spn=0.016467,0.025663&#038;z=15&#038;iwloc=cent&#038;om=1" target="_blank">1508 Pennsylvania Avenue, Santa Monica</a>. She haunted the public spaces along the shore, not in a spirit of seaside pleasure seeking, but in single-minded pursuit of the man whose face was burned into her brain.</p>
+<p>Fedosis&#8217; daughter, Maria Alvarado Gomez, was not satified with the verdict, and when she heard her father&#8217;s killer had moved to the beach at Los Angeles, she followed, taking a home at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1508+Pennsylvania+Avenue,+Santa+Monica,+ca&#038;sll=37.0625,-95.677068&#038;sspn=63.215425,105.117188&#038;ie=UTF8&#038;ll=34.032034,-118.469524&#038;spn=0.016467,0.025663&#038;z=15&#038;iwloc=cent&#038;om=1" target="_blank">1508 Pennsylvania Avenue, Santa Monica</a>. She haunted the public spaces along the shore, not in a spirit of seaside pleasure seeking, but in single-minded pursuit of the man whose face was burned into her brain.</p>
 <p>Last night, as crowds packed the streets of Venice for Fourth of July revelry, she finally saw him and cried out to her friends, &quot;There he is, the murderer of my father, hold him, don&#8217;t let him get away!&quot;&nbsp; But in Spanish, because, you know, everyone involved spoke Spanish.</p>
 <p>Traffic Officer Carter happened on the scene and took the players into custody, calling in auto camp manager Howard Wesson to translate. Once the story was explained, an envoy was dispatched to the Mexican Consulate, to determine if Figueroa was wanted in his homeland.</p>
 <p>Obviously not, since there was no follow up story on the incident. Poor Maria. Should there be a next time, may we suggest she be prepared to exact her own swift justice on her prey, and not make the mistake of trusting law or nations to supply a daughter&#8217;s long overdue justice.</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -63,8 +63,8 @@
 <p>January 23, 1927<br />Los Angeles</p>
 <p><img loading="lazy" width="478" height="114" border="0" src="//farm3.static.flickr.com/2336/2132396982_fbd99385f0_o.jpg" alt="hangingaround" title="hangingaround" /></p>
 <p>Following up yesterday&rsquo;s story about whether one Ray McCoy was lynched for looking too much like Edward Hickman&hellip;</p>
-<p>The verdict of the Coroner&rsquo;s jury?&nbsp; Jail officials and other prisoners, all vindicated.&nbsp; Nevertheless, it seems that Ralph &ldquo;Ray McCoy&rdquo; Fuller raised the ire of Angelenos in the grip of Hickman fever, whose Hickmanmania (Hickmania?&nbsp; Hickmentia?) led an angry mob to chase down and beat Fuller something fierce, believing the twenty year-old to be Hickman, after Fuller robbed a store at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=242+S+Main+St,+Los+Angeles,+CA+90012&#038;sll=34.050606,-118.245104&#038;sspn=0.002018,0.0036&#038;ie=UTF8&#038;ll=34.051397,-118.245099&#038;spn=0.008071,0.014398&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="meyers">242 South Main</a> and was chased two blocks on foot.</p>
-<p>Fellow prisoner Fred Meadows told the Times that once in the hoosegow, the sullen and reserved Fuller was regarded as just another popped burglar.&nbsp; Meadows related how he and the boys started playing &ldquo;Sundown&rdquo; in an outer tank and when he returned, Fuller had hanged himself with Meadows&rsquo; scarf.&nbsp; (Must be nice to have scarves.&nbsp; And <a href="http://www.latimes.com/news/local/los_angeles_metro/la-me-jail27nov27,1,3016141.story?track=rss" target="_blank" title="andfreedom">pianos</a>.)</p>
+<p>The verdict of the Coroner&rsquo;s jury?&nbsp; Jail officials and other prisoners, all vindicated.&nbsp; Nevertheless, it seems that Ralph &ldquo;Ray McCoy&rdquo; Fuller raised the ire of Angelenos in the grip of Hickman fever, whose Hickmanmania (Hickmania?&nbsp; Hickmentia?) led an angry mob to chase down and beat Fuller something fierce, believing the twenty year-old to be Hickman, after Fuller robbed a store at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=242+S+Main+St,+Los+Angeles,+CA+90012&#038;sll=34.050606,-118.245104&#038;sspn=0.002018,0.0036&#038;ie=UTF8&#038;ll=34.051397,-118.245099&#038;spn=0.008071,0.014398&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="meyers">242 South Main</a> and was chased two blocks on foot.</p>
+<p>Fellow prisoner Fred Meadows told the Times that once in the hoosegow, the sullen and reserved Fuller was regarded as just another popped burglar.&nbsp; Meadows related how he and the boys started playing &ldquo;Sundown&rdquo; in an outer tank and when he returned, Fuller had hanged himself with Meadows&rsquo; scarf.&nbsp; (Must be nice to have scarves.&nbsp; And <a href="https://www.latimes.com/news/local/los_angeles_metro/la-me-jail27nov27,1,3016141.story?track=rss" target="_blank" title="andfreedom">pianos</a>.)</p>
 <p>In other lynching news, any and all information regarding Hickman&rsquo;s departure and route from Pendleton (where he was exhibited in a cage like a circus animal) to Los Angeles County Jail is being kept under strict secrecy. &nbsp;</p>
 <p><img loading="lazy" width="496" height="240" border="0" src="//farm3.static.flickr.com/2237/2132396970_580ef339f0_o.gif" alt="damnyoufriedrich" title="damnyoufriedrich" />&nbsp;</p>
 </div>

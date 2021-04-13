@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -53,9 +53,9 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/10/a-last-letter/">A Last Letter</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>April 9, 1927<br />Los Angeles<br /><img loading="lazy" width="242" height="70" border="0" align="middle" src="//farm1.static.flickr.com/181/454185939_dbaa583d66_o.gif" alt="motherwrites" title="motherwrites" /><br />Three years ago there occurred one of the most gruesome crimes in Los Angeles history&mdash;the slaying of May and Nina Martin, twelve and eight.&nbsp; They disappeared from their home at <a href="http://maps.live.com/default.aspx?v=2&#038;cp=pp46jf543fsv&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=6986053&#038;sp=Point.pp46hx543fs1_2854%20S%20Mansfield%20Ave%2C%20Los%20Angeles%2C%20CA%2090016-3906%2C%20United%20States___&#038;encType=1" target="_blank" title="buushouse">2854 South Mansfield</a> on the evening of August 23, 1924.&nbsp; On February 5, 1925, their battered and strangled bodies found were found by rancher Leo Saulque while he planted oats on the <a href="http://maps.live.com/default.aspx?v=2&#038;cp=33.996501~-118.3529&#038;style=r&#038;lvl=14&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=7001514&#038;sp=Point.pnzg7g543hz7_S%20Verdun%20Ave%20%26%20Northridge%20Dr%2C%20Los%20Angeles%2C%20CA%2090043%2C%20United%20States___&#038;encType=1" target="_blank" title="baldwin">Anita Baldwin estate</a>.&nbsp; &ldquo;I have prayed to God that He might enable me to find my children,&rdquo; said Mrs. Paul Buus, the girls&rsquo; mother.&nbsp; &quot;My prayers have been answered&mdash;now I&rsquo;ll pray that the brute who lured them away and then killed them will be caught&mdash;and God will answer my prayers.&rdquo;</p>
+<div>April 9, 1927<br />Los Angeles<br /><img loading="lazy" width="242" height="70" border="0" align="middle" src="//farm1.static.flickr.com/181/454185939_dbaa583d66_o.gif" alt="motherwrites" title="motherwrites" /><br />Three years ago there occurred one of the most gruesome crimes in Los Angeles history&mdash;the slaying of May and Nina Martin, twelve and eight.&nbsp; They disappeared from their home at <a href="https://maps.live.com/default.aspx?v=2&#038;cp=pp46jf543fsv&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=6986053&#038;sp=Point.pp46hx543fs1_2854%20S%20Mansfield%20Ave%2C%20Los%20Angeles%2C%20CA%2090016-3906%2C%20United%20States___&#038;encType=1" target="_blank" title="buushouse">2854 South Mansfield</a> on the evening of August 23, 1924.&nbsp; On February 5, 1925, their battered and strangled bodies found were found by rancher Leo Saulque while he planted oats on the <a href="https://maps.live.com/default.aspx?v=2&#038;cp=33.996501~-118.3529&#038;style=r&#038;lvl=14&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=7001514&#038;sp=Point.pnzg7g543hz7_S%20Verdun%20Ave%20%26%20Northridge%20Dr%2C%20Los%20Angeles%2C%20CA%2090043%2C%20United%20States___&#038;encType=1" target="_blank" title="baldwin">Anita Baldwin estate</a>.&nbsp; &ldquo;I have prayed to God that He might enable me to find my children,&rdquo; said Mrs. Paul Buus, the girls&rsquo; mother.&nbsp; &quot;My prayers have been answered&mdash;now I&rsquo;ll pray that the brute who lured them away and then killed them will be caught&mdash;and God will answer my prayers.&rdquo;</p>
 <p>One Scott Stone, a night watchman in the Glen Airy district where Mrs. Buus and the girls lived, was meanwhile arrested on a charge of contributing to the delinquency of a minor.&nbsp; Circumstantial evidence linked him to the Martin slayings and on October 1, 1925 he was indicted for murder.&nbsp; It seemed that Mrs. Buus&rsquo; prayers had been answered.</p>
-<p>But Mrs. Buus had trouble&mdash;as did others, including the DA&mdash;with the concept that Stone would go to the gallows after having been convicted without evidence beyond reasonable doubt.&nbsp; She wrote Governor Young, pleading for Stone, and asking the executive to relieve her of the misery that would follow the execution.&nbsp; And so Stone, on the very morning of his hanging, March 10, 1927, had his sentence commuted to life imprisonment.&nbsp; (<a href="http://en.wikipedia.org/wiki/Jack_Hoxie" target="_blank" title="hoxie">Jack Hoxie</a> stated that he was &ldquo;mighty, mighty glad&rdquo; for the decision to spare his stepson&rsquo;s life.)</p>
+<p>But Mrs. Buus had trouble&mdash;as did others, including the DA&mdash;with the concept that Stone would go to the gallows after having been convicted without evidence beyond reasonable doubt.&nbsp; She wrote Governor Young, pleading for Stone, and asking the executive to relieve her of the misery that would follow the execution.&nbsp; And so Stone, on the very morning of his hanging, March 10, 1927, had his sentence commuted to life imprisonment.&nbsp; (<a href="https://en.wikipedia.org/wiki/Jack_Hoxie" target="_blank" title="hoxie">Jack Hoxie</a> stated that he was &ldquo;mighty, mighty glad&rdquo; for the decision to spare his stepson&rsquo;s life.)</p>
 <p>Today Mrs. Buus wrote a belated but nice letter to Stone, saying she was happy his sentence had been so commuted.&nbsp; Where her heart went from there we do not know.</p>
 <p></div>
 </div>

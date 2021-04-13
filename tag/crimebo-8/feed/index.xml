@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -54,7 +54,7 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Greetings, citizens of the future! Click <a href="http://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" target="_blank">here</a> to enjoy the debut bi-weekly podcast from your pals from the 1947project. </p>
+<p>Greetings, citizens of the future! Click <a href="https://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" target="_blank">here</a> to enjoy the debut bi-weekly podcast from your pals from the 1947project. </p>
 <p>Featured is a lively and sometimes tasteless recap of recent crimes covered on the blog (including the Bath Township school disaster), recommended events for the next two weeks for listeners in 1927 or 2007, A Moment with Crimebo the Crime Clown, Nathan Marsak&#8217;s saucy faux adverts and <strong>a sneak announcement of a top secret Crime Bus tour not otherwise available to the public.</strong> </p>
 <p>On the mic: Kim Cooper, Crimebo the Clown (Michael Perrick), Nathan Marsak, Mary McCoy and Joan Renner. We certainly hope you find this 40 minute podcast to your liking, and thank you for your kind attention.  </p>
 </div>
@@ -65,7 +65,7 @@
 					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
-		<enclosure url="http://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="https://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -89,11 +89,11 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/518791356/"><img loading="lazy" width="500" height="332" border="0" alt="Nathan Marsak and Crimebo the Clown" src="//farm1.static.flickr.com/195/518791356_c91d151a9d.jpg" /></a></p>
-<p>above: Nathan Marsak and Crimebo the Clown prepare for the debut performance of The Jack Parsons Story as presented by the Crimebo Players. Weird Sex! Rocketships! Space Creatures! Warlocks! Sex Slaves! Is this the Pasadena the Chamber of Commerce wants us talking about? Hmmm&#8230;. maybe not. But we sure <a target="_blank" href="http://www.flickr.com/photos/richardschave/sets/72157600279349184/">had fun</a>. &nbsp;&nbsp;  </p>
-<p><a href="http://www.flickr.com/photos/richardschave/518793604/" title="Photo Sharing"><img loading="lazy" width="500" height="332" border="0" src="//farm1.static.flickr.com/227/518793604_46eb996603.jpg" alt="The Crimebo Players present The Jack Parsons Story: The Goddess Babalon" /></a></p>
-<p>Below, a visit to <a href="http://www.mysteryfiction.com/" target="_blank">Mitchell Books</a>, where John Mitchell held us rapt with tales of real and fictional murder.</p>
-<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/518825725/"><img loading="lazy" width="500" height="332" border="0" alt="John Mitchell fascinated Crimebo with his OJ theory in Mitchell Books" src="//farm1.static.flickr.com/205/518825725_f7099283e8.jpg" /></a></p>
+<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/518791356/"><img loading="lazy" width="500" height="332" border="0" alt="Nathan Marsak and Crimebo the Clown" src="//farm1.static.flickr.com/195/518791356_c91d151a9d.jpg" /></a></p>
+<p>above: Nathan Marsak and Crimebo the Clown prepare for the debut performance of The Jack Parsons Story as presented by the Crimebo Players. Weird Sex! Rocketships! Space Creatures! Warlocks! Sex Slaves! Is this the Pasadena the Chamber of Commerce wants us talking about? Hmmm&#8230;. maybe not. But we sure <a target="_blank" href="https://www.flickr.com/photos/richardschave/sets/72157600279349184/">had fun</a>. &nbsp;&nbsp;  </p>
+<p><a href="https://www.flickr.com/photos/richardschave/518793604/" title="Photo Sharing"><img loading="lazy" width="500" height="332" border="0" src="//farm1.static.flickr.com/227/518793604_46eb996603.jpg" alt="The Crimebo Players present The Jack Parsons Story: The Goddess Babalon" /></a></p>
+<p>Below, a visit to <a href="https://www.mysteryfiction.com/" target="_blank">Mitchell Books</a>, where John Mitchell held us rapt with tales of real and fictional murder.</p>
+<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/518825725/"><img loading="lazy" width="500" height="332" border="0" alt="John Mitchell fascinated Crimebo with his OJ theory in Mitchell Books" src="//farm1.static.flickr.com/205/518825725_f7099283e8.jpg" /></a></p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/28/crimebo-and-pals-on-saturdays-pasadena-confidential-tour/">Crimebo and Pals on Saturday&#8217;s Pasadena Confidential tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -125,7 +125,7 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Visit G4 to see the <a href="http://www.g4tv.com/thefeed/blog/TheFeed/post/659589/EXCLUSIVE_Blair_Butlers_Halloween_Horror.html" target="_blank">video evidence </a>from our recent Halloween Horrors tour. Beware: Crimebo inside!    </p>
+<p>Visit G4 to see the <a href="https://www.g4tv.com/thefeed/blog/TheFeed/post/659589/EXCLUSIVE_Blair_Butlers_Halloween_Horror.html" target="_blank">video evidence </a>from our recent Halloween Horrors tour. Beware: Crimebo inside!    </p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/g4s-blair-butler-dons-dead-hooker-finery-to-ride-the-crime-bus/">G4&#8217;s Blair Butler dons dead hooker finery to ride the Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -168,7 +168,7 @@
 <p>So why is there a clown breathing down my neck?</p>
 <p>Crimebo the crime clown (aka Michael Perrick) bares his teeth and purrs in a gravelly voice as he walks down the aisle with a cauldron full of cheap candy, some shaped like eyeballs. &quot;Something sticky?&quot; he offers.</p>
 <p>He pops a balloon animal and quips, &quot;These things just keep committing suicide.&quot;</p>
-<p align="right">Kindly <a href="http://www.courttv.com/news/special/crime_tour/crimetour_102606_ctv.html" target="_blank">click</a> to read on.</p>
+<p align="right">Kindly <a href="https://www.courttv.com/news/special/crime_tour/crimetour_102606_ctv.html" target="_blank">click</a> to read on.</p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/">CourtTV rides the Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -195,12 +195,12 @@
 		<category><![CDATA[wilson show]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Crimebo the Crime Clown will be talking about his unique brand of birthday fun on the Wilson Show on Indianapolis radio WIBC today at 3:10 Pacific Time. You can hear Crimebo on the web at http://www.wibc.com/ (click the &#34;listen live&#34; button in the upper right). Go little Crime Clown, go!</p>
+					<description><![CDATA[<p>Crimebo the Crime Clown will be talking about his unique brand of birthday fun on the Wilson Show on Indianapolis radio WIBC today at 3:10 Pacific Time. You can hear Crimebo on the web at https://www.wibc.com/ (click the &#34;listen live&#34; button in the upper right). Go little Crime Clown, go!</p>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/crimebo-on-wibc-radio-today/">Crimebo on WIBC radio today</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Crimebo the Crime Clown will be talking about his unique brand of birthday fun on the Wilson Show on Indianapolis radio WIBC today at 3:10 Pacific Time. You can hear Crimebo on the web at <a href="http://www.wibc.com/" target="_blank">http://www.wibc.com/</a> (click the &quot;listen live&quot; button in the upper right). Go little Crime Clown, go! </p>
+<p>Crimebo the Crime Clown will be talking about his unique brand of birthday fun on the Wilson Show on Indianapolis radio WIBC today at 3:10 Pacific Time. You can hear Crimebo on the web at <a href="https://www.wibc.com/" target="_blank">https://www.wibc.com/</a> (click the &quot;listen live&quot; button in the upper right). Go little Crime Clown, go! </p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/crimebo-on-wibc-radio-today/">Crimebo on WIBC radio today</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -236,12 +236,12 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; </p>
 <p> Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened on the day she was born.</p>
-<p> <a href="http://www.flickr.com/photos/richardschave/209657426/" title="Photo Sharing"><img loading="lazy" width="480" height="500" border="0" src="//static.flickr.com/93/209657426_176d8e2e17.jpg" alt="Crimebo the Crime Clown reads to Cathy" /></a></p>
+<p> <a href="https://www.flickr.com/photos/richardschave/209657426/" title="Photo Sharing"><img loading="lazy" width="480" height="500" border="0" src="//static.flickr.com/93/209657426_176d8e2e17.jpg" alt="Crimebo the Crime Clown reads to Cathy" /></a></p>
 <p>Here, Crimebo and hosts Kim and Nathan take a mid-tour breather at Connal&#8217;s on Washington Boulevard, conveniently loated between the sites of a hammer murder and a bathtub suicide. Plus their malts is yummy!</p>
-<p> <a href="http://www.flickr.com/photos/richardschave/209657428/" title="Photo Sharing"><img loading="lazy" width="500" height="436" border="0" src="//static.flickr.com/71/209657428_2b1ce189c9.jpg" alt="1947project Crime Bus hosts Kim and Nathan with Crimebo the Crime Clown" /></a> </p>
+<p> <a href="https://www.flickr.com/photos/richardschave/209657428/" title="Photo Sharing"><img loading="lazy" width="500" height="436" border="0" src="//static.flickr.com/71/209657428_2b1ce189c9.jpg" alt="1947project Crime Bus hosts Kim and Nathan with Crimebo the Crime Clown" /></a> </p>
 <p> And another view of that scary clown Crimebo&#8230; don&#8217;t you want him at <em>your</em> birthday party?!</p>
 <p>&nbsp;</p>
-<p> <a href="http://www.flickr.com/photos/richardschave/209657425/" title="Photo Sharing"><img loading="lazy" width="308" height="500" border="0" src="//static.flickr.com/62/209657425_1f5a4b7144.jpg" alt="Crimebo the Crime Clown reads from his Big Book of Crime" /></a></p>
+<p> <a href="https://www.flickr.com/photos/richardschave/209657425/" title="Photo Sharing"><img loading="lazy" width="308" height="500" border="0" src="//static.flickr.com/62/209657425_1f5a4b7144.jpg" alt="Crimebo the Crime Clown reads from his Big Book of Crime" /></a></p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -269,8 +269,8 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Listen to the <a href="http://ia310139.us.archive.org/3/items/michaelperrickcrimebo/Crimebotheclown.mp3">podcast</a> of Crimebo the Clown, Courtesy of Spin Talk with Jack &#38; Ali on <a href="http://www.spin1038.com/">Spin 1038</a> in Dublin, Ireland.</p>
-<p>Subscribe to the <a href="http://feeds.feedburner.com/1947project">channel</a>, and stay in tune.</p>
+<p>Listen to the <a href="https://ia310139.us.archive.org/3/items/michaelperrickcrimebo/Crimebotheclown.mp3">podcast</a> of Crimebo the Clown, Courtesy of Spin Talk with Jack &#38; Ali on <a href="https://www.spin1038.com/">Spin 1038</a> in Dublin, Ireland.</p>
+<p>Subscribe to the <a href="https://feeds.feedburner.com/1947project">channel</a>, and stay in tune.</p>
 </p></div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/02/crimebo-on-jack-ali-show/">Crimebo on Jack &#038; Ali Show</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -299,8 +299,8 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/203398775/"><img loading="lazy" width="500" height="338" border="0" alt="Kim, Nathan and Crimebo" src="//static.flickr.com/60/203398775_161402fb0a.jpg" /></a> Yes, kids, that&#8217;s Crimebo the Crime Clown looming horribly behind 1947project Crime Bus Tour hosts Kim and Nathan (and Nathan&#8217;s collection of embalming fluid bottles), in an outtake from today&#8217;s photo shoot for the cover of <em>Pasadena Weekly! </em></p>
-<p> You can hear Crimebo tonight on Peter Anthony Holder&#8217;s show at 10:35pm Pacific Time, over the web from the website of <a href="http://www.cjad.com/" target="_blank">CJAD 800 AM</a>, Montreal, Canada. And next Friday, he&#8217;s the guest of the Molson &amp; Lee Show on WMAY, Springfield, IL, live at 11am Pacific Time. <a href="http://www.wmay.com/" target="_blank">Click</a> and enjoy.&nbsp;</p>
+<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/203398775/"><img loading="lazy" width="500" height="338" border="0" alt="Kim, Nathan and Crimebo" src="//static.flickr.com/60/203398775_161402fb0a.jpg" /></a> Yes, kids, that&#8217;s Crimebo the Crime Clown looming horribly behind 1947project Crime Bus Tour hosts Kim and Nathan (and Nathan&#8217;s collection of embalming fluid bottles), in an outtake from today&#8217;s photo shoot for the cover of <em>Pasadena Weekly! </em></p>
+<p> You can hear Crimebo tonight on Peter Anthony Holder&#8217;s show at 10:35pm Pacific Time, over the web from the website of <a href="https://www.cjad.com/" target="_blank">CJAD 800 AM</a>, Montreal, Canada. And next Friday, he&#8217;s the guest of the Molson &amp; Lee Show on WMAY, Springfield, IL, live at 11am Pacific Time. <a href="https://www.wmay.com/" target="_blank">Click</a> and enjoy.&nbsp;</p>
 <p>Photo above by Richard Schave. Stay tuned for more grisly images soon.&nbsp;</p>
 </div>
 </div>

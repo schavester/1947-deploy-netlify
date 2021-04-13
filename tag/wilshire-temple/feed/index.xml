@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -47,11 +47,11 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0224.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 364px; height: 278px;" src="//www.lmharnisch.com/images/1907_0224.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0224.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 364px; height: 278px;" src="//www.lmharnisch.com/images/1907_0224.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">Feb. 24, 1907<br />
 Eagle Rock</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">Architect Samuel Tilden Norton has designed a bank building for <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=colorado+and+townsend,+eagle+rock,+ca&#038;sll=37.0625,-95.677068&amp;sspn=150.49252,84.375&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.139199,-118.201505&amp;spn=0.000575,0.002103&#038;t=h&amp;om=0">Townsend Avenue and Colorado Boulevard</a> in Eagle Rock, The Times says. </p>
+<p class="MsoNormal">Architect Samuel Tilden Norton has designed a bank building for <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=colorado+and+townsend,+eagle+rock,+ca&#038;sll=37.0625,-95.677068&amp;sspn=150.49252,84.375&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.139199,-118.201505&amp;spn=0.000575,0.002103&#038;t=h&amp;om=0">Townsend Avenue and Colorado Boulevard</a> in Eagle Rock, The Times says. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Just to make research interesting, The Times misspelled his name as S. Tilton Norton. According to his 1959 obituary, his mother was the first Jewish child born in Los Angeles. After studying architecture in Los Angeles and New York, he designed the Wilshire Fox Building and Sinai Temple. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -59,7 +59,7 @@ Eagle Rock</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Norton was lifelong friends with Rabbi Edgar F. Magnin, who presided over the funeral. Norton was a member of many professional, religious and social organizations, including Hillcrest Country Club, Nathan Strauss Israel Society, Jewish Federation, the Friends of the Hebrew University and the Zionist Organization of America. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]-->
@@ -71,7 +71,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>

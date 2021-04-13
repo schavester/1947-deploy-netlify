@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -58,8 +58,8 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Tim Coyne of <a href="http://hollywoodpodcast.com/" target="_blank">The Hollywood Podcast</a> rode along on <a href="http://esotouric.com/blackdahlia" target="_blank">The Real Black Dahlia</a> crime bus tour and prepared a cool little piece for BBC 5&#8217;s <a href="http://www.bbc.co.uk/blogs/podsandblogs/?focuswin" target="_blank">Pods and Blogs</a> program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t know the case. </p>
-<p>Here&#8217;s a <a href="http://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" target="_blank">link</a> to the MP3 of Tim&#8217;s interview with Nathan and me.&nbsp;</p>
+<p>Tim Coyne of <a href="https://hollywoodpodcast.com/" target="_blank">The Hollywood Podcast</a> rode along on <a href="https://esotouric.com/blackdahlia" target="_blank">The Real Black Dahlia</a> crime bus tour and prepared a cool little piece for BBC 5&#8217;s <a href="https://www.bbc.co.uk/blogs/podsandblogs/?focuswin" target="_blank">Pods and Blogs</a> program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t know the case. </p>
+<p>Here&#8217;s a <a href="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" target="_blank">link</a> to the MP3 of Tim&#8217;s interview with Nathan and me.&nbsp;</p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -68,7 +68,7 @@
 					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="http://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 	</channel>

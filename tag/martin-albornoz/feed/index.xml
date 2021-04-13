@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -52,7 +52,7 @@
 <p><strong>(See update below)</strong>&nbsp;</p>
 <p>Gentle reader,</p>
 <p>How pleased I was, during Sunset Junction week in late August, when the L.A. Alternative published an issue of their free weekly featuring my three-page pull-out crime map detailing the historic oddities and horrors of the Sunset Junction neighborhood. I heard from folks who attended the street fair that it was a big hit, with people walking around checking addresses and shuddering. (The Sunset Junction story can now only be seen <a href="https://pensive-torvalds-020d34.netlify.app/?p=1656" target="_self">right here</a> at 1947project.) </p>
-<p>A month after my story came out, publisher Martin Albornoz <a href="http://www.laobserved.com/archive/2006/09/la_alternative_rip_update.php" target="_blank">announced</a> the paper was folding, but that he hoped to continue publishing online. Although at this point I was wondering where my payment was, I still dashed off a friendly email telling Martin that my husband Richard and I would be happy to meet with him and give him some ideas about how to  pull this off, as we believed he and his writers had a lot to offer the community. He never replied.</p>
+<p>A month after my story came out, publisher Martin Albornoz <a href="https://www.laobserved.com/archive/2006/09/la_alternative_rip_update.php" target="_blank">announced</a> the paper was folding, but that he hoped to continue publishing online. Although at this point I was wondering where my payment was, I still dashed off a friendly email telling Martin that my husband Richard and I would be happy to meet with him and give him some ideas about how to  pull this off, as we believed he and his writers had a lot to offer the community. He never replied.</p>
 <p>Nor did Martin reply to my repeated emails, as the weeks ticked away with no sign of the $250 payment for the feature. I sent a certified letter demanding the money, which went uncollected. So I finally phoned and left a message, which resulted in the following email on November 27:</p>
 <div>
 <div><em>Hello Kim, </em></div>

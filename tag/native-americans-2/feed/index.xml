@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -58,7 +58,7 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>January 10, 1927<br />Unincorporated Los Angeles</p>
 <p>Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the diggers advised to avoid the spot in the future.</p>
-<p>And in another Sheriff&#8217;s case with a fresher body, the peculiar suicide by gun of Charles Norton, shopkeeper at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1760+East+Slauson,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=33.990484,-118.307905&#038;spn=0.007419,0.014205&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1760 East Slauson</a>, was explained away rather ingeniously. Why was the man found dead in his bed in the store&#8217;s back room, when his brother said he had no reason to do away with himself? Deputy Sheriff Hackett believes the cause was a nightmare, triggered by the story &quot;Shooting Mad&quot; in the Wild West-themed magazine lying beside the dead man. Hackett suggests Norton dozed off while reading, dreamed a gunman was in the room, reached under the pillow for his own weapon and inadvertently shot himself. Stranger things have happened in Los Angeles.</div>
+<p>And in another Sheriff&#8217;s case with a fresher body, the peculiar suicide by gun of Charles Norton, shopkeeper at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1760+East+Slauson,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=33.990484,-118.307905&#038;spn=0.007419,0.014205&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1760 East Slauson</a>, was explained away rather ingeniously. Why was the man found dead in his bed in the store&#8217;s back room, when his brother said he had no reason to do away with himself? Deputy Sheriff Hackett believes the cause was a nightmare, triggered by the story &quot;Shooting Mad&quot; in the Wild West-themed magazine lying beside the dead man. Hackett suggests Norton dozed off while reading, dreamed a gunman was in the room, reached under the pillow for his own weapon and inadvertently shot himself. Stranger things have happened in Los Angeles.</div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></content:encoded>
@@ -86,7 +86,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/10/and-show-them-how-to-run-casinos/">And Show Them How to Run Casinos</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0710.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 227px; height: 136px;" src="//www.lmharnisch.com/images/1907_0710.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 10, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0710.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 227px; height: 136px;" src="//www.lmharnisch.com/images/1907_0710.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 10, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Among the features of an educational conference being held in Los Angeles is a group of Native American students brought by Francis E. Leupp, the commissioner of Indian Affairs.<br />

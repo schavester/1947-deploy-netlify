@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -55,8 +55,8 @@
 <p>Then there&#8217;s our own Crimebo the Crime Clown, and he is in a funk. There are so many things he hates about Halloween, can he count the ways? You bet!</p>
 <p>Tune in to hear about how Peter Pan tried to kick Crimebo&#8217;s ass at the Chinese Theater, how the apocalypse is coming with a rain of cheese and Nathan&#8217;s love letter to crude oil. It&#8217;s all here on the 1947project Podcast, featuring Crimebo, Kim Cooper, Nathan Marsak, Mary McCoy and Joan Renner.</p>
 <p>So give it a listen, won&#8217;t you?</p>
-<p><a href="http://ia360607.us.archive.org/1/items/KimCooperpodcast_91947project_0/podcast9.mp3" target="_blank">Here</a> is the Ourmedia link, where you can stream or download.</p>
-<p>The podcast is also <a href="http://www.moli.com/esotouric" target="_blank">available</a> on Moli, and on <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">itunes</a>.</p>
+<p><a href="https://ia360607.us.archive.org/1/items/KimCooperpodcast_91947project_0/podcast9.mp3" target="_blank">Here</a> is the Ourmedia link, where you can stream or download.</p>
+<p>The podcast is also <a href="https://www.moli.com/esotouric" target="_blank">available</a> on Moli, and on <a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">itunes</a>.</p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/26/1947project-podcast-9-halloween-episode-october-26-2007/">1947project Podcast #9: Halloween Episode, October 26, 2007</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -65,7 +65,7 @@
 					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/10/26/1947project-podcast-9-halloween-episode-october-26-2007/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="http://ia360607.us.archive.org/1/items/KimCooperpodcast_91947project_0/podcast9.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="https://ia360607.us.archive.org/1/items/KimCooperpodcast_91947project_0/podcast9.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -92,8 +92,8 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>April 20, 1927<br />Los Angeles </p>
-<p>When evangelist Aimee Semple McPherson, the anointed queen of Echo Park&#8217;s Angelus Temple, went to Ocean Park Beach last May 18 and faked her own <a href="http://en.wikipedia.org/wiki/Aimee_Semple_McPherson#Reported_abduction" target="_blank">disappearance</a> so she could run off with a boyfriend, even she could not have anticipated the hysteria that followed. For while her theological appearances were occasion for outpourings of public adoration, in vanishing, she moved into a new realm of fame. </p>
-<p>Congregants promptly offered a $25,000 reward for the return of their favorite alive, though she was widely presumed drowned. Word of the reward passed like quicksilver among the community of professional divers, perhaps without the &quot;alive&quot; clause appended. One of these, Edgar Harrison, was already in town from Catalina to testify in an insanity case, and stopped off on his way home to take a dive off the end of amusement laden <a href="http://www.westland.net/venicehistory/mapsdocs/oppier-map.htm" target="_blank">Lick Pier</a> on May 25, where no sign of the missing woman was found. The water pressure exacerbated an attack of appendicitis, and Harrison died in agony. By the time Aimee stumbled out of the desert crying kidnap (a lie that was soon exposed), Edgar Harrison was in his grave.</p>
+<p>When evangelist Aimee Semple McPherson, the anointed queen of Echo Park&#8217;s Angelus Temple, went to Ocean Park Beach last May 18 and faked her own <a href="https://en.wikipedia.org/wiki/Aimee_Semple_McPherson#Reported_abduction" target="_blank">disappearance</a> so she could run off with a boyfriend, even she could not have anticipated the hysteria that followed. For while her theological appearances were occasion for outpourings of public adoration, in vanishing, she moved into a new realm of fame. </p>
+<p>Congregants promptly offered a $25,000 reward for the return of their favorite alive, though she was widely presumed drowned. Word of the reward passed like quicksilver among the community of professional divers, perhaps without the &quot;alive&quot; clause appended. One of these, Edgar Harrison, was already in town from Catalina to testify in an insanity case, and stopped off on his way home to take a dive off the end of amusement laden <a href="https://www.westland.net/venicehistory/mapsdocs/oppier-map.htm" target="_blank">Lick Pier</a> on May 25, where no sign of the missing woman was found. The water pressure exacerbated an attack of appendicitis, and Harrison died in agony. By the time Aimee stumbled out of the desert crying kidnap (a lie that was soon exposed), Edgar Harrison was in his grave.</p>
 <p>Today, his widow Edna sat in court seeking $500 in death benefits that had been denied by the State Industrial Accident Commission, which claimed that Harrison was acting as a private citizen when he went diving for Aimee&#8217;s reward. Edna countered that her husband was operating under orders when he received his injuries, and further that she had been receiving threatening letters, ostensibly from the City of Los Angeles, suggesting that she seek payment from McPherson and Angelus Temple, and leave the city out of it.</p>
 <p>McPherson&#8217;s mother Minnie Kennedy took the stand, and said she had known nothing of Edgar Harrison&#8217;s dive until she was invited to attend his funeral, and that she had sent flowers and $500 to the widow, the latter which was returned. Edna countered that indeed $500 had been proffered, by two &quot;impudent&quot; representatives of the Temple, but that when she suggested they talk with her lawyer they had snatched the money away, called her &quot;a bitter woman&quot; and stalked off.</p>
 <p>Edgar Harrison was survived by two young children, Edgar Jr. and Lois.</div>

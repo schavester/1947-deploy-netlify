@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -48,7 +48,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/01/our-local-authors/">Our Local Authors</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1201.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 276px;" src="//www.lmharnisch.com/images/1907_1201.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec.1, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1201.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 276px;" src="//www.lmharnisch.com/images/1907_1201.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec.1, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The Times runs a small blurb on writer Willis George Emerson, noting that the National Magazine has begun serializing a new story, </div>

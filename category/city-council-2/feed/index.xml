@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -49,7 +49,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/04/the-mayor-departs-from-his-prepared-remarks/">The Mayor Departs From His Prepared Remarks</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0104.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 204px;" src="//www.lmharnisch.com/images/1907_0104.jpg" alt="" border="0" /></a><span style="font-size:100%;">Jan. 4, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0104.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 204px;" src="//www.lmharnisch.com/images/1907_0104.jpg" alt="" border="0" /></a><span style="font-size:100%;">Jan. 4, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">During a dinner at Levy&#8217;s, Mayor-elect Arthur C. Harper stood before 200 members of the Municipal League and their friends who were eager to hear what he planned for his incoming administration.<br />
@@ -82,7 +82,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/27/a-blight-on-the-land/">A Blight on the Land</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0727.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 201px; height: 231px;" src="//www.lmharnisch.com/images/1907_0727.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/1907_0727.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/1907_0724.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 27, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0727.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 201px; height: 231px;" src="//www.lmharnisch.com/images/1907_0727.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/1907_0727.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/1907_0724.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 27, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">One of Mayor Harper</div>

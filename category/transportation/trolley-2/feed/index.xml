@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -94,7 +94,7 @@ Los Angeles</p>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="240" height="167" border="0" align="left" src="//static.flickr.com/53/117013401_4104489ab7_m.jpg" />March 22, 1907<br /> Pasadena&nbsp;</p>
-<p>A special correspondent follows up on the distressing report of a cow gravely injured when struck by an electric car near <a href="http://www.wemweb.com/railroad-stations/ref30.html" target="_blank">Lamanda Park</a>. Bossy was found happily chewing her cud with no sign of injury. As near as can be figured, the trolley ran over the cow&#8217;s tether, pulling it taut and forcing the reluctant acrobat to turn a dramatic aerial flip. She seems to have landed safely and forgotten all about her wild adventure, until the cries of do-gooders to the Humane Society roused an interest in her case. </p>
+<p>A special correspondent follows up on the distressing report of a cow gravely injured when struck by an electric car near <a href="https://www.wemweb.com/railroad-stations/ref30.html" target="_blank">Lamanda Park</a>. Bossy was found happily chewing her cud with no sign of injury. As near as can be figured, the trolley ran over the cow&#8217;s tether, pulling it taut and forcing the reluctant acrobat to turn a dramatic aerial flip. She seems to have landed safely and forgotten all about her wild adventure, until the cries of do-gooders to the Humane Society roused an interest in her case. </p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/">Trolley vs Ruminant</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>

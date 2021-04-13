@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -81,7 +81,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/">Knocking at the Bar</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1225.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 301px; height: 92px;" src="//www.lmharnisch.com/images/1907_1225.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 25, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1225.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 301px; height: 92px;" src="//www.lmharnisch.com/images/1907_1225.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 25, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">There are precisely two African American attorneys in Los Angeles and their appearance against one another in court provides a bit of amusement for The Times. We can dispense with the news article and its unfortunate use of dialect rather quickly: Paul M. Nash was suing G.T. Crawford, an African American waiter, for attorneys fees after representing his wife in a divorce. Crawford was represented by Charles S. Darden.<br />
@@ -115,7 +115,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1116C.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 232px; height: 303px;" src="//www.lmharnisch.com/images/1907_1116C.jpg" alt="" border="0" /></a>Nov. 16, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1116C.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 232px; height: 303px;" src="//www.lmharnisch.com/images/1907_1116C.jpg" alt="" border="0" /></a>Nov. 16, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook at the Juvenile Detention Home. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -49,13 +49,13 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/05/centennial-ramblings/">Centennial Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_smad_76"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_76" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_smad_76"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_76" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Feb. 5, 2007<br />
 Sierra Madre</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Because itÃ¢â‚¬â„¢s celebrating its centennial this month, I paid a visit to Sierra Madre and while savoring a cinnamon dolce latte at the local Starbucks, watched the sun set on a historic Union 76 ball. A perfect fusion of two projects.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/imges/1907_smad_church.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_church.jpg" alt="" border="0" /></a>  </p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/imges/1907_smad_church.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_church.jpg" alt="" border="0" /></a>  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">And hereÃ¢â‚¬â„¢s Sierra MadreÃ¢â‚¬â„¢s Old North Church, with the artillery piece in the park across the street. Note the problem I encountered with lighting. Architectural photography is surely not my forte. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -73,7 +73,7 @@ Sierra Madre</p>
 <p class="MsoNormal" style="margin-left: 0.5in; text-indent: -0.25in;"><!--[if !supportLists]--><span style="font-family:Symbol;">Ã‚Â·<span style="">        </span></span><!--[endif]-->The Assembly passes a bill by the late Assemblyman Burke making it illegal to spit on sidewalks or in trains, cars and other public conveyances.</p>
 <p class="MsoNormal" style="margin-left: 0.5in; text-indent: -0.25in;"><!--[if !supportLists]--><span style="font-family:Symbol;">Ã‚Â·<span style="">        </span></span><!--[endif]-->Sen. Sanford introduces a bill seeking to restrict corporate donations to political campaigns. IÃ¢â‚¬â„¢m so glad the Senate wrapped that up 100 years ago so it can get on to more pressing matters. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -84,7 +84,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>
@@ -114,7 +114,7 @@ var sc_security="77307670";
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0128B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0128B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128B.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan 28, 1907<br />
 Los Angeles</p>
@@ -131,7 +131,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“So much rot and twaddle has been written about him that I want to set down the simple facts as I know them and as he told them to me,Ã¢â‚¬Â Carr said in LeaÃ¢â‚¬â„¢s obituary.
 </p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0128A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0128A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128A.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">LeaÃ¢â‚¬â„¢s disabilities kept him from taking part in athletics, but he had a keen mind, Carr says, and took part in the debating societies at Los Angeles High School. Upon graduating in the Class of 1897, Lea went to Stanford with the intention of becoming a lawyer. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -158,7 +158,7 @@ Los Angeles</p>
 <p class="MsoNormal">Ã¢â‚¬Å“In the course of newspaper life one gets to know many men of many manners,Ã¢â‚¬Â Carr says, Ã¢â‚¬Å“but I have never known a more lovable, kindly, simple-hearted gentleman than Homer Lea.Ã¢â‚¬Â</p>
 <p>And as you can tell from the photo, he wasn&#8217;t Chinese.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -169,7 +169,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
@@ -202,7 +202,7 @@ var sc_security="77307670";
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/07/the-confession-of-morris-buck/">The Confession of Morris Buck</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="http://www.lmharnisch.com/images/1907_1207.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 231px; height: 252px;" src="//www.lmharnisch.com/images/1907_1207.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Dec. 7, 1907<br />
+<div><a href="https://www.lmharnisch.com/images/1907_1207.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 231px; height: 252px;" src="//www.lmharnisch.com/images/1907_1207.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Dec. 7, 1907<br />
 </span><span style="font-size: 100%;">Los Angeles<br />
 </span><span style="font-size: 100%;"><br />
 </span></div>
@@ -269,12 +269,12 @@ var sc_security="77307670";
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/03/the-mystery-of-felt-lake/">The Mystery of Felt Lake</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="http://www.lmharnisch.com/images/1907_1003.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1003.jpg" alt="" border="0" /></a><br />
+<div><a href="https://www.lmharnisch.com/images/1907_1003.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1003.jpg" alt="" border="0" /></a><br />
 <span style="font-size: 100%;">Oct. 3, 1907<br />
 </span><span style="font-size: 100%;">Stanford University<br />
 </span><span style="font-size: 100%;"><br />
 </span><span style="font-size: 100%;">Chester Silent was among the most promising young men of Delta Tau Delta at Stanford. The son of Judge Charles Silent and prominent in Los Angeles social circles, Silent, 22, had excelled in his studies and upon graduating with a law degree in the Class of 1907 had begun graduate work at Stanford and was expected to head to Harvard.<br />
-</span><a href="http://www.lmharnisch.com/images/1907_1003_silent.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 270px;" src="//www.lmharnisch.com/images/1907_1003_silent.jpg" alt="" border="0" /></a><br />
+</span><a href="https://www.lmharnisch.com/images/1907_1003_silent.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 270px;" src="//www.lmharnisch.com/images/1907_1003_silent.jpg" alt="" border="0" /></a><br />
 <span style="font-size: 100%;">His fraternity brothers described him as being fairly quiet and reserved</span></div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/03/the-mystery-of-felt-lake/">The Mystery of Felt Lake</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>

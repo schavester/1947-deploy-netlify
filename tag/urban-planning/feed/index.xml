@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -50,7 +50,7 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
 <p><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 27, 1907<br />
 Los Angeles</p>
@@ -58,7 +58,7 @@ Los Angeles</p>
 <p class="MsoNormal">One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it many problems to be solved. The Owens River and the system of storm drains underway are the solutions of two important ones,Ã¢â‚¬Â The Times says.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">A traffic jam in 1907</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -67,7 +67,7 @@ Los Angeles</p>
 <p class="MsoNormal">Now this is painful reading:</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p style="font-weight: bold;" class="MsoNormal">Ã¢â‚¬Å“This problem of transportation will grow in importance every year during which it is neglected. Swift as has been the extension and shifting of lines of the great electric railway system in and about Los Angeles, the city has grown with still greater rapidity.Ã¢â‚¬Â</p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">The elevated train proposed for Los Angeles and never built.</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -91,7 +91,7 @@ Los Angeles</p>
 <p>But it is gratifying when wondering what became of the 1947 plan to remember that the new Gold Line tracks run between lanes of the Foothill Freeway. Some things just take time.</p>
 <p>Bonus factoid: The Harbor Freeway was realigned to spare the Auto Club headquarters on South Figueroa and USCÃ¢â‚¬â„¢s Fraternity Row.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -101,7 +101,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -49,13 +49,13 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/05/centennial-ramblings/">Centennial Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_smad_76"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_76" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_smad_76"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_76" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Feb. 5, 2007<br />
 Sierra Madre</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Because itÃ¢â‚¬â„¢s celebrating its centennial this month, I paid a visit to Sierra Madre and while savoring a cinnamon dolce latte at the local Starbucks, watched the sun set on a historic Union 76 ball. A perfect fusion of two projects.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/imges/1907_smad_church.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_church.jpg" alt="" border="0" /></a>  </p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/imges/1907_smad_church.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_smad_church.jpg" alt="" border="0" /></a>  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">And hereÃ¢â‚¬â„¢s Sierra MadreÃ¢â‚¬â„¢s Old North Church, with the artillery piece in the park across the street. Note the problem I encountered with lighting. Architectural photography is surely not my forte. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -73,7 +73,7 @@ Sierra Madre</p>
 <p class="MsoNormal" style="margin-left: 0.5in; text-indent: -0.25in;"><!--[if !supportLists]--><span style="font-family:Symbol;">Ã‚Â·<span style="">        </span></span><!--[endif]-->The Assembly passes a bill by the late Assemblyman Burke making it illegal to spit on sidewalks or in trains, cars and other public conveyances.</p>
 <p class="MsoNormal" style="margin-left: 0.5in; text-indent: -0.25in;"><!--[if !supportLists]--><span style="font-family:Symbol;">Ã‚Â·<span style="">        </span></span><!--[endif]-->Sen. Sanford introduces a bill seeking to restrict corporate donations to political campaigns. IÃ¢â‚¬â„¢m so glad the Senate wrapped that up 100 years ago so it can get on to more pressing matters. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -84,7 +84,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>
@@ -114,7 +114,7 @@ var sc_security="77307670";
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/">On the Frontiers of Medicine</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0131.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 204px; height: 196px;" src="//www.lmharnisch.com/images/1907_0131.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0131.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 204px; height: 196px;" src="//www.lmharnisch.com/images/1907_0131.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]-->Jan. 31, 1907<br />
 Los Angeles  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -130,7 +130,7 @@ Los Angeles  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Read more about <a href="https://pensive-torvalds-020d34.netlify.app/arent-we-healthy">smallpox in Los Angeles</a> here.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -140,7 +140,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>

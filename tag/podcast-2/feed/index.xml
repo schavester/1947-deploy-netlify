@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -54,7 +54,7 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Greetings, citizens of the future! Click <a href="http://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" target="_blank">here</a> to enjoy the debut bi-weekly podcast from your pals from the 1947project. </p>
+<p>Greetings, citizens of the future! Click <a href="https://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" target="_blank">here</a> to enjoy the debut bi-weekly podcast from your pals from the 1947project. </p>
 <p>Featured is a lively and sometimes tasteless recap of recent crimes covered on the blog (including the Bath Township school disaster), recommended events for the next two weeks for listeners in 1927 or 2007, A Moment with Crimebo the Crime Clown, Nathan Marsak&#8217;s saucy faux adverts and <strong>a sneak announcement of a top secret Crime Bus tour not otherwise available to the public.</strong> </p>
 <p>On the mic: Kim Cooper, Crimebo the Clown (Michael Perrick), Nathan Marsak, Mary McCoy and Joan Renner. We certainly hope you find this 40 minute podcast to your liking, and thank you for your kind attention.  </p>
 </div>
@@ -65,7 +65,7 @@
 					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
-		<enclosure url="http://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="https://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -85,8 +85,8 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Listen to the <a href="http://ia310139.us.archive.org/3/items/michaelperrickcrimebo/Crimebotheclown.mp3">podcast</a> of Crimebo the Clown, Courtesy of Spin Talk with Jack &#38; Ali on <a href="http://www.spin1038.com/">Spin 1038</a> in Dublin, Ireland.</p>
-<p>Subscribe to the <a href="http://feeds.feedburner.com/1947project">channel</a>, and stay in tune.</p>
+<p>Listen to the <a href="https://ia310139.us.archive.org/3/items/michaelperrickcrimebo/Crimebotheclown.mp3">podcast</a> of Crimebo the Clown, Courtesy of Spin Talk with Jack &#38; Ali on <a href="https://www.spin1038.com/">Spin 1038</a> in Dublin, Ireland.</p>
+<p>Subscribe to the <a href="https://feeds.feedburner.com/1947project">channel</a>, and stay in tune.</p>
 </p></div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/02/crimebo-on-jack-ali-show/">Crimebo on Jack &#038; Ali Show</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>

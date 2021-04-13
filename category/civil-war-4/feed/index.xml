@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -55,7 +55,7 @@
 <div>
 <p><img loading="lazy" width="246" height="269" border="0" align="right" title="confession" alt="confession" src="//farm3.static.flickr.com/2229/2057794265_4891847430_o.gif" />November 24, 1927<br />Long Beach</p>
 <p>Frank E. Foster once stared down the blazing Enfields and Richmonds of Johnny Reb, Bragg&rsquo;s cannons and Forrest&rsquo;s cavalry, but it took some punk kid from Long Beach to put him down for good.&nbsp; </p>
-<p>That punk kid is Richard Robert Haver, 16, whose penchant for driving other people&rsquo;s cars landed him in Chino, where police interviewed him today about a spate of Long Beach robberies last September.&nbsp; Sure, during <a title="320" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=320+N+Colorado+Pl,+Long+Beach,+CA+90814&#038;sll=33.769569,-118.159547&#038;sspn=0.00874,0.014591&#038;ie=UTF8&#038;ll=33.769569,-118.159547&#038;spn=0.00874,0.014591&#038;t=k&#038;z=16&#038;iwloc=addr&#038;om=1">one robbery</a> he pushed an old man.&nbsp; Haver hasn&rsquo;t been told that the old man <em>died</em>. &nbsp;</p>
+<p>That punk kid is Richard Robert Haver, 16, whose penchant for driving other people&rsquo;s cars landed him in Chino, where police interviewed him today about a spate of Long Beach robberies last September.&nbsp; Sure, during <a title="320" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=320+N+Colorado+Pl,+Long+Beach,+CA+90814&#038;sll=33.769569,-118.159547&#038;sspn=0.00874,0.014591&#038;ie=UTF8&#038;ll=33.769569,-118.159547&#038;spn=0.00874,0.014591&#038;t=k&#038;z=16&#038;iwloc=addr&#038;om=1">one robbery</a> he pushed an old man.&nbsp; Haver hasn&rsquo;t been told that the old man <em>died</em>. &nbsp;</p>
 <p>&ldquo;I saw him coming, although it was dark,&rdquo; Haver told Detective Sergeants Smith and Alyes.&nbsp; &ldquo;At first I tried to avoid him by slinking back against the wall, hoping the man wouldn&rsquo;t see me.&nbsp; But he grabbed me by the coat with both hands.&rdquo;&nbsp; (Apparently the 85 y.o. Foster figured the whippersnapper wouldn&rsquo;t be reconstructed.)&nbsp; &ldquo;I kept pushing him into the screen porch where he slept.&nbsp; The door was open as I rushed for it and I pushed the man out of the way.&nbsp; He tripped on the steps and fell outdoors onto the sidewalk.&nbsp; Then I ran toward the front of the house and headed for the ocean.&nbsp; I&rsquo;m sorry I pushed him so hard, now that I know he is an old man.&rdquo;&nbsp; Haver&rsquo;ll be sorrier once the authorities inform him that, on top of being popped for the eight homes he ransacked while the occupants slept (earning him the sobriquet &quot;The Pants Burglar&quot;, in that he stole away with trousers in the night and emptied their pockets), he&rsquo;s a murderer.</p>
 <p>(Haver was sent to the State Reform School to remain until he turned 21, at which point the courts would again pass upon his case; the papers make no mention of that event or its outcome.)</p>
 <p><img loading="lazy" width="203" height="130" border="0" align="right" title="quails!" alt="quails!" src="//farm3.static.flickr.com/2223/2057794267_eccd75bf3e_o.gif" />In further news of the Boys in Blue, another Damn&rsquo;d Yankee, this one in Spokane, has problems of another variety.&nbsp; &ldquo;I&rsquo;m living on borrowed time,&rdquo; said Enoch A. Sears, 84, &ldquo;far past my allotted three score and ten, and I only want peace and quiet.&rdquo;&nbsp; He has filed for divorce from his wife of one year, and has departed his home, leaving it to his wife, 59, and her mother, 79.&nbsp; Enoch simply stated he was &ldquo;too old to become accustomed to living with a mother-in-law.&rdquo;</p>
@@ -88,10 +88,10 @@
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/30/the-old-men-in-blue/">The Old Men in Blue</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1230B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 213px; height: 283px;" src="//www.lmharnisch.com/images/1907_1230B.jpg" alt="" border="0" /></a>Dec. 30, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1230B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 213px; height: 283px;" src="//www.lmharnisch.com/images/1907_1230B.jpg" alt="" border="0" /></a>Dec. 30, 1907<br />
 <span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">James Sullivan, 64, was a prisoner of the Confederates held at </span><a href="http://www.mdgorman.com/Prisons/belle_isle_prison.htm">Belle Isle</a><span style="font-size:100%;">, <a href="http://members.aol.com/jweaver300/grayson/libby.htm">Libby</a></span><span style="font-size:100%;"> and Andersonville, where he and war correspondent <a href="http://www.andersonvillediary.com/civilian.htm">Albert D. Richardson</a></span><span style="font-size:100%;"> escaped by tunneling for three months with a spoon.<br />
+</span><span style="font-size:100%;">James Sullivan, 64, was a prisoner of the Confederates held at </span><a href="https://www.mdgorman.com/Prisons/belle_isle_prison.htm">Belle Isle</a><span style="font-size:100%;">, <a href="https://members.aol.com/jweaver300/grayson/libby.htm">Libby</a></span><span style="font-size:100%;"> and Andersonville, where he and war correspondent <a href="https://www.andersonvillediary.com/civilian.htm">Albert D. Richardson</a></span><span style="font-size:100%;"> escaped by tunneling for three months with a spoon.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Henry Russell, formerly of the 4th Cavalry, was held at Andersonville and </span><span style="font-size:100%;">Benjamin L. Gorsuch of the 1st Maryland Infantry was captured and sent to Belle Isle. James Sherwood was with the 10th New Jersey. John Ryan, 77, was with 7th New York Heavy Artillery.<br />
 </span><span style="font-size:100%;"><br />

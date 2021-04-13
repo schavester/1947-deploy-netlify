@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -49,8 +49,8 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Pull up the old easy chair, time travelers, and join in as anarchists dance the Kinkajou, homicidal neighbors ride camels, the days of prosperity are never-ending and damned souls scream as they&#8217;re cremated. Yes, friends, it&#8217;s another <a href="http://www.archive.org/download/KimCooper1947projectPodcast_7/podcast7_64kb.mp3" target="_blank">edition</a> of the 1947project podcastination, and your ears are all that&#8217;s missing from this party.</p>
-<p>Here is the iTunes <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">link</a> for you modern types.&nbsp;</p>
+<p>Pull up the old easy chair, time travelers, and join in as anarchists dance the Kinkajou, homicidal neighbors ride camels, the days of prosperity are never-ending and damned souls scream as they&#8217;re cremated. Yes, friends, it&#8217;s another <a href="https://www.archive.org/download/KimCooper1947projectPodcast_7/podcast7_64kb.mp3" target="_blank">edition</a> of the 1947project podcastination, and your ears are all that&#8217;s missing from this party.</p>
+<p>Here is the iTunes <a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">link</a> for you modern types.&nbsp;</p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/09/1947project-podcast-7/">1947project podcast #7</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -59,7 +59,7 @@
 					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/09/09/1947project-podcast-7/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
-		<enclosure url="http://www.archive.org/download/KimCooper1947projectPodcast_7/podcast7_64kb.mp3" length="169" type="audio/mpeg" />
+		<enclosure url="https://www.archive.org/download/KimCooper1947projectPodcast_7/podcast7_64kb.mp3" length="169" type="audio/mpeg" />
 
 			</item>
 	</channel>

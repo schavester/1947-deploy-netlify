@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -51,10 +51,10 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>February 16, 1927<br />Los Angeles</p>
-<p><img loading="lazy" width="252" height="213" border="0" align="right" title="narcoheadline" alt="narcoheadline" src="//farm3.static.flickr.com/2308/2267511663_224795ef46_o.jpg" />Those junkies and hopheads that once provided the occasional bruise on this perfect ripe plum that is Los Angeles&mdash;shall be no more!&nbsp; Though alcoholism was <a title="drunkardscured!" target="_blank" href="http://latimesblogs.latimes.com/thedailymirror/2008/02/feb-9-1908.html  ">cured in 1908</a>, drug addiction still remains to blight the landscape.&nbsp; But Narcosan has arrived to save the day! &nbsp;</p>
+<p><img loading="lazy" width="252" height="213" border="0" align="right" title="narcoheadline" alt="narcoheadline" src="//farm3.static.flickr.com/2308/2267511663_224795ef46_o.jpg" />Those junkies and hopheads that once provided the occasional bruise on this perfect ripe plum that is Los Angeles&mdash;shall be no more!&nbsp; Though alcoholism was <a title="drunkardscured!" target="_blank" href="https://latimesblogs.latimes.com/thedailymirror/2008/02/feb-9-1908.html  ">cured in 1908</a>, drug addiction still remains to blight the landscape.&nbsp; But Narcosan has arrived to save the day! &nbsp;</p>
 <p>Drs. E. H. Anthony and Benjamin Blank, their committee of peace officers and other physicians in tow, have at their disposal the first shipment from New York of this new European wonder drug. &nbsp;</p>
-<p>Any addicted Angeleno can trot down to Blank&rsquo;s offices in the <a title="drinkup!" target="_blank" href="http://www.angelenic.com/opening-soon-seven-restaurant-bar/">Quinby Building</a>, Seventh and Grand, and take the cure free of charge.&nbsp; They&rsquo;ve got fifteen addicts lined up to undergo treatment and are looking to administer to at least another ten, so get down there you, you narc-addled fiend!</p>
-<p>(Despite liberal Narcosan administration to the lucky souls who so evidently <a title="minniehines" target="_blank" href="https://pensive-torvalds-020d34.netlify.app/?p=1884">deserved it</a>,&nbsp; apparently the wonder drug <a title="scienceisnotanexactscience" target="_blank" href="http://www.druglibrary.org/schaffer/history/e1920/unanimous.htm">didn&rsquo;t work out so well</a>.) </p>
+<p>Any addicted Angeleno can trot down to Blank&rsquo;s offices in the <a title="drinkup!" target="_blank" href="https://www.angelenic.com/opening-soon-seven-restaurant-bar/">Quinby Building</a>, Seventh and Grand, and take the cure free of charge.&nbsp; They&rsquo;ve got fifteen addicts lined up to undergo treatment and are looking to administer to at least another ten, so get down there you, you narc-addled fiend!</p>
+<p>(Despite liberal Narcosan administration to the lucky souls who so evidently <a title="minniehines" target="_blank" href="https://pensive-torvalds-020d34.netlify.app/?p=1884">deserved it</a>,&nbsp; apparently the wonder drug <a title="scienceisnotanexactscience" target="_blank" href="https://www.druglibrary.org/schaffer/history/e1920/unanimous.htm">didn&rsquo;t work out so well</a>.) </p>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/18/were-saved/">We&#8217;re Saved!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>

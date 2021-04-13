@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -44,7 +44,7 @@
 		<category><![CDATA[Murder]]></category>
 		<category><![CDATA[Rape]]></category>
 		<category><![CDATA[paul de river]]></category>
-		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/09/22/and-in-black-dahlia-news/</guid>
+		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/09/22/and-in-black-dahlia-news/</guid>
 
 					<description><![CDATA[<p>You may think you&#8217;re up on your Black Dahlia lore, but you might have missed two recent books that take very different approaches to the case. First, there&#8217;s the memoir from Jacque Daniel, &#34;The Curse of the Black Dahlia.&#34; Daniel was daughter and secretary to police psychiatrist Paul de River, whose involvement in the case&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/and-in-black-dahlia-news/">Continue reading <span class="screen-reader-text">And in Black Dahlia news&#8230;</span></a></p>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/and-in-black-dahlia-news/">And in Black Dahlia news&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
@@ -52,12 +52,12 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>
-You may think you&#8217;re up on your Black Dahlia lore, but you might have missed two recent books that take very different approaches to the case. First, there&#8217;s the memoir from Jacque Daniel, &quot;The Curse of the Black Dahlia.&quot; Daniel was daughter and secretary to police psychiatrist Paul de River, whose involvement in the case was tinged with controversy. See <a href="http://www.policepsychiatrist.com/" target="_blank">her site</a> for ordering info and her rebuttal of the claims in Donald Wolfe&#8217;s recent, worthless  contribution to the genre.
+You may think you&#8217;re up on your Black Dahlia lore, but you might have missed two recent books that take very different approaches to the case. First, there&#8217;s the memoir from Jacque Daniel, &quot;The Curse of the Black Dahlia.&quot; Daniel was daughter and secretary to police psychiatrist Paul de River, whose involvement in the case was tinged with controversy. See <a href="https://www.policepsychiatrist.com/" target="_blank">her site</a> for ordering info and her rebuttal of the claims in Donald Wolfe&#8217;s recent, worthless  contribution to the genre.
 </p>
 <p>
 Then there&#8217;s &quot;Exquisite Corpse&quot; by Mark Nelson and Sarah Hudson Bayliss, which takes as gospel the Steve Hodel theory of mutilation murder as <em>homage a l&#8217;art moderne,</em> and digs into the notion of the posing and abuses of Beth Short&#8217;s body as a Surrealist art piece. While not quite as loopy as Gareth Penn&#8217;s &quot;Times 17&quot; (Zodiac Killer as earthworks artist), it does sound rather outrÃƒÂ©.
 </p>
-<p><a href="http://www.amazon.com/exec/obidos/ASIN/0821258192/ref=nosim/bubblegumbook"><img src="//images.amazon.com/images/P/0821258192.01.MZZZZZZZ.jpg" border="0" alt="Medium Image" /></a>
+<p><a href="https://www.amazon.com/exec/obidos/ASIN/0821258192/ref=nosim/bubblegumbook"><img src="//images.amazon.com/images/P/0821258192.01.MZZZZZZZ.jpg" border="0" alt="Medium Image" /></a>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/and-in-black-dahlia-news/">And in Black Dahlia news&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
