@@ -12,8 +12,8 @@
 
 <channel>
 	<title>bees &#8211; 1947 Project</title>
-	<atom:link href="http://https://pensive-torvalds-020d34.netlify.app/tag/bees/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/bees/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pensive-torvalds-020d34.netlify.app/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:54:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>http://https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>bees &#8211; 1947 Project</title>
-	<link>http://https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://pensive-torvalds-020d34.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Angry Swarm</title>
-		<link>http://https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/</link>
-					<comments>http://https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/#respond</comments>
+		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/</link>
+					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 01 Aug 2006 14:04:35 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Aug. 1, 1907 Los Angeles A mass of bees</p>
-<p>The post <a rel="nofollow" href="http://https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/">The Angry Swarm</a> appeared first on <a rel="nofollow" href="http://https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/">The Angry Swarm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0801.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 204px;" src="//www.lmharnisch.com/images/1907_0801.jpg" alt="" border="0" /></a></p>
@@ -52,10 +52,10 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
 <p class="MsoNormal">A mass of bees </div>
 </div>
-<p>The post <a rel="nofollow" href="http://https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/">The Angry Swarm</a> appeared first on <a rel="nofollow" href="http://https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/">The Angry Swarm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/01/the-angry-swarm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
