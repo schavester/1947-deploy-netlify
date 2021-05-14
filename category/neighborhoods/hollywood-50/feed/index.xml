@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Hollywood &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/neighborhoods/hollywood-50/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/neighborhoods/hollywood-50/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:58:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Hollywood &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Behind Every Great Man&#8230;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/15/behind-every-great-man/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/15/behind-every-great-man/#respond</comments>
+		<link>https://1947project.com/2008/03/15/behind-every-great-man/</link>
+					<comments>https://1947project.com/2008/03/15/behind-every-great-man/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:08:18 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[Clarence Brown]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; &#160; March 16, 1927 Los Angeles &#160; &#160; &#160; Clarence and Ona Brown were married in 1922, but now Ona wants a divorce. Ã¢â‚¬Å“When I married him,Ã¢â‚¬Â said Mrs. Brown, while weeping bitterly during her testimony before Judge Summerfield, Ã¢â‚¬Å“he was a second-rate assistant director, and I made a director out of him. That&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/behind-every-great-man/">Continue reading <span class="screen-reader-text">Behind Every Great Man&#8230;</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; &#160; March 16, 1927 Los Angeles &#160; &#160; &#160; Clarence and Ona Brown were married in 1922, but now Ona wants a divorce. Ã¢â‚¬Å“When I married him,Ã¢â‚¬Â said Mrs. Brown, while weeping bitterly during her testimony before Judge Summerfield, Ã¢â‚¬Å“he was a second-rate assistant director, and I made a director out of him. That&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/behind-every-great-man/">Continue reading <span class="screen-reader-text">Behind Every Great Man&#8230;</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -72,7 +72,7 @@ Los Angeles
 &nbsp;
 </p>
 <p>
-Clarence and Ona Brown were married in 1922, but now Ona wants a divorce.  Ã¢â‚¬Å“When I married him,Ã¢â‚¬Â said Mrs. Brown, while weeping bitterly during her testimony before Judge Summerfield, Ã¢â‚¬Å“he was a second-rate assistant director, and I made a <a href="https://www.imdb.com/name/nm0113284/awards" target="_blank" title="nationalvelvet">director</a> out of him.  That cost me my home, for he got to thinking so well of himself he attempted to boss the house.  He went nearly a year without even speaking to me.Ã¢â‚¬Â
+Clarence and Ona Brown were married in 1922, but now Ona wants a divorce.  Ã¢â‚¬Å“When I married him,Ã¢â‚¬Â said Mrs. Brown, while weeping bitterly during her testimony before Judge Summerfield, Ã¢â‚¬Å“he was a second-rate assistant director, and I made a <a href="http://www.imdb.com/name/nm0113284/awards" target="_blank" title="nationalvelvet">director</a> out of him.  That cost me my home, for he got to thinking so well of himself he attempted to boss the house.  He went nearly a year without even speaking to me.Ã¢â‚¬Â
 </p>
 <p>
 &nbsp;
@@ -81,7 +81,7 @@ Clarence and Ona Brown were married in 1922, but now Ona wants a divorce.  Ã¢�
 &nbsp;
 </p>
 <p>
-(She may have a point; see <a href="https://www.imdb.com/name/nm0113284/bio" target="_blank" title="proofinthepuddingsalary">this page</a> under &quot;salary.&quot;)
+(She may have a point; see <a href="http://www.imdb.com/name/nm0113284/bio" target="_blank" title="proofinthepuddingsalary">this page</a> under &quot;salary.&quot;)
 </p>
 <p>
 &nbsp;
@@ -96,7 +96,7 @@ Ona&#8217;s testimony was neither denied nor contested, and she won her decree.
 &nbsp;
 </p>
 <p>
-Think of <em>that</em> the next time you watch &quot;<a href="https://www.youtube.com/watch?v=MbjqMUTiZmo&amp;feature=related" target="_blank" title="AK-35">Garbo&#8217;s favorite director</a>&quot;.
+Think of <em>that</em> the next time you watch &quot;<a href="http://www.youtube.com/watch?v=MbjqMUTiZmo&amp;feature=related" target="_blank" title="AK-35">Garbo&#8217;s favorite director</a>&quot;.
 </p>
 <p>
 &nbsp;
@@ -109,18 +109,18 @@ Think of <em>that</em> the next time you watch &quot;<a href="https://www.youtub
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/15/behind-every-great-man/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/15/behind-every-great-man/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>His Majesty Requests</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/06/his-majesty-requests/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/06/his-majesty-requests/#respond</comments>
+		<link>https://1947project.com/2008/03/06/his-majesty-requests/</link>
+					<comments>https://1947project.com/2008/03/06/his-majesty-requests/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 06 Mar 2008 18:33:01 +0000</pubDate>
@@ -132,29 +132,29 @@ Think of <em>that</em> the next time you watch &quot;<a href="https://www.youtub
 		<category><![CDATA[unwanted attention]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 6, 1927 Los Angeles Not every L.A. woman has the chance to be wooed by royalty, but Mrs. Edith Brown of 4720 Ã‚Â½ Mascot Street proved singularly unimpressed by the stream of letters emanating from the pen of Lionel I, self-proclaimed King of America. The lady, apparently a democrat, called the cops. They took&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/06/his-majesty-requests/">Continue reading <span class="screen-reader-text">His Majesty Requests</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 6, 1927 Los Angeles Not every L.A. woman has the chance to be wooed by royalty, but Mrs. Edith Brown of 4720 Ã‚Â½ Mascot Street proved singularly unimpressed by the stream of letters emanating from the pen of Lionel I, self-proclaimed King of America. The lady, apparently a democrat, called the cops. They took&#8230; <a class="more-link" href="https://1947project.com/2008/03/06/his-majesty-requests/">Continue reading <span class="screen-reader-text">His Majesty Requests</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 6, 1927<br />
 Los Angeles</p>
-<p>Not every L.A. woman has the chance to be wooed by royalty, but Mrs. Edith Brown of <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=4720+Mascot+Street,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=33.901528,79.277344&amp;ie=UTF8&amp;ll=34.041512,-118.342474&amp;spn=0.008659,0.019355&amp;z=16&amp;iwloc=addr" target="_blank">4720 Ã‚Â½ Mascot Street</a> proved singularly unimpressed by the stream of letters emanating from the pen of Lionel I, self-proclaimed King of America. The lady, apparently a democrat, called the cops. They took His Majesty (otherwise known as Lionel Craviato) before the judge, who sent the regal fellow off to City Jail to learn that even a king should not annoy a lady. </p>
+<p>Not every L.A. woman has the chance to be wooed by royalty, but Mrs. Edith Brown of <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=4720+Mascot+Street,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=33.901528,79.277344&amp;ie=UTF8&amp;ll=34.041512,-118.342474&amp;spn=0.008659,0.019355&amp;z=16&amp;iwloc=addr" target="_blank">4720 Ã‚Â½ Mascot Street</a> proved singularly unimpressed by the stream of letters emanating from the pen of Lionel I, self-proclaimed King of America. The lady, apparently a democrat, called the cops. They took His Majesty (otherwise known as Lionel Craviato) before the judge, who sent the regal fellow off to City Jail to learn that even a king should not annoy a lady. </p>
 <p>An excerpt from one of the offending missives read: &quot;All the American army and navy love me and they recognize me as their first chief and want me to be king of their country. I will conquer and civilize the whole world!&quot;</p>
 <p>Hmm, maybe the problem was that this would-be king never learned how to write a proper love letter. Lionel, Lionel, Lionel, no woman wants to read about how much the <em>army</em> loves you! Also, for future reference, we like rubies.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/06/his-majesty-requests/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/06/his-majesty-requests/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Angels My Eye</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/03/angels-my-eye/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/03/angels-my-eye/#respond</comments>
+		<link>https://1947project.com/2008/02/03/angels-my-eye/</link>
+					<comments>https://1947project.com/2008/02/03/angels-my-eye/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 03 Feb 2008 05:59:54 +0000</pubDate>
@@ -171,31 +171,31 @@ Los Angeles</p>
 		<category><![CDATA[youth gangs]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 3, 1927Seemingly Everywhere It was another olla podrida fulla banditry in Los Angeles, which bubbled over and burned something fierce at El Molino and Ninth when a gent approached Frank Merlo, robbed him of $50 ($551 USD2006) cash and forced him to swap clothing. &#160; Elsewhere, a truck containing $4,000 worth of cigars and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/03/angels-my-eye/">Continue reading <span class="screen-reader-text">Angels My Eye</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/03/angels-my-eye/">Angels My Eye</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 3, 1927Seemingly Everywhere It was another olla podrida fulla banditry in Los Angeles, which bubbled over and burned something fierce at El Molino and Ninth when a gent approached Frank Merlo, robbed him of $50 ($551 USD2006) cash and forced him to swap clothing. &#160; Elsewhere, a truck containing $4,000 worth of cigars and&#8230; <a class="more-link" href="https://1947project.com/2008/02/03/angels-my-eye/">Continue reading <span class="screen-reader-text">Angels My Eye</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/03/angels-my-eye/">Angels My Eye</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="268" height="311" border="0" align="right" src="//farm3.static.flickr.com/2182/2237490120_b7c26ee5dd_o.gif" alt="waituntilspringbanditos" title="waituntilspringbanditos" />February 3, 1927<br />Seemingly Everywhere</p>
-<p>It was another <a href="https://pensive-torvalds-020d34.netlify.app/?p=2250" target="_blank" title="banditstew">olla podrida</a> fulla banditry in Los Angeles, which bubbled over and burned something fierce at El Molino and Ninth when a gent approached Frank Merlo, robbed him of $50 ($551 USD2006) cash and forced him to swap clothing. &nbsp;</p>
-<p>Elsewhere, a truck containing $4,000 worth of cigars and tobacco, parked in front of the Glaser Brother&rsquo;s establishment at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1028+Wall+St,+Los+Angeles,+CA+90015&#038;sll=34.038916,-118.253424&#038;sspn=0.008233,0.014184&#038;ie=UTF8&#038;ll=34.038916,-118.253424&#038;spn=0.008233,0.014184&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank" title="GlaserBros">1028 Wall Street</a>, just up and disappeared; a burglar capable of squeezing through a window not more than seven inches wide entered the Wrede Drug Company at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1327+N+Fairfax+Ave,+Los+Angeles,+Los+Angeles,+California+90046,+United+States&#038;sll=34.041174,-118.253188&#038;sspn=0.008232,0.014184&#038;ie=UTF8&#038;cd=2&#038;geocode=0,34.094918,-118.361563&#038;layer=c&#038;ll=34.096578,-118.361571&#038;spn=0.008227,0.014184&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.094955,-118.36154" target="_blank" title="Wrede">1327 Fairfax</a> and made off with $200; persons unknown jimmied a rear door of Brunswig Drug at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=4922+Santa+Monica+Blvd,+Los+Angeles,+CA+90029&#038;sll=34.092455,-118.296747&#038;sspn=0.008227,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.092455,-118.296747&#038;spn=0.008227,0.014184&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.090855,-118.296774" target="_blank" title="Brunswig">4922 Santa Monica</a> and btained $500 worth of cigarettes and delicious narcotics.</p>
-<p>In residential news, Mrs. Elba Burdick was lightened of $1,000 worth of clothing, rugs and pesky jewelry that were cluttering up her place at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=232+S+Carmelina+Ave,+Los+Angeles,+Los+Angeles,+California+90049,+United+States&#038;sll=34.06071,-118.483534&#038;sspn=0.001029,0.001773&#038;layer=c&#038;ie=UTF8&#038;ll=34.054468,-118.480023&#038;spn=0.001029,0.001773&#038;t=h&#038;z=19&#038;om=0&#038;cbll=34.054348,-118.480022" target="_blank" title="AbleIWas">232 Carmelina Avenue</a>; Nathan Lack now lacks one $600 diamond stickpin, formerly in residence at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=831+S+Harvard+Blvd,+Los+Angeles,+CA+90005&#038;sll=34.058757,-118.304193&#038;sspn=0.008231,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.058739,-118.304193&#038;spn=0.008231,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.05769,-118.304209" target="_blank" title="ILackThereforeIAm">831 South Harvard</a>; Torato Nishlo was relieved of $500 in jewelry from <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=925+Hemlock+St,+Los+Angeles,+Los+Angeles,+California+90021,+United+States&#038;sll=34.058739,-118.304193&#038;sspn=0.008231,0.014184&#038;ie=UTF8&#038;cd=2&#038;geocode=0,34.030443,-118.244307&#038;layer=c&#038;ll=34.032301,-118.244305&#038;spn=0.008233,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.030675,-118.244968" target="_blank" title="SocratesAuGoGo">925 Hemlock</a>; Dr. H. C. Hill of <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=806+Golden+Ave,+Los+Angeles,+CA+90017&#038;sll=34.050402,-118.2669&#038;sspn=0.008232,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.050402,-118.2669&#038;spn=0.008232,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.048193,-118.267287" target="_blank" title="Overthehill">806 Golden</a>, also relieved of $500 in jewelry; Nathan Berger, of <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=2010+East+Cesar+E+Chavez+Avenue,+Los+Angeles,+CA+90033&#038;sll=34.049815,-118.212397&#038;sspn=0.008232,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.049815,-118.212397&#038;spn=0.008232,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.04885,-118.212392" target="_blank" title="yourewelcome">2010 Brooklyn Avenue</a>, <em>also</em> relieved of $500 in jewelry; and loot valued at less than $300 was pilfered from a dozen other residences, according to police reports.</p>
-<p>Daylight is a good time to work as well&mdash;Sam Stone got his register rifled while looking the other way, Stone Furniture Company, <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=2711+East+Cesar+E+Chavez+Avenue,+Los+Angeles,+CA+90033&#038;sll=34.049815,-118.212397&#038;sspn=0.008232,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.048784,-118.206882&#038;spn=0.008232,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.04885,-118.212392" target="_blank" title="learnedhislesson">2711 Brooklyn Avenue</a>.</p>
-<p><img loading="lazy" width="243" height="214" border="0" align="left" src="//farm3.static.flickr.com/2221/2237490122_5150ebfd3e_o.jpg" alt="Iamtheyeggman" title="Iamtheyeggman" />But fret not people of Los Angeles!&nbsp; The bulls have pinched (<a title="vernalgang" target="_blank" href="https://pensive-torvalds-020d34.netlify.app/?p=2249">another</a>) gang of li&rsquo;luns, ages 15 to 18, who now make the Alhambra pokey their new clubhouse.&nbsp; Their leader was busting into the home of an F. R. Lee on <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=N+Wilson+Ave&#038;sll=34.160398,-118.128176&#038;sspn=0.032883,0.056734&#038;layer=c&#038;ie=UTF8&#038;ll=34.158098,-118.128186&#038;spn=0.004111,0.007092&#038;t=h&#038;z=17&#038;iwloc=addr&#038;om=0&#038;cbll=34.15777,-118.12819" target="_blank" title="norelationtohenry">North Wilson</a> when popped, and quickly gave up his younger cohorts&mdash;they of reputable local families&mdash;and location of purloined rugs, cameras, revolvers, and the black masks (cute&mdash;last year) they wore during their heists.&nbsp; The youth of these masked marauders may account for the ability to slip through Wrede Drug&#8217;s tiny window.&nbsp; Unless it was those fabled fascistic interwar <a href="https://www.youtube.com/watch?v=7Y_UriEAzyY" target="_blank" title="Ihatetheseguys">little people</a>. &nbsp;</p>
+<p>It was another <a href="https://1947project.com/?p=2250" target="_blank" title="banditstew">olla podrida</a> fulla banditry in Los Angeles, which bubbled over and burned something fierce at El Molino and Ninth when a gent approached Frank Merlo, robbed him of $50 ($551 USD2006) cash and forced him to swap clothing. &nbsp;</p>
+<p>Elsewhere, a truck containing $4,000 worth of cigars and tobacco, parked in front of the Glaser Brother&rsquo;s establishment at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1028+Wall+St,+Los+Angeles,+CA+90015&#038;sll=34.038916,-118.253424&#038;sspn=0.008233,0.014184&#038;ie=UTF8&#038;ll=34.038916,-118.253424&#038;spn=0.008233,0.014184&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank" title="GlaserBros">1028 Wall Street</a>, just up and disappeared; a burglar capable of squeezing through a window not more than seven inches wide entered the Wrede Drug Company at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1327+N+Fairfax+Ave,+Los+Angeles,+Los+Angeles,+California+90046,+United+States&#038;sll=34.041174,-118.253188&#038;sspn=0.008232,0.014184&#038;ie=UTF8&#038;cd=2&#038;geocode=0,34.094918,-118.361563&#038;layer=c&#038;ll=34.096578,-118.361571&#038;spn=0.008227,0.014184&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.094955,-118.36154" target="_blank" title="Wrede">1327 Fairfax</a> and made off with $200; persons unknown jimmied a rear door of Brunswig Drug at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=4922+Santa+Monica+Blvd,+Los+Angeles,+CA+90029&#038;sll=34.092455,-118.296747&#038;sspn=0.008227,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.092455,-118.296747&#038;spn=0.008227,0.014184&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.090855,-118.296774" target="_blank" title="Brunswig">4922 Santa Monica</a> and btained $500 worth of cigarettes and delicious narcotics.</p>
+<p>In residential news, Mrs. Elba Burdick was lightened of $1,000 worth of clothing, rugs and pesky jewelry that were cluttering up her place at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=232+S+Carmelina+Ave,+Los+Angeles,+Los+Angeles,+California+90049,+United+States&#038;sll=34.06071,-118.483534&#038;sspn=0.001029,0.001773&#038;layer=c&#038;ie=UTF8&#038;ll=34.054468,-118.480023&#038;spn=0.001029,0.001773&#038;t=h&#038;z=19&#038;om=0&#038;cbll=34.054348,-118.480022" target="_blank" title="AbleIWas">232 Carmelina Avenue</a>; Nathan Lack now lacks one $600 diamond stickpin, formerly in residence at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=831+S+Harvard+Blvd,+Los+Angeles,+CA+90005&#038;sll=34.058757,-118.304193&#038;sspn=0.008231,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.058739,-118.304193&#038;spn=0.008231,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.05769,-118.304209" target="_blank" title="ILackThereforeIAm">831 South Harvard</a>; Torato Nishlo was relieved of $500 in jewelry from <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=925+Hemlock+St,+Los+Angeles,+Los+Angeles,+California+90021,+United+States&#038;sll=34.058739,-118.304193&#038;sspn=0.008231,0.014184&#038;ie=UTF8&#038;cd=2&#038;geocode=0,34.030443,-118.244307&#038;layer=c&#038;ll=34.032301,-118.244305&#038;spn=0.008233,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.030675,-118.244968" target="_blank" title="SocratesAuGoGo">925 Hemlock</a>; Dr. H. C. Hill of <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=806+Golden+Ave,+Los+Angeles,+CA+90017&#038;sll=34.050402,-118.2669&#038;sspn=0.008232,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.050402,-118.2669&#038;spn=0.008232,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.048193,-118.267287" target="_blank" title="Overthehill">806 Golden</a>, also relieved of $500 in jewelry; Nathan Berger, of <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=2010+East+Cesar+E+Chavez+Avenue,+Los+Angeles,+CA+90033&#038;sll=34.049815,-118.212397&#038;sspn=0.008232,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.049815,-118.212397&#038;spn=0.008232,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.04885,-118.212392" target="_blank" title="yourewelcome">2010 Brooklyn Avenue</a>, <em>also</em> relieved of $500 in jewelry; and loot valued at less than $300 was pilfered from a dozen other residences, according to police reports.</p>
+<p>Daylight is a good time to work as well&mdash;Sam Stone got his register rifled while looking the other way, Stone Furniture Company, <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=2711+East+Cesar+E+Chavez+Avenue,+Los+Angeles,+CA+90033&#038;sll=34.049815,-118.212397&#038;sspn=0.008232,0.014184&#038;layer=c&#038;ie=UTF8&#038;ll=34.048784,-118.206882&#038;spn=0.008232,0.014184&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0&#038;cbll=34.04885,-118.212392" target="_blank" title="learnedhislesson">2711 Brooklyn Avenue</a>.</p>
+<p><img loading="lazy" width="243" height="214" border="0" align="left" src="//farm3.static.flickr.com/2221/2237490122_5150ebfd3e_o.jpg" alt="Iamtheyeggman" title="Iamtheyeggman" />But fret not people of Los Angeles!&nbsp; The bulls have pinched (<a title="vernalgang" target="_blank" href="https://1947project.com/?p=2249">another</a>) gang of li&rsquo;luns, ages 15 to 18, who now make the Alhambra pokey their new clubhouse.&nbsp; Their leader was busting into the home of an F. R. Lee on <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=N+Wilson+Ave&#038;sll=34.160398,-118.128176&#038;sspn=0.032883,0.056734&#038;layer=c&#038;ie=UTF8&#038;ll=34.158098,-118.128186&#038;spn=0.004111,0.007092&#038;t=h&#038;z=17&#038;iwloc=addr&#038;om=0&#038;cbll=34.15777,-118.12819" target="_blank" title="norelationtohenry">North Wilson</a> when popped, and quickly gave up his younger cohorts&mdash;they of reputable local families&mdash;and location of purloined rugs, cameras, revolvers, and the black masks (cute&mdash;last year) they wore during their heists.&nbsp; The youth of these masked marauders may account for the ability to slip through Wrede Drug&#8217;s tiny window.&nbsp; Unless it was those fabled fascistic interwar <a href="http://www.youtube.com/watch?v=7Y_UriEAzyY" target="_blank" title="Ihatetheseguys">little people</a>. &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/03/angels-my-eye/">Angels My Eye</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/03/angels-my-eye/">Angels My Eye</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/03/angels-my-eye/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/03/angels-my-eye/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Silence is golden, and so&#8217;s the shooter&#8217;s hair</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/#respond</comments>
+		<link>https://1947project.com/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/</link>
+					<comments>https://1947project.com/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 17 Jan 2008 20:47:20 +0000</pubDate>
@@ -209,29 +209,29 @@ Los Angeles</p>
 		<category><![CDATA[woman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 17, 1927Hollywood When the doc refused to keep things quiet after treating oilman Grover Lawler&#8217;s (happily superficial) bullet wounds at his home in the Dickerson apartments at Berendo and Beverly, Lawler told visiting cops that he&#8217;d shot himself. No, he would not produce the weapon. Damn, won&#8217;t you flatfoots let a guy recuperate in&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/">Continue reading <span class="screen-reader-text">Silence is golden, and so&#8217;s the shooter&#8217;s hair</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/">Silence is golden, and so&#8217;s the shooter&#8217;s hair</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 17, 1927Hollywood When the doc refused to keep things quiet after treating oilman Grover Lawler&#8217;s (happily superficial) bullet wounds at his home in the Dickerson apartments at Berendo and Beverly, Lawler told visiting cops that he&#8217;d shot himself. No, he would not produce the weapon. Damn, won&#8217;t you flatfoots let a guy recuperate in&#8230; <a class="more-link" href="https://1947project.com/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/">Continue reading <span class="screen-reader-text">Silence is golden, and so&#8217;s the shooter&#8217;s hair</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/">Silence is golden, and so&#8217;s the shooter&#8217;s hair</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>January 17, 1927<br />Hollywood</p>
 <p>When the doc refused to keep things quiet after treating oilman Grover Lawler&#8217;s (happily superficial) bullet wounds at his home in the Dickerson apartments at Berendo and Beverly, Lawler told visiting cops that he&#8217;d shot himself. No, he would not produce the weapon. Damn, won&#8217;t you flatfoots let a guy recuperate in peace?</p>
-<p><a title="Grauman Court apartments, Melrose &#038; Kenmore by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2206685545/"><img loading="lazy" width="500" height="388" border="0" alt="Grauman Court apartments, Melrose &#038; Kenmore" src="//farm3.static.flickr.com/2224/2206685545_4b6a1fc61c.jpg" /></a></p>
-<p>Not so fast, Grover. You wouldn&#8217;t know anything about reports that a hysterical blond woman armed with a .38 had fired wildly at a car bearing two men and a woman tonight, just six blocks from your place, at the Grauman Court apartments at <a target="_blank" href="https://maps.google.com/maps?f=d&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;saddr=4428+Melrose,+los+angeles,+ca&#038;daddr=berendo+and+beverly,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=34.08078,-118.295696&#038;spn=0.007411,0.014205&#038;t=h&#038;z=16&#038;om=0">4428 Melrose</a>? No? Because G.A. Hessman, resident, has described the incident thoroughly, and turned over the gun that the woman threw into the grass at his feet when she was finished.</p>
+<p><a title="Grauman Court apartments, Melrose &#038; Kenmore by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2206685545/"><img loading="lazy" width="500" height="388" border="0" alt="Grauman Court apartments, Melrose &#038; Kenmore" src="//farm3.static.flickr.com/2224/2206685545_4b6a1fc61c.jpg" /></a></p>
+<p>Not so fast, Grover. You wouldn&#8217;t know anything about reports that a hysterical blond woman armed with a .38 had fired wildly at a car bearing two men and a woman tonight, just six blocks from your place, at the Grauman Court apartments at <a target="_blank" href="http://maps.google.com/maps?f=d&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;saddr=4428+Melrose,+los+angeles,+ca&#038;daddr=berendo+and+beverly,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=34.08078,-118.295696&#038;spn=0.007411,0.014205&#038;t=h&#038;z=16&#038;om=0">4428 Melrose</a>? No? Because G.A. Hessman, resident, has described the incident thoroughly, and turned over the gun that the woman threw into the grass at his feet when she was finished.</p>
 <p>Grover reconsidered, and admitted some dizzy dame had shot at him as his party left a dinner engagement at the Melrose address, but refused the identify his assailant. Perhaps recognizing that Mrs. Lawler, now playing nurse, would provide better punishment than the law allowed, the officers went on their way.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/">Silence is golden, and so&#8217;s the shooter&#8217;s hair</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/">Silence is golden, and so&#8217;s the shooter&#8217;s hair</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/17/silence-is-golden-and-sos-the-shooters-hair/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cute Enough to Deserve Them</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/#respond</comments>
+		<link>https://1947project.com/2008/01/07/cute-enough-to-deserve-them/</link>
+					<comments>https://1947project.com/2008/01/07/cute-enough-to-deserve-them/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 07 Jan 2008 04:06:49 +0000</pubDate>
@@ -245,34 +245,34 @@ Los Angeles</p>
 		<category><![CDATA[Maison Blanche]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; January 6, 1927Los Angeles Gladys Nolan, 22, of 5510 Lexington Avenue, had a craving for fine clothes and expensive perfumes.&#160; She needed them.&#160; Yes, there&#8217;s a difference between needs and wants.&#160; She NEEDED them. &#160; Gladys was no klepto.&#160; She paid for the items, and not with money from the handbag of some white-glove&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/">Continue reading <span class="screen-reader-text">Cute Enough to Deserve Them</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; January 6, 1927Los Angeles Gladys Nolan, 22, of 5510 Lexington Avenue, had a craving for fine clothes and expensive perfumes.&#160; She needed them.&#160; Yes, there&#8217;s a difference between needs and wants.&#160; She NEEDED them. &#160; Gladys was no klepto.&#160; She paid for the items, and not with money from the handbag of some white-glove&#8230; <a class="more-link" href="https://1947project.com/2008/01/07/cute-enough-to-deserve-them/">Continue reading <span class="screen-reader-text">Cute Enough to Deserve Them</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="288" height="400" border="0" src="//farm3.static.flickr.com/2335/2173157557_67ffde06fc_o.gif" alt="gladys" title="gladys" /></p>
 <p>January 6, 1927<br />Los Angeles</p>
-<p><img loading="lazy" width="254" height="215" border="0" align="right" src="//farm3.static.flickr.com/2221/2173157547_c7c33f4460_o.gif" alt="itsaCRAVING" title="itsaCRAVING" />Gladys Nolan, 22, of <a title="Gladys'place" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=5510+lexington+ave,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=32.252269,59.765625&#038;ie=UTF8&#038;ll=34.092833,-118.30911&#038;spn=0.001028,0.001824&#038;z=19&#038;om=1">5510 Lexington Avenue</a>, had a craving for fine clothes and expensive perfumes.&nbsp; She needed them.&nbsp; Yes, there&rsquo;s a difference between needs and wants.&nbsp; She NEEDED them. &nbsp;</p>
+<p><img loading="lazy" width="254" height="215" border="0" align="right" src="//farm3.static.flickr.com/2221/2173157547_c7c33f4460_o.gif" alt="itsaCRAVING" title="itsaCRAVING" />Gladys Nolan, 22, of <a title="Gladys'place" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=5510+lexington+ave,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=32.252269,59.765625&#038;ie=UTF8&#038;ll=34.092833,-118.30911&#038;spn=0.001028,0.001824&#038;z=19&#038;om=1">5510 Lexington Avenue</a>, had a craving for fine clothes and expensive perfumes.&nbsp; She needed them.&nbsp; Yes, there&rsquo;s a difference between needs and wants.&nbsp; She NEEDED them. &nbsp;</p>
 <p>Gladys was no klepto.&nbsp; She paid for the items, and not with money from the handbag of some white-glove spinster she&rsquo;d clobbered and left twitching in her death throes down a urine-soaked alley.&nbsp; Gladys paid for these things with all the nicety befitting a girl of refinement, trouble being, she paid for the lovely things with forged checks.</p>
-<p>A $200 ($2,206 USD 2007) fur coat and $34 bottle of perfume, she picked up at <a title="6340Hwood" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=6340+Hollywood+Blvd,+Los+Angeles,+CA+90028&#038;sll=34.102566,-118.32799&#038;sspn=0.008226,0.014591&#038;ie=UTF8&#038;ll=34.102566,-118.32799&#038;spn=0.008226,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">I</a>. <a title="IMagninonHollywood" target="_blank" href="https://jpg2.lapl.org/pics48/00058531.jpg">Magnin&rsquo;s</a>; a check signed in a fictitious name at <a title="MaisonNoir" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=3307+Wilshire+Blvd,+Los+Angeles,+CA+90005&#038;sll=34.062268,-118.294408&#038;sspn=0.004115,0.007296&#038;ie=UTF8&#038;ll=34.062739,-118.294408&#038;spn=0.00823,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">Maison Blanche</a> allowed her a gown and hat totaling $110.&nbsp; Some killjoy by the name of &ldquo;Deputy District Attoney Frampton&rdquo; got in a twist about this, convincing some other sourpuss called &ldquo;Judge Ambrose&rdquo; to hold her to answer in Superior Court and fix bail at $2000.</p>
+<p>A $200 ($2,206 USD 2007) fur coat and $34 bottle of perfume, she picked up at <a title="6340Hwood" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=6340+Hollywood+Blvd,+Los+Angeles,+CA+90028&#038;sll=34.102566,-118.32799&#038;sspn=0.008226,0.014591&#038;ie=UTF8&#038;ll=34.102566,-118.32799&#038;spn=0.008226,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">I</a>. <a title="IMagninonHollywood" target="_blank" href="http://jpg2.lapl.org/pics48/00058531.jpg">Magnin&rsquo;s</a>; a check signed in a fictitious name at <a title="MaisonNoir" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=3307+Wilshire+Blvd,+Los+Angeles,+CA+90005&#038;sll=34.062268,-118.294408&#038;sspn=0.004115,0.007296&#038;ie=UTF8&#038;ll=34.062739,-118.294408&#038;spn=0.00823,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">Maison Blanche</a> allowed her a gown and hat totaling $110.&nbsp; Some killjoy by the name of &ldquo;Deputy District Attoney Frampton&rdquo; got in a twist about this, convincing some other sourpuss called &ldquo;Judge Ambrose&rdquo; to hold her to answer in Superior Court and fix bail at $2000.</p>
 <p>Gladys was given probation and told to keep her nose clean.&nbsp; Which she almost did.</p>
 <p><img loading="lazy" width="149" height="500" border="0" src="//farm3.static.flickr.com/2350/2173386685_5ed8f29cd6_o.gif" alt="ohgladysnotagain" title="ohgladysnotagain" /></p>
 <p>Whatever became of Gladys Nolan?&nbsp; A lady whose refinement and obvious taste sadly outdistanced her pocketbook?&nbsp; Guess we&#8217;ll never know.</p>
 <p><img loading="lazy" width="494" height="149" border="0" src="//farm3.static.flickr.com/2354/2173386689_412243793b_o.jpg" alt="November1939" title="November1939" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/07/cute-enough-to-deserve-them/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The calm before the storm</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/14/the-calm-before-the-storm/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/14/the-calm-before-the-storm/#respond</comments>
+		<link>https://1947project.com/2007/12/14/the-calm-before-the-storm/</link>
+					<comments>https://1947project.com/2007/12/14/the-calm-before-the-storm/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 14 Dec 2007 18:50:54 +0000</pubDate>
@@ -289,8 +289,8 @@ Los Angeles</p>
 		<category><![CDATA[red car]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 14, 1927Los Angeles The holiday is nearly upon us, and all across the city, citizens are Christmas mad. The Pacific Electric Hollywood car stalled, halfway through the First Street tunnel, and when the wire fell down and sent sparks arcing across the darkened windows, scads of package-laden shoppers panicked and stampeded, despite attempts by&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/14/the-calm-before-the-storm/">Continue reading <span class="screen-reader-text">The calm before the storm</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/14/the-calm-before-the-storm/">The calm before the storm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 14, 1927Los Angeles The holiday is nearly upon us, and all across the city, citizens are Christmas mad. The Pacific Electric Hollywood car stalled, halfway through the First Street tunnel, and when the wire fell down and sent sparks arcing across the darkened windows, scads of package-laden shoppers panicked and stampeded, despite attempts by&#8230; <a class="more-link" href="https://1947project.com/2007/12/14/the-calm-before-the-storm/">Continue reading <span class="screen-reader-text">The calm before the storm</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/14/the-calm-before-the-storm/">The calm before the storm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>December 14, 1927<br />Los Angeles</p>
@@ -299,18 +299,18 @@ Los Angeles</p>
 <p>And down on Wilton Place, the Parker Twins, Marion and Marjorie, whisper together about what to give their father Perry for his birthday tomorrow. They cannot know that tomorrow Marion will be kidnapped from her school by The Fox, and that despite the ransom Perry pays, she will never come home again.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/14/the-calm-before-the-storm/">The calm before the storm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/14/the-calm-before-the-storm/">The calm before the storm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/14/the-calm-before-the-storm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/14/the-calm-before-the-storm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Coffee, Tea &#8230; or Murder?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/11/coffee-tea-or-murder/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/11/coffee-tea-or-murder/#respond</comments>
+		<link>https://1947project.com/2007/12/11/coffee-tea-or-murder/</link>
+					<comments>https://1947project.com/2007/12/11/coffee-tea-or-murder/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2007 22:25:30 +0000</pubDate>
@@ -322,11 +322,11 @@ Los Angeles</p>
 		<category><![CDATA[widows]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 11, 1927 Hollywood The death of motion-picture actor George Donald Bailey was announced this morning. The 63-year-old thespian complained of feeling ill yesterday. A doctor was summoned, but Bailey died within a few hours. The death certificate, signed by Dr. C.D. Baker (a friend of the deceased), stated the cause as heart disease. The&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/11/coffee-tea-or-murder/">Continue reading <span class="screen-reader-text">Coffee, Tea &#8230; or Murder?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/11/coffee-tea-or-murder/">Coffee, Tea &#8230; or Murder?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 11, 1927 Hollywood The death of motion-picture actor George Donald Bailey was announced this morning. The 63-year-old thespian complained of feeling ill yesterday. A doctor was summoned, but Bailey died within a few hours. The death certificate, signed by Dr. C.D. Baker (a friend of the deceased), stated the cause as heart disease. The&#8230; <a class="more-link" href="https://1947project.com/2007/12/11/coffee-tea-or-murder/">Continue reading <span class="screen-reader-text">Coffee, Tea &#8230; or Murder?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/11/coffee-tea-or-murder/">Coffee, Tea &#8230; or Murder?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2104423662/" title="Coffee, Tea ... or Murder? by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2332/2104423662_cda69a5027_o.jpg" width="129" height="297" alt="Coffee, Tea ... or Murder?"/></a></p>
+<div><a href="http://www.flickr.com/photos/lperil/2104423662/" title="Coffee, Tea ... or Murder? by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2332/2104423662_cda69a5027_o.jpg" width="129" height="297" alt="Coffee, Tea ... or Murder?"/></a></p>
 <p>December 11, 1927<br />
 Hollywood</p>
 <p>The death of motion-picture actor George Donald Bailey was announced this morning. The 63-year-old thespian complained of feeling ill yesterday. A doctor was summoned, but Bailey died within a few hours. The death certificate, signed by Dr. C.D. Baker (a friend of the deceased), stated the cause as heart disease. </p>
@@ -336,18 +336,18 @@ Hollywood</p>
 <p>Did heart disease kill George D. BaileyÃ¢â‚¬â€or was it poison? Were his widow, daughter, and her sister-in-law victims of the same toxin? Alas, the <i>Times</i> never reported on the outcome of the autopsy or tests on the coffee pot.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/11/coffee-tea-or-murder/">Coffee, Tea &#8230; or Murder?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/11/coffee-tea-or-murder/">Coffee, Tea &#8230; or Murder?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/11/coffee-tea-or-murder/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/11/coffee-tea-or-murder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Stars That Shine and Smolder</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/#respond</comments>
+		<link>https://1947project.com/2007/12/06/stars-that-shine-and-smolder/</link>
+					<comments>https://1947project.com/2007/12/06/stars-that-shine-and-smolder/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 06 Dec 2007 22:56:42 +0000</pubDate>
@@ -362,8 +362,8 @@ Hollywood</p>
 		<category><![CDATA[celebrity]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 6, 1927Los Angeles Calling all cars! Calling all cars! Be on the lookout for two easily-recognized scofflaws, film stars Reginald Denny and Hedda Hopper. She&#8217;s wanted for speeding at about 34mph around Melrose and La Brea, he for setting a similar pace in the 20mph zone at Sunset and Vine, and without a valid&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/">Continue reading <span class="screen-reader-text">Stars That Shine and Smolder</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 6, 1927Los Angeles Calling all cars! Calling all cars! Be on the lookout for two easily-recognized scofflaws, film stars Reginald Denny and Hedda Hopper. She&#8217;s wanted for speeding at about 34mph around Melrose and La Brea, he for setting a similar pace in the 20mph zone at Sunset and Vine, and without a valid&#8230; <a class="more-link" href="https://1947project.com/2007/12/06/stars-that-shine-and-smolder/">Continue reading <span class="screen-reader-text">Stars That Shine and Smolder</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>December 6, 1927<br />Los Angeles</p>
@@ -372,18 +372,18 @@ Hollywood</p>
 <p>What shall we do with these antisocial celebrities? Perhaps we should just drop by their homes and have a talk with them. Miss Hopper is reported as residing at 1416 Fairfax Avenue, Mr. Denny at 2060 North Vine.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/06/stars-that-shine-and-smolder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Good Find is Hard to Help</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/02/good-find-is-hard-to-help/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/02/good-find-is-hard-to-help/#respond</comments>
+		<link>https://1947project.com/2007/12/02/good-find-is-hard-to-help/</link>
+					<comments>https://1947project.com/2007/12/02/good-find-is-hard-to-help/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 02 Dec 2007 00:18:58 +0000</pubDate>
@@ -399,36 +399,36 @@ Hollywood</p>
 		<category><![CDATA[servants]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; December 2, 1927Hollywood Mrs. Margaret Pumphrey, 27, of the Milner Road Pumphreys, was standing in her bedroom of her hillside home, preparing to go downtown, when she was approached by her white-jacketed butler.&#160; He asked if there were any further orders.&#160; Mrs. Pumphrey said there were none. With that, her servant&#8212;Richard R. Ewell, 30&#8212;developed&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/02/good-find-is-hard-to-help/">Continue reading <span class="screen-reader-text">Good Find is Hard to Help</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/02/good-find-is-hard-to-help/">Good Find is Hard to Help</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; December 2, 1927Hollywood Mrs. Margaret Pumphrey, 27, of the Milner Road Pumphreys, was standing in her bedroom of her hillside home, preparing to go downtown, when she was approached by her white-jacketed butler.&#160; He asked if there were any further orders.&#160; Mrs. Pumphrey said there were none. With that, her servant&#8212;Richard R. Ewell, 30&#8212;developed&#8230; <a class="more-link" href="https://1947project.com/2007/12/02/good-find-is-hard-to-help/">Continue reading <span class="screen-reader-text">Good Find is Hard to Help</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/02/good-find-is-hard-to-help/">Good Find is Hard to Help</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="600" height="31" border="0" title="wereallwoundedbysomeone" alt="wereallwoundedbysomeone" src="//farm3.static.flickr.com/2325/2079400574_4c98e07f47_o.gif" /></p>
 <p>December 2, 1927<br />Hollywood</p>
-<p><img loading="lazy" width="266" height="278" border="0" align="left" title="theclimax" alt="theclimax" src="//farm3.static.flickr.com/2293/2079400572_ed608e7741_o.jpg" />Mrs. Margaret Pumphrey, 27, of the <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=6727+Milner+Rd,+Los+Angeles,+CA+90068&#038;sll=34.109406,-118.334684&#038;sspn=0.008226,0.013154&#038;ie=UTF8&#038;ll=34.108571,-118.334679&#038;spn=0.001028,0.001644&#038;z=19&#038;iwloc=addr&#038;om=1" target="_blank" title="6727MilnerRd">Milner Road</a> Pumphreys, was standing in her bedroom of her hillside home, preparing to go downtown, when she was approached by her white-jacketed butler.&nbsp; He asked if there were any further orders.&nbsp; Mrs. Pumphrey said there were none.</p>
+<p><img loading="lazy" width="266" height="278" border="0" align="left" title="theclimax" alt="theclimax" src="//farm3.static.flickr.com/2293/2079400572_ed608e7741_o.jpg" />Mrs. Margaret Pumphrey, 27, of the <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=6727+Milner+Rd,+Los+Angeles,+CA+90068&#038;sll=34.109406,-118.334684&#038;sspn=0.008226,0.013154&#038;ie=UTF8&#038;ll=34.108571,-118.334679&#038;spn=0.001028,0.001644&#038;z=19&#038;iwloc=addr&#038;om=1" target="_blank" title="6727MilnerRd">Milner Road</a> Pumphreys, was standing in her bedroom of her hillside home, preparing to go downtown, when she was approached by her white-jacketed butler.&nbsp; He asked if there were any further orders.&nbsp; Mrs. Pumphrey said there were none.</p>
 <p>With that, her servant&mdash;Richard R. Ewell, 30&mdash;developed an &ldquo;insane gleam&rdquo; in his eye and approached further&hellip;whereupon Mrs. Pumphrey noticed the .45 automatic in his hand. &nbsp;</p>
 <p>The chase&mdash;and fusillade of shots&mdash;began!&nbsp; Mrs. Pumphey fled through a bathroom and into an adjoining bedroom, through a hallway and down the stairs, but there&rsquo;s no running from the staff.&nbsp; They know the house better than you do.</p>
 <p>The mad pursuit and firearm blasts continued from room to room to room until Margaret managed to lock herself into a downstairs bedroom.&nbsp; Ewell fired several shots into the door to break the lock, but once he heard the window open, he ran around the house to catch her escaping.&nbsp; And catch her he did&mdash;as he climbed into the window, he shot her in the side as she ran screaming out the door. &nbsp;</p>
 <p>The screams alarmed neighbor Mrs. Johnstone, who came running (with her two maids in tow [also suitably armed?]) and Ewell fired upon them from the home&rsquo;s entryway&mdash;but Ewell, realizing that the alarm had been raised and his game discovered, put the barrel to his head and sent his brains all over the foyer he&rsquo;d kept so spotless the three months he&rsquo;d been under the Pumphrey&rsquo;s employ.</p>
-<p>Mrs. Margaret Pumphrey (could Kaufman &amp; Ryskind have scripted a name of greater puffery?) suffered more from shock and fright (as visions of <a href="https://pensive-torvalds-020d34.netlify.app/?p=2088" target="_blank" title="wrightwatch27">FLW</a>&rsquo;s <a href="https://www.pbs.org/flw/buildings/taliesin/taliesin_wright02.html" target="_blank" title="juliancarlton">former servant</a> surely flashed through her head) than from her injury; she was rushed to <a href="https://jpg3.lapl.org/pics32/00065893.jpg" target="_blank" title="HolRec">Hollywood Receiving</a> and was treated for the superficial wound and released. &nbsp;</p>
-<p>According to LeRoy Bird, with whom Ewell lived at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=4307+Hooper+Ave,+Los+Angeles,+CA+90011&#038;sll=37.0625,-95.677068&#038;sspn=63.215425,107.753906&#038;ie=UTF8&#038;ll=34.006566,-118.252158&#038;spn=0.008236,0.013154&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="EwellsPlace">4307 Hooper Avenue</a>, Philadelphia native Ewell was an industrious man of good character and habits and never had any previous trouble.&nbsp; Detective Lieutenant Mahoney contends that Ewell had probably been crazed by dope, especially as he&rsquo;d been out the night before and had acted strangely in the morning.</p>
+<p>Mrs. Margaret Pumphrey (could Kaufman &amp; Ryskind have scripted a name of greater puffery?) suffered more from shock and fright (as visions of <a href="https://1947project.com/?p=2088" target="_blank" title="wrightwatch27">FLW</a>&rsquo;s <a href="http://www.pbs.org/flw/buildings/taliesin/taliesin_wright02.html" target="_blank" title="juliancarlton">former servant</a> surely flashed through her head) than from her injury; she was rushed to <a href="http://jpg3.lapl.org/pics32/00065893.jpg" target="_blank" title="HolRec">Hollywood Receiving</a> and was treated for the superficial wound and released. &nbsp;</p>
+<p>According to LeRoy Bird, with whom Ewell lived at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=4307+Hooper+Ave,+Los+Angeles,+CA+90011&#038;sll=37.0625,-95.677068&#038;sspn=63.215425,107.753906&#038;ie=UTF8&#038;ll=34.006566,-118.252158&#038;spn=0.008236,0.013154&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="EwellsPlace">4307 Hooper Avenue</a>, Philadelphia native Ewell was an industrious man of good character and habits and never had any previous trouble.&nbsp; Detective Lieutenant Mahoney contends that Ewell had probably been crazed by dope, especially as he&rsquo;d been out the night before and had acted strangely in the morning.</p>
 <p>Ewell leaves a widow, Inez Ewell, in Kansas City.&nbsp; Because his death was self-inflicted, there was no inquest over the body.&nbsp; A small notebook was later found in Ewell&rsquo;s possessions, and it was greatly hoped by Captain of Detectives Slaughter to contain names of prominent Hollywood people and information about dope trafficking; but sadly for Slaughter, &ldquo;the only names in the book, the officer declares, are those of negresses and it is devoid of anything referring to narcotics or trade in the drugs.&rdquo;</p>
-<p>So why did Richard Ewell snap?&nbsp; If only we had some <a href="https://www.butlersandsigns.com/nebu6lisist.html" target="_blank" title="pumphreysdecoratingtastes">sign</a>.</p>
+<p>So why did Richard Ewell snap?&nbsp; If only we had some <a href="http://www.butlersandsigns.com/nebu6lisist.html" target="_blank" title="pumphreysdecoratingtastes">sign</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/02/good-find-is-hard-to-help/">Good Find is Hard to Help</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/02/good-find-is-hard-to-help/">Good Find is Hard to Help</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/02/good-find-is-hard-to-help/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/02/good-find-is-hard-to-help/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>I Know It When I See It&#8230;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/23/i-know-it-when-i-see-it/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/23/i-know-it-when-i-see-it/#respond</comments>
+		<link>https://1947project.com/2007/11/23/i-know-it-when-i-see-it/</link>
+					<comments>https://1947project.com/2007/11/23/i-know-it-when-i-see-it/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Fri, 23 Nov 2007 16:30:59 +0000</pubDate>
@@ -436,25 +436,25 @@ Hollywood</p>
 		<category><![CDATA[Joan Renner]]></category>
 		<category><![CDATA[obscenity]]></category>
 		<category><![CDATA[US Supreme Court]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2007/11/23/i-know-it-when-i-see-it/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2007/11/23/i-know-it-when-i-see-it/</guid>
 
-					<description><![CDATA[<p>November 12, 1927 Hollywood City prosecutors raided Bookmart, 5602 Hollywood Blvd, and busted 70 year old Charles F. Lewis for possessing, selling and distributing obscene literature. Police had received complaints that Lewis was selling suggestive literature and art to high school students. &#8220;The Sun Also Rises&#34;, &#8220;Elmer Gantry&#8221;, &#8220;The Jungle&#8221; or even the Bible could&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/23/i-know-it-when-i-see-it/">Continue reading <span class="screen-reader-text">I Know It When I See It&#8230;</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/23/i-know-it-when-i-see-it/">I Know It When I See It&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 12, 1927 Hollywood City prosecutors raided Bookmart, 5602 Hollywood Blvd, and busted 70 year old Charles F. Lewis for possessing, selling and distributing obscene literature. Police had received complaints that Lewis was selling suggestive literature and art to high school students. &#8220;The Sun Also Rises&#34;, &#8220;Elmer Gantry&#8221;, &#8220;The Jungle&#8221; or even the Bible could&#8230; <a class="more-link" href="https://1947project.com/2007/11/23/i-know-it-when-i-see-it/">Continue reading <span class="screen-reader-text">I Know It When I See It&#8230;</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/23/i-know-it-when-i-see-it/">I Know It When I See It&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="I Know It When I See It Headline" height="140" alt="I Know It When I See It Headline" src="//farm3.static.flickr.com/2026/1988207651_d3243e1290_o.jpg" width="293" border="0" /></p>
 <p>November 12, 1927 <br />Hollywood </p>
 <p>City prosecutors raided Bookmart, 5602 Hollywood Blvd, and busted 70 year old Charles F. Lewis for possessing, selling and distributing obscene literature. Police had received complaints that Lewis was selling suggestive literature and art to high school students. <img loading="lazy" title="The Jungle" height="223" alt="The Jungle" src="//farm3.static.flickr.com/2095/1989016472_d603df8d8f_o.jpg" width="145" align="right" border="0" /></p>
-<p>&ldquo;<a title="Ernest Hemingway" href="https://en.wikipedia.org/wiki/Ernest_Hemingway" target="_blank">The Sun Also Rises</a>&quot;, &ldquo;<a title="Sinclair Lewis" href="https://en.wikipedia.org/wiki/Sinclair_Lewis" target="_blank">Elmer Gantry</a>&rdquo;, &ldquo;<a title="Upton Sinclair" href="https://en.wikipedia.org/wiki/Upton_Sinclair" target="_blank">The Jungle</a>&rdquo; or even the Bible could have been among the twenty pounds of so-called vile literature seized by police, because over the years each of them had been banned. We don&rsquo;t know for sure what books were confiscated &ndash; the titles weren&rsquo;t given in the Los Angeles Times, but the paper reported that &ldquo;one particularly nauseating volume&rdquo; was allegedly rented by the day. Maybe it was &ldquo;Fanny Hill&rdquo; by <a title="John Cleland" href="https://en.wikipedia.org/wiki/John_Cleland" target="_blank">John Cleland</a>. </p>
-<p>Defining obscenity is no easy feat. Just wait thirty-seven years and then ask Supreme Court Justice <a title="Potter Stewart" href="https://en.wikipedia.org/wiki/Justice_Stewart" target="_blank">Potter Stewart</a>. A quote from his opinion in the obscenity case of <a title="Jacobellis v Ohio" href="https://en.wikipedia.org/wiki/Jacobellis_v._Ohio" target="_blank">Jacobellis v. Ohio</a> will become famous &ldquo;&hellip;hard-core pornography is hard to define, but <a title="I know it when I see it" href="https://en.wikipedia.org/wiki/I_know_it_when_I_see_it" target="_blank">I know it when I see it</a>&hellip;&rdquo;&nbsp;</p>
+<p>&ldquo;<a title="Ernest Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway" target="_blank">The Sun Also Rises</a>&quot;, &ldquo;<a title="Sinclair Lewis" href="http://en.wikipedia.org/wiki/Sinclair_Lewis" target="_blank">Elmer Gantry</a>&rdquo;, &ldquo;<a title="Upton Sinclair" href="http://en.wikipedia.org/wiki/Upton_Sinclair" target="_blank">The Jungle</a>&rdquo; or even the Bible could have been among the twenty pounds of so-called vile literature seized by police, because over the years each of them had been banned. We don&rsquo;t know for sure what books were confiscated &ndash; the titles weren&rsquo;t given in the Los Angeles Times, but the paper reported that &ldquo;one particularly nauseating volume&rdquo; was allegedly rented by the day. Maybe it was &ldquo;Fanny Hill&rdquo; by <a title="John Cleland" href="http://en.wikipedia.org/wiki/John_Cleland" target="_blank">John Cleland</a>. </p>
+<p>Defining obscenity is no easy feat. Just wait thirty-seven years and then ask Supreme Court Justice <a title="Potter Stewart" href="http://en.wikipedia.org/wiki/Justice_Stewart" target="_blank">Potter Stewart</a>. A quote from his opinion in the obscenity case of <a title="Jacobellis v Ohio" href="http://en.wikipedia.org/wiki/Jacobellis_v._Ohio" target="_blank">Jacobellis v. Ohio</a> will become famous &ldquo;&hellip;hard-core pornography is hard to define, but <a title="I know it when I see it" href="http://en.wikipedia.org/wiki/I_know_it_when_I_see_it" target="_blank">I know it when I see it</a>&hellip;&rdquo;&nbsp;</p>
 <p>By the end of the month Lewis will have decided to plead guilty, and he was given the choice of spending 100 days in City Jail or paying a $250 ($2,995.55 USD 2007) fine. Books, erotic or otherwise, are in short supply in lockup. Lewis opted to pay the fine so that he could stay at home and read. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/23/i-know-it-when-i-see-it/">I Know It When I See It&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/23/i-know-it-when-i-see-it/">I Know It When I See It&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/23/i-know-it-when-i-see-it/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/23/i-know-it-when-i-see-it/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>real estate &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/real-estate-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/real-estate-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>real estate &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Streetcar Named Detention</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/11/a-streetcar-named-detention/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/11/a-streetcar-named-detention/#respond</comments>
+		<link>https://1947project.com/2007/06/11/a-streetcar-named-detention/</link>
+					<comments>https://1947project.com/2007/06/11/a-streetcar-named-detention/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 11 Jun 2007 02:23:54 +0000</pubDate>
@@ -46,35 +46,35 @@
 		<category><![CDATA[The wacko file]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 11, 1927 Hollywood A man entered the Hollywood branch of the California Bank at 3900 Sunset Blvd. early this morning to make a withdrawal &#8211; at gunpoint. Brandishing a revolver, the robber forced bank manager P.A. Beaton, assistant manager C.R. Gray, and Deputy United States Marshal Dave Reynolds into a back room, locked them&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/11/a-streetcar-named-detention/">Continue reading <span class="screen-reader-text">A Streetcar Named Detention</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/11/a-streetcar-named-detention/">A Streetcar Named Detention</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 11, 1927 Hollywood A man entered the Hollywood branch of the California Bank at 3900 Sunset Blvd. early this morning to make a withdrawal &#8211; at gunpoint. Brandishing a revolver, the robber forced bank manager P.A. Beaton, assistant manager C.R. Gray, and Deputy United States Marshal Dave Reynolds into a back room, locked them&#8230; <a class="more-link" href="https://1947project.com/2007/06/11/a-streetcar-named-detention/">Continue reading <span class="screen-reader-text">A Streetcar Named Detention</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/11/a-streetcar-named-detention/">A Streetcar Named Detention</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="294" height="129" border="0" src="//farm2.static.flickr.com/1080/530099179_ac98021c1f.jpg" alt="bandit captured" title="bandit captured" /></p>
 <p>June 11, 1927 <br />Hollywood </p>
-<p>A man entered the Hollywood branch of the California Bank at <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=3900+Sunset+Blvd,+Hollywood,+CA&#038;sll=37.0625,-95.677068&#038;sspn=42.631141,74.707031&#038;ie=UTF8&#038;ll=34.091976,-118.279667&#038;spn=0.010929,0.018239&#038;z=16&#038;iwloc=addr&#038;om=1" title="3900 Sunset Blvd">3900 Sunset Blvd</a>. early this morning to make a withdrawal &ndash; at gunpoint. Brandishing a revolver, the robber forced bank manager P.A. Beaton, assistant manager C.R. Gray, and Deputy United States Marshal Dave Reynolds into a back room, locked them in, and then stuffed a sack with $4000 ($47,514.02 USD 2007) in cash. </p>
+<p>A man entered the Hollywood branch of the California Bank at <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=3900+Sunset+Blvd,+Hollywood,+CA&#038;sll=37.0625,-95.677068&#038;sspn=42.631141,74.707031&#038;ie=UTF8&#038;ll=34.091976,-118.279667&#038;spn=0.010929,0.018239&#038;z=16&#038;iwloc=addr&#038;om=1" title="3900 Sunset Blvd">3900 Sunset Blvd</a>. early this morning to make a withdrawal &ndash; at gunpoint. Brandishing a revolver, the robber forced bank manager P.A. Beaton, assistant manager C.R. Gray, and Deputy United States Marshal Dave Reynolds into a back room, locked them in, and then stuffed a sack with $4000 ($47,514.02 USD 2007) in cash. </p>
 <p>At the same time the bandit was hurriedly jamming money into a bag, Marshal M.A. Duarte was waiting outside wondering what was keeping his fellow U.S. Marshal from their meeting. Much to Duarte&rsquo;s shock, a few moments later he encountered a man exiting the bank clutching a bulging sack of money in one hand and a revolver in the other. </p>
 <p><img loading="lazy" width="240" height="188" border="0" align="right" src="//farm1.static.flickr.com/196/530079237_ef2aef113f_m.jpg" alt="streetcar" title="streetcar" /></p>
 <p>For a split second their eyes locked &ndash; and then the thief saw Marshal Duarte reach into his pocket. He quickly realized Duarte&rsquo;s intent and fled down the street with the marshal in hot pursuit. Midway down the block Duarte began to tire. Huffing and puffing, he sputtered to a stop and fired two shots. At the crack of the first shot the bandit flung his booty to the ground. When the second shot whizzed past his head he threw down his gun. Duarte fired a third shot just as the fleeing felon was about to board a streetcar and escape. This time the man raised his hands to surrender. </p>
-<p>The suspect gave his name as Gus Palovack <em>aka</em> F.J. Palivas, of <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1017+Monterey+Rd,+Glendale,+Los+Angeles,+California+91206,+United+States&#038;sll=34.107825,-118.323097&#038;sspn=0.174823,0.291824&#038;ie=UTF8&#038;cd=2&#038;ll=34.155994,-118.240335&#038;spn=0.01092,0.018239&#038;z=16&#038;iwloc=addr&#038;om=1" title="1017 Monterey Road">1017 Monterey Road</a>. </p>
+<p>The suspect gave his name as Gus Palovack <em>aka</em> F.J. Palivas, of <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1017+Monterey+Rd,+Glendale,+Los+Angeles,+California+91206,+United+States&#038;sll=34.107825,-118.323097&#038;sspn=0.174823,0.291824&#038;ie=UTF8&#038;cd=2&#038;ll=34.155994,-118.240335&#038;spn=0.01092,0.018239&#038;z=16&#038;iwloc=addr&#038;om=1" title="1017 Monterey Road">1017 Monterey Road</a>. </p>
 <p><img loading="lazy" width="113" height="240" border="0" align="left" src="//farm2.static.flickr.com/1119/530099199_d4bd19bfea_m.jpg" alt="Gus Palovack" title="Gus Palovack" />One of the most perplexing aspects of the case, other than why he chose a streetcar as his means of escape, is what drove Gus to bank robbery. Known about town as a realtor with political connections, Gus owns property and has several accounts in a number of downtown banks. </p>
-<p>Hard work and a knack for saving money may be the reasons for the bank accounts and real estate holdings &ndash; but police don&rsquo;t think so. They believe that Gus has recently made similar withdrawals from other local banks. Gus is charged with the robbery of the California Bank, and two robberies of the <em>same</em> branch of the Commercial National Bank located at <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1572+Sunset+Blvd,+Hollywood,+CA&#038;sll=34.091976,-118.279667&#038;sspn=0.010929,0.018239&#038;ie=UTF8&#038;om=1&#038;ll=34.107825,-118.323097&#038;spn=0.174823,0.291824&#038;z=12&#038;iwloc=cent" title="1572 Sunset Blvd">1572 Sunset Blvd</a>. Bail is set at $25,000 ($296,962.64 USD 2007). </p>
+<p>Hard work and a knack for saving money may be the reasons for the bank accounts and real estate holdings &ndash; but police don&rsquo;t think so. They believe that Gus has recently made similar withdrawals from other local banks. Gus is charged with the robbery of the California Bank, and two robberies of the <em>same</em> branch of the Commercial National Bank located at <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1572+Sunset+Blvd,+Hollywood,+CA&#038;sll=34.091976,-118.279667&#038;sspn=0.010929,0.018239&#038;ie=UTF8&#038;om=1&#038;ll=34.107825,-118.323097&#038;spn=0.174823,0.291824&#038;z=12&#038;iwloc=cent" title="1572 Sunset Blvd">1572 Sunset Blvd</a>. Bail is set at $25,000 ($296,962.64 USD 2007). </p>
 <p>Gus either abandoned his brief career as a bank robber or became more adept at it, because there are no further mentions of his exploits in the Los Angeles Times after June 1927. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/11/a-streetcar-named-detention/">A Streetcar Named Detention</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/11/a-streetcar-named-detention/">A Streetcar Named Detention</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/11/a-streetcar-named-detention/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/11/a-streetcar-named-detention/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dislocation, Dislocation, Dislocation</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/10/dislocation-dislocation-dislocation/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/10/dislocation-dislocation-dislocation/#comments</comments>
+		<link>https://1947project.com/2006/11/10/dislocation-dislocation-dislocation/</link>
+					<comments>https://1947project.com/2006/11/10/dislocation-dislocation-dislocation/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 10 Nov 2006 15:33:04 +0000</pubDate>
@@ -86,42 +86,42 @@
 		<category><![CDATA[developers]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 10, 1907 South Pasadena What sort of monument do we leave for real estate developers? For John B. Althouse, who built hundreds of homes in the Wilshire district, as well as the West Adams district and the San Gabriel Valley, the answer might be nondescript offices and vacant lots. Hereâ€™s the house he built&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/dislocation-dislocation-dislocation/">Continue reading <span class="screen-reader-text">Dislocation, Dislocation, Dislocation</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/dislocation-dislocation-dislocation/">Dislocation, Dislocation, Dislocation</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 10, 1907 South Pasadena What sort of monument do we leave for real estate developers? For John B. Althouse, who built hundreds of homes in the Wilshire district, as well as the West Adams district and the San Gabriel Valley, the answer might be nondescript offices and vacant lots. Hereâ€™s the house he built&#8230; <a class="more-link" href="https://1947project.com/2006/11/10/dislocation-dislocation-dislocation/">Continue reading <span class="screen-reader-text">Dislocation, Dislocation, Dislocation</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/10/dislocation-dislocation-dislocation/">Dislocation, Dislocation, Dislocation</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Nov. 10, 1907<br />
 South Pasadena</p>
 </p>
 <p>What sort of monument do we leave for real estate developers? For John B. Althouse, who built hundreds of homes in the Wilshire district, as well as the West Adams district and the San Gabriel Valley, the answer might be nondescript offices and vacant lots.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1110B.jpg"><img src="//www.lmharnisch.com/images/1907_1110B.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1110B.jpg"><img src="//www.lmharnisch.com/images/1907_1110B.jpg" alt="" border="0" /></a></p>
 </p>
 <p>Hereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the house he built for himself at Oxley and Fremont in South Pasadena, a few blocks from my home. In fact, I pass the corner every day.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1110A.jpg"><img src="//www.lmharnisch.com/images/1907_1110A.jpg" alt="" border="0" /></a>	</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1110A.jpg"><img src="//www.lmharnisch.com/images/1907_1110A.jpg" alt="" border="0" /></a>	</p>
 <p>Hereâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s another one he built on Manhattan Place. </p>
 </p>
 <p>Donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t rush out to look for them, though. Theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re gone, although the wall around Althouseâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s home survived. </p>
 </p>
-<p>Born in Baltimore, Althouse died in July 1939 at the age of 72 at his home, <a href="/web/20061129154550/https://www.zillow.com/HomeDetails.htm?city=Los%20Angeles&amp;state=CA&amp;zprop=20780263">230 S. Gramercy Place</a>. He arrived in Los Angeles in 1886 and spent 37 years in the real estate business after operating a fruit store at 1<sup>st</sup> and Main Streets for many years. He constructed hundreds of homes in the Wilshire district and was one of the first members of the Los Angeles Realty Board. </p>
-<p>Whatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s this? One has survived in the West Adams district, <a href="https://clkrep.lacity.org/councilfiles/06-0096_ca_2-14-06.pdf">1415 S. Gramercy Place</a>. <a href="https://cityplanning.lacity.org/MeetingsnHearings/dsp_viewFileDetail.cfm?filename=AAAHbZAAFAAAHmzAAI">Also read here</a>. <a href="/https://clkrep.lacity.org/councilfiles/06-0096_rpt_chc_8-3-06.pdf">And here</a>. <a href="https://www.zillow.com/aerial/DualMapPage.htm?zpid=20602714">Zillow link</a>.	</p>
-<p><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p>Born in Baltimore, Althouse died in July 1939 at the age of 72 at his home, <a href="/web/20061129154550/http://www.zillow.com/HomeDetails.htm?city=Los%20Angeles&amp;state=CA&amp;zprop=20780263">230 S. Gramercy Place</a>. He arrived in Los Angeles in 1886 and spent 37 years in the real estate business after operating a fruit store at 1<sup>st</sup> and Main Streets for many years. He constructed hundreds of homes in the Wilshire district and was one of the first members of the Los Angeles Realty Board. </p>
+<p>Whatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s this? One has survived in the West Adams district, <a href="http://clkrep.lacity.org/councilfiles/06-0096_ca_2-14-06.pdf">1415 S. Gramercy Place</a>. <a href="http://cityplanning.lacity.org/MeetingsnHearings/dsp_viewFileDetail.cfm?filename=AAAHbZAAFAAAHmzAAI">Also read here</a>. <a href="/http://clkrep.lacity.org/councilfiles/06-0096_rpt_chc_8-3-06.pdf">And here</a>. <a href="http://www.zillow.com/aerial/DualMapPage.htm?zpid=20602714">Zillow link</a>.	</p>
+<p><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 e-mail: lmharnisch (AT) gmail.com</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/web/20061129154550/https://www.lmharnisch.com/images/althouse.jpg"><img src="/web/20061129154550im_/https://www.lmharnisch.com/images/althouse.jpg" alt="" border="0" /></a>Update: Further research reveals the home of Daniel T. Althouse, a partner in Althouse Brothers, at <a href="https://www.zillow.com/aerial/DualMapPage.htm?zpid=20595511">2125 S. 4th Ave.</a>, where he died of blood poisoning in 1914.
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/web/20061129154550/http://www.lmharnisch.com/images/althouse.jpg"><img src="/web/20061129154550im_/http://www.lmharnisch.com/images/althouse.jpg" alt="" border="0" /></a>Update: Further research reveals the home of Daniel T. Althouse, a partner in Althouse Brothers, at <a href="http://www.zillow.com/aerial/DualMapPage.htm?zpid=20595511">2125 S. 4th Ave.</a>, where he died of blood poisoning in 1914.
 </p>
 <p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/dislocation-dislocation-dislocation/">Dislocation, Dislocation, Dislocation</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/10/dislocation-dislocation-dislocation/">Dislocation, Dislocation, Dislocation</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/10/dislocation-dislocation-dislocation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/10/dislocation-dislocation-dislocation/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Curb Appeal</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/#respond</comments>
+		<link>https://1947project.com/2006/11/03/curb-appeal/</link>
+					<comments>https://1947project.com/2006/11/03/curb-appeal/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 03 Nov 2006 14:59:41 +0000</pubDate>
@@ -131,15 +131,15 @@ e-mail: lmharnisch (AT) gmail.com</p>
 		<category><![CDATA[real estate]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 3, 1907 Los Angeles Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on Van Ness just south of Pico. According to The Times, the two-story house (with basement) has a first floor divided into a reception hall with an oak staircase leading upstairs. The living room features built-in bookcases and a&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/">Continue reading <span class="screen-reader-text">Curb Appeal</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 3, 1907 Los Angeles Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on Van Ness just south of Pico. According to The Times, the two-story house (with basement) has a first floor divided into a reception hall with an oak staircase leading upstairs. The living room features built-in bookcases and a&#8230; <a class="more-link" href="https://1947project.com/2006/11/03/curb-appeal/">Continue reading <span class="screen-reader-text">Curb Appeal</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1103.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1103.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1103.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1103.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 3, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=W+Pico+Blvd+%26+S+Van+Ness+Ave,+Los+Angeles,+CA+90019&#038;ie=UTF8&amp;amp;amp;om=0&#038;z=18&amp;ll=34.046926,-118.315485&#038;spn=0.001253,0.004206&amp;t=h&#038;iwloc=addr">Van Ness just south of Pico</a></span><span style="font-size:100%;">.<br />
+</span><span style="font-size:100%;">Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=W+Pico+Blvd+%26+S+Van+Ness+Ave,+Los+Angeles,+CA+90019&#038;ie=UTF8&amp;amp;amp;om=0&#038;z=18&amp;ll=34.046926,-118.315485&#038;spn=0.001253,0.004206&amp;t=h&#038;iwloc=addr">Van Ness just south of Pico</a></span><span style="font-size:100%;">.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">According to The Times, the two-story house (with basement) has a first floor divided into a reception hall with an oak staircase leading upstairs. The living room features built-in bookcases and a massive brick mantel. </span><span style="font-size:100%;">The dining room has a built-in buffet and china closet, with a pantry and kitchen.<br />
 </span><span style="font-size:100%;"><br />
@@ -149,18 +149,18 @@ e-mail: lmharnisch (AT) gmail.com</p>
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The cost? $5,000 ($102,617.85 USD 2005) a bargain by today</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/03/curb-appeal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dramatic Disclosures Come After Girl Cashier&#8217;s Death</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/#respond</comments>
+		<link>https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/</link>
+					<comments>https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 20 Apr 2006 18:24:22 +0000</pubDate>
@@ -177,24 +177,24 @@ e-mail: lmharnisch (AT) gmail.com</p>
 		<category><![CDATA[chloroform]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 20, 1907 Los Angeles&#160; Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in New Calvary. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety. Alice was a longtime&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Continue reading <span class="screen-reader-text">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 20, 1907 Los Angeles&#160; Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in New Calvary. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety. Alice was a longtime&#8230; <a class="more-link" href="https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Continue reading <span class="screen-reader-text">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img border="0" src="//static.flickr.com/55/132477617_eb662b03cb.jpg" /></p>
 <p>April 20, 1907<br /> Los Angeles&nbsp;</p>
-<p>Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=whittier+blvd.+and+s.+downey+road,+Los+Angeles,+CA&#038;ll=34.025134,-118.180103&#038;spn=0.014334,0.040298&#038;om=1" target="_blank">New Calvary</a>. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety.</p>
-<p>Alice was a longtime cashier at the <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=221+S+Broadway,+Los+Angeles,+CA+90012&#038;ll=34.053406,-118.247094&#038;spn=0.014329,0.040298&#038;om=1" target="_blank">Ville de Paris</a> dry goods emporium on Broadway, between 2nd and 3rd Streets. At some stage in her career, she developed a system by which she could bring home with her a portion of the day&#8217;s receipts. In recent months, it is believed this was as much as $300 a day. A clever girl, she invested her takings in real estate, and built a handsome portfolio.</p>
+<p>Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=whittier+blvd.+and+s.+downey+road,+Los+Angeles,+CA&#038;ll=34.025134,-118.180103&#038;spn=0.014334,0.040298&#038;om=1" target="_blank">New Calvary</a>. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety.</p>
+<p>Alice was a longtime cashier at the <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=221+S+Broadway,+Los+Angeles,+CA+90012&#038;ll=34.053406,-118.247094&#038;spn=0.014329,0.040298&#038;om=1" target="_blank">Ville de Paris</a> dry goods emporium on Broadway, between 2nd and 3rd Streets. At some stage in her career, she developed a system by which she could bring home with her a portion of the day&#8217;s receipts. In recent months, it is believed this was as much as $300 a day. A clever girl, she invested her takings in real estate, and built a handsome portfolio.</p>
 <p>But her ingrained nervousness and peculiar disposition&#8211;she did not care for men, and perhaps not coincidentally suffered ovarian tumors, neuralgia and insomnia&#8211;proved the thief&#8217;s undoing. She found it necessary to escape to Catalina to rest following an operation, although she must have realized that her absense from the place of her crimes would make discovery likely. And that is precisely what happened.</p>
-<p>Alice returned to her home at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=226+W+Jefferson+Blvd,+Los+Angeles,+CA+90007&#038;ll=34.020973,-118.275332&#038;spn=0.014335,0.040298&#038;om=1" target="_blank">226 West Jefferson</a>, distraught from a sustained bout of sleeplessness and the anxiety of meeting the Ville de Paris&#8217; lawyers. Although her real estate holdings were now sufficiently valuable to cover any restitution required and more, she languished in a state of abject horror.</p>
+<p>Alice returned to her home at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=226+W+Jefferson+Blvd,+Los+Angeles,+CA+90007&#038;ll=34.020973,-118.275332&#038;spn=0.014335,0.040298&#038;om=1" target="_blank">226 West Jefferson</a>, distraught from a sustained bout of sleeplessness and the anxiety of meeting the Ville de Paris&#8217; lawyers. Although her real estate holdings were now sufficiently valuable to cover any restitution required and more, she languished in a state of abject horror.</p>
 <p>On Sunday evening, Alice told her sister-in-law that she intended to take a sleeping powder, but in fact she took laudanum and chloroform, two drugs with which she had significant past experience. This time, the dose was too much for her weakened system, and the girl lingered until Wednesday before expiring. Her doctors stress that although it might look like a suicide, the true cause was congestion of the brain&#8211;the same organic disorder that lead her to steal in the first place. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>charles schultz &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/charles-schultz/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/charles-schultz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:40:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>charles schultz &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>I just chopped up someone shaped like a cookie&#8230;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/#comments</comments>
+		<link>https://1947project.com/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/</link>
+					<comments>https://1947project.com/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 27 Jun 2007 02:17:19 +0000</pubDate>
@@ -44,17 +44,17 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Presented for your consideration, a recently unearthed example of the kind of disgusting collaborative work that Kim and Nathan did when they didn&#8217;t have laptops at their disposal&#8230; a little tidbit we titled &#34;Pee-Nuts.&#34; Click to see this mid &#8217;90s artifact in all its grim beauty, or don&#8217;t.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/">I just chopped up someone shaped like a cookie&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/">I just chopped up someone shaped like a cookie&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Presented for your consideration, a recently unearthed example of the kind of disgusting collaborative work that Kim and Nathan did when they didn&#8217;t have laptops at their disposal&#8230; a little tidbit we titled &quot;Pee-Nuts.&quot; Click to see this mid &#8217;90s artifact in all its grim beauty, or don&#8217;t.</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/634848551/"><img loading="lazy" width="368" height="500" border="0" alt="Pee-Nuts by Kim Cooper and Nathan Marsak" src="//farm2.static.flickr.com/1154/634848551_aaa2aad20b.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/634848551/"><img loading="lazy" width="368" height="500" border="0" alt="Pee-Nuts by Kim Cooper and Nathan Marsak" src="//farm2.static.flickr.com/1154/634848551_aaa2aad20b.jpg" /></a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/">I just chopped up someone shaped like a cookie&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/">I just chopped up someone shaped like a cookie&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/27/i-just-chopped-up-someone-shaped-like-a-cookie/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

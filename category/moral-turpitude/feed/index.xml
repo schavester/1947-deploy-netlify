@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>moral turpitude &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/moral-turpitude/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/moral-turpitude/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:43:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>moral turpitude &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>In the Line of Duty</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/#respond</comments>
+		<link>https://1947project.com/2008/03/15/in-the-line-of-duty-2/</link>
+					<comments>https://1947project.com/2008/03/15/in-the-line-of-duty-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:17:06 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[Volstead Act]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 16, 1927 Los Angeles If the drys are gonna catch the wets, theyÃ¢â‚¬â„¢re gonna have to wet themselves. So to speak. At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/">Continue reading <span class="screen-reader-text">In the Line of Duty</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 16, 1927 Los Angeles If the drys are gonna catch the wets, theyÃ¢â‚¬â„¢re gonna have to wet themselves. So to speak. At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">Continue reading <span class="screen-reader-text">In the Line of Duty</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,24 +59,24 @@ Los Angeles</p>
 <p>
 At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession I could more easily get bootleggers to believe that I was handling booze and therefore make it easier to arrest bootleggers.Ã¢â‚¬Â</p>
 <p>Uh-<em>huh</em>.</p>
-<p>Wyncoop is on trial because he turned twenty-nine bottles of liquor to his own use, instead of turning it into the government warehouse.  CanÃ¢â‚¬â„¢t those government know-nothings see that you need that hooch to go under <a href="https://www.youtube.com/watch?v=wFQUceaB8O4" target="_blank" title="dontcallhimlarry">deep cover</a>?  That he only took home that <a href="https://www.youtube.com/watch?v=KtRtkzNKcFU" target="_blank" title="jjl">demon rum</a> in the solemn performance of his duty?</p>
+<p>Wyncoop is on trial because he turned twenty-nine bottles of liquor to his own use, instead of turning it into the government warehouse.  CanÃ¢â‚¬â„¢t those government know-nothings see that you need that hooch to go under <a href="http://www.youtube.com/watch?v=wFQUceaB8O4" target="_blank" title="dontcallhimlarry">deep cover</a>?  That he only took home that <a href="http://www.youtube.com/watch?v=KtRtkzNKcFU" target="_blank" title="jjl">demon rum</a> in the solemn performance of his duty?</p>
 <p>(Convicted by a jury of illegal conversion, he was given a short term in the county jail.)</p>
 <p>
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/15/in-the-line-of-duty-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/#respond</comments>
+		<link>https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/</link>
+					<comments>https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Wed, 12 Mar 2008 00:57:56 +0000</pubDate>
@@ -90,11 +90,11 @@ At the trial of John H. Wyncoop, former chief field agent for the boys of the Ca
 		<category><![CDATA[phallic laws]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 11, 1927 Los Angeles Fifteen-year-old Lloyd Alley, arrested today in Los Angeles, is said to have made statements &#8220;tantamount to a confession&#8221; of his involvement with the &#8220;Sacred School of the Great White Brotherhood,&#8221; an Oakland-based &#8220;love cult&#8221; with branches in San Francisco, San Jose, Portland, Chicago, and Texas. At the same time the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">Continue reading <span class="screen-reader-text">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 11, 1927 Los Angeles Fifteen-year-old Lloyd Alley, arrested today in Los Angeles, is said to have made statements &#8220;tantamount to a confession&#8221; of his involvement with the &#8220;Sacred School of the Great White Brotherhood,&#8221; an Oakland-based &#8220;love cult&#8221; with branches in San Francisco, San Jose, Portland, Chicago, and Texas. At the same time the&#8230; <a class="more-link" href="https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">Continue reading <span class="screen-reader-text">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2327840550/" title="Love Cultists by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2138/2327840550_7c9cd736e8_o.jpg" width="253" height="474" alt="Love Cultists" align="left"/></a>March 11, 1927<br />
+<div><a href="http://www.flickr.com/photos/lperil/2327840550/" title="Love Cultists by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2138/2327840550_7c9cd736e8_o.jpg" width="253" height="474" alt="Love Cultists" align="left"/></a>March 11, 1927<br />
 Los Angeles</p>
 <p>Fifteen-year-old Lloyd Alley, arrested today in Los Angeles, is said to have made statements &#8220;tantamount to a confession&#8221; of his involvement with the &#8220;Sacred School of the Great White Brotherhood,&#8221; an Oakland-based &#8220;love cult&#8221; with branches in San Francisco, San Jose, Portland, Chicago, and Texas. At the same time the teenager was spilling the beans in L.A., San Francisco police raided the cult&#8217;s Bay Area headquarters, where they found an &#8220;effigy of a woman with a sword piercing her heart, incoherent messages, cards bearing linked names of males and females and other equally weird evidence.&#8221; Cultists are said to have &#8220;encouraged free love in its most exotic forms&#8221; in its attempts to breed a &#8220;superman&#8221; and &#8220;superwoman.&#8221; &#8220;Mystical marriages&#8221; were arranged and &#8220;the sacred phallic laws&#8221; studied. Also in custody in Los Angeles is Russell Alley (Lloyd&#8217;s father, cult name &#8220;Omar&#8221;). Cult founder and high priestess, Mrs. Gertrude Wright (&#8220;Zareda&#8221; to her followers), is being held in Oakland, along with her disciple, Irma Gibbs (&#8220;Ermengarde,&#8221; a domestic in the Wright home). All were charged with contributing to the delinquency of minors:  Lloyd Alley, plus two young women, Thelma Reid, 17, and Caroline Merwin, 18. </p>
 <p>Lloyd Alley and Irma Gibbs both made confessions said to &#8220;be reeking with unprintable details,&#8221; though the paper managed to squeeze in a mention of two &#8220;new Messiah&#8221; ceremonials Lloyd performed with Caroline Merwin. Caroline (whose stepmother&#8217;s complaint set the raid in motion) was quite the little minx:  when she appeared in juvenile court later in the week she relished telling the judge that she wore only &#8220;filmy underthings&#8221; during her initiation ceremony, and that her &#8220;vibration robes&#8221; were scanty as well. When she &#8220;admitted intimacies with Lloyd Alley,&#8221; the two of them laughed until the judge admonished them to be quiet. </p>
@@ -106,18 +106,18 @@ Los Angeles</p>
 <p>Caroline Merwin was eventually released into her stepmother&#8217;s custody. Lloyd Alley was remanded into the custody of the Juvenile Detention Home and was later made a ward of the court. In May 1927, a jury deliberated for ten minutes before it found Russell Alley guilty of contributing to the delinquency of minors. Gertrude Wright and Irma Gibbs flew the coop before they could be tried; they remain at large.
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Candy Man Can</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/03/the-candy-man-can/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/03/the-candy-man-can/#respond</comments>
+		<link>https://1947project.com/2008/03/03/the-candy-man-can/</link>
+					<comments>https://1947project.com/2008/03/03/the-candy-man-can/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 03 Mar 2008 18:34:23 +0000</pubDate>
@@ -129,8 +129,8 @@ Los Angeles</p>
 		<category><![CDATA[The wacko file]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 3, 1927 Los Angeles &#34;Who can take a sunrise, Sprinkle it with dew, Cover it in chocolate and a miracle or two? The candyman, the candyman can, The candyman can &#8217;cause he mixes it with love and makes the world taste good.&#34; When local school children crave a hand full of gum drops and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/03/the-candy-man-can/">Continue reading <span class="screen-reader-text">The Candy Man Can</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/03/the-candy-man-can/">The Candy Man Can</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 3, 1927 Los Angeles &#34;Who can take a sunrise, Sprinkle it with dew, Cover it in chocolate and a miracle or two? The candyman, the candyman can, The candyman can &#8217;cause he mixes it with love and makes the world taste good.&#34; When local school children crave a hand full of gum drops and&#8230; <a class="more-link" href="https://1947project.com/2008/03/03/the-candy-man-can/">Continue reading <span class="screen-reader-text">The Candy Man Can</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/03/the-candy-man-can/">The Candy Man Can</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -149,7 +149,7 @@ The candyman, the candyman can,<br />
 The candyman can &#8217;cause he mixes it with love and makes the world taste good.&quot;
 </p>
 <p>
-When local school children crave a hand full of gum drops and a pint of whiskey, where can they go? Rumor has it that if they visit Frank BelioiÃ¢â‚¬â„¢s candy store at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=5973+South+Broadway,+Los+Angeles,+CA&amp;sll=34.010835,-118.231087&amp;sspn=0.016862,0.046778&amp;ie=UTF8&amp;ll=33.986534,-118.278315&amp;spn=0.008433,0.023389&amp;t=h&amp;z=16" target="_blank" title="5973 South Broadway">5973 South Broadway</a>, they may leave with a few new cavities and a major buzz.
+When local school children crave a hand full of gum drops and a pint of whiskey, where can they go? Rumor has it that if they visit Frank BelioiÃ¢â‚¬â„¢s candy store at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=5973+South+Broadway,+Los+Angeles,+CA&amp;sll=34.010835,-118.231087&amp;sspn=0.016862,0.046778&amp;ie=UTF8&amp;ll=33.986534,-118.278315&amp;spn=0.008433,0.023389&amp;t=h&amp;z=16" target="_blank" title="5973 South Broadway">5973 South Broadway</a>, they may leave with a few new cavities and a major buzz.
 </p>
 <p>
 Sgt. Childers was in charge of the squad that raided the local sweets shop, and revealed in court that although the police department had reports that Frank was selling liquor to minors, they had failed to produce evidence against him.
@@ -165,18 +165,18 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/03/the-candy-man-can/">The Candy Man Can</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/03/the-candy-man-can/">The Candy Man Can</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/03/the-candy-man-can/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/03/the-candy-man-can/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Internet of Yesteryear</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/#respond</comments>
+		<link>https://1947project.com/2008/02/10/the-internet-of-yesteryear/</link>
+					<comments>https://1947project.com/2008/02/10/the-internet-of-yesteryear/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 10 Feb 2008 18:35:51 +0000</pubDate>
@@ -188,30 +188,30 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[Razzberry]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 10, 1927Los Angeles Ho!&#160; Wuxtry! Those mockery-making purveyors of pasquinade Pi Delta Epsilon are at it again&#8212;it&#8217;s the new issue of the Razzberry!&#160; Not to be confused with a Bruinite&#8217;s Hell&#8217;s Bells, the Razzberry is the Trojaninny&#8217;s main road to mirth, and boulevard to bellylaughs! &#160; Yes, the new ish of USC lampoon rag&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/">Continue reading <span class="screen-reader-text">The Internet of Yesteryear</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 10, 1927Los Angeles Ho!&#160; Wuxtry! Those mockery-making purveyors of pasquinade Pi Delta Epsilon are at it again&#8212;it&#8217;s the new issue of the Razzberry!&#160; Not to be confused with a Bruinite&#8217;s Hell&#8217;s Bells, the Razzberry is the Trojaninny&#8217;s main road to mirth, and boulevard to bellylaughs! &#160; Yes, the new ish of USC lampoon rag&#8230; <a class="more-link" href="https://1947project.com/2008/02/10/the-internet-of-yesteryear/">Continue reading <span class="screen-reader-text">The Internet of Yesteryear</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><img loading="lazy" width="304" height="500" border="0" align="left" src="//farm3.static.flickr.com/2050/2250027068_80833548c1_o.gif" alt="readallaboutit" title="readallaboutit" />February 10, 1927<br />Los Angeles</p>
 <p>Ho!&nbsp; Wuxtry!</p>
-<p>Those mockery-making purveyors of pasquinade <a href="https://en.wikipedia.org/wiki/Society_of_Collegiate_Journalists" target="_blank" title="deliciousPi">Pi Delta Epsilon</a> are at it again&mdash;it&rsquo;s the new issue of the Razzberry!&nbsp; Not to be confused with a Bruinite&rsquo;s <a href="https://www.ulwaf.com/Daily-Bruin-History/04_Humor.html" target="_blank" title="HellsBells">Hell&rsquo;s Bells</a>, the Razzberry is the Trojaninny&rsquo;s main road to mirth, and boulevard to bellylaughs! &nbsp;</p>
+<p>Those mockery-making purveyors of pasquinade <a href="http://en.wikipedia.org/wiki/Society_of_Collegiate_Journalists" target="_blank" title="deliciousPi">Pi Delta Epsilon</a> are at it again&mdash;it&rsquo;s the new issue of the Razzberry!&nbsp; Not to be confused with a Bruinite&rsquo;s <a href="http://www.ulwaf.com/Daily-Bruin-History/04_Humor.html" target="_blank" title="HellsBells">Hell&rsquo;s Bells</a>, the Razzberry is the Trojaninny&rsquo;s main road to mirth, and boulevard to bellylaughs! &nbsp;</p>
 <p>Yes, the new ish of USC lampoon rag The Razzberry is out, and you should pick one up.&nbsp; You&rsquo;ll know the rag by its scent of scandal and journalistic tinge of yellow.&nbsp; <em>And</em> by those gents dressed as prison inmates hawking &#8217;em!&nbsp; (As jailbirds stand, you see, in direct opposition of all that college and higher education hold dear, these lettered loons gave gab garbed as hostages&hellip;of hilarity!)</p>
 <p>But be stout of heart&hellip;&rdquo;Stories range from an expos&eacute; of supposed corruption to accounts of wild orgies staged in fraternity houses.&rdquo;&nbsp; </p>
-<p>I&rsquo;m sure those stories were just somethin&rsquo;.&nbsp; Of course reference to the fraternal <em>wild orgy</em> failed to carry the same import eighty years ago as it does to-day.&nbsp; And the cub reporter of USC&#8217;s 1927 scandal sheet could only conjecture that in the future, there&#8217;d <a href="https://www.bruinsnation.com/story/2006/6/26/113925/426" target="_blank" title="dontgetmestartedonthehousingscandal">be</a> <a href="https://blogging.la/archives/2006/05/post_4.phtml" target="_blank" title="goodtimes">no</a> <a href="https://boifromtroy.com/?p=3797" target="_blank" title="buthisminorwashomeec">lack</a> <a href="https://boifromtroy.com/?p=5387" target="_blank" title="kaykyserskollegeofnonconsensualknowledge">of</a> <a href="https://boifromtroy.com/?p=2800" target="_blank" title="highereducation">diverting</a> <a href="https://ndchoochoo.blogspot.com/2007/03/racism-scandal-rocks-pee-wee-peet.html" target="_blank" title="scandalaugogo">folly</a> to make with the waggery over!</p>
+<p>I&rsquo;m sure those stories were just somethin&rsquo;.&nbsp; Of course reference to the fraternal <em>wild orgy</em> failed to carry the same import eighty years ago as it does to-day.&nbsp; And the cub reporter of USC&#8217;s 1927 scandal sheet could only conjecture that in the future, there&#8217;d <a href="http://www.bruinsnation.com/story/2006/6/26/113925/426" target="_blank" title="dontgetmestartedonthehousingscandal">be</a> <a href="http://blogging.la/archives/2006/05/post_4.phtml" target="_blank" title="goodtimes">no</a> <a href="http://boifromtroy.com/?p=3797" target="_blank" title="buthisminorwashomeec">lack</a> <a href="http://boifromtroy.com/?p=5387" target="_blank" title="kaykyserskollegeofnonconsensualknowledge">of</a> <a href="http://boifromtroy.com/?p=2800" target="_blank" title="highereducation">diverting</a> <a href="http://ndchoochoo.blogspot.com/2007/03/racism-scandal-rocks-pee-wee-peet.html" target="_blank" title="scandalaugogo">folly</a> to make with the waggery over!</p>
 <p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/10/the-internet-of-yesteryear/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Anything for a Bust</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/06/anything-for-a-bust/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/06/anything-for-a-bust/#respond</comments>
+		<link>https://1947project.com/2008/02/06/anything-for-a-bust/</link>
+					<comments>https://1947project.com/2008/02/06/anything-for-a-bust/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 06 Feb 2008 22:14:00 +0000</pubDate>
@@ -221,8 +221,8 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[prohibition]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 6, 1927 Over the weekend, the District Attorney&#8217;s crackerjack Prohibition task force proved beyond the shadow of a doubt their devotion to the cause. Then again, after the theatrical busts they staged, it&#8217;s also possible that rum squad head George Contreras and his men simply craved adventure, danger, or an excuse to wear women&#8217;s&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/06/anything-for-a-bust/">Continue reading <span class="screen-reader-text">Anything for a Bust</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/06/anything-for-a-bust/">Anything for a Bust</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 6, 1927 Over the weekend, the District Attorney&#8217;s crackerjack Prohibition task force proved beyond the shadow of a doubt their devotion to the cause. Then again, after the theatrical busts they staged, it&#8217;s also possible that rum squad head George Contreras and his men simply craved adventure, danger, or an excuse to wear women&#8217;s&#8230; <a class="more-link" href="https://1947project.com/2008/02/06/anything-for-a-bust/">Continue reading <span class="screen-reader-text">Anything for a Bust</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/06/anything-for-a-bust/">Anything for a Bust</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -240,25 +240,25 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 <div align="left"></div>
 <div align="left">The lions were pets, they later discovered, though &#8220;not particularly fond of strangers.&#8221;</div>
 <div align="left"></div>
-<div align="left">After the lion incident, Contreras dressed two more of his agents up in women&#8217;s clothing and took them joy-riding to <a title="street" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=217+e.+61st+st.,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.985769,-118.271427&amp;spn=0.007455,0.014591&amp;z=16&amp;iwloc=addr&amp;om=0" target="_blank">217 E. 61st St</a>..Â  Here, he pulled up to the home of a suspected moonshiner, Raymond Manley, and asked for &#8220;some liquor for the girlfriends.&#8221;Â  When Manley brought out a bottle, police raided the place and discovered an enormous still, 180 gallons of whiskey, and 39 barrels of mash.</div>
+<div align="left">After the lion incident, Contreras dressed two more of his agents up in women&#8217;s clothing and took them joy-riding to <a title="street" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=217+e.+61st+st.,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.985769,-118.271427&amp;spn=0.007455,0.014591&amp;z=16&amp;iwloc=addr&amp;om=0" target="_blank">217 E. 61st St</a>..Â  Here, he pulled up to the home of a suspected moonshiner, Raymond Manley, and asked for &#8220;some liquor for the girlfriends.&#8221;Â  When Manley brought out a bottle, police raided the place and discovered an enormous still, 180 gallons of whiskey, and 39 barrels of mash.</div>
 <div align="left"></div>
 <div align="left">So, to sum up:Â  a man crafts a tasty beverage by hand, and goes to jail for his trouble, while the man who raises adult lions, in a chicken coop, no less, walks free.Â  And our rum squad seems to enjoy playing dress-up a little more than the average adult probably should.</div>
 <div align="left"></div>
 <div align="left">Up is down, left is right.Â  Sheesh.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/06/anything-for-a-bust/">Anything for a Bust</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/06/anything-for-a-bust/">Anything for a Bust</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/06/anything-for-a-bust/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/06/anything-for-a-bust/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Everybody Has to Fall Some Time</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/#respond</comments>
+		<link>https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/</link>
+					<comments>https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 04 Feb 2008 17:19:17 +0000</pubDate>
@@ -272,31 +272,31 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[west adams]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 4, 1927 Los Angeles A police dragnet is closing in on the killers of Luther H. Green.&#160; A&#160;member of the Los Angeles Stock Exchange, Green was slain outside of his home at 1053 Bonnie Brae, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/">Continue reading <span class="screen-reader-text">Everybody Has to Fall Some Time</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 4, 1927 Los Angeles A police dragnet is closing in on the killers of Luther H. Green.&#160; A&#160;member of the Los Angeles Stock Exchange, Green was slain outside of his home at 1053 Bonnie Brae, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was&#8230; <a class="more-link" href="https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/">Continue reading <span class="screen-reader-text">Everybody Has to Fall Some Time</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p align="left"><img loading="lazy" title="Luther Green headline" height="240" alt="Luther Green headline" src="//farm3.static.flickr.com/2019/2241605773_939601157b_m.jpg" width="215" border="0" /></p>
 <p>February 4, 1927 <br />Los Angeles </p>
-<p>A police dragnet is closing in on the killers of Luther H. Green.&nbsp; A&nbsp;member of the Los Angeles Stock Exchange, Green was slain outside of his home at <a title="1053 Bonnie Brae" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1053+south+bonnie+brae,+la,+ca&#038;sll=34.042345,-118.266076&#038;sspn=0.000942,0.001824&#038;layer=&#038;ie=UTF8&#038;om=1&#038;ll=34.060481,-118.27692&#038;spn=0.083621,0.152607&#038;z=13" target="_blank">1053 Bonnie Brae</a>, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was able to fire a single shot from his rifle before being mortally wounded by the burglers. </p>
-<p>According to Chief of Detectives Cline, six men have been implicated in the aborted liquor heist. It is believed that the ringleader of the failed raid may be the notorious crook, <a title="Mile Away Thomas" href="https://www.47upgradepath7.richardschave.com//node?from=315" target="_blank">Harry &ldquo;Mile-Away&rdquo; Thomas</a>. Mile-Away&rsquo;s mouthpiece, Attorney S.S. Hahn, told cops that he had conferred with his client and, &ldquo;&hellip;he was not only a <em>mile</em> away this time, but <em>sixteen</em> miles away&rdquo;. Harry and several of his confederates would soon be arrested in connection with Green&rsquo;s murder, but none of them would ever stand trial for the crime. </p>
-<p>More than a decade prior to the invention of <a title="Teflon" href="https://inventors.about.com/library/inventors/blteflon.htm" target="_blank">Teflon</a> &reg;, the often busted but rarely convicted non-stick felon would be released on the charges stemming from the Green killing. His lucky streak would end on the evening of April 21, 1927. Harry would be caught in a sting and gunned down by the law as he attempted to steal an expensive automobile from a private garage at <a title="1408 W 35th St" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1408+W+35th+St,+Los+Angeles,+Los+Angeles,+California+90026,+United+States&#038;sll=34.077332,-118.262393&#038;sspn=0.022287,0.039353&#038;ie=UTF8&#038;ll=34.025205,-118.296747&#038;spn=0.022301,0.039353&#038;z=15&#038;om=0" target="_blank">1408 West Thirty-Fifth Street</a>. </p>
+<p>A police dragnet is closing in on the killers of Luther H. Green.&nbsp; A&nbsp;member of the Los Angeles Stock Exchange, Green was slain outside of his home at <a title="1053 Bonnie Brae" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1053+south+bonnie+brae,+la,+ca&#038;sll=34.042345,-118.266076&#038;sspn=0.000942,0.001824&#038;layer=&#038;ie=UTF8&#038;om=1&#038;ll=34.060481,-118.27692&#038;spn=0.083621,0.152607&#038;z=13" target="_blank">1053 Bonnie Brae</a>, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was able to fire a single shot from his rifle before being mortally wounded by the burglers. </p>
+<p>According to Chief of Detectives Cline, six men have been implicated in the aborted liquor heist. It is believed that the ringleader of the failed raid may be the notorious crook, <a title="Mile Away Thomas" href="http://www.47upgradepath7.richardschave.com//node?from=315" target="_blank">Harry &ldquo;Mile-Away&rdquo; Thomas</a>. Mile-Away&rsquo;s mouthpiece, Attorney S.S. Hahn, told cops that he had conferred with his client and, &ldquo;&hellip;he was not only a <em>mile</em> away this time, but <em>sixteen</em> miles away&rdquo;. Harry and several of his confederates would soon be arrested in connection with Green&rsquo;s murder, but none of them would ever stand trial for the crime. </p>
+<p>More than a decade prior to the invention of <a title="Teflon" href="http://inventors.about.com/library/inventors/blteflon.htm" target="_blank">Teflon</a> &reg;, the often busted but rarely convicted non-stick felon would be released on the charges stemming from the Green killing. His lucky streak would end on the evening of April 21, 1927. Harry would be caught in a sting and gunned down by the law as he attempted to steal an expensive automobile from a private garage at <a title="1408 W 35th St" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1408+W+35th+St,+Los+Angeles,+Los+Angeles,+California+90026,+United+States&#038;sll=34.077332,-118.262393&#038;sspn=0.022287,0.039353&#038;ie=UTF8&#038;ll=34.025205,-118.296747&#038;spn=0.022301,0.039353&#038;z=15&#038;om=0" target="_blank">1408 West Thirty-Fifth Street</a>. </p>
 <p>Riddled with machine-gun bullets, buckshot, and slugs from police revolvers, Harry staggered from the garage and collapsed in the arms of a uniformed officer. Mile-Away&rsquo;s last words before he succumbed to his injuries were &ldquo;Everybody has to fall some time.&rdquo; </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Demon Liquor</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/#respond</comments>
+		<link>https://1947project.com/2008/01/23/demon-liquor/</link>
+					<comments>https://1947project.com/2008/01/23/demon-liquor/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2008 16:51:27 +0000</pubDate>
@@ -308,8 +308,8 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[public intoxication]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 23, 1927 Pasadena, CA&#160; &#160; W.H. Latour, a 71-year-old night watchman at the Lamanda Park Citrus Packing Plant in Pasadena, was propped up with a bottle of white lightning when he caught Tom Clark working on his car on the plant grounds.&#160; When Latour told him to leave, Clark nodded, and prepared to set&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/">Continue reading <span class="screen-reader-text">Demon Liquor</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 23, 1927 Pasadena, CA&#160; &#160; W.H. Latour, a 71-year-old night watchman at the Lamanda Park Citrus Packing Plant in Pasadena, was propped up with a bottle of white lightning when he caught Tom Clark working on his car on the plant grounds.&#160; When Latour told him to leave, Clark nodded, and prepared to set&#8230; <a class="more-link" href="https://1947project.com/2008/01/23/demon-liquor/">Continue reading <span class="screen-reader-text">Demon Liquor</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -319,23 +319,23 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 <div align="left"><img loading="lazy" width="240" height="115" border="0" align="left" src="//farm3.static.flickr.com/2156/2214021308_b29ba6728a_m.jpg" alt="latour" title="latour" />W.H. Latour, a 71-year-old night watchman at the Lamanda Park Citrus Packing Plant in Pasadena, was propped up with a bottle of white lightning when he caught Tom Clark working on his car on the plant grounds.&nbsp; When Latour told him to leave, Clark nodded, and prepared to set off on his way.</p>
 <p>But then, Latour became convinced that the car was trying to attack him, and pulled a gun on it.&nbsp; After firing two shots at Clark&#8217;s car, Latour raised his arm to wave off the terrifying apparition and fired again &#8212; directly into his own hand.</p>
 <p>Elsewhere in Los Angeles today, another man paid a less gory price for intemperance.</p>
-<p><img loading="lazy" width="240" height="109" border="0" align="right" src="//farm3.static.flickr.com/2294/2213228409_0225dc4a46_m.jpg" alt="sober" title="sober" />Earlier this month, police were called to <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=mt.+washington+dr.,+los+angeles&#038;sll=37.0625,-95.677068&#038;sspn=31.150864,59.765625&#038;ie=UTF8&#038;ll=34.099332,-118.21641&#038;spn=0.015885,0.029182&#038;z=15&#038;iwloc=addr&#038;om=0" target="_blank" title="mtwashingtondr">Mt. Washington Dr.</a> following reports of a dead body slumped in a car along the side of the road.&nbsp; But James Proffit wasn&#8217;t dead &#8212; only dead drunk, and &quot;there were several dead soldiers around him in the form of empty bottles from which the spirits had fled.&quot;</p>
+<p><img loading="lazy" width="240" height="109" border="0" align="right" src="//farm3.static.flickr.com/2294/2213228409_0225dc4a46_m.jpg" alt="sober" title="sober" />Earlier this month, police were called to <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=mt.+washington+dr.,+los+angeles&#038;sll=37.0625,-95.677068&#038;sspn=31.150864,59.765625&#038;ie=UTF8&#038;ll=34.099332,-118.21641&#038;spn=0.015885,0.029182&#038;z=15&#038;iwloc=addr&#038;om=0" target="_blank" title="mtwashingtondr">Mt. Washington Dr.</a> following reports of a dead body slumped in a car along the side of the road.&nbsp; But James Proffit wasn&#8217;t dead &#8212; only dead drunk, and &quot;there were several dead soldiers around him in the form of empty bottles from which the spirits had fled.&quot;</p>
 <p>Today in court, Proffit had some interesting things to say for himself.&nbsp; &quot;It&#8217;s the holidays and festivities that get me in trouble,&quot; Proffit told Municipal Judge Turney.&nbsp; &quot;I was in jail at Thanksgiving for being drunk, and it was the same thing at Christmas and New Year&#8217;s.&nbsp; I wouldn&#8217;t be here now, but my brother got married, and of course, I was there as a guest.&quot;</p>
 <p>Turns out, Proffit had forgotten his duty to drive the newlyweds home from the reception.&nbsp; When he swerved off the road and got them all stuck in the mud, the bride and groom decided to walk the rest of the way home, leaving Proffit to fend for himself.&nbsp; Proffit was fined $200.</p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/23/demon-liquor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Death Potion No. 5</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/07/death-potion-no-5/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/07/death-potion-no-5/#respond</comments>
+		<link>https://1947project.com/2008/01/07/death-potion-no-5/</link>
+					<comments>https://1947project.com/2008/01/07/death-potion-no-5/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 07 Jan 2008 17:29:20 +0000</pubDate>
@@ -346,8 +346,8 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[prohibition]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 7, 1927Los Angeles Bending the Volstead Act to the breaking point is de rigeur among the smart set, with an evening of drinking rarely resulting in anything worse than a queasy stomach and a screaming headache the next day. Dennis J. Cavanaugh (22) and his companions Walter Scott and &#8220;Tex&#8221; Scott went out last&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/death-potion-no-5/">Continue reading <span class="screen-reader-text">Death Potion No. 5</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/death-potion-no-5/">Death Potion No. 5</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 7, 1927Los Angeles Bending the Volstead Act to the breaking point is de rigeur among the smart set, with an evening of drinking rarely resulting in anything worse than a queasy stomach and a screaming headache the next day. Dennis J. Cavanaugh (22) and his companions Walter Scott and &#8220;Tex&#8221; Scott went out last&#8230; <a class="more-link" href="https://1947project.com/2008/01/07/death-potion-no-5/">Continue reading <span class="screen-reader-text">Death Potion No. 5</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/07/death-potion-no-5/">Death Potion No. 5</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -355,25 +355,25 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 <p><img loading="lazy" title="Death Potion Headline" height="240" alt="Death Potion Headline" src="//farm3.static.flickr.com/2268/2175835654_b34cdaf937_m.jpg" width="197" border="0" /></p>
 <p>Bending the Volstead Act to the breaking point is <em>de rigeur</em> among the smart set, with an evening of drinking rarely resulting in anything worse than a queasy stomach and a screaming headache the next day. </p>
 <p>Dennis J. Cavanaugh (22) and his companions Walter Scott and &ldquo;Tex&rdquo; Scott went out last night to do a little carousing. The young men began their evening by stopping off to buy a couple of pints of rum at a store on&nbsp;East Ninety-Second Street, run by the Henkins brothers, Clay (46) and William (48). </p>
-<p>Where the young men went to party after purchasing the hooch is not known, but by this morning Walter was in critical condition at his home, &ldquo;Tex&rdquo; was very ill, and Dennis had been found dead on the front lawn of a house at <a title="1847 Roosevelt Street" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1647+Roosevelt,+Los+Angeles,+Ca&#038;sll=33.953346,-118.242288&#038;sspn=0.009327,0.023389&#038;ie=UTF8&#038;ll=34.043148,-118.301382&#038;spn=0.009317,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1847 Roosevelt Street</a> &ndash; his body reeking of alcohol. </p>
+<p>Where the young men went to party after purchasing the hooch is not known, but by this morning Walter was in critical condition at his home, &ldquo;Tex&rdquo; was very ill, and Dennis had been found dead on the front lawn of a house at <a title="1847 Roosevelt Street" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1647+Roosevelt,+Los+Angeles,+Ca&#038;sll=33.953346,-118.242288&#038;sspn=0.009327,0.023389&#038;ie=UTF8&#038;ll=34.043148,-118.301382&#038;spn=0.009317,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1847 Roosevelt Street</a> &ndash; his body reeking of alcohol. </p>
 <p>Whether they knew it or not, the Henkins brothers had sold the boys poison liquor. They are currently in jail facing manslaughter charges. </p>
-<p>Buying illegal booze is dangerous &ndash; it&rsquo;s like playing <a title="Russian roulette" href="https://en.wikipedia.org/wiki/Russian_roulette" target="_blank">Russian roulette</a>. But it becomes even more frightening when people like <a title="Wayne B. Wheeler" href="https://en.wikipedia.org/wiki/Wayne_Wheeler" target="_blank">Wayne B. Wheeler</a>, advocate of the <a title="Anti-Saloon League" href="https://en.wikipedia.org/wiki/Anti-Saloon_League" target="_blank">Anti-Saloon League</a>, come out in support of allowing the government to use poison to enforce Prohibition. </p>
+<p>Buying illegal booze is dangerous &ndash; it&rsquo;s like playing <a title="Russian roulette" href="http://en.wikipedia.org/wiki/Russian_roulette" target="_blank">Russian roulette</a>. But it becomes even more frightening when people like <a title="Wayne B. Wheeler" href="http://en.wikipedia.org/wiki/Wayne_Wheeler" target="_blank">Wayne B. Wheeler</a>, advocate of the <a title="Anti-Saloon League" href="http://en.wikipedia.org/wiki/Anti-Saloon_League" target="_blank">Anti-Saloon League</a>, come out in support of allowing the government to use poison to enforce Prohibition. </p>
 <p>On January 1st of this year, the new government formula (&ldquo;Formula No. 5&rdquo;) for denaturing industrial ethyl alcohol went into effect. The formula doubles the amount of poison which manufacturers are required to use. Bootleggers sometimes buy industrial ethyl alcohol and substitute the original label with one of their own. Only three drinks of the libation may cause permanent blindness. </p>
 <p>Many in Congress have demanded that the government stop legalized murder. The Secretary of the Treasury recently announced that he is opposed to the use of poison to enforce the law, but that &ldquo;Formula No. 5&rdquo; will remain until a non-removable, non-poisonous denaturant can be found by government chemists. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/death-potion-no-5/">Death Potion No. 5</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/07/death-potion-no-5/">Death Potion No. 5</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/07/death-potion-no-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/07/death-potion-no-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pass the Bromo, Please</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/#respond</comments>
+		<link>https://1947project.com/2008/01/01/pass-the-bromo-please/</link>
+					<comments>https://1947project.com/2008/01/01/pass-the-bromo-please/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 01 Jan 2008 21:30:18 +0000</pubDate>
@@ -386,31 +386,31 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[New Year's Eve]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 1, 1928Los Angeles A year ago prohibition agents observed that &#34;last-minute calls for holiday cheer&#34; skyrocketed on New Year&#8217;s Eve, so this year detective chief George Contreras and his men staked out area roadhouses. When &#34;suspicious-looking characters&#34; drove up, they were searched. Five flivvers were confiscated and thirty bootleggers arrested&#8212;and yet heads are splitting&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/">Continue reading <span class="screen-reader-text">Pass the Bromo, Please</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 1, 1928Los Angeles A year ago prohibition agents observed that &#34;last-minute calls for holiday cheer&#34; skyrocketed on New Year&#8217;s Eve, so this year detective chief George Contreras and his men staked out area roadhouses. When &#34;suspicious-looking characters&#34; drove up, they were searched. Five flivvers were confiscated and thirty bootleggers arrested&#8212;and yet heads are splitting&#8230; <a class="more-link" href="https://1947project.com/2008/01/01/pass-the-bromo-please/">Continue reading <span class="screen-reader-text">Pass the Bromo, Please</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2155203301/" title="Untitled by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2375/2155203301_ec56aff615_m.jpg" width="240" height="228" alt="" align="left" /></a></p>
+<div><a href="http://www.flickr.com/photos/lperil/2155203301/" title="Untitled by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2375/2155203301_ec56aff615_m.jpg" width="240" height="228" alt="" align="left" /></a></p>
 <p>January 1, 1928<br />Los Angeles  </p>
 <p>A year ago prohibition agents observed that &quot;last-minute calls for holiday cheer&quot; skyrocketed on New Year&#8217;s Eve, so this year detective chief George Contreras and his men staked out area roadhouses. When &quot;suspicious-looking characters&quot; drove up, they were searched. Five flivvers were confiscated and thirty bootleggers arrested&mdash;and yet heads are splitting all over Los Angeles this morning for, despite the last minute roundup, the hooch flowed freely last night.  </p>
 <p>Indeed, by 7 o&#8217;clock this morning, the Coroner&#8217;s Office and Receiving Hospital listed two dead, eight critically&mdash;perhaps fatally&mdash;injured, and another seventy people slightly hurt in booze-fueled traffic accidents, including a pedestrian who was &quot;partially scalped&quot; in a hit-and-run at 39th and Vermont.   </p>
-<p>Over at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1827+W.+78th+Place,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=60.811,96.855469&#038;ie=UTF8&#038;ll=33.96931,-118.3096&#038;spn=0.007901,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Gunn home">1827 W. 78th Place</a>, Justus Gunn woke up after the party he and his wife hosted for their friends and discovered that his wife was missing. Gunn told police he &quot;retired [<i>or passed out?</i>] as the guests were leaving&quot; and didn&#8217;t notice the little woman was gone until this morning. Friends didn&#8217;t know where she was, and Gunn declared there had been &quot;no quarrels or disagreements which might explain her sudden departure.&quot; There was no further mention of Mrs. Gunn in the pages of the <em>Times</em>, so whatever the cause of her disappearance, it probably wasn&#8217;t criminal.   </p>
-<p>More ominously, 14-year-old Florence Ellison left her father&#8217;s house (723 Bonnie Beach Place) yesterday afternoon to visit her mother (522 Clifton Street). Around 7:30 last night, Florence rang the doorbell at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=620+South+Wilton+Place,+los+angeles,+ca&#038;sll=34.05092,-118.20069&#038;sspn=0.063149,0.094585&#038;ie=UTF8&#038;ll=34.063735,-118.314042&#038;spn=0.007892,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Morrison house">620 South Wilton Place</a> and told C.R. Morrison she was <a href="https://maps.google.com/maps?saddr=723+S+Bonnie+Beach+Pl,+Los+Angeles,+CA+90023&#038;geocode=&#038;dirflg=&#038;daddr=522+Clifton+St,+Los+Angeles,+Los+Angeles,+California+90031,+United+States&#038;f=d&#038;hl=en&#038;sll=34.027464,-118.181326&#038;sspn=0.007896,0.011823&#038;ie=UTF8&#038;cd=1&#038;z=13&#038;om=1" target="_blank" title="From Florence's father's house to her mother's">lost</a>. Morrison drove Florence to the streetcar, gave her directions, then returned home and called Florence&#8217;s mother. But Florence never arrived.   </p>
+<p>Over at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1827+W.+78th+Place,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=60.811,96.855469&#038;ie=UTF8&#038;ll=33.96931,-118.3096&#038;spn=0.007901,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Gunn home">1827 W. 78th Place</a>, Justus Gunn woke up after the party he and his wife hosted for their friends and discovered that his wife was missing. Gunn told police he &quot;retired [<i>or passed out?</i>] as the guests were leaving&quot; and didn&#8217;t notice the little woman was gone until this morning. Friends didn&#8217;t know where she was, and Gunn declared there had been &quot;no quarrels or disagreements which might explain her sudden departure.&quot; There was no further mention of Mrs. Gunn in the pages of the <em>Times</em>, so whatever the cause of her disappearance, it probably wasn&#8217;t criminal.   </p>
+<p>More ominously, 14-year-old Florence Ellison left her father&#8217;s house (723 Bonnie Beach Place) yesterday afternoon to visit her mother (522 Clifton Street). Around 7:30 last night, Florence rang the doorbell at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=620+South+Wilton+Place,+los+angeles,+ca&#038;sll=34.05092,-118.20069&#038;sspn=0.063149,0.094585&#038;ie=UTF8&#038;ll=34.063735,-118.314042&#038;spn=0.007892,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Morrison house">620 South Wilton Place</a> and told C.R. Morrison she was <a href="http://maps.google.com/maps?saddr=723+S+Bonnie+Beach+Pl,+Los+Angeles,+CA+90023&#038;geocode=&#038;dirflg=&#038;daddr=522+Clifton+St,+Los+Angeles,+Los+Angeles,+California+90031,+United+States&#038;f=d&#038;hl=en&#038;sll=34.027464,-118.181326&#038;sspn=0.007896,0.011823&#038;ie=UTF8&#038;cd=1&#038;z=13&#038;om=1" target="_blank" title="From Florence's father's house to her mother's">lost</a>. Morrison drove Florence to the streetcar, gave her directions, then returned home and called Florence&#8217;s mother. But Florence never arrived.   </p>
 <p><em>Epilogue</em>:  Florence Ellison was found, fatigued and possibly drugged, on January 2. She told police that after becoming lost, she joined the New Year&#8217;s celebrations downtown where she met cabdriver Edmund D. Kearney at about midnight. They had drinks, and after a drive through Chinatown, Florence spent the night at his apartment. Kearney was held on suspicion of contributing to the delinquency of a minor. No information was given as to just how Florence spent New Year&#8217;s Day. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/01/pass-the-bromo-please/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Matthew 5:16 Goes Electric</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/17/matthew-516-goes-electric/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/17/matthew-516-goes-electric/#respond</comments>
+		<link>https://1947project.com/2007/12/17/matthew-516-goes-electric/</link>
+					<comments>https://1947project.com/2007/12/17/matthew-516-goes-electric/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 17 Dec 2007 09:55:52 +0000</pubDate>
@@ -424,8 +424,8 @@ I could go for a pint of gin and a chocolate bar right about now. Are you with m
 		<category><![CDATA[still]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Â  December 16, 1927 Sawtelle &#160; Los Angeles Police Captain W. L. Hagenbaugh feeds more juice into the stills of Sawtelle than he gets from them; after he raids the moonshiners and chops up their contraptions of copper and coil, he fashions fixtures and floor lamps for his new nine-room Spanish job up on Comstock&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/17/matthew-516-goes-electric/">Continue reading <span class="screen-reader-text">Matthew 5:16 Goes Electric</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Â  December 16, 1927 Sawtelle &#160; Los Angeles Police Captain W. L. Hagenbaugh feeds more juice into the stills of Sawtelle than he gets from them; after he raids the moonshiners and chops up their contraptions of copper and coil, he fashions fixtures and floor lamps for his new nine-room Spanish job up on Comstock&#8230; <a class="more-link" href="https://1947project.com/2007/12/17/matthew-516-goes-electric/">Continue reading <span class="screen-reader-text">Matthew 5:16 Goes Electric</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -443,10 +443,10 @@ Sawtelle</p>
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/17/matthew-516-goes-electric/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/17/matthew-516-goes-electric/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

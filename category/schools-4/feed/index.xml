@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>schools &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/schools-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/schools-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:56:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>schools &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>No Christ in Christmas? Good Lord!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/14/no-christ-in-christmas-good-lord/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/14/no-christ-in-christmas-good-lord/#respond</comments>
+		<link>https://1947project.com/2006/12/14/no-christ-in-christmas-good-lord/</link>
+					<comments>https://1947project.com/2006/12/14/no-christ-in-christmas-good-lord/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 14 Dec 2006 15:54:48 +0000</pubDate>
@@ -46,28 +46,28 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Dec. 14, 1907 Los Angeles The madman who calls himself the superintendent of the Los Angeles schools has touched off an absolute firestorm of anger by ordering teachers not to mention Christ during Christmas pageants or other festivities.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/14/no-christ-in-christmas-good-lord/">No Christ in Christmas? Good Lord!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/14/no-christ-in-christmas-good-lord/">No Christ in Christmas? Good Lord!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1214.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 254px; height: 324px;" src="//www.lmharnisch.com/images/1907_1214.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 14, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1214.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 254px; height: 324px;" src="//www.lmharnisch.com/images/1907_1214.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 14, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The madman who calls himself the superintendent of the Los Angeles schools has touched off an absolute firestorm of anger by ordering teachers not to mention Christ during Christmas pageants or other festivities.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/14/no-christ-in-christmas-good-lord/">No Christ in Christmas? Good Lord!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/14/no-christ-in-christmas-good-lord/">No Christ in Christmas? Good Lord!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/14/no-christ-in-christmas-good-lord/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/14/no-christ-in-christmas-good-lord/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pi Phidelity</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/30/pi-phidelity/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/30/pi-phidelity/#respond</comments>
+		<link>https://1947project.com/2006/10/30/pi-phidelity/</link>
+					<comments>https://1947project.com/2006/10/30/pi-phidelity/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 30 Oct 2006 14:24:52 +0000</pubDate>
@@ -79,10 +79,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 30, 1907 Los Angeles The young men of Los Angeles High School have issued a direct challenge to the Board of Education, defying its authority by enlisting fraternity members despite a ban issued last year. The chief offenders are the Pi Phis, who just added seven members, The Times says.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/30/pi-phidelity/">Pi Phidelity</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/30/pi-phidelity/">Pi Phidelity</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1030.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 252px; height: 363px;" src="//www.lmharnisch.com/images/1907_1030.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1030.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 252px; height: 363px;" src="//www.lmharnisch.com/images/1907_1030.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Oct. 30, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -90,18 +90,18 @@
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The chief offenders are the Pi Phis, who just added seven members, The Times says. </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/30/pi-phidelity/">Pi Phidelity</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/30/pi-phidelity/">Pi Phidelity</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/30/pi-phidelity/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/30/pi-phidelity/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Page From Dickens</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/23/a-page-from-dickens/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/23/a-page-from-dickens/#respond</comments>
+		<link>https://1947project.com/2006/03/23/a-page-from-dickens/</link>
+					<comments>https://1947project.com/2006/03/23/a-page-from-dickens/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 23 Mar 2006 17:02:18 +0000</pubDate>
@@ -119,25 +119,25 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>For some time, the teachers at the Casco Street School had been concerned about the pupils from the nearby Christian Orphanage. But finally the problems became too great to ignore.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/23/a-page-from-dickens/">A Page From Dickens</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/23/a-page-from-dickens/">A Page From Dickens</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0322_head1.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 275px; height: 132px;" src="//lmharnisch.com/images/1907_0322_head1.jpg" alt="" border="0" /></a><span style="font-size:100%;">For some time, the teachers at the Casco Street School had been concerned about the pupils from the nearby Christian Orphanage. But finally the problems became too great to ignore.<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0322_head1.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 275px; height: 132px;" src="//lmharnisch.com/images/1907_0322_head1.jpg" alt="" border="0" /></a><span style="font-size:100%;">For some time, the teachers at the Casco Street School had been concerned about the pupils from the nearby Christian Orphanage. But finally the problems became too great to ignore.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/23/a-page-from-dickens/">A Page From Dickens</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/23/a-page-from-dickens/">A Page From Dickens</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/23/a-page-from-dickens/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/23/a-page-from-dickens/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bright Young Faces</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/19/bright-young-faces/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/19/bright-young-faces/#respond</comments>
+		<link>https://1947project.com/2006/03/19/bright-young-faces/</link>
+					<comments>https://1947project.com/2006/03/19/bright-young-faces/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2006 03:29:47 +0000</pubDate>
@@ -148,16 +148,16 @@
 		<category><![CDATA[immigrants]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/19/bright-young-faces/">Bright Young Faces</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/19/bright-young-faces/">Bright Young Faces</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0318_head1.jpg"><img style="margin: 5pt 0pt 10px 10px; float: right; cursor: pointer; width: 282px; height: 373px;" src="//lmharnisch.com/images/1907_0318_head1.jpg" alt="" align="right" border="10" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0318_head1.jpg"><img style="margin: 5pt 0pt 10px 10px; float: right; cursor: pointer; width: 282px; height: 373px;" src="//lmharnisch.com/images/1907_0318_head1.jpg" alt="" align="right" border="10" /></a><br />
 <span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/19/bright-young-faces/">Bright Young Faces</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/19/bright-young-faces/">Bright Young Faces</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/19/bright-young-faces/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/19/bright-young-faces/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

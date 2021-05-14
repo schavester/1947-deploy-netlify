@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>child stars &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/child-stars/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/child-stars/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:38:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>child stars &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/06/were-a-happy-family-no-really/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/06/were-a-happy-family-no-really/#respond</comments>
+		<link>https://1947project.com/2007/11/06/were-a-happy-family-no-really/</link>
+					<comments>https://1947project.com/2007/11/06/were-a-happy-family-no-really/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 06 Nov 2007 19:41:18 +0000</pubDate>
@@ -46,24 +46,24 @@
 		<category><![CDATA[guardianship]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 6, 1927 Hollywood Mrs. L.A. Corbin, 45, was rushed to the police receiving hospital today after she telephoned her neighbor and declared, &#8220;I have just swallowed enough poison to kill ten men!&#8221; While doctors labored to save Mrs. Corbin&#8217;s life, her 17-year-old daughter, former child star and current film ingÃƒÂ©nue Virginia Lee Corbin, told&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/06/were-a-happy-family-no-really/">Continue reading <span class="screen-reader-text">We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/06/were-a-happy-family-no-really/">We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 6, 1927 Hollywood Mrs. L.A. Corbin, 45, was rushed to the police receiving hospital today after she telephoned her neighbor and declared, &#8220;I have just swallowed enough poison to kill ten men!&#8221; While doctors labored to save Mrs. Corbin&#8217;s life, her 17-year-old daughter, former child star and current film ingÃƒÂ©nue Virginia Lee Corbin, told&#8230; <a class="more-link" href="https://1947project.com/2007/11/06/were-a-happy-family-no-really/">Continue reading <span class="screen-reader-text">We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/06/were-a-happy-family-no-really/">We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/1897432916/" title="Virginia Lee Corbin by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2167/1897432916_45f58d07ba_o.jpg" width="242" height="584" alt="Virginia Lee Corbin" /></a></p>
+<div><a href="http://www.flickr.com/photos/lperil/1897432916/" title="Virginia Lee Corbin by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2167/1897432916_45f58d07ba_o.jpg" width="242" height="584" alt="Virginia Lee Corbin" /></a></p>
 <p>November 6, 1927<br />
 Hollywood</p>
-<p>Mrs. L.A. Corbin, 45, was rushed to the police receiving hospital today after she telephoned her neighbor and declared, &#8220;I have just swallowed enough poison to kill ten men!&#8221; While doctors labored to save Mrs. Corbin&#8217;s life, her 17-year-old daughter, former child star and current film ingÃƒÂ©nue <a href="https://www.silentsaregolden.com/VLC%20Website/tocpageorig.html">Virginia Lee Corbin</a>, told police she was ready to sign an insanity complaint against her mother. Mrs. Corbin had &#8220;taken all the money I&#8217;ve made in pictures,&#8221; Virginia Lee told detectives. &#8220;Mother wanted more money tonight and I wouldn&#8217;t give it to her; besides, she wouldn&#8217;t let me go out. I guess that&#8217;s the reason for all this. Let&#8217;s get it over with. If she acted this way before, she&#8217;ll do it again.&#8221; An ambulance took Mrs. Corbin to General Hospital&#8217;s psych ward, while a <i>Times</i> reporter snapped a photo of disgruntled looking Virginia Lee leaving the <a href="https://jpg3.lapl.org/pics32/00065908.jpg">Georgia Street Police Station</a>. </p>
+<p>Mrs. L.A. Corbin, 45, was rushed to the police receiving hospital today after she telephoned her neighbor and declared, &#8220;I have just swallowed enough poison to kill ten men!&#8221; While doctors labored to save Mrs. Corbin&#8217;s life, her 17-year-old daughter, former child star and current film ingÃƒÂ©nue <a href="http://www.silentsaregolden.com/VLC%20Website/tocpageorig.html">Virginia Lee Corbin</a>, told police she was ready to sign an insanity complaint against her mother. Mrs. Corbin had &#8220;taken all the money I&#8217;ve made in pictures,&#8221; Virginia Lee told detectives. &#8220;Mother wanted more money tonight and I wouldn&#8217;t give it to her; besides, she wouldn&#8217;t let me go out. I guess that&#8217;s the reason for all this. Let&#8217;s get it over with. If she acted this way before, she&#8217;ll do it again.&#8221; An ambulance took Mrs. Corbin to General Hospital&#8217;s psych ward, while a <i>Times</i> reporter snapped a photo of disgruntled looking Virginia Lee leaving the <a href="http://jpg3.lapl.org/pics32/00065908.jpg">Georgia Street Police Station</a>. </p>
 <p>Two days later, Virginia withdrew her complaint. &#8220;She didn&#8217;t know what she was signing when she signed the complaint,&#8221; explained her adopted sister, Ruth Miehle. &#8220;Police Mystified by Action&#8221; read the <i>Times</i> sub-head that day; detectives noted that that Virginia had questioned them at length about the ramifications of signing the complaint, and went so far as to ask them to sign the document as complaining witnesses. Virginia herself was conspicuously unavailable for comment, so Ruth explained further:  &#8220;There is absolutely nothing to the statements that Virginia is angry at mother over money matters.&#8221; Virginia&#8217;s assertions to the contrary, Ruth reported, were &#8220;misstatements by the police. But the police were equally certain that the statements had been made,&#8221; reported the Times. At any rate, Mrs. Corbin was moved to the relative comfort of the Rosemeade Sanatorium. </p>
-<p><a href="https://www.flickr.com/photos/lperil/1897433236/" title="A Happy Family by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2201/1897433236_3f4b76fa9f_o.jpg" width="243" height="485" alt="A Happy Family" /></a></p>
+<p><a href="http://www.flickr.com/photos/lperil/1897433236/" title="A Happy Family by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2201/1897433236_3f4b76fa9f_o.jpg" width="243" height="485" alt="A Happy Family" /></a></p>
 <p>On November 9, the <i>Times</i> ran a photo of a smiling Virginia and Ruth on either side of their wheelchair-bound mother. &#8220;The family life of Virginia Lee Corbin once more is announced as harmonious,&#8221; wrote columnist Harry Carr shortly thereafter. &#8220;The loving daughters have not only released their mother from danger of going to a cell for the insane, but they have been publicly photographed chucking her under chin. I just don&#8217;t see the connection, but I have a feeling that chucking one&#8217;s relative&#8217;s under the chin is a public indication that you didn&#8217;t mean what you saidÃ¢â‚¬â€or something. At any rate, during the long winter evenings that family have much to talk about.&#8221; Or notÃ¢â‚¬â€for despite the apparent reconciliation, Virginia petitioned the court for and was a granted a guardian. She also established a trust fund as a &#8220;first step toward recuperating asserted financial losses&#8221; due to &#8220;maternal extravagances.&#8221; </p>
 <p>Mrs. Corbin recovered from her suicide attempt. The Corbin family contained to display a flair for drama. In 1929, the <i>Times</i> reported that Virginia was missing, possibly kidnapped, before she showed up on a train bound for New York City. Five years later, Mrs. Corbin instigated a search for Virginia and her family after hearing of &#8220;reports&#8221; in the British press that they were stranded in Belgium. Again, they were safe in New York. </p>
 <p>Virginia Lee Corbin continued to act in smaller and smaller roles. &#8220;When the talkies began to displace the silent films, I decided an English accent would be a great help,&#8221; she told the press in 1930. Nevertheless, by 1936 the <i>Times</i> included her in an article devoted to the &#8220;Many Forgotten Names&#8221; of the previous decade. Her first marriage ended in divorce when her broker husband accused her of &#8220;habitual drunkenness.&#8221; Whether or not it was true, Corbin lost custody of both her sons. She died in 1942 of either heart disease or tuberculosis. She was only 32 years old. </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/06/were-a-happy-family-no-really/">We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/06/were-a-happy-family-no-really/">We&#8217;re a Happy FamilyÃ¢â‚¬â€No, Really!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/06/were-a-happy-family-no-really/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/06/were-a-happy-family-no-really/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>preservation &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/preservation-8/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/preservation-8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:55:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>preservation &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/#respond</comments>
+		<link>https://1947project.com/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/</link>
+					<comments>https://1947project.com/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 16 Mar 2007 17:23:51 +0000</pubDate>
@@ -43,28 +43,28 @@
 		<category><![CDATA[preservation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Join us, gentle reader, this Sunday March 18, at the glamorous and seldom open Los Angeles Theater (1931) in the heart of downtown for the Saving LA preservation event. There will be speakers in the main hall and tables hosting representatives from local publishers and historical organizations, including 1947project. Stop by to see one of&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/">Continue reading <span class="screen-reader-text">1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/">1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Join us, gentle reader, this Sunday March 18, at the glamorous and seldom open Los Angeles Theater (1931) in the heart of downtown for the Saving LA preservation event. There will be speakers in the main hall and tables hosting representatives from local publishers and historical organizations, including 1947project. Stop by to see one of&#8230; <a class="more-link" href="https://1947project.com/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/">Continue reading <span class="screen-reader-text">1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/">1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Join us, gentle reader, this Sunday March 18, at the glamorous and seldom open Los Angeles Theater (1931) in the heart of downtown for the Saving LA preservation event. There will be speakers in the main hall and tables hosting representatives from local publishers and historical organizations, including 1947project. Stop by to see one of the most beautiful theaters in the city and to connect with others who care about preserving signs of the past. Linger to hear my visionary husband Richard Schave speak in the 3 o&#8217;clock hour about the vast possibilities for community building that can be accessed using free web tools.</p>
 <p>Event details: Los Angeles Theater, 615 S. Broadway, 10am-4pm, free. </p>
-<p>More info and a full schedule are at the Saving LA blog, <a href="https://savingla.blogspot.com/ " target="_blank">https://savingla.blogspot.com/&nbsp;</a></p>
+<p>More info and a full schedule are at the Saving LA blog, <a href="http://savingla.blogspot.com/ " target="_blank">http://savingla.blogspot.com/&nbsp;</a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/">1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/">1947project at Saving LA event at the Los Angeles Theater, Sunday 3/18</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/16/1947project-at-saving-la-event-at-the-los-angeles-theater-sunday-318/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Roving to Monrovia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/#respond</comments>
+		<link>https://1947project.com/2006/11/25/roving-to-monrovia/</link>
+					<comments>https://1947project.com/2006/11/25/roving-to-monrovia/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 25 Nov 2006 16:25:05 +0000</pubDate>
@@ -75,33 +75,33 @@
 		<category><![CDATA[John C. Rupp]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the&#8230; <a class="more-link" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1124.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 353px; height: 280px;" src="//www.lmharnisch.com/images/1907_1124.jpg" alt="" border="0" /></a>Nov. 24, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1124.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 353px; height: 280px;" src="//www.lmharnisch.com/images/1907_1124.jpg" alt="" border="0" /></a>Nov. 24, 1907<br />
 Monrovia    </p>
-<p class="MsoNormal">The Times real estate section takes a look at what was then the distant suburb of Monrovia, <a href="https://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=202+W+1st+St,+Los+Angeles,+CA+90012&#038;daddr=269+N+Ivy+Ave,+Monrovia,+CA+91016&amp;sll=37.0625,-95.677068&#038;sspn=36.042042,87.1875&amp;amp;amp;amp;amp;amp;amp;amp;amp;ie=UTF8&#038;z=11&amp;t=h&#038;om=0">22 miles from downtown Los Angeles</a>. The writer notes the increasing use of concrete and stone, explai<img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 205px;" src="//www.lmharnisch.com/images/1907_1124B.jpg" alt="" border="0" />ning that the cost of lumber is forcing builders to use other materials. The writer also notes the broad, shaded verandas of three featured homes as well as the outlines of their roofs.</p>
+<p class="MsoNormal">The Times real estate section takes a look at what was then the distant suburb of Monrovia, <a href="http://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=202+W+1st+St,+Los+Angeles,+CA+90012&#038;daddr=269+N+Ivy+Ave,+Monrovia,+CA+91016&amp;sll=37.0625,-95.677068&#038;sspn=36.042042,87.1875&amp;amp;amp;amp;amp;amp;amp;amp;amp;ie=UTF8&#038;z=11&amp;t=h&#038;om=0">22 miles from downtown Los Angeles</a>. The writer notes the increasing use of concrete and stone, explai<img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 205px;" src="//www.lmharnisch.com/images/1907_1124B.jpg" alt="" border="0" />ning that the cost of lumber is forcing builders to use other materials. The writer also notes the broad, shaded verandas of three featured homes as well as the outlines of their roofs.</p>
 <p class="MsoNormal">The story highlights the home of B.R. Davisson on East Orange Avenue, H.M. Slemmons (or Slemon) on North Myrtle Avenue and the home of John C. Rupp at Ivy and Greystone, built for $6,500 ($133,403.21 USD 2005). </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Without exact addresses, it would be difficult for me to locate the Davisson and Slemmons homes, but I took a pleasant drive out to Monrovia recently to look for the Rupp house and was happy to find<br />
-that it is still standing and in beautiful condition. In fact, it was nice to discover that the neighborhood has quite a few well-maintained historic homes; a contrast to the condition of the houses I located in Pico Heights.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_rupp_obit.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 402px;" src="//www.lmharnisch.com/images/1907_rupp_obit.jpg" alt="" border="0" /></a></p>
+that it is still standing and in beautiful condition. In fact, it was nice to discover that the neighborhood has quite a few well-maintained historic homes; a contrast to the condition of the houses I located in Pico Heights.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_rupp_obit.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 402px;" src="//www.lmharnisch.com/images/1907_rupp_obit.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">I had a brief chat with the homeowner who gave me a tour of the grounds. He said that Rupp, a financier, built the home for his wife, but that she decided it was too far from Los Angeles and wouldn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Save Those Redwoods!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/26/save-those-redwoods/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/26/save-those-redwoods/#respond</comments>
+		<link>https://1947project.com/2006/08/26/save-those-redwoods/</link>
+					<comments>https://1947project.com/2006/08/26/save-those-redwoods/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 26 Aug 2006 13:45:31 +0000</pubDate>
@@ -114,11 +114,11 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Aug. 27, 1907 Santa Rosa, Calif. Elected officials addressed a large rally devoted to saving the 800-acre Armstrong Grove, named after lumber baron J.B. Armstrong, who decided to preserve the stand of soaring redwoods rather than clearing it.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/26/save-those-redwoods/">Save Those Redwoods!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/26/save-those-redwoods/">Save Those Redwoods!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0826.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 226px; height: 231px;" src="//www.lmharnisch.com/images/1907_0826.jpg" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.47upgradepath7.richardschave.com//http"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="/http" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0826.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 226px; height: 231px;" src="//www.lmharnisch.com/images/1907_0826.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.47upgradepath7.richardschave.com//http"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="/http" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Aug. 27, 1907<br />
 </span><span style="font-size:100%;">Santa Rosa, Calif.<br />
 </span><span style="font-size:100%;"><br />
@@ -126,18 +126,18 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/26/save-those-redwoods/">Save Those Redwoods!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/26/save-those-redwoods/">Save Those Redwoods!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/26/save-those-redwoods/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/26/save-those-redwoods/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LA Event: Brown Derby Tribute, August 19</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/05/la-event-brown-derby-tribute-august-19/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/05/la-event-brown-derby-tribute-august-19/#respond</comments>
+		<link>https://1947project.com/2006/08/05/la-event-brown-derby-tribute-august-19/</link>
+					<comments>https://1947project.com/2006/08/05/la-event-brown-derby-tribute-august-19/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 05 Aug 2006 16:58:21 +0000</pubDate>
@@ -148,27 +148,27 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 		<category><![CDATA[los feliz]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The Southern California Restaurant Historical Society is holding a &#34;Brown Derby Tribute&#34;, with speakers Jack Lane, Master caricaturist from the Hollywood Brown Derby, Mark Willems, author, &#34;The Brown Derby: A Hollywood Legend&#34; and Rebecca Goodman, of Save the Derby Coalition. It will be held at the former Brown Derby Drive In Building, now &#34;The Derby&#34;&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/05/la-event-brown-derby-tribute-august-19/">Continue reading <span class="screen-reader-text">LA Event: Brown Derby Tribute, August 19</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/05/la-event-brown-derby-tribute-august-19/">LA Event: Brown Derby Tribute, August 19</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The Southern California Restaurant Historical Society is holding a &#34;Brown Derby Tribute&#34;, with speakers Jack Lane, Master caricaturist from the Hollywood Brown Derby, Mark Willems, author, &#34;The Brown Derby: A Hollywood Legend&#34; and Rebecca Goodman, of Save the Derby Coalition. It will be held at the former Brown Derby Drive In Building, now &#34;The Derby&#34;&#8230; <a class="more-link" href="https://1947project.com/2006/08/05/la-event-brown-derby-tribute-august-19/">Continue reading <span class="screen-reader-text">LA Event: Brown Derby Tribute, August 19</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/05/la-event-brown-derby-tribute-august-19/">LA Event: Brown Derby Tribute, August 19</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>The Southern California Restaurant Historical Society is holding a &quot;Brown Derby Tribute&quot;, with speakers Jack Lane, Master caricaturist from the Hollywood Brown Derby, Mark Willems, author, &quot;The Brown Derby: A Hollywood Legend&quot; and Rebecca Goodman, of Save the Derby Coalition. It will be held at the former Brown Derby Drive In Building, now &quot;The Derby&quot; and Louise&#8217;s Trattoria, at 4500 Los Feliz Blvd., Los Angeles on August 19 10am-Noon. Official flyer below <a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/207303547/"><img loading="lazy" width="279" height="500" border="0" alt="SCRHS Brown Derby Tribute Flyer" src="//static.flickr.com/75/207303547_483f142d5a.jpg" /></a></p>
-<p>and in more preservation news (we hope!), see Michael Linder&#8217;s <a href="https://www.linder.com/archives/43" target="_blank">brave attempts</a> to unravel the haps at Columbia Square. Will the Old Spaghetti Factory survive? <em>Sommmmmebody knows&#8230;</em>&nbsp;</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/207303547/" /></div>
+<p>The Southern California Restaurant Historical Society is holding a &quot;Brown Derby Tribute&quot;, with speakers Jack Lane, Master caricaturist from the Hollywood Brown Derby, Mark Willems, author, &quot;The Brown Derby: A Hollywood Legend&quot; and Rebecca Goodman, of Save the Derby Coalition. It will be held at the former Brown Derby Drive In Building, now &quot;The Derby&quot; and Louise&#8217;s Trattoria, at 4500 Los Feliz Blvd., Los Angeles on August 19 10am-Noon. Official flyer below <a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/207303547/"><img loading="lazy" width="279" height="500" border="0" alt="SCRHS Brown Derby Tribute Flyer" src="//static.flickr.com/75/207303547_483f142d5a.jpg" /></a></p>
+<p>and in more preservation news (we hope!), see Michael Linder&#8217;s <a href="http://www.linder.com/archives/43" target="_blank">brave attempts</a> to unravel the haps at Columbia Square. Will the Old Spaghetti Factory survive? <em>Sommmmmebody knows&#8230;</em>&nbsp;</p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/207303547/" /></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/05/la-event-brown-derby-tribute-august-19/">LA Event: Brown Derby Tribute, August 19</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/05/la-event-brown-derby-tribute-august-19/">LA Event: Brown Derby Tribute, August 19</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/05/la-event-brown-derby-tribute-august-19/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/05/la-event-brown-derby-tribute-august-19/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In the news: God DAMN the stucco man; the dead walk on Fort Moore</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/#respond</comments>
+		<link>https://1947project.com/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/</link>
+					<comments>https://1947project.com/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 16 Jun 2006 16:46:31 +0000</pubDate>
@@ -184,32 +184,32 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 		<category><![CDATA[shingles]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Two juicy links courtesy of good ol&#8217; LA Observed: As work continues on that ginormous construction site near Sunset and Grand, a 19th century cemetery is being disturbed, with caskets, bones and artifacts shining grimly in the sunlight they were never meant to see. Nothing good can possibly come from this. And in happier news,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/">Continue reading <span class="screen-reader-text">In the news: God DAMN the stucco man; the dead walk on Fort Moore</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/">In the news: God DAMN the stucco man; the dead walk on Fort Moore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Two juicy links courtesy of good ol&#8217; LA Observed: As work continues on that ginormous construction site near Sunset and Grand, a 19th century cemetery is being disturbed, with caskets, bones and artifacts shining grimly in the sunlight they were never meant to see. Nothing good can possibly come from this. And in happier news,&#8230; <a class="more-link" href="https://1947project.com/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/">Continue reading <span class="screen-reader-text">In the news: God DAMN the stucco man; the dead walk on Fort Moore</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/">In the news: God DAMN the stucco man; the dead walk on Fort Moore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Two juicy links courtesy of good ol&#8217; <a href="https://www.laobserved.com/" target="_blank">LA Observed</a>:</p>
-<p>As work continues on that ginormous construction site near Sunset and Grand, a 19th century cemetery is being disturbed, with caskets, bones and artifacts shining grimly in the sunlight they were never meant to see. Nothing good can possibly come from <a href="https://www.dailynews.com/news/ci_3943316" target="_blank">this</a>.</p>
-<p>And in happier news, the Echo Park Historical Society is <a href="https://www.historicechopark.org/id64.html" target="_blank">looking</a> for a once-wood, now-stucco&#8217;d home to serve as a demonstration for how the creeping crud can be stripped off and the home&#8217;s original lines renewed.  </p>
+<p>Two juicy links courtesy of good ol&#8217; <a href="http://www.laobserved.com/" target="_blank">LA Observed</a>:</p>
+<p>As work continues on that ginormous construction site near Sunset and Grand, a 19th century cemetery is being disturbed, with caskets, bones and artifacts shining grimly in the sunlight they were never meant to see. Nothing good can possibly come from <a href="http://www.dailynews.com/news/ci_3943316" target="_blank">this</a>.</p>
+<p>And in happier news, the Echo Park Historical Society is <a href="http://www.historicechopark.org/id64.html" target="_blank">looking</a> for a once-wood, now-stucco&#8217;d home to serve as a demonstration for how the creeping crud can be stripped off and the home&#8217;s original lines renewed.  </p>
 <p>&nbsp;</p>
 <p>***<br />
 Addendum, from wee Nathan:<br />
-<a href="https://www.flickr.com/photos/richardschave/168441723/" title="Photo Sharing"><img loading="lazy" src="//static.flickr.com/62/168441723_4f9cd99fcb.jpg" width="500" height="388" alt="hollywood freeway grave" /></a><br />
+<a href="http://www.flickr.com/photos/richardschave/168441723/" title="Photo Sharing"><img loading="lazy" src="//static.flickr.com/62/168441723_4f9cd99fcb.jpg" width="500" height="388" alt="hollywood freeway grave" /></a><br />
 Arrow points to bones of pioneer California soldier unearthed as Hollywood Freeway excavation cuts into the old Fort Moore Hill Cemetery. Soldier had been buried in full uniform, including silver spurs. Several caskets have been exposed. Photo dated: April 2, 1951.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/">In the news: God DAMN the stucco man; the dead walk on Fort Moore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/">In the news: God DAMN the stucco man; the dead walk on Fort Moore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/16/in-the-news-god-damn-the-stucco-man-the-dead-walk-on-fort-moore/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Final Curtain</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/04/final-curtain/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/04/final-curtain/#respond</comments>
+		<link>https://1947project.com/2006/06/04/final-curtain/</link>
+					<comments>https://1947project.com/2006/06/04/final-curtain/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 04 Jun 2006 15:35:18 +0000</pubDate>
@@ -220,23 +220,23 @@ Arrow points to bones of pioneer California soldier unearthed as Hollywood Freew
 		<category><![CDATA[time-lapse photography]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/04/final-curtain/">Final Curtain</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/04/final-curtain/">Final Curtain</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/04/final-curtain/">Final Curtain</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/04/final-curtain/">Final Curtain</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/04/final-curtain/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/04/final-curtain/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Theater Rises on Broadway</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/02/a-theater-rises-on-broadway/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/02/a-theater-rises-on-broadway/#respond</comments>
+		<link>https://1947project.com/2006/06/02/a-theater-rises-on-broadway/</link>
+					<comments>https://1947project.com/2006/06/02/a-theater-rises-on-broadway/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 02 Jun 2006 16:49:11 +0000</pubDate>
@@ -247,11 +247,11 @@ Arrow points to bones of pioneer California soldier unearthed as Hollywood Freew
 		<category><![CDATA[Theater]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 2, 1907 Los Angeles The Hamburger Department Store announces plans for a theater just south of its new building on South Broadway at 8th Street, designed by the architecture firm of Edelman and Barnett. According to plans, the horseshoe-shaped theater is to seat 1,600 people, with a balcony and a gallery. The stage is&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/02/a-theater-rises-on-broadway/">Continue reading <span class="screen-reader-text">A Theater Rises on Broadway</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/02/a-theater-rises-on-broadway/">A Theater Rises on Broadway</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 2, 1907 Los Angeles The Hamburger Department Store announces plans for a theater just south of its new building on South Broadway at 8th Street, designed by the architecture firm of Edelman and Barnett. According to plans, the horseshoe-shaped theater is to seat 1,600 people, with a balcony and a gallery. The stage is&#8230; <a class="more-link" href="https://1947project.com/2006/06/02/a-theater-rises-on-broadway/">Continue reading <span class="screen-reader-text">A Theater Rises on Broadway</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/02/a-theater-rises-on-broadway/">A Theater Rises on Broadway</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0602_theater.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0602_theater.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0602_theater.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0602_theater.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;"></span><span style="font-size:100%;">June 2, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -261,18 +261,18 @@ Arrow points to bones of pioneer California soldier unearthed as Hollywood Freew
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/02/a-theater-rises-on-broadway/">A Theater Rises on Broadway</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/02/a-theater-rises-on-broadway/">A Theater Rises on Broadway</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/02/a-theater-rises-on-broadway/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/02/a-theater-rises-on-broadway/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mason Opera House</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/15/mason-opera-house/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/15/mason-opera-house/#respond</comments>
+		<link>https://1947project.com/2006/05/15/mason-opera-house/</link>
+					<comments>https://1947project.com/2006/05/15/mason-opera-house/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 15 May 2006 14:55:20 +0000</pubDate>
@@ -286,16 +286,16 @@ Arrow points to bones of pioneer California soldier unearthed as Hollywood Freew
 		<category><![CDATA[musicals]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/15/mason-opera-house/">Mason Opera House</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/15/mason-opera-house/">Mason Opera House</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/GYtLoHsPT4c"></param></object></p>
+<div><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/GYtLoHsPT4c"></param></object></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/15/mason-opera-house/">Mason Opera House</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/15/mason-opera-house/">Mason Opera House</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/15/mason-opera-house/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/15/mason-opera-house/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

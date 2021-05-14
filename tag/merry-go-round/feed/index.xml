@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>merry-go-round &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/merry-go-round/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/merry-go-round/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:41:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>merry-go-round &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Dirty Books and Lost Films</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/07/dirty-books-and-lost-films/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/07/dirty-books-and-lost-films/#respond</comments>
+		<link>https://1947project.com/2007/06/07/dirty-books-and-lost-films/</link>
+					<comments>https://1947project.com/2007/06/07/dirty-books-and-lost-films/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 07 Jun 2007 17:03:51 +0000</pubDate>
@@ -49,24 +49,24 @@
 		<category><![CDATA[merry-go-round]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 7, 1927Hollywood Book dealer P. Gordon Lewis, 39, has been arrested on a charge of attempting to provide obscene works through the mail, following a correspondence with a rat fink in Lakeland, FLA named Mrs. Collins B. Whiting. Whiting initiated the exchange when she wrote to inquire if Lewis could provide certain &#34;erotic works,&#34;&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/07/dirty-books-and-lost-films/">Continue reading <span class="screen-reader-text">Dirty Books and Lost Films</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/07/dirty-books-and-lost-films/">Dirty Books and Lost Films</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 7, 1927Hollywood Book dealer P. Gordon Lewis, 39, has been arrested on a charge of attempting to provide obscene works through the mail, following a correspondence with a rat fink in Lakeland, FLA named Mrs. Collins B. Whiting. Whiting initiated the exchange when she wrote to inquire if Lewis could provide certain &#34;erotic works,&#34;&#8230; <a class="more-link" href="https://1947project.com/2007/06/07/dirty-books-and-lost-films/">Continue reading <span class="screen-reader-text">Dirty Books and Lost Films</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/07/dirty-books-and-lost-films/">Dirty Books and Lost Films</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>June 7, 1927<br />Hollywood</p>
-<p>Book dealer P. Gordon Lewis, 39, has been arrested on a charge of attempting to provide obscene works through the mail, following a correspondence with a rat fink in Lakeland, FLA named Mrs. Collins B. Whiting. Whiting initiated the exchange when she wrote to inquire if Lewis could provide certain &quot;erotic works,&quot; to which he replied that he had &quot;several excellent examples of amatory works.&quot; This was sufficient to bring down the hammer of the United States District Attorney, which charged Lewis with using the US mails to sell obscene literature. He was arrested at his home at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=2033+Vista+Del+Mar+Street,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=60.635244,104.765625&#038;ie=UTF8&#038;ll=34.108909,-118.32402&#038;spn=0.007871,0.012789&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">2033 &frac14; Vista Del Mar Street</a> and held on $5000 bail.</p>
-<p>Two years ago, Lewis was arrested on a similar charge at his shop at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1817+Ivar+Los+Angeles,+CA&#038;sll=34.108909,-118.32402&#038;sspn=0.007871,0.012789&#038;ie=UTF8&#038;ll=34.107434,-118.325007&#038;spn=0.007871,0.012789&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1817 Ivar</a> for mailing a copy of his sister Gladys Adelina Selma Lewis&#8217; (pen name Georges Lewys) privately printed <a href="https://www.amazon.com/exec/obidos/ASIN/B000NPQG6O/bubblegumbook" target="_blank"><em>The Temple of Pallas-Athenae</em></a> (1924). The book, financed by subscribers and printed in a run of 995, is the story of an ugly Greek princess who establishes a human stud service by which to test her theories of eugenics.</p>
-<p>While President Coolidge was a fan and she was decorated by the French government for her war poem on Verdun, Georges Lewys is perhaps more notable for her legal battles than for her literary achievements. In 1927 she was subject to an injunction from her one-time friend Erich Von Stroheim over a privately printed fictional volume closely based on his scenario for the film <a href="https://www.amazon.com/exec/obidos/ASIN/B00008H2GZ/bubblegumbook" target="_blank"><em>Merry-Go-Round,</em></a> from which he was removed as director by producer Irving Thalberg (supposedly after he learned that Stroheim wanted his extras to wear silk underwear embroidered with the Austro-Hungarian crown). She responded to his $50,000 suit with one for $100,000, and also sued Universal for the entirety of the film&#8217;s $3,000,000 profits. Lewys&#8217; book, dedicated to Stroheim and blithely noted to be &quot;from the Austrian&quot; is considered by Stroheim scholars to be the key to understanding the director&#8217;s intentions for his film of pre-War Viennese life and love, with its scenes of voyeurism and sadomasochism. The New York Times reported that Miss Lewis received an out of court settlement&#8211;perhaps to hush discussion of the book and its racy subject matter.</p>
-<p>In 1929, then 30 and living with her mother in the Belnord Apartments at Broadway and 86th Street, New York, Miss Lewis unsuccessfully sued Eugene O&#8217;Neill in Federal Court for $1,250,000, charging plagiarism of her characters in <em>The Temple of Pallas-Athenae</em> for his play <em>Strange Interlude.</em> She said she wrote the story in 1917, and that it had sold for $20. O&#8217;Neill claimed never to have heard of the &quot;crazy&quot; authoress, who erupted with some unintentionally hilarious <a href="https://www.amazon.com/exec/obidos/ASIN/0820419079/bubblegumbook" target="_blank">remarks</a> about her artistic character while on the stand, and Judge Woosley declared that while there might be some similarities between the characters, character types could not be owned by any author. </p>
+<p>Book dealer P. Gordon Lewis, 39, has been arrested on a charge of attempting to provide obscene works through the mail, following a correspondence with a rat fink in Lakeland, FLA named Mrs. Collins B. Whiting. Whiting initiated the exchange when she wrote to inquire if Lewis could provide certain &quot;erotic works,&quot; to which he replied that he had &quot;several excellent examples of amatory works.&quot; This was sufficient to bring down the hammer of the United States District Attorney, which charged Lewis with using the US mails to sell obscene literature. He was arrested at his home at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=2033+Vista+Del+Mar+Street,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=60.635244,104.765625&#038;ie=UTF8&#038;ll=34.108909,-118.32402&#038;spn=0.007871,0.012789&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">2033 &frac14; Vista Del Mar Street</a> and held on $5000 bail.</p>
+<p>Two years ago, Lewis was arrested on a similar charge at his shop at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1817+Ivar+Los+Angeles,+CA&#038;sll=34.108909,-118.32402&#038;sspn=0.007871,0.012789&#038;ie=UTF8&#038;ll=34.107434,-118.325007&#038;spn=0.007871,0.012789&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1817 Ivar</a> for mailing a copy of his sister Gladys Adelina Selma Lewis&#8217; (pen name Georges Lewys) privately printed <a href="http://www.amazon.com/exec/obidos/ASIN/B000NPQG6O/bubblegumbook" target="_blank"><em>The Temple of Pallas-Athenae</em></a> (1924). The book, financed by subscribers and printed in a run of 995, is the story of an ugly Greek princess who establishes a human stud service by which to test her theories of eugenics.</p>
+<p>While President Coolidge was a fan and she was decorated by the French government for her war poem on Verdun, Georges Lewys is perhaps more notable for her legal battles than for her literary achievements. In 1927 she was subject to an injunction from her one-time friend Erich Von Stroheim over a privately printed fictional volume closely based on his scenario for the film <a href="http://www.amazon.com/exec/obidos/ASIN/B00008H2GZ/bubblegumbook" target="_blank"><em>Merry-Go-Round,</em></a> from which he was removed as director by producer Irving Thalberg (supposedly after he learned that Stroheim wanted his extras to wear silk underwear embroidered with the Austro-Hungarian crown). She responded to his $50,000 suit with one for $100,000, and also sued Universal for the entirety of the film&#8217;s $3,000,000 profits. Lewys&#8217; book, dedicated to Stroheim and blithely noted to be &quot;from the Austrian&quot; is considered by Stroheim scholars to be the key to understanding the director&#8217;s intentions for his film of pre-War Viennese life and love, with its scenes of voyeurism and sadomasochism. The New York Times reported that Miss Lewis received an out of court settlement&#8211;perhaps to hush discussion of the book and its racy subject matter.</p>
+<p>In 1929, then 30 and living with her mother in the Belnord Apartments at Broadway and 86th Street, New York, Miss Lewis unsuccessfully sued Eugene O&#8217;Neill in Federal Court for $1,250,000, charging plagiarism of her characters in <em>The Temple of Pallas-Athenae</em> for his play <em>Strange Interlude.</em> She said she wrote the story in 1917, and that it had sold for $20. O&#8217;Neill claimed never to have heard of the &quot;crazy&quot; authoress, who erupted with some unintentionally hilarious <a href="http://www.amazon.com/exec/obidos/ASIN/0820419079/bubblegumbook" target="_blank">remarks</a> about her artistic character while on the stand, and Judge Woosley declared that while there might be some similarities between the characters, character types could not be owned by any author. </p>
 <p>&ldquo;It is true that there are old and young people in both plots. It is true that there are fathers and mothers and daughters and sons. But, after having carefully read both books more than once, I think it is fair to say that in the plaintiff&#8217;s book the characters are merely types &#8212; the socially ambitious mother and daughter, the obtuse but successful American business man, the dissipated foreign nobleman, the middle aged English philanderer, and the fabulously rich Russian princess. None of these types is individualized sufficiently to make the characters of the defendant any possible infringement of the plaintiff&#8217;s copyright.&rdquo;</p>
-<p>In 1931 Miss Lewis was ordered to pay O&#8217;Neill and his associates $17,500 in damages that she did not have, and there the matter rested. Later, she wrote a biography of the coloratura soprano <a href="https://www.opera-singer.co.uk/" target="_blank">Adelina Patti</a>, her godmother and her mother&#8217;s dear friend. </p>
-<p>The Lewises are native Angelenoes whose late father Meyer was a leading shoe retailer in the 1880s at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=101+North+Spring+Street+Los+Angeles,+CA&#038;sll=34.107434,-118.325007&#038;sspn=0.007871,0.012789&#038;ie=UTF8&#038;ll=34.054153,-118.244455&#038;spn=0.007876,0.012789&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">101 and 103 North Spring Street</a>, with a fabulous home on Grand Avenue (A.M. Adelman, 1890). Their mother is author Selma Lewis.</p>
+<p>In 1931 Miss Lewis was ordered to pay O&#8217;Neill and his associates $17,500 in damages that she did not have, and there the matter rested. Later, she wrote a biography of the coloratura soprano <a href="http://www.opera-singer.co.uk/" target="_blank">Adelina Patti</a>, her godmother and her mother&#8217;s dear friend. </p>
+<p>The Lewises are native Angelenoes whose late father Meyer was a leading shoe retailer in the 1880s at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=101+North+Spring+Street+Los+Angeles,+CA&#038;sll=34.107434,-118.325007&#038;sspn=0.007871,0.012789&#038;ie=UTF8&#038;ll=34.054153,-118.244455&#038;spn=0.007876,0.012789&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">101 and 103 North Spring Street</a>, with a fabulous home on Grand Avenue (A.M. Adelman, 1890). Their mother is author Selma Lewis.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/07/dirty-books-and-lost-films/">Dirty Books and Lost Films</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/07/dirty-books-and-lost-films/">Dirty Books and Lost Films</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/07/dirty-books-and-lost-films/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/07/dirty-books-and-lost-films/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

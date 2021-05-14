@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Shriners &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/fraternal-organizations-2/shriners-6/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/fraternal-organizations-2/shriners-6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:56:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Shriners &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Matzo Brawl!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/29/matzo-brawl/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/29/matzo-brawl/#respond</comments>
+		<link>https://1947project.com/2006/11/29/matzo-brawl/</link>
+					<comments>https://1947project.com/2006/11/29/matzo-brawl/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 29 Nov 2006 15:24:22 +0000</pubDate>
@@ -44,29 +44,29 @@
 		<category><![CDATA[kosher]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 29, 1907 Los Angeles Oh Those Shriners: Recall, if you will, the grisly train wreck that killed a large number of Shriners returning from their convention in Los Angeles. It seems that one of them, George F. Hageman, inadvertently touched off a legal dispute between two belles of Reading. Sarah Reber and Maude Weber&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/29/matzo-brawl/">Continue reading <span class="screen-reader-text">Matzo Brawl!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/29/matzo-brawl/">Matzo Brawl!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 29, 1907 Los Angeles Oh Those Shriners: Recall, if you will, the grisly train wreck that killed a large number of Shriners returning from their convention in Los Angeles. It seems that one of them, George F. Hageman, inadvertently touched off a legal dispute between two belles of Reading. Sarah Reber and Maude Weber&#8230; <a class="more-link" href="https://1947project.com/2006/11/29/matzo-brawl/">Continue reading <span class="screen-reader-text">Matzo Brawl!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/29/matzo-brawl/">Matzo Brawl!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1129.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1129.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/imges/1907_1129.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/imges/1907_1129.jpg" alt="" border="0" /></a><span style="font-size:100%;">Nov. 29, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1129.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1129.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/imges/1907_1129.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/imges/1907_1129.jpg" alt="" border="0" /></a><span style="font-size:100%;">Nov. 29, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-<strong>Oh Those Shriners: </strong></span><span style="font-size:100%;">Recall, if you will, <a href="https://pensive-torvalds-020d34.netlify.app/tags/shriners">the grisly train wreck</a></span><span style="font-size:100%;"> that killed a large number of Shriners returning from their convention in Los Angeles. It seems that one of them, George F. Hageman, inadvertently touched off a legal dispute between two belles of Reading.<br />
+<strong>Oh Those Shriners: </strong></span><span style="font-size:100%;">Recall, if you will, <a href="https://1947project.com/tags/shriners">the grisly train wreck</a></span><span style="font-size:100%;"> that killed a large number of Shriners returning from their convention in Los Angeles. It seems that one of them, George F. Hageman, inadvertently touched off a legal dispute between two belles of Reading.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Sarah Reber and Maude Weber went before the court insisting that each of them was the rightful heir of the bachelor, who was </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/29/matzo-brawl/">Matzo Brawl!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/29/matzo-brawl/">Matzo Brawl!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/29/matzo-brawl/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/29/matzo-brawl/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>History Deals a Tragic Hand</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/12/history-deals-a-tragic-hand/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/12/history-deals-a-tragic-hand/#respond</comments>
+		<link>https://1947project.com/2006/05/12/history-deals-a-tragic-hand/</link>
+					<comments>https://1947project.com/2006/05/12/history-deals-a-tragic-hand/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 12 May 2006 18:10:14 +0000</pubDate>
@@ -77,27 +77,27 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>May 12, 1907 Honda, Calif. We</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/12/history-deals-a-tragic-hand/">History Deals a Tragic Hand</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/12/history-deals-a-tragic-hand/">History Deals a Tragic Hand</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0512_hed.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 423px; height: 115px;" src="//lmharnisch.com/images/1907_0512_hed.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0512_hed.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 423px; height: 115px;" src="//lmharnisch.com/images/1907_0512_hed.jpg" alt="" border="0" /></a><br />
 <span style="font-weight: bold;font-size:130%;" >May 12, 1907<br />
 Honda, Calif.<br />
 </span></p>
 <p><span style="font-size:100%;">We</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/12/history-deals-a-tragic-hand/">History Deals a Tragic Hand</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/12/history-deals-a-tragic-hand/">History Deals a Tragic Hand</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/12/history-deals-a-tragic-hand/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/12/history-deals-a-tragic-hand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Horse Abuse At the Fiesta</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/09/horse-abuse-at-the-fiesta/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/09/horse-abuse-at-the-fiesta/#respond</comments>
+		<link>https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/</link>
+					<comments>https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 09 May 2006 23:38:56 +0000</pubDate>
@@ -112,8 +112,8 @@ Honda, Calif.<br />
 		<category><![CDATA[spca]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 9, 1907 Los Angeles The spies of the SPCA were watching closely as the Fiesta electrical parade wound its way down Broadway last night, ready to spring forward in defense of the poor animals on whose shoulders so much of the festivities rests. Sure enough, rider W.S. Voorsanger was spotted at 2nd and Broadway,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/05/09/horse-abuse-at-the-fiesta/">Continue reading <span class="screen-reader-text">Horse Abuse At the Fiesta</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 9, 1907 Los Angeles The spies of the SPCA were watching closely as the Fiesta electrical parade wound its way down Broadway last night, ready to spring forward in defense of the poor animals on whose shoulders so much of the festivities rests. Sure enough, rider W.S. Voorsanger was spotted at 2nd and Broadway,&#8230; <a class="more-link" href="https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/">Continue reading <span class="screen-reader-text">Horse Abuse At the Fiesta</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -123,18 +123,18 @@ Honda, Calif.<br />
 <p><em>Voorsanger</em>&#8230; isn&#8217;t that Dutch for &quot;to make bloody&quot;?&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/09/horse-abuse-at-the-fiesta/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Shriners Present a Colorful Array</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/09/shriners-present-a-colorful-array/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/09/shriners-present-a-colorful-array/#respond</comments>
+		<link>https://1947project.com/2006/05/09/shriners-present-a-colorful-array/</link>
+					<comments>https://1947project.com/2006/05/09/shriners-present-a-colorful-array/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 09 May 2006 15:55:13 +0000</pubDate>
@@ -144,27 +144,27 @@ Honda, Calif.<br />
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>What, you might ask yourself, did Shriners do before the advent of those little cars and Harley- Davidson Electra Glides? The elaborately costumed men staged precision, close-order drills accompanied by marching bands. The effect, according to The Times, was stunning, inspiring the unidentified author to summon forth his (or possibly her) own gaudiest prose.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/09/shriners-present-a-colorful-array/">Shriners Present a Colorful Array</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/09/shriners-present-a-colorful-array/">Shriners Present a Colorful Array</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0509_shrine_medal.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 335px;" src="//lmharnisch.com/images/1907_0509_shrine_medal.jpg" alt="" border="0" /></a><span style="font-size:100%;">What, you might ask yourself, did Shriners do before the advent of those little cars and <a href="https://www.harley-davidson.com/pr/mot/poli/2006/en/06_shrine.asp?locale=en_US&amp;bmLocale=en_US">Harley- Davidson Electra Glides</a></span><span style="font-size:100%;">? The elaborately costumed men staged precision, close-order drills accompanied by marching bands.<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0509_shrine_medal.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 335px;" src="//lmharnisch.com/images/1907_0509_shrine_medal.jpg" alt="" border="0" /></a><span style="font-size:100%;">What, you might ask yourself, did Shriners do before the advent of those little cars and <a href="http://www.harley-davidson.com/pr/mot/poli/2006/en/06_shrine.asp?locale=en_US&amp;bmLocale=en_US">Harley- Davidson Electra Glides</a></span><span style="font-size:100%;">? The elaborately costumed men staged precision, close-order drills accompanied by marching bands.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The effect, according to The Times, was stunning, inspiring the unidentified author to summon forth his (or possibly her) own gaudiest prose.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/09/shriners-present-a-colorful-array/">Shriners Present a Colorful Array</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/09/shriners-present-a-colorful-array/">Shriners Present a Colorful Array</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/09/shriners-present-a-colorful-array/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/09/shriners-present-a-colorful-array/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Shriners Ban Water Except for Bathing</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/05/shriners-ban-water-except-for-bathing/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/05/shriners-ban-water-except-for-bathing/#comments</comments>
+		<link>https://1947project.com/2006/05/05/shriners-ban-water-except-for-bathing/</link>
+					<comments>https://1947project.com/2006/05/05/shriners-ban-water-except-for-bathing/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 05 May 2006 15:29:23 +0000</pubDate>
@@ -176,25 +176,25 @@ Honda, Calif.<br />
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Singing loud praises to Allah that strike a curious note in 2006, the special train of Shriners is flying across the Nevada desert brimming with Freemasons and their families pondering the ancient mystery:</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/05/shriners-ban-water-except-for-bathing/">Shriners Ban Water Except for Bathing</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/05/shriners-ban-water-except-for-bathing/">Shriners Ban Water Except for Bathing</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0505_shriner_ostrich.jpg"><img style="cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0505_shriner_ostrich.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0505_shriner_ostrich.jpg"><img style="cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0505_shriner_ostrich.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;"></p>
 <p>Singing loud praises to Allah that strike a curious note in 2006, the special train of Shriners is flying across the Nevada desert brimming with Freemasons and their families pondering the ancient mystery: </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/05/shriners-ban-water-except-for-bathing/">Shriners Ban Water Except for Bathing</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/05/shriners-ban-water-except-for-bathing/">Shriners Ban Water Except for Bathing</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/05/shriners-ban-water-except-for-bathing/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/05/shriners-ban-water-except-for-bathing/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Big Pickup</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/25/the-big-pickup/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/25/the-big-pickup/#respond</comments>
+		<link>https://1947project.com/2006/04/25/the-big-pickup/</link>
+					<comments>https://1947project.com/2006/04/25/the-big-pickup/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2006 17:25:01 +0000</pubDate>
@@ -210,8 +210,8 @@ Honda, Calif.<br />
 		<category><![CDATA[police sweep]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 25, 1907 Los Angeles &#160; Fiesta is coming!&#160; And men of low standing are being swept from the streets&#8212;today one M. Lawrence was arrested on the charge of peddling worthless jewelry.&#160; The police are making a special effort to remove from our midst swindlers of all stripes before Fiesta.&#160; Sometimes they have help:&#160; a&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/25/the-big-pickup/">Continue reading <span class="screen-reader-text">The Big Pickup</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/25/the-big-pickup/">The Big Pickup</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 25, 1907 Los Angeles &#160; Fiesta is coming!&#160; And men of low standing are being swept from the streets&#8212;today one M. Lawrence was arrested on the charge of peddling worthless jewelry.&#160; The police are making a special effort to remove from our midst swindlers of all stripes before Fiesta.&#160; Sometimes they have help:&#160; a&#8230; <a class="more-link" href="https://1947project.com/2006/04/25/the-big-pickup/">Continue reading <span class="screen-reader-text">The Big Pickup</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/25/the-big-pickup/">The Big Pickup</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>April 25, 1907 </p>
@@ -220,10 +220,10 @@ Honda, Calif.<br />
 <div>Fiesta is coming!&nbsp; And men of low standing are being swept from the streets&mdash;today one M. Lawrence was arrested on the charge of peddling worthless jewelry.&nbsp; The police are making a special effort to remove from our midst swindlers of all stripes before Fiesta.&nbsp; Sometimes they have help:&nbsp; a Mr. Johnson was admitted to Receiving Hospital with cuts and lacerations to the face; he was recognized as being C. W. Draper, the recently paroled forger.&nbsp; While attempting to sell goods to a woman at 115 North Olive Street, an unknown man leaped upon him and beat him severely.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/25/the-big-pickup/">The Big Pickup</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/25/the-big-pickup/">The Big Pickup</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/25/the-big-pickup/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/25/the-big-pickup/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

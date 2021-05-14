@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Leviathan &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/leviathan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/leviathan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Leviathan &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Back from R&#8217;lyeh</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/11/back-from-rlyeh/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/11/back-from-rlyeh/#respond</comments>
+		<link>https://1947project.com/2007/06/11/back-from-rlyeh/</link>
+					<comments>https://1947project.com/2007/06/11/back-from-rlyeh/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 11 Jun 2007 03:30:37 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[sea monster]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 10, 1927Santa Monica &#160; His snorting throws out flashes of light; his eyes are like the rays of dawn.&#160; Firebrands stream from his mouth; sparks of fire shoot out. Smoke pours from his nostrils as from a boiling pot over a fire of reeds.&#160; His breath sets coals ablaze, and flames dart from his&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/11/back-from-rlyeh/">Continue reading <span class="screen-reader-text">Back from R&#8217;lyeh</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/11/back-from-rlyeh/">Back from R&#8217;lyeh</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 10, 1927Santa Monica &#160; His snorting throws out flashes of light; his eyes are like the rays of dawn.&#160; Firebrands stream from his mouth; sparks of fire shoot out. Smoke pours from his nostrils as from a boiling pot over a fire of reeds.&#160; His breath sets coals ablaze, and flames dart from his&#8230; <a class="more-link" href="https://1947project.com/2007/06/11/back-from-rlyeh/">Continue reading <span class="screen-reader-text">Back from R&#8217;lyeh</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/11/back-from-rlyeh/">Back from R&#8217;lyeh</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -58,14 +58,14 @@
 <p>Let&#8217;s hear Harry tell of it:</p>
 <p align="justify">&ldquo;As I was coming by the Sea Breeze Club the watchman was out spraying the dust down.&nbsp; I stopped long enough to pass the time of day and started south to finish my night work.&nbsp; When about one-eighth of a mile south of the clubhouse I notice something out about where the swells break, and at first thought it some kind of wreckage, but soon discovered it was a live thing.&nbsp; At first I thought it was a mammoth shark with a fin about three feet sticking out of the water and the top of its tail about twenty feet back, also sticking out.&nbsp; But soon a head about the size and shape of a seal&rsquo;s appeared about ten feet ahead of this fin and then its neck.<br />&ldquo;&rsquo;Well, Mr. Cole,&rsquo; I says, &ldquo;you and your dog are surely seeing things.&rsquo;&nbsp; Mike, my dog, had discovered it too by this time.&nbsp; I left my car and ran back&mdash;yelled to the watchman, &lsquo;Come here quick!&nbsp; What is that out there?&rsquo;&nbsp;&nbsp; It was going north as fast as I could run.&nbsp; Then up came the head about three feet out of water&hellip;as near as we could guess it showed from thirty to forty feet, and whet it turned seaward we could see there were two of those big fins, or sails, about two feet apart and exactly abreast of each other.<br />&ldquo;Last year several of the men working on the Gables Club said they saw an immense sea monster just off shore&mdash;four or five saw it.&nbsp; But I thought they were seeing things and let it pass my mind.&nbsp; But now I know that such things do happen in that old pond.&rdquo;</p>
 <p><img loading="lazy" width="475" height="156" border="0" align="middle" src="//farm2.static.flickr.com/1085/538147914_b25df56efa_o.gif" alt="seabeastpic" title="seabeastpic" />&nbsp;</p>
-<p>The press wryly noted that perhaps the seabeast was screen bogeyman Lon &ldquo;Man of a Thousand Faces&rdquo; Chaney.&nbsp; This is unlikely, as Chaney was busy over at Metro where in fact, on this day of 10 June, it was announced by Thalberg that Chaney would pair with Tod Browning (yet again) in <em>The Hypnotic</em>, whose plot would hinge on science&rsquo;s strange new discoveries in the realm of mesmerism and mental waves; this picture would go on to become famous &ldquo;<a title="LAM" target="_blank" href="https://www.michaelgebert.com/lam/lam1.html">lost</a>&rdquo; film <em>London After Midnight</em>.</p>
-<p>In any event, Chaney does not appear in the greater list of <a title="cryptids" target="_blank" href="https://en.wikipedia.org/wiki/Cryptid">cryptids</a>.&nbsp; As to whatever type of yet to be catalogued by the piscatorial expert seabeast Cole saw, he said&nbsp; &quot;If I didn&rsquo;t have a witness to this I never would have never enough to tell what I saw.&nbsp; I have been night patrolling in that territory for six years and maybe it is time I was getting goofy.&rdquo; </p>
+<p>The press wryly noted that perhaps the seabeast was screen bogeyman Lon &ldquo;Man of a Thousand Faces&rdquo; Chaney.&nbsp; This is unlikely, as Chaney was busy over at Metro where in fact, on this day of 10 June, it was announced by Thalberg that Chaney would pair with Tod Browning (yet again) in <em>The Hypnotic</em>, whose plot would hinge on science&rsquo;s strange new discoveries in the realm of mesmerism and mental waves; this picture would go on to become famous &ldquo;<a title="LAM" target="_blank" href="http://www.michaelgebert.com/lam/lam1.html">lost</a>&rdquo; film <em>London After Midnight</em>.</p>
+<p>In any event, Chaney does not appear in the greater list of <a title="cryptids" target="_blank" href="http://en.wikipedia.org/wiki/Cryptid">cryptids</a>.&nbsp; As to whatever type of yet to be catalogued by the piscatorial expert seabeast Cole saw, he said&nbsp; &quot;If I didn&rsquo;t have a witness to this I never would have never enough to tell what I saw.&nbsp; I have been night patrolling in that territory for six years and maybe it is time I was getting goofy.&rdquo; </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/11/back-from-rlyeh/">Back from R&#8217;lyeh</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/11/back-from-rlyeh/">Back from R&#8217;lyeh</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/11/back-from-rlyeh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/11/back-from-rlyeh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

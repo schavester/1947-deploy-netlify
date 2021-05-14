@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Corruption &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/corruption-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/corruption-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 20:02:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Corruption &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>In the Line of Duty</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/#respond</comments>
+		<link>https://1947project.com/2008/03/15/in-the-line-of-duty-2/</link>
+					<comments>https://1947project.com/2008/03/15/in-the-line-of-duty-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:17:06 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[Volstead Act]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 16, 1927 Los Angeles If the drys are gonna catch the wets, theyÃ¢â‚¬â„¢re gonna have to wet themselves. So to speak. At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/">Continue reading <span class="screen-reader-text">In the Line of Duty</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 16, 1927 Los Angeles If the drys are gonna catch the wets, theyÃ¢â‚¬â„¢re gonna have to wet themselves. So to speak. At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">Continue reading <span class="screen-reader-text">In the Line of Duty</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,24 +59,24 @@ Los Angeles</p>
 <p>
 At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession I could more easily get bootleggers to believe that I was handling booze and therefore make it easier to arrest bootleggers.Ã¢â‚¬Â</p>
 <p>Uh-<em>huh</em>.</p>
-<p>Wyncoop is on trial because he turned twenty-nine bottles of liquor to his own use, instead of turning it into the government warehouse.  CanÃ¢â‚¬â„¢t those government know-nothings see that you need that hooch to go under <a href="https://www.youtube.com/watch?v=wFQUceaB8O4" target="_blank" title="dontcallhimlarry">deep cover</a>?  That he only took home that <a href="https://www.youtube.com/watch?v=KtRtkzNKcFU" target="_blank" title="jjl">demon rum</a> in the solemn performance of his duty?</p>
+<p>Wyncoop is on trial because he turned twenty-nine bottles of liquor to his own use, instead of turning it into the government warehouse.  CanÃ¢â‚¬â„¢t those government know-nothings see that you need that hooch to go under <a href="http://www.youtube.com/watch?v=wFQUceaB8O4" target="_blank" title="dontcallhimlarry">deep cover</a>?  That he only took home that <a href="http://www.youtube.com/watch?v=KtRtkzNKcFU" target="_blank" title="jjl">demon rum</a> in the solemn performance of his duty?</p>
 <p>(Convicted by a jury of illegal conversion, he was given a short term in the county jail.)</p>
 <p>
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/15/in-the-line-of-duty-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/15/in-the-line-of-duty-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>I Did Not Have Sex with that Woman!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/06/i-did-not-have-sex-with-that-woman/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/06/i-did-not-have-sex-with-that-woman/#respond</comments>
+		<link>https://1947project.com/2007/08/06/i-did-not-have-sex-with-that-woman/</link>
+					<comments>https://1947project.com/2007/08/06/i-did-not-have-sex-with-that-woman/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 06 Aug 2007 01:38:55 +0000</pubDate>
@@ -92,34 +92,34 @@ At the trial of John H. Wyncoop, former chief field agent for the boys of the Ca
 		<category><![CDATA[Harry Raymond]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 6, 1927Los Angeles Councilman Carl I. Jacobson was arrested in a morals raid at 4372 Beagle Street in the company of a woman who said her name was Mrs. Hazel Ferguson, but who later admitted her real name was Mrs. Callie Grimes. The married councilman insisted that he was framed and that the raid&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/i-did-not-have-sex-with-that-woman/">Continue reading <span class="screen-reader-text">I Did Not Have Sex with that Woman!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/i-did-not-have-sex-with-that-woman/">I Did Not Have Sex with that Woman!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 6, 1927Los Angeles Councilman Carl I. Jacobson was arrested in a morals raid at 4372 Beagle Street in the company of a woman who said her name was Mrs. Hazel Ferguson, but who later admitted her real name was Mrs. Callie Grimes. The married councilman insisted that he was framed and that the raid&#8230; <a class="more-link" href="https://1947project.com/2007/08/06/i-did-not-have-sex-with-that-woman/">Continue reading <span class="screen-reader-text">I Did Not Have Sex with that Woman!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/i-did-not-have-sex-with-that-woman/">I Did Not Have Sex with that Woman!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="Jacobson Headline" height="353" alt="Jacobson Headline" src="//farm2.static.flickr.com/1375/1022195791_d299294c9c.jpg" width="302" border="0" /></p>
 <p>August 6, 1927<br />Los Angeles</p>
-<p>Councilman Carl I. Jacobson was arrested in a morals raid at <a title="4732 Beagle Street" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=4732+Beagle+Street,+Los+Angeles,+CA&#038;sll=34.086893,-118.174889&#038;sspn=0.010876,0.018239&#038;ie=UTF8&#038;ll=34.084512,-118.184609&#038;spn=0.010876,0.018239&#038;t=h&#038;z=16&#038;om=1" target="_blank">4372 Beagle Street</a> in the company of a woman who said her name was Mrs. <img loading="lazy" title="Councilman Jacobson" height="258" alt="Councilman Jacobson" src="//farm2.static.flickr.com/1291/1022195803_f2fff49cb4_o.jpg" width="141" align="right" border="0" />Hazel Ferguson, but who later admitted her real name was Mrs. Callie Grimes. </p>
+<p>Councilman Carl I. Jacobson was arrested in a morals raid at <a title="4732 Beagle Street" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=4732+Beagle+Street,+Los+Angeles,+CA&#038;sll=34.086893,-118.174889&#038;sspn=0.010876,0.018239&#038;ie=UTF8&#038;ll=34.084512,-118.184609&#038;spn=0.010876,0.018239&#038;t=h&#038;z=16&#038;om=1" target="_blank">4372 Beagle Street</a> in the company of a woman who said her name was Mrs. <img loading="lazy" title="Councilman Jacobson" height="258" alt="Councilman Jacobson" src="//farm2.static.flickr.com/1291/1022195803_f2fff49cb4_o.jpg" width="141" align="right" border="0" />Hazel Ferguson, but who later admitted her real name was Mrs. Callie Grimes. </p>
 <p>The married councilman insisted that he was framed and that the raid was the underworld&rsquo;s retaliation for his much publicized crusade against vice in the city. </p>
-<p>Jacobson, who lives in a small bungalow at <a title="3014 Terry Place" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=3014+Terry+Place,+Los+Angeles,+CA&#038;sll=34.084512,-118.184609&#038;sspn=0.010876,0.018239&#038;ie=UTF8&#038;t=h&#038;z=16&#038;om=1" target="_blank">3014 Terry Place</a> with his wife of thirty years, told cops that he had called upon Mrs. Ferguson to discuss a matter of street assessments with her. He said Mrs. Ferguson had telephoned him at his home and asked him to look over her property to see if it was worth paying the assessments. </p>
+<p>Jacobson, who lives in a small bungalow at <a title="3014 Terry Place" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=3014+Terry+Place,+Los+Angeles,+CA&#038;sll=34.084512,-118.184609&#038;sspn=0.010876,0.018239&#038;ie=UTF8&#038;t=h&#038;z=16&#038;om=1" target="_blank">3014 Terry Place</a> with his wife of thirty years, told cops that he had called upon Mrs. Ferguson to discuss a matter of street assessments with her. He said Mrs. Ferguson had telephoned him at his home and asked him to look over her property to see if it was worth paying the assessments. </p>
 <p>When he arrived for their meeting Mrs. Ferguson poured two cocktails, and then moments later all of the lights in the house went out. It was then that police announced themselves and placed Councilman Jacobson and Mrs. Ferguson/Grimes under arrest. </p>
 <p>The four arresting officers, Captains of Detectives Wallis and Williams, and Detectives Lucas and Raymond related a version of events substantively different from Jacobson&rsquo;s account. They stated that they went to the Beagle street house, watched through a window and then observing what they felt constituted criminal behavior, crashed down a door to arrest the couple on morals violations. The arrest of Jacobson and Grimes begs the question: why were four high-ranking LAPD officers creeping around in the shrubbery with their noses pressed to a window like four Peeping Toms? </p>
 <p>The case against Jacobsen would drag on. Jacobson would be tried twice on morals charges. In the first trial the jury would vote 9 to 3 for acquittal; in the second trial the jury would be evenly divided and the DA would decide against trying him for a third time. Mrs. Callie Grimes would confess to her part in the frame-up, and then recant. Grimes along with the four officers who conducted the raid would be tried for conspiracy, and the charges against them would be dismissed in 1929. </p>
-<p>One of the detectives, Harry Raymond, would leave the LAPD and become a private investigator. He&rsquo;d turn up again in the news as the victim of an attempted assassination by car bomb, in a 1938 corruption scandal involving Los Angeles <a title="Frank Shaw" href="https://en.wikipedia.org/wiki/Frank_L._Shaw" target="_blank">Mayor Frank Shaw</a>, members of his administration, and the LAPD. </p>
+<p>One of the detectives, Harry Raymond, would leave the LAPD and become a private investigator. He&rsquo;d turn up again in the news as the victim of an attempted assassination by car bomb, in a 1938 corruption scandal involving Los Angeles <a title="Frank Shaw" href="http://en.wikipedia.org/wiki/Frank_L._Shaw" target="_blank">Mayor Frank Shaw</a>, members of his administration, and the LAPD. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/i-did-not-have-sex-with-that-woman/">I Did Not Have Sex with that Woman!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/i-did-not-have-sex-with-that-woman/">I Did Not Have Sex with that Woman!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/06/i-did-not-have-sex-with-that-woman/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/06/i-did-not-have-sex-with-that-woman/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vice in Venice</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/#respond</comments>
+		<link>https://1947project.com/2006/08/30/vice-in-venice/</link>
+					<comments>https://1947project.com/2006/08/30/vice-in-venice/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Wed, 30 Aug 2006 07:18:27 +0000</pubDate>
@@ -132,8 +132,8 @@ At the trial of John H. Wyncoop, former chief field agent for the boys of the Ca
 		<category><![CDATA[fraud]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 30, 1907Venice Get talked up by a booster&#8230;wend your way through the hall&#8230;step on the special stair which emits a loud buzz, warning those you approach.&#160; You&#8217;re one your way into the Venice Club, Windward Avenue, Venice, California. The windows are covered in black oilcloth to keep out light and sound and prying eyes.&#160;&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/">Continue reading <span class="screen-reader-text">Vice in Venice</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 30, 1907Venice Get talked up by a booster&#8230;wend your way through the hall&#8230;step on the special stair which emits a loud buzz, warning those you approach.&#160; You&#8217;re one your way into the Venice Club, Windward Avenue, Venice, California. The windows are covered in black oilcloth to keep out light and sound and prying eyes.&#160;&#8230; <a class="more-link" href="https://1947project.com/2006/08/30/vice-in-venice/">Continue reading <span class="screen-reader-text">Vice in Venice</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -149,10 +149,10 @@ At the trial of John H. Wyncoop, former chief field agent for the boys of the Ca
 <p>The corruption scandal lingered long and luscious&#8230;September 11, 1907:&nbsp; <br /><img loading="lazy" width="400" height="250" border="0" align="bottom" src="//static.flickr.com/76/228951196_f03e2fcbba_o.gif" alt="knifehilt" title="knifehilt" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/30/vice-in-venice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

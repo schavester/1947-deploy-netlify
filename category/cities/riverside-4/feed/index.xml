@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Riverside &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/cities/riverside-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/cities/riverside-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 18:55:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Riverside &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Wanderlust At Sea</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/10/07/wanderlust-at-sea/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/10/07/wanderlust-at-sea/#respond</comments>
+		<link>https://1947project.com/2007/10/07/wanderlust-at-sea/</link>
+					<comments>https://1947project.com/2007/10/07/wanderlust-at-sea/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 07 Oct 2007 00:19:39 +0000</pubDate>
@@ -49,36 +49,36 @@
 		<category><![CDATA[Cons]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 7, 1927Long Beach Between Christ&#8217;s wanderings in the deserts of Jericho, and Kidder&#8217;s huddlings in the gardens of Glendale, there was Robert Sankey. &#160; Sankey, 44, a prominent Riverside contractor, was in a splendid mood September seventh last; he had no domestic or financial troubles, and bid his lovely wife and 13 year-old daughter&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/10/07/wanderlust-at-sea/">Continue reading <span class="screen-reader-text">Wanderlust At Sea</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/07/wanderlust-at-sea/">Wanderlust At Sea</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 7, 1927Long Beach Between Christ&#8217;s wanderings in the deserts of Jericho, and Kidder&#8217;s huddlings in the gardens of Glendale, there was Robert Sankey. &#160; Sankey, 44, a prominent Riverside contractor, was in a splendid mood September seventh last; he had no domestic or financial troubles, and bid his lovely wife and 13 year-old daughter&#8230; <a class="more-link" href="https://1947project.com/2007/10/07/wanderlust-at-sea/">Continue reading <span class="screen-reader-text">Wanderlust At Sea</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/07/wanderlust-at-sea/">Wanderlust At Sea</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="255" height="270" border="0" align="right" title="manfound!" alt="manfound!" src="//farm3.static.flickr.com/2165/1494760436_705b15e89c_o.jpg" />October 7, 1927<br />Long Beach</p>
 <p>Between Christ&rsquo;s wanderings in the deserts of Jericho, and Kidder&rsquo;s huddlings in the gardens of Glendale, there was Robert Sankey. &nbsp;</p>
-<p>Sankey, 44, a prominent Riverside contractor, was in a splendid mood September seventh last; he had no domestic or financial troubles, and bid his lovely wife and 13 year-old daughter goodbye that morning in his home at <a title="houseofsankey" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=270+Bandini+Avenue,+Riverside,+California&#038;sll=33.969986,-117.392092&#038;sspn=0.016016,0.029182&#038;ie=UTF8&#038;ll=33.972122,-117.392092&#038;spn=0.032031,0.058365&#038;z=14&#038;iwloc=cent&#038;om=1">270 Bandini Avenue</a> before a trip to Laguna Beach.&nbsp; He made it to Laguna Beach, and picked up $12,000 ($132,359 USD2006) in cash which he had been paid by the Colton School Board for the construction of Colton High School.</p>
+<p>Sankey, 44, a prominent Riverside contractor, was in a splendid mood September seventh last; he had no domestic or financial troubles, and bid his lovely wife and 13 year-old daughter goodbye that morning in his home at <a title="houseofsankey" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=270+Bandini+Avenue,+Riverside,+California&#038;sll=33.969986,-117.392092&#038;sspn=0.016016,0.029182&#038;ie=UTF8&#038;ll=33.972122,-117.392092&#038;spn=0.032031,0.058365&#038;z=14&#038;iwloc=cent&#038;om=1">270 Bandini Avenue</a> before a trip to Laguna Beach.&nbsp; He made it to Laguna Beach, and picked up $12,000 ($132,359 USD2006) in cash which he had been paid by the Colton School Board for the construction of Colton High School.</p>
 <p>Sankey then told friends he was going for a swim, and left his bag, clothing, glasses and&nbsp; shoes at a hotel near the beach.&nbsp; From there he disappeared&hellip;the sea was dragged repeatedly for his body, but to no avail.&nbsp; Had the briny deep swallowed Sankey?&nbsp; And what became of the <em>money</em>?&nbsp; And what&rsquo;s this?&mdash;a few days ago, some Sankey acquaintance came forth and reported having seen Sankey on a Seattle-bound boat a day or two after the disappearance.</p>
-<p>Today, Mrs. Paul McKenzie peered nervously through the window of her home at <a title="sankeyssis" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;time=&#038;date=&#038;ttype=&#038;q=4010+E+Massachusetts+St,+Long+Beach,+Los+Angeles,+California+90814,+United+States&#038;sll=33.972122,-117.392092&#038;sspn=0.032031,0.058365&#038;ie=UTF8&#038;cd=1&#038;geocode=0,33.768953,-118.145514&#038;ll=33.76973,-118.145514&#038;spn=0.008027,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">4010 Massachusetts, Long Beach</a>.&nbsp; There was a dazed, raggedy man wandering aimlessly up and down in front of her house for the better part of two hours.&nbsp; When she got up the nerve to confront the torn and tattered stranger, all a-jibber-jabberin&#8217; to himself, it was, you guessed it, her brother, Robert Sankey.&nbsp; Oh no, he insisted, <em>I&rsquo;m Andrew Borg</em>.</p>
+<p>Today, Mrs. Paul McKenzie peered nervously through the window of her home at <a title="sankeyssis" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;time=&#038;date=&#038;ttype=&#038;q=4010+E+Massachusetts+St,+Long+Beach,+Los+Angeles,+California+90814,+United+States&#038;sll=33.972122,-117.392092&#038;sspn=0.032031,0.058365&#038;ie=UTF8&#038;cd=1&#038;geocode=0,33.768953,-118.145514&#038;ll=33.76973,-118.145514&#038;spn=0.008027,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">4010 Massachusetts, Long Beach</a>.&nbsp; There was a dazed, raggedy man wandering aimlessly up and down in front of her house for the better part of two hours.&nbsp; When she got up the nerve to confront the torn and tattered stranger, all a-jibber-jabberin&#8217; to himself, it was, you guessed it, her brother, Robert Sankey.&nbsp; Oh no, he insisted, <em>I&rsquo;m Andrew Borg</em>.</p>
 <p>Well, the Borg, I mean Sankey, had only $500 left (in checks issued by a Seattle bank) of the twelve grand, and even less of an idea as to where he&rsquo;d been or what he&rsquo;d done.&nbsp; He could only confirm that his clothes had been given to him by &ldquo;the skipper,&rdquo; and that he&rsquo;d been to sea in a small boat with two men and a woman.</p>
-<p>Further investigation revealed that Sankey recently boarded the steamer <a title="theevanger" target="_blank" href="https://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=/imlsmaritime&#038;CISOPTR=324&#038;REC=6">Evanger</a> at San Francisco (booking passage to Buenos Aires as &ldquo;Andrew Borg, grain dealer, Witchita, Kan.&rdquo;), but put ashore at San Pedro the day he reappeared in Long Beach.</p>
+<p>Further investigation revealed that Sankey recently boarded the steamer <a title="theevanger" target="_blank" href="http://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=/imlsmaritime&#038;CISOPTR=324&#038;REC=6">Evanger</a> at San Francisco (booking passage to Buenos Aires as &ldquo;Andrew Borg, grain dealer, Witchita, Kan.&rdquo;), but put ashore at San Pedro the day he reappeared in Long Beach.</p>
 <p>Sankey remains in his Borgian state at Seaside hospital, where Riverside county authorities are vexed with Seaside staff; the Sheriff is itching to serve two warrants on Sankey, each charging sixteen counts of violating the State wage law, but the pesky physicians demand that officers wait &lsquo;til Sankey&rsquo;s physical condition permits such activity.</p>
 <p>Whether amnesia or grift, please bear in mind&hellip;steer clear of small boats, and beware &quot;the skipper.&quot;</p>
 <p><img loading="lazy" width="236" height="300" border="0" title="theskipper!" alt="theskipper!" src="//farm3.static.flickr.com/2404/1498139467_c6c21d7c86_o.jpg" />&nbsp;</p>
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/07/wanderlust-at-sea/">Wanderlust At Sea</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/07/wanderlust-at-sea/">Wanderlust At Sea</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/10/07/wanderlust-at-sea/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/10/07/wanderlust-at-sea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How Do You Hook a Speckled Trout?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/11/how-do-you-hook-a-speckled-trout/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/11/how-do-you-hook-a-speckled-trout/#respond</comments>
+		<link>https://1947project.com/2007/07/11/how-do-you-hook-a-speckled-trout/</link>
+					<comments>https://1947project.com/2007/07/11/how-do-you-hook-a-speckled-trout/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 11 Jul 2007 17:00:49 +0000</pubDate>
@@ -89,8 +89,8 @@
 		<category><![CDATA[fishing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 11, 1927Riverside, CA Honorable Calvin Coolidge, President of the United StatesSummer White HouseRapid City, SD Dear Mr. President, Have observed the pleasure you are taking in fishing during your vacation this summer.&#160; We think you may be interested in a special lure, used with much success in California to tempt the speckled beauties which&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/11/how-do-you-hook-a-speckled-trout/">Continue reading <span class="screen-reader-text">How Do You Hook a Speckled Trout?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/11/how-do-you-hook-a-speckled-trout/">How Do You Hook a Speckled Trout?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 11, 1927Riverside, CA Honorable Calvin Coolidge, President of the United StatesSummer White HouseRapid City, SD Dear Mr. President, Have observed the pleasure you are taking in fishing during your vacation this summer.&#160; We think you may be interested in a special lure, used with much success in California to tempt the speckled beauties which&#8230; <a class="more-link" href="https://1947project.com/2007/07/11/how-do-you-hook-a-speckled-trout/">Continue reading <span class="screen-reader-text">How Do You Hook a Speckled Trout?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/11/how-do-you-hook-a-speckled-trout/">How Do You Hook a Speckled Trout?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -102,18 +102,18 @@
 <p>L.J. Tobias, Chief Deputy Sheriff<br />George Bottel, Horticultural Inspector</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/11/how-do-you-hook-a-speckled-trout/">How Do You Hook a Speckled Trout?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/11/how-do-you-hook-a-speckled-trout/">How Do You Hook a Speckled Trout?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/11/how-do-you-hook-a-speckled-trout/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/11/how-do-you-hook-a-speckled-trout/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Together As One</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/#respond</comments>
+		<link>https://1947project.com/2007/07/07/together-as-one/</link>
+					<comments>https://1947project.com/2007/07/07/together-as-one/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 07 Jul 2007 17:45:18 +0000</pubDate>
@@ -125,27 +125,27 @@
 		<category><![CDATA[unipeds]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 7, 1927RiversideJames Clark has but one leg.&#160; Fortunately his wife has another.&#160; Together, they make one fine two-legged person.&#160; Unfortunately, their capacity for imbibery allows for the drunkitude of four persons, their double vision providing the visual acuity of eight. Seems the Clarks got a few in &#8216;em and, sans hollow leg and all,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/">Continue reading <span class="screen-reader-text">Together As One</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 7, 1927RiversideJames Clark has but one leg.&#160; Fortunately his wife has another.&#160; Together, they make one fine two-legged person.&#160; Unfortunately, their capacity for imbibery allows for the drunkitude of four persons, their double vision providing the visual acuity of eight. Seems the Clarks got a few in &#8216;em and, sans hollow leg and all,&#8230; <a class="more-link" href="https://1947project.com/2007/07/07/together-as-one/">Continue reading <span class="screen-reader-text">Together As One</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>July 7, 1927<br />Riverside<br /><img loading="lazy" width="449" height="112" border="0" title="oneleg" alt="oneleg" src="//farm2.static.flickr.com/1231/747852191_ac07a12956_o.gif" /><br />James Clark has but one leg.&nbsp; Fortunately his wife has another.&nbsp; Together, they make one fine two-legged person.&nbsp; Unfortunately, their capacity for imbibery allows for the drunkitude of four persons, their double vision providing the visual acuity of eight. </p>
-<p>Seems the Clarks got a few in &lsquo;em and, sans hollow leg and all, the booze went to their collective head, and they thought it a good idea to hop in a flivver and go tearing down <a title="missionblvdriverside" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Mission+Boulevard,+Riverside,+Calif&#038;sll=34.032034,-118.469524&#038;sspn=0.015613,0.027809&#038;ie=UTF8&#038;ll=34.025917,-117.448311&#038;spn=0.124913,0.222473&#038;z=12&#038;iwloc=addr&#038;om=1">Mission Boulevard</a> here in Riverside.&nbsp; Despite the symbiosis that stems from years of wedded camaraderie, his stomping the gas while she pounded brake and clutch didn&rsquo;t work out to their combined advantage&#8230;no, these tourists from the Lone Star state plowed into another vehicle driven by one Fred Stutzman of West Riverside.</p>
+<p>Seems the Clarks got a few in &lsquo;em and, sans hollow leg and all, the booze went to their collective head, and they thought it a good idea to hop in a flivver and go tearing down <a title="missionblvdriverside" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Mission+Boulevard,+Riverside,+Calif&#038;sll=34.032034,-118.469524&#038;sspn=0.015613,0.027809&#038;ie=UTF8&#038;ll=34.025917,-117.448311&#038;spn=0.124913,0.222473&#038;z=12&#038;iwloc=addr&#038;om=1">Mission Boulevard</a> here in Riverside.&nbsp; Despite the symbiosis that stems from years of wedded camaraderie, his stomping the gas while she pounded brake and clutch didn&rsquo;t work out to their combined advantage&#8230;no, these tourists from the Lone Star state plowed into another vehicle driven by one Fred Stutzman of West Riverside.</p>
 <p>Deputy Sheriff Scott hauled the intoxicated unipeds off to the hoosegow, and reported that while both autos were severely damaged, no-one was seriously injured.&nbsp; Scott certainly realized that had someone involved lost a limb, he would have had to fill out the separate irony paperwork, instead of just checking the irony box on his standard report form.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/07/together-as-one/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Time to Buy a New One</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/#respond</comments>
+		<link>https://1947project.com/2006/11/04/time-to-buy-a-new-one/</link>
+					<comments>https://1947project.com/2006/11/04/time-to-buy-a-new-one/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 04 Nov 2006 16:09:00 +0000</pubDate>
@@ -157,26 +157,26 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 4, 1907 Los Angeles About a year ago, Eugene Rowe</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1104.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 488px; height: 136px;" src="//www.lmharnisch.com/images/1907_1104.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Nov. 4, 1907<br />
+<div><a href="http://www.lmharnisch.com/images/1907_1104.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 488px; height: 136px;" src="//www.lmharnisch.com/images/1907_1104.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Nov. 4, 1907<br />
 </span><span style="font-size: 100%;">Los Angeles<br />
 </span><span style="font-size: 100%;"><br />
 </span><span style="font-size: 100%;">About a year ago, Eugene Rowe</span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/04/time-to-buy-a-new-one/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In a Lonely Place</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/04/in-a-lonely-place/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/04/in-a-lonely-place/#respond</comments>
+		<link>https://1947project.com/2006/05/04/in-a-lonely-place/</link>
+					<comments>https://1947project.com/2006/05/04/in-a-lonely-place/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 04 May 2006 17:36:26 +0000</pubDate>
@@ -188,8 +188,8 @@
 		<category><![CDATA[Colton]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 4, 1907 Riverside Jesus Chavez was traveling from his home in El Monte to Colton, where he intended to celebrate Cinco de Mayo. During the trip Chavez was under the intoxicating influence of liquor continuously, and for reasons unknown shot and killed one Veranze Mansibai on a lonely road near West Riverside. Chavez went&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/05/04/in-a-lonely-place/">Continue reading <span class="screen-reader-text">In a Lonely Place</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/04/in-a-lonely-place/">In a Lonely Place</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 4, 1907 Riverside Jesus Chavez was traveling from his home in El Monte to Colton, where he intended to celebrate Cinco de Mayo. During the trip Chavez was under the intoxicating influence of liquor continuously, and for reasons unknown shot and killed one Veranze Mansibai on a lonely road near West Riverside. Chavez went&#8230; <a class="more-link" href="https://1947project.com/2006/05/04/in-a-lonely-place/">Continue reading <span class="screen-reader-text">In a Lonely Place</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/04/in-a-lonely-place/">In a Lonely Place</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>May 4, 1907<br />
@@ -199,10 +199,10 @@ Riverside</p>
 <p>There is little hope Chavez will be able to answer to the charges before the effects of his spree wear off.
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/04/in-a-lonely-place/">In a Lonely Place</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/04/in-a-lonely-place/">In a Lonely Place</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/04/in-a-lonely-place/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/04/in-a-lonely-place/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

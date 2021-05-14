@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Mary Miles Minter &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/mary-miles-minter/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/mary-miles-minter/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:58:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Mary Miles Minter &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Stone Cold</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/12/stone-cold/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/12/stone-cold/#respond</comments>
+		<link>https://1947project.com/2008/02/12/stone-cold/</link>
+					<comments>https://1947project.com/2008/02/12/stone-cold/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Tue, 12 Feb 2008 03:41:02 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[William Desmond Taylor]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 11, 1927 Los Angeles Valentine&#8217;s Day is coming up and most couples will celebrate their love with cutesy cards, candy, and maybe some pre-prohibition champagne. Mr. and Mrs. Hugh Fillmore will not be among the celebrants. Margaret Fillmore has filed for a divorce. Their love has turned as cold as a stone floor. Margaret&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/stone-cold/">Continue reading <span class="screen-reader-text">Stone Cold</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/stone-cold/">Stone Cold</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 11, 1927 Los Angeles Valentine&#8217;s Day is coming up and most couples will celebrate their love with cutesy cards, candy, and maybe some pre-prohibition champagne. Mr. and Mrs. Hugh Fillmore will not be among the celebrants. Margaret Fillmore has filed for a divorce. Their love has turned as cold as a stone floor. Margaret&#8230; <a class="more-link" href="https://1947project.com/2008/02/12/stone-cold/">Continue reading <span class="screen-reader-text">Stone Cold</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/12/stone-cold/">Stone Cold</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -54,14 +54,14 @@
 <p>Valentine&rsquo;s Day is coming up and most couples will celebrate their love with cutesy cards, candy, and maybe some pre-prohibition champagne.<img loading="lazy" title="Margaret" height="193" alt="Margaret" src="//farm3.static.flickr.com/2146/2256400616_5d821169c1_o.jpg" width="105" align="right" border="0" /> Mr. and Mrs. Hugh Fillmore will not be among the celebrants. Margaret Fillmore has filed for a divorce. Their love has turned as cold as a stone floor. </p>
 <p>Margaret had said that she was annoyed by Hugh&rsquo;s refusal to give her money, and by his arrogant attitude. But she may have been willing to overlook everything if it hadn&rsquo;t been for the stone tile. </p>
 <p>In her divorce papers Margaret claimed that Hugh had bankrupted her by insisting that she use tile, manufactured by his company, in the home they were building (and she was financing). Margaret claimed that all of her money had gone into the construction of the house, and that the additional $2000 [$24,142.07 current USD] that it cost for the custom tile had left her destitute. </p>
-<p><img loading="lazy" title="Hugh" height="188" alt="Hugh" src="//farm3.static.flickr.com/2203/2256400594_fc8ea41bd0_o.jpg" width="102" align="left" border="0" />Hugh was thinking only of the advertising potential of having the tile in his home, especially since his sister-in-law was the actress <a title="Mary Miles Minter" href="https://en.wikipedia.org/wiki/Mary_Miles_Minter" target="_blank">Mary Miles Minter</a>. Perhaps Mary would bring some of her Hollywood cronies over to see the tile. She still had lots of friends in town, even though she had featured prominently in the 1922 mysterious, and still unsolved, slaying of director <a title="William Desmond Taylor" href="https://en.wikipedia.org/wiki/William_Desmond_Taylor" target="_blank">William Desmond Taylor</a>. </p>
+<p><img loading="lazy" title="Hugh" height="188" alt="Hugh" src="//farm3.static.flickr.com/2203/2256400594_fc8ea41bd0_o.jpg" width="102" align="left" border="0" />Hugh was thinking only of the advertising potential of having the tile in his home, especially since his sister-in-law was the actress <a title="Mary Miles Minter" href="http://en.wikipedia.org/wiki/Mary_Miles_Minter" target="_blank">Mary Miles Minter</a>. Perhaps Mary would bring some of her Hollywood cronies over to see the tile. She still had lots of friends in town, even though she had featured prominently in the 1922 mysterious, and still unsolved, slaying of director <a title="William Desmond Taylor" href="http://en.wikipedia.org/wiki/William_Desmond_Taylor" target="_blank">William Desmond Taylor</a>. </p>
 <p>Margaret is having none of it &ndash; she&rsquo;s determined to end her marriage. All she wants now is a divorce and an inexpensive carpet. Sadly, the road to true love is often a rocky (or stony) one. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/stone-cold/">Stone Cold</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/12/stone-cold/">Stone Cold</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/12/stone-cold/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/12/stone-cold/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

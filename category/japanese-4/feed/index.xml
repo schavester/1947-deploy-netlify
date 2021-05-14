@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Japanese &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/japanese-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/japanese-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:55:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Japanese &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>An Unfortunate Loophole</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/#respond</comments>
+		<link>https://1947project.com/2007/01/18/an-unfortunate-loophole/</link>
+					<comments>https://1947project.com/2007/01/18/an-unfortunate-loophole/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 18 Jan 2007 14:25:57 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[exclusion laws]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 18, 1907 San Francisco In what is surely an embarrassing and awkward oversight, the California Constitution only prevents Ã¢â‚¬Å“MongolianÃ¢â‚¬Â children from attending white public schools when separate campuses have been created. The problem, legislators have discovered, is that the Japanese arenÃ¢â‚¬â„¢t Mongolians and feel they somehow have the right to go to school with&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/">Continue reading <span class="screen-reader-text">An Unfortunate Loophole</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 18, 1907 San Francisco In what is surely an embarrassing and awkward oversight, the California Constitution only prevents Ã¢â‚¬Å“MongolianÃ¢â‚¬Â children from attending white public schools when separate campuses have been created. The problem, legislators have discovered, is that the Japanese arenÃ¢â‚¬â„¢t Mongolians and feel they somehow have the right to go to school with&#8230; <a class="more-link" href="https://1947project.com/2007/01/18/an-unfortunate-loophole/">Continue reading <span class="screen-reader-text">An Unfortunate Loophole</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0118.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 239px; height: 327px;" src="//www.lmharnisch.com/images/1907_0118.jpg" alt="" border="0" /></a><!--[endif]--><o:p></o:p>    </p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0118.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 239px; height: 327px;" src="//www.lmharnisch.com/images/1907_0118.jpg" alt="" border="0" /></a><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 18, 1907<br />
 San Francisco</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -66,23 +66,23 @@ San Francisco</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Remind me again about how the past was a kinder, simpler time, please. I keep forgetting. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/18/an-unfortunate-loophole/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>An American Education</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/19/an-american-education/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/19/an-american-education/#respond</comments>
+		<link>https://1947project.com/2006/10/19/an-american-education/</link>
+					<comments>https://1947project.com/2006/10/19/an-american-education/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 19 Oct 2006 13:33:22 +0000</pubDate>
@@ -94,8 +94,8 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<category><![CDATA[Stanford]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oct. 19, 1907 Los Angeles On a visit to Japan, K. Tsuneda of California met an attractive young woman named Toku. Telling her family that he was a wealthy Stanford student, Tsuneda married Toku and they embarked for the United States so his new wife could get an American education. Her education began the moment&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/19/an-american-education/">Continue reading <span class="screen-reader-text">An American Education</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/19/an-american-education/">An American Education</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oct. 19, 1907 Los Angeles On a visit to Japan, K. Tsuneda of California met an attractive young woman named Toku. Telling her family that he was a wealthy Stanford student, Tsuneda married Toku and they embarked for the United States so his new wife could get an American education. Her education began the moment&#8230; <a class="more-link" href="https://1947project.com/2006/10/19/an-american-education/">Continue reading <span class="screen-reader-text">An American Education</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/19/an-american-education/">An American Education</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">Oct. 19, 1907<br />
@@ -107,18 +107,18 @@ E-mail: lmharnisch (AT) gmail.com</p>
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">In court, Toku told Judge Charles Monroe that her father wouldn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/19/an-american-education/">An American Education</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/19/an-american-education/">An American Education</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/19/an-american-education/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/19/an-american-education/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Want Ads</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/10/the-want-ads/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/10/the-want-ads/#respond</comments>
+		<link>https://1947project.com/2006/10/10/the-want-ads/</link>
+					<comments>https://1947project.com/2006/10/10/the-want-ads/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 10 Oct 2006 13:07:38 +0000</pubDate>
@@ -128,23 +128,23 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<category><![CDATA[employment]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1010.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1010.jpg" alt="" border="0" /></a></div>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1010.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1010.jpg" alt="" border="0" /></a></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/10/the-want-ads/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/10/the-want-ads/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Murderous Sweep</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/10/a-murderous-sweep/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/10/a-murderous-sweep/#respond</comments>
+		<link>https://1947project.com/2006/05/10/a-murderous-sweep/</link>
+					<comments>https://1947project.com/2006/05/10/a-murderous-sweep/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 10 May 2006 16:33:14 +0000</pubDate>
@@ -156,15 +156,15 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>All K. Tanimura wanted to do was clean the carpets at the Hotel Angelus at 407-411 S. Spring St. The sweeper, however, was broken so he sought help from the hotel</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">All K. Tanimura wanted to do was clean the carpets at the Hotel Angelus at 407-411 S. Spring St. The sweeper, however, was broken so he sought help from the hotel</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/10/a-murderous-sweep/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/10/a-murderous-sweep/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

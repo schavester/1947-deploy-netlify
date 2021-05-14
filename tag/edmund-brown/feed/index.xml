@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Edmund Brown &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/edmund-brown/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/edmund-brown/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Edmund Brown &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/#respond</comments>
+		<link>https://1947project.com/2007/08/13/this-aint-no-party/</link>
+					<comments>https://1947project.com/2007/08/13/this-aint-no-party/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 13 Aug 2007 14:49:17 +0000</pubDate>
@@ -50,26 +50,26 @@
 		<category><![CDATA[Eleanor Roosevelt]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 13, 1927Los Angeles These days a petting party can be dangerous in more ways than one&#8230;just ask Dagmar Carlson.&#160;Dagmar Carlson, 324 South Rimpau Street, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/">Continue reading <span class="screen-reader-text">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 13, 1927Los Angeles These days a petting party can be dangerous in more ways than one&#8230;just ask Dagmar Carlson.&#160;Dagmar Carlson, 324 South Rimpau Street, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and&#8230; <a class="more-link" href="https://1947project.com/2007/08/13/this-aint-no-party/">Continue reading <span class="screen-reader-text">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="Petting Party Headline" height="173" alt="Petting Party Headline" src="//farm2.static.flickr.com/1435/1105016936_3c25ba6054_o.jpg" width="212" border="0" /></p>
 <p>August 13, 1927<br />Los Angeles</p>
-<p>These days a petting party can be dangerous in more ways than one&hellip;just ask Dagmar Carlson.<br />&nbsp;<img loading="lazy" title="Dagmar Carlson" height="240" alt="Dagmar Carlson" src="//farm2.static.flickr.com/1141/1105017012_178a73cf4d_m.jpg" width="112" align="left" border="0" /><br />Dagmar Carlson, <a title="324 South Rimpau" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=324+South+Rimpau+Street,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=43.393645,80.595703&#038;ie=UTF8&#038;ll=34.067343,-118.329449&#038;spn=0.011127,0.019677&#038;z=16&#038;om=1" target="_blank">324 South Rimpau Street</a>, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and a notebook.</p>
+<p>These days a petting party can be dangerous in more ways than one&hellip;just ask Dagmar Carlson.<br />&nbsp;<img loading="lazy" title="Dagmar Carlson" height="240" alt="Dagmar Carlson" src="//farm2.static.flickr.com/1141/1105017012_178a73cf4d_m.jpg" width="112" align="left" border="0" /><br />Dagmar Carlson, <a title="324 South Rimpau" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=324+South+Rimpau+Street,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=43.393645,80.595703&#038;ie=UTF8&#038;ll=34.067343,-118.329449&#038;spn=0.011127,0.019677&#038;z=16&#038;om=1" target="_blank">324 South Rimpau Street</a>, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and a notebook.</p>
 <p>As a witness for the prosecution Dagmar told Judge Baird, &ldquo;When they stuck that gun in my face and told me to stick up my hands, that&rsquo;s just what I did.&rdquo;</p>
 <p>Five men have been implicated in a series of petting party hold-ups, but only three have been charged with robbing Dagmar and William. The three men are: Jack Olympus, Clyde Thomas and Elmer Smith.&nbsp; The remaining members of the gang, Orville Kindig and Maurice Schott, were ordered to be held on two other counts of robbery. Deputy DA Crail said that seventeen more counts of robbery will be filed against the men within the next few days.&nbsp; Each of the crooks is being held on $10,000 bail ($119,742.53 USD 2007).</p>
-<p>Petting party bandits continued to be the scourge of dark side streets and remote lover&rsquo;s lanes all over the country. One of the most famous criminal cases in the history of Los Angeles would be that of notorious &ldquo;Red Light Bandit&rdquo;, <a title="Caryl Chessman" href="https://en.wikipedia.org/wiki/Caryl_Chessman" target="_blank">Caryl Chessman</a>. Chessman, reform school alum and former prison escapee, would be paroled in December 1947. On January 23, 1948 he would be arrested on seventeen counts of robbery, kidnapping and rape. </p>
-<p>Legal maneuvering and numerous appeals, particularly regarding the application of California&rsquo;s <a title="Little Lindbergh Law" href="https://en.wikipedia.org/wiki/Federal_Kidnapping_Act" target="_blank">&ldquo;Little Lindbergh&rdquo;</a> law, would keep his case in the courts for twelve years. He wrote four books while on death row, all became bestsellers. His case achieved so much notoriety that many famous people including Aldous Huxley, Ray Bradbury, Eleanor Roosevelt and Billy Graham, petitioned Governor Edmund G. Brown (an opponent of the death penalty) for clemency on the death row inmate&rsquo;s behalf. </p>
+<p>Petting party bandits continued to be the scourge of dark side streets and remote lover&rsquo;s lanes all over the country. One of the most famous criminal cases in the history of Los Angeles would be that of notorious &ldquo;Red Light Bandit&rdquo;, <a title="Caryl Chessman" href="http://en.wikipedia.org/wiki/Caryl_Chessman" target="_blank">Caryl Chessman</a>. Chessman, reform school alum and former prison escapee, would be paroled in December 1947. On January 23, 1948 he would be arrested on seventeen counts of robbery, kidnapping and rape. </p>
+<p>Legal maneuvering and numerous appeals, particularly regarding the application of California&rsquo;s <a title="Little Lindbergh Law" href="http://en.wikipedia.org/wiki/Federal_Kidnapping_Act" target="_blank">&ldquo;Little Lindbergh&rdquo;</a> law, would keep his case in the courts for twelve years. He wrote four books while on death row, all became bestsellers. His case achieved so much notoriety that many famous people including Aldous Huxley, Ray Bradbury, Eleanor Roosevelt and Billy Graham, petitioned Governor Edmund G. Brown (an opponent of the death penalty) for clemency on the death row inmate&rsquo;s behalf. </p>
 <p><img loading="lazy" title="Caryl Chessman" height="240" alt="Caryl Chessman" src="//farm2.static.flickr.com/1132/1105016726_eff9fe00cf_m.jpg" width="182" align="right" border="0" /></p>
 <p>Over the years he was granted eight reprieves &ndash; but Chessman was finally strapped into the chair in San Quentin&rsquo;s lethal gas chamber on May 2, 1960. As the chamber filled with cyanide the emergency telephone rang, but the call came seconds too late to stop the execution. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/13/this-aint-no-party/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

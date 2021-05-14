@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>autos &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/autos-10/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/autos-10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:37:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>autos &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Female Driver</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/22/the-female-driver/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/22/the-female-driver/#respond</comments>
+		<link>https://1947project.com/2006/12/22/the-female-driver/</link>
+					<comments>https://1947project.com/2006/12/22/the-female-driver/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Fri, 22 Dec 2006 07:37:02 +0000</pubDate>
@@ -43,14 +43,14 @@
 		<category><![CDATA[driving]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 21, 1907Los Angeles Hey, enough you, with the cracks about the lady driver.&#160; Let&#8217;s see you make a long tour over hairpin turn-filled mountain roads replete with sharp ascents and descents.&#160; Such a journey requires skill and judgement, &#8220;and yet,&#8221; writes the Times, &#8220;woman drivers are giving as good account of themselves in this&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/12/22/the-female-driver/">Continue reading <span class="screen-reader-text">The Female Driver</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/22/the-female-driver/">The Female Driver</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 21, 1907Los Angeles Hey, enough you, with the cracks about the lady driver.&#160; Let&#8217;s see you make a long tour over hairpin turn-filled mountain roads replete with sharp ascents and descents.&#160; Such a journey requires skill and judgement, &#8220;and yet,&#8221; writes the Times, &#8220;woman drivers are giving as good account of themselves in this&#8230; <a class="more-link" href="https://1947project.com/2006/12/22/the-female-driver/">Continue reading <span class="screen-reader-text">The Female Driver</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/22/the-female-driver/">The Female Driver</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>December 21, 1907<br />Los Angeles<img loading="lazy" width="244" height="244" border="0" align="right" title="minnieheadline" alt="minnieheadline" src="//farm1.static.flickr.com/160/329589853_2025035344_o.jpg" /></p>
 <p>Hey, enough you, with the cracks about the lady driver.&nbsp; Let&rsquo;s see you make a long tour over hairpin turn-filled mountain roads replete with sharp ascents and descents.&nbsp; Such a journey requires skill and judgement, &ldquo;and yet,&rdquo; writes the Times, &ldquo;woman drivers are giving as good account of themselves in this work as men.&rdquo; &nbsp;</p>
-<p>During the dear Edwardian days, the more daring element among our fairer sex would, on such tours, more often than not content themselves with presiding at the wheel on smooth stretches, leaving the real driving to the patriarchy.&nbsp; Snorting a hearty pshaw at convention, Minnie Roberts of Madera shipped her 1905 White steamer touring car to Los Angeles to have it rebuilt as a runabout.&nbsp; Here they also painted the auto a bright red.&nbsp; She came down to LA to see how her car was coming, and, on visiting her pals Mr. and Mrs. H. D. Ryus, announced she was going to <a target="_blank" href="https://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&#038;q2=madera%2C+ca&#038;q1=los+angeles%2C+ca&#038;trf=0&#038;lon=-119.154968&#038;lat=35.507636&#038;mag=10">drive the beast home</a> herself.&nbsp; Mr. Ryus loaned her a mechanic in case the car should break down, but otherwise, Minnie was at the wheel.</p>
+<p>During the dear Edwardian days, the more daring element among our fairer sex would, on such tours, more often than not content themselves with presiding at the wheel on smooth stretches, leaving the real driving to the patriarchy.&nbsp; Snorting a hearty pshaw at convention, Minnie Roberts of Madera shipped her 1905 White steamer touring car to Los Angeles to have it rebuilt as a runabout.&nbsp; Here they also painted the auto a bright red.&nbsp; She came down to LA to see how her car was coming, and, on visiting her pals Mr. and Mrs. H. D. Ryus, announced she was going to <a target="_blank" href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&#038;q2=madera%2C+ca&#038;q1=los+angeles%2C+ca&#038;trf=0&#038;lon=-119.154968&#038;lat=35.507636&#038;mag=10">drive the beast home</a> herself.&nbsp; Mr. Ryus loaned her a mechanic in case the car should break down, but otherwise, Minnie was at the wheel.</p>
 <p><img loading="lazy" width="352" height="400" border="0" align="absmiddle" title="minnieatwheel" alt="minnieatwheel" src="//farm1.static.flickr.com/148/329589851_4d372c1ad8_o.jpg" /></p>
 <p>The two days, and 315 miles, were full of hills, fords, bends, sand, ruts, desert, canyons and thick woods&mdash;and few towns.&nbsp; The Tejon pass summit, where they were caught in a brief but fierce rain, is 4280 feet; Mint Ca&ntilde;on has a 3850 foot summit.&nbsp; Minnie and the mechanic donned leather-covered laprobes during the inclement weather, since Minnie &ldquo;does not believe in&rdquo; glass fronts or canvas tops.</p>
 <p>Whence came Minnie&rsquo;s love of hard driving and speed?&nbsp; It seems the week previous, Minnie had been taken for a ride in her pal &ldquo;Wild Bill&rdquo; Ruess&rsquo; fifty-horse-power Pope-Toledo (&ldquo;that he uses to scare the life out of would-be motorists&rdquo;) which, when it reached fifty-five miles and hour and could get no more speed, Minnie asked sweetly of Wild Bill, &ldquo;Is this all the fast you can go?&rdquo;</p>
@@ -65,22 +65,22 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;<br />(A 1905 White, above, indicating the proper placement of ladies within an automobile, an image I snatched from <a target="_blank" href="https://blog.modernmechanix.com/2006/11/10/original-model-e/">here</a>.)</p>
+<p>&nbsp;<br />(A 1905 White, above, indicating the proper placement of ladies within an automobile, an image I snatched from <a target="_blank" href="http://blog.modernmechanix.com/2006/11/10/original-model-e/">here</a>.)</p>
 <p></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/22/the-female-driver/">The Female Driver</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/22/the-female-driver/">The Female Driver</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/22/the-female-driver/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/22/the-female-driver/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Random Shots From Our 12-Bore</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/28/random-shots-from-our-12-bore-2/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/28/random-shots-from-our-12-bore-2/#respond</comments>
+		<link>https://1947project.com/2006/11/28/random-shots-from-our-12-bore-2/</link>
+					<comments>https://1947project.com/2006/11/28/random-shots-from-our-12-bore-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 28 Nov 2006 15:27:50 +0000</pubDate>
@@ -93,10 +93,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 28, 1907 Los Angeles Ocean Park banned serving alcohol to soldiers in uniform because drunk Civil War veterans from the soldiers home in Sawtelle</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/28/random-shots-from-our-12-bore-2/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/28/random-shots-from-our-12-bore-2/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1128.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 293px;" src="//www.lmharnisch.com/images/1907_1128.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1128.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 293px;" src="//www.lmharnisch.com/images/1907_1128.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 28, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -104,18 +104,18 @@
 <ul>
 <li><span style="font-size:100%;">Ocean Park banned serving alcohol to soldiers in uniform because drunk Civil War veterans from the soldiers home in Sawtelle </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/28/random-shots-from-our-12-bore-2/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/28/random-shots-from-our-12-bore-2/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/28/random-shots-from-our-12-bore-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/28/random-shots-from-our-12-bore-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Time to Buy a New One</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/#respond</comments>
+		<link>https://1947project.com/2006/11/04/time-to-buy-a-new-one/</link>
+					<comments>https://1947project.com/2006/11/04/time-to-buy-a-new-one/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 04 Nov 2006 16:09:00 +0000</pubDate>
@@ -127,26 +127,26 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 4, 1907 Los Angeles About a year ago, Eugene Rowe</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1104.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 488px; height: 136px;" src="//www.lmharnisch.com/images/1907_1104.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Nov. 4, 1907<br />
+<div><a href="http://www.lmharnisch.com/images/1907_1104.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 488px; height: 136px;" src="//www.lmharnisch.com/images/1907_1104.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Nov. 4, 1907<br />
 </span><span style="font-size: 100%;">Los Angeles<br />
 </span><span style="font-size: 100%;"><br />
 </span><span style="font-size: 100%;">About a year ago, Eugene Rowe</span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/04/time-to-buy-a-new-one/">Time to Buy a New One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/04/time-to-buy-a-new-one/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/04/time-to-buy-a-new-one/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Trip Across County Goes Awry</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/23/a-trip-across-county-goes-awry/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/23/a-trip-across-county-goes-awry/#respond</comments>
+		<link>https://1947project.com/2006/08/23/a-trip-across-county-goes-awry/</link>
+					<comments>https://1947project.com/2006/08/23/a-trip-across-county-goes-awry/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 23 Aug 2006 13:49:04 +0000</pubDate>
@@ -157,29 +157,29 @@
 		<category><![CDATA[Yale]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Aug. 23, 1907 Los Angeles William Renwick, recent graduate of Pomona College, was to attend Yale in the fall, and rather than more mundane modes of travel decided to head East by auto in what he hoped would be the first transcontinental motor tour to begin in Los Angeles. To ensure that he arrived on&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/23/a-trip-across-county-goes-awry/">Continue reading <span class="screen-reader-text">A Trip Across County Goes Awry</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/23/a-trip-across-county-goes-awry/">A Trip Across County Goes Awry</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Aug. 23, 1907 Los Angeles William Renwick, recent graduate of Pomona College, was to attend Yale in the fall, and rather than more mundane modes of travel decided to head East by auto in what he hoped would be the first transcontinental motor tour to begin in Los Angeles. To ensure that he arrived on&#8230; <a class="more-link" href="https://1947project.com/2006/08/23/a-trip-across-county-goes-awry/">Continue reading <span class="screen-reader-text">A Trip Across County Goes Awry</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/23/a-trip-across-county-goes-awry/">A Trip Across County Goes Awry</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0823.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 219px;" src="//www.lmharnisch.com/images/1907_0823.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0823.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 219px;" src="//www.lmharnisch.com/images/1907_0823.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Aug. 23, 1907<br />
 </span><span style="font-size:100%;">Los Angeles</span><br />
 <span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">William Renwick, recent graduate of Pomona College, was to attend Yale in the fall, and rather than more mundane modes of travel decided to head East by auto in what he hoped would be the first transcontinental motor tour to begin in Los Angeles. To ensure that he arrived on time, he left in his Olds machine July 23, accompanied by professor E.E. Chandler.</span></p>
 <p><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/23/a-trip-across-county-goes-awry/">A Trip Across County Goes Awry</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/23/a-trip-across-county-goes-awry/">A Trip Across County Goes Awry</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/23/a-trip-across-county-goes-awry/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/23/a-trip-across-county-goes-awry/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Number-Crunching the Horseless Carriage</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/#respond</comments>
+		<link>https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/</link>
+					<comments>https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 01 Jul 2006 21:31:11 +0000</pubDate>
@@ -189,11 +189,11 @@
 		<category><![CDATA[fuel efficiency]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 1, 1907 Los Angeles If you ever wondered if the Locomobile or Pope-Hartford got great gas mileage, the answer is no, as shown in the results of the 185-mile Lakeside Endurance Race. In cost and fuel efficiency, the 1907 automobiles were about the equivalent of a 2006 Ford Explorer (MSRP $31,650) or a Range&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/">Continue reading <span class="screen-reader-text">Number-Crunching the Horseless Carriage</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 1, 1907 Los Angeles If you ever wondered if the Locomobile or Pope-Hartford got great gas mileage, the answer is no, as shown in the results of the 185-mile Lakeside Endurance Race. In cost and fuel efficiency, the 1907 automobiles were about the equivalent of a 2006 Ford Explorer (MSRP $31,650) or a Range&#8230; <a class="more-link" href="https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/">Continue reading <span class="screen-reader-text">Number-Crunching the Horseless Carriage</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0701_pope.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 408px; height: 271px;" src="//www.lmharnisch.com/images/1907_0701_pope.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0701_pope.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 408px; height: 271px;" src="//www.lmharnisch.com/images/1907_0701_pope.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">July 1, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -201,18 +201,18 @@
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The car with the best gas mileage in the economy competition was the Pope-Hartford, 8</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Angelenos and Their Cars</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/28/angelenos-and-their-cars/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/28/angelenos-and-their-cars/#respond</comments>
+		<link>https://1947project.com/2006/06/28/angelenos-and-their-cars/</link>
+					<comments>https://1947project.com/2006/06/28/angelenos-and-their-cars/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 28 Jun 2006 15:23:35 +0000</pubDate>
@@ -223,27 +223,27 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>June 28, 1907 Los Angeles Give cars to a bunch of wealthy Los Angeles residents and what do they do? Race them, of course. Not on a track this time, but in an endurance test from Los Angeles to Lakeside. And yes, it</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/28/angelenos-and-their-cars/">Angelenos and Their Cars</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/28/angelenos-and-their-cars/">Angelenos and Their Cars</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0628.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 373px; height: 271px;" src="//www.lmharnisch.com/images/1907_0628.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0628.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 373px; height: 271px;" src="//www.lmharnisch.com/images/1907_0628.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">June 28, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">Give cars to a bunch of wealthy Los Angeles residents and what do they do? Race them, of course. <a href="https://pensive-torvalds-020d34.netlify.app/barney-oldfields-green-dragon-blazes-through-los-angeles">Not on a track this time</a></span><span style="font-size:100%;">, but in an endurance test from <a href="https://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=los+angeles,+ca&#038;daddr=lakeside,+ca&amp;amp;amp;amp;amp;ie=UTF8&#038;t=h&amp;om=0">Los Angeles to Lakeside</a></span><span style="font-size:100%;">. And yes, it</div>
+</span><span style="font-size:100%;">Give cars to a bunch of wealthy Los Angeles residents and what do they do? Race them, of course. <a href="https://1947project.com/barney-oldfields-green-dragon-blazes-through-los-angeles">Not on a track this time</a></span><span style="font-size:100%;">, but in an endurance test from <a href="http://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=los+angeles,+ca&#038;daddr=lakeside,+ca&amp;amp;amp;amp;amp;ie=UTF8&#038;t=h&amp;om=0">Los Angeles to Lakeside</a></span><span style="font-size:100%;">. And yes, it</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/28/angelenos-and-their-cars/">Angelenos and Their Cars</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/28/angelenos-and-their-cars/">Angelenos and Their Cars</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/28/angelenos-and-their-cars/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/28/angelenos-and-their-cars/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Route 66 Begins</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/#respond</comments>
+		<link>https://1947project.com/2006/06/23/route-66-begins/</link>
+					<comments>https://1947project.com/2006/06/23/route-66-begins/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 23 Jun 2006 15:55:09 +0000</pubDate>
@@ -255,29 +255,29 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>June 23, 1907 Los Angeles The Auto Club of Southern California has begun posting white enamel signs with blue lettering along Foothill Boulevard between Los Angeles and Riverside. Spending about half a day, auto club President George Allen Hancock and Charles Fuller Gates, who is in charge of the county</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://static.flickr.com/58/173294595_a47eb84240.jpg?v=0"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 226px; height: 239px;" src="//static.flickr.com/58/173294595_a47eb84240.jpg?v=0" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://flickr.com/photos/51138117@N00/173294595/"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//flickr.com/photos/51138117@N00/173294595/" alt="" border="0" /></a><span style="font-size:100%;">June 23, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/58/173294595_a47eb84240.jpg?v=0"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 226px; height: 239px;" src="//static.flickr.com/58/173294595_a47eb84240.jpg?v=0" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://flickr.com/photos/51138117@N00/173294595/"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//flickr.com/photos/51138117@N00/173294595/" alt="" border="0" /></a><span style="font-size:100%;">June 23, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The Auto Club of Southern California has begun posting white enamel signs with blue lettering along Foothill Boulevard between Los Angeles and Riverside.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Spending about half a day, auto club President George Allen Hancock and Charles Fuller Gates, who is in charge of the county</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/23/route-66-begins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>&#8216;This is the kind of a horse&#8217;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/#respond</comments>
+		<link>https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/</link>
+					<comments>https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 27 May 2006 16:24:33 +0000</pubDate>
@@ -288,30 +288,30 @@
 		<category><![CDATA[prospectors]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 27, 1907 Death Valley, Calif. George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a Pierce-Arrow along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse. The&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/">Continue reading <span class="screen-reader-text">&#8216;This is the kind of a horse&#8217;</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 27, 1907 Death Valley, Calif. George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a Pierce-Arrow along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse. The&#8230; <a class="more-link" href="https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/">Continue reading <span class="screen-reader-text">&#8216;This is the kind of a horse&#8217;</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0527_mccabe.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0527_mccabe.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0527_mccabe.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0527_mccabe.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">May 27, 1907<br />
 </span><span style="font-size:100%;">Death Valley, Calif.<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a <a href="https://www.pierce-arrow.org/">Pierce-Arrow</a></span><span style="font-size:100%;"> along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse.<br />
+</span><span style="font-size:100%;">George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a <a href="http://www.pierce-arrow.org/">Pierce-Arrow</a></span><span style="font-size:100%;"> along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse.<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">The auto party <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;amp;amp;q=ballarat,+ca&#038;t=h&amp;om=0">had taken the route</a></span><span style="font-size:100%;"> from Johannesburg to <a href="https://www.desertusa.com/mag99/apr/stories/ballarat.html">Ballarat</a></span><span style="font-size:100%;"> slowly, stopping to clear the road of large rocks in their path and pausing whenever they encountered a freight wagon to keep from frightening the horses and mules. Because there were only two watering holes on the road, the party had taken an ample supply of water for themselves and the car</div>
+</span><span style="font-size:100%;">The auto party <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;amp;amp;q=ballarat,+ca&#038;t=h&amp;om=0">had taken the route</a></span><span style="font-size:100%;"> from Johannesburg to <a href="http://www.desertusa.com/mag99/apr/stories/ballarat.html">Ballarat</a></span><span style="font-size:100%;"> slowly, stopping to clear the road of large rocks in their path and pausing whenever they encountered a freight wagon to keep from frightening the horses and mules. Because there were only two watering holes on the road, the party had taken an ample supply of water for themselves and the car</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Barney Oldfield&#8217;s Green Dragon Blazes Through Los Angeles</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/#respond</comments>
+		<link>https://1947project.com/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/</link>
+					<comments>https://1947project.com/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 06 May 2006 19:03:03 +0000</pubDate>
@@ -323,26 +323,26 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>What is it about Angelenos that as soon as you put them behind the wheel of a car, they want to see how fast it will go? But it</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/">Barney Oldfield&#8217;s Green Dragon Blazes Through Los Angeles</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/">Barney Oldfield&#8217;s Green Dragon Blazes Through Los Angeles</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0506_oldfield02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0506_oldfield02.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0506_oldfield02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0506_oldfield02.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">What is it about Angelenos that as soon as you put them behind the wheel of a car, they want to see how fast it will go?<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">But it</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/">Barney Oldfield&#8217;s Green Dragon Blazes Through Los Angeles</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/">Barney Oldfield&#8217;s Green Dragon Blazes Through Los Angeles</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Ghostly Visitor</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/15/a-ghostly-visitor/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/15/a-ghostly-visitor/#respond</comments>
+		<link>https://1947project.com/2006/03/15/a-ghostly-visitor/</link>
+					<comments>https://1947project.com/2006/03/15/a-ghostly-visitor/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 15 Mar 2006 16:09:35 +0000</pubDate>
@@ -356,8 +356,8 @@
 		<category><![CDATA[women's suffrage]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>As I began to write my grand opening about Los Angeles in 1907, I felt a ghostly hand pluck ever so gently at my sleeve. â€œPromise me, dear boy, youâ€™ll remember to say that women couldnâ€™t vote in 1907.â€ â€œYes, of course.â€ Now where was I? Ah yes. The street names are deceptively familiar: Broadway,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/15/a-ghostly-visitor/">Continue reading <span class="screen-reader-text">A Ghostly Visitor</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/15/a-ghostly-visitor/">A Ghostly Visitor</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>As I began to write my grand opening about Los Angeles in 1907, I felt a ghostly hand pluck ever so gently at my sleeve. â€œPromise me, dear boy, youâ€™ll remember to say that women couldnâ€™t vote in 1907.â€ â€œYes, of course.â€ Now where was I? Ah yes. The street names are deceptively familiar: Broadway,&#8230; <a class="more-link" href="https://1947project.com/2006/03/15/a-ghostly-visitor/">Continue reading <span class="screen-reader-text">A Ghostly Visitor</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/15/a-ghostly-visitor/">A Ghostly Visitor</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -390,10 +390,10 @@ Women in Los Angeles couldnâ€<img src="https://s.w.org/images/core/emoji/13.0
 â€œThank you.â€
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/15/a-ghostly-visitor/">A Ghostly Visitor</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/15/a-ghostly-visitor/">A Ghostly Visitor</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/15/a-ghostly-visitor/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/15/a-ghostly-visitor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

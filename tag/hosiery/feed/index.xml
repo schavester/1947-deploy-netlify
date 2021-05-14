@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>hosiery &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/hosiery/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/hosiery/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:39:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>hosiery &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Postal Inspector Always Rings Twice</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/09/13/the-postal-inspector-always-rings-twice/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/09/13/the-postal-inspector-always-rings-twice/#respond</comments>
+		<link>https://1947project.com/2007/09/13/the-postal-inspector-always-rings-twice/</link>
+					<comments>https://1947project.com/2007/09/13/the-postal-inspector-always-rings-twice/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Thu, 13 Sep 2007 00:04:08 +0000</pubDate>
@@ -44,12 +44,12 @@
 		<category><![CDATA[stockings]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>September 11, 1927Glendale Surely, oh, surely there are some very happy mailmen in Glendale today: a consignment of waterlogged ladies stockings are hung to dry around the post office. Whether they were similar to the Paris Clocked Chiffon Hosiery (in colors like French Blonde and Ecstasy) advertised by Bullock&#8217;s recently or simple utilitarian cotton, the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/09/13/the-postal-inspector-always-rings-twice/">Continue reading <span class="screen-reader-text">The Postal Inspector Always Rings Twice</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/13/the-postal-inspector-always-rings-twice/">The Postal Inspector Always Rings Twice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>September 11, 1927Glendale Surely, oh, surely there are some very happy mailmen in Glendale today: a consignment of waterlogged ladies stockings are hung to dry around the post office. Whether they were similar to the Paris Clocked Chiffon Hosiery (in colors like French Blonde and Ecstasy) advertised by Bullock&#8217;s recently or simple utilitarian cotton, the&#8230; <a class="more-link" href="https://1947project.com/2007/09/13/the-postal-inspector-always-rings-twice/">Continue reading <span class="screen-reader-text">The Postal Inspector Always Rings Twice</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/13/the-postal-inspector-always-rings-twice/">The Postal Inspector Always Rings Twice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/lperil/1368753400/"><img loading="lazy" width="253" height="360" border="0" alt="stockings" src="//farm2.static.flickr.com/1350/1368753400_78db8c19e2_o.jpg" /></a>  </p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/lperil/1368753400/"><img loading="lazy" width="253" height="360" border="0" alt="stockings" src="//farm2.static.flickr.com/1350/1368753400_78db8c19e2_o.jpg" /></a>  </p>
 <p>September 11, 1927<br />Glendale</p>
 <p>Surely, oh, surely there are some very happy mailmen in Glendale today:  a consignment of waterlogged ladies stockings are hung to dry around the post office. Whether they were similar to the Paris Clocked Chiffon Hosiery (in colors like French Blonde and Ecstasy) advertised by Bullock&rsquo;s recently or simple utilitarian cotton, the <em>Times</em> does not say.   </p>
 <p>Shipped by the Thieme Hosiery Company to a store in Crescent City near the Oregon border, the stockings were removed from the train and transferred to a &ldquo;stage&rdquo; for delivery to their final destination. Alas, though the thought of a macho Wild West wagon filled with ladies&rsquo; finery is a pleasing one, the stage was in fact an automobile. The driver probably would have faired better with a team of horses, for after a sudden cloudburst, he was forced to abandon both car and cargo in a flash-flooded stream.   </p>
@@ -57,10 +57,10 @@
 <p>Now everyone awaits the postal inspector. &ldquo;It is expected that the affair will be straightened out after several reams have been covered with correspondence, at a large outlay of time and money,&rdquo; sagely notes the <em>Times</em>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/13/the-postal-inspector-always-rings-twice/">The Postal Inspector Always Rings Twice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/13/the-postal-inspector-always-rings-twice/">The Postal Inspector Always Rings Twice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/09/13/the-postal-inspector-always-rings-twice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/09/13/the-postal-inspector-always-rings-twice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

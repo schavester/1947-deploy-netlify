@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Chutes Park &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/chutes-park-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/chutes-park-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:50:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Chutes Park &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Trip to the Zoo</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/02/a-trip-to-the-zoo/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/02/a-trip-to-the-zoo/#respond</comments>
+		<link>https://1947project.com/2007/02/02/a-trip-to-the-zoo/</link>
+					<comments>https://1947project.com/2007/02/02/a-trip-to-the-zoo/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 02 Feb 2007 15:25:54 +0000</pubDate>
@@ -43,11 +43,11 @@
 		<category><![CDATA[Chutes Park]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 2, 1907 Los Angeles Conditions at Chutes Park are so bad that the Society for the Prevention of Cruelty to Animals is making a second inspection to see whether operator J.B. Lehigh has made any improvements before his Feb. 20 trial on charges of abuse and neglect. Chutes is nothing more than a mud-filled&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/02/a-trip-to-the-zoo/">Continue reading <span class="screen-reader-text">A Trip to the Zoo</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/02/a-trip-to-the-zoo/">A Trip to the Zoo</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 2, 1907 Los Angeles Conditions at Chutes Park are so bad that the Society for the Prevention of Cruelty to Animals is making a second inspection to see whether operator J.B. Lehigh has made any improvements before his Feb. 20 trial on charges of abuse and neglect. Chutes is nothing more than a mud-filled&#8230; <a class="more-link" href="https://1947project.com/2007/02/02/a-trip-to-the-zoo/">Continue reading <span class="screen-reader-text">A Trip to the Zoo</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/02/a-trip-to-the-zoo/">A Trip to the Zoo</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0202.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 342px; height: 292px;" src="//www.lmharnisch.com/images/1907_0202.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0202.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 342px; height: 292px;" src="//www.lmharnisch.com/images/1907_0202.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Feb. 2, 1907<br />
 Los Angeles</p>
@@ -64,7 +64,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Lehigh was found not guilty animal cruelty after witnesses testified that elk like to wallow in mud. Ã¢â‚¬Å“At times, it is in a manner necessary to their comfort,Ã¢â‚¬Â The Times says. Ã¢â‚¬Å“Elk, said one old-timer whose beard hung to his waist, like to wallow and it does them good.Ã¢â‚¬Â </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -74,22 +74,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/02/a-trip-to-the-zoo/">A Trip to the Zoo</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/02/a-trip-to-the-zoo/">A Trip to the Zoo</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/02/a-trip-to-the-zoo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/02/a-trip-to-the-zoo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Green Eyes</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/16/green-eyes/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/16/green-eyes/#respond</comments>
+		<link>https://1947project.com/2006/12/16/green-eyes/</link>
+					<comments>https://1947project.com/2006/12/16/green-eyes/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 16 Dec 2006 16:00:49 +0000</pubDate>
@@ -100,18 +100,18 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Dec. 16, 1907 Los Angeles And what ran on the sports pages in 1907? We certainly didn</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/16/green-eyes/">Green Eyes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/16/green-eyes/">Green Eyes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1216.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 236px; height: 307px;" src="//www.lmharnisch.com/images/1907_1216.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 16, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1216.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 236px; height: 307px;" src="//www.lmharnisch.com/images/1907_1216.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 16, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">And what ran on the sports pages in 1907? We certainly didn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/16/green-eyes/">Green Eyes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/16/green-eyes/">Green Eyes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/16/green-eyes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/16/green-eyes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

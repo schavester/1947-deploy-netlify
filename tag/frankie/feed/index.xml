@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>frankie &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/frankie/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/frankie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:41:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>frankie &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Frankie the Fire Goat Superstar</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/24/frankie-the-fire-goat-superstar/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/24/frankie-the-fire-goat-superstar/#respond</comments>
+		<link>https://1947project.com/2007/05/24/frankie-the-fire-goat-superstar/</link>
+					<comments>https://1947project.com/2007/05/24/frankie-the-fire-goat-superstar/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 24 May 2007 05:47:48 +0000</pubDate>
@@ -49,23 +49,23 @@
 		<category><![CDATA[the ashettes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Frankie the Fire Goat is on Myspace now, and he would love to make friends with you.&#160; Frankie is feeling awfully proud, since he was on the Channel 7 news live tonight (with his all-showgirl fan club, the fabulous Ashettes) from the Griffith Park community meeting discussing the future of the park post-fire. He very&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/24/frankie-the-fire-goat-superstar/">Continue reading <span class="screen-reader-text">Frankie the Fire Goat Superstar</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/24/frankie-the-fire-goat-superstar/">Frankie the Fire Goat Superstar</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Frankie the Fire Goat is on Myspace now, and he would love to make friends with you.&#160; Frankie is feeling awfully proud, since he was on the Channel 7 news live tonight (with his all-showgirl fan club, the fabulous Ashettes) from the Griffith Park community meeting discussing the future of the park post-fire. He very&#8230; <a class="more-link" href="https://1947project.com/2007/05/24/frankie-the-fire-goat-superstar/">Continue reading <span class="screen-reader-text">Frankie the Fire Goat Superstar</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/24/frankie-the-fire-goat-superstar/">Frankie the Fire Goat Superstar</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Frankie the Fire Goat is on <a target="_blank" href="https://www.myspace.com/frankiethefiregoat">Myspace</a> now, and he would love to make friends with you.&nbsp;  </p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/511678441/"><img loading="lazy" width="500" height="332" border="0" alt="Frankie with Ashettes La Cholita and Paula Baby and Shepherdess Sarah with Channel 7 News' Elsa Ramon" src="//farm1.static.flickr.com/224/511678441_95b4ec89b8.jpg" /></a></p>
-<p>Frankie is feeling awfully proud, since he was on the Channel 7 news live tonight (with his all-showgirl fan club, the fabulous Ashettes) from the Griffith Park community meeting discussing the future of the park post-fire. He very much hopes that future will involve he and his herd munching lots of dry brush so it doesn&#8217;t get a chance to catch on fire. He got to meet Councilmen Eric Garcetti and Tom LaBonge and encouraged them both to seriously consider looking into creating a managed goat grazing plan for Griffith Park and the rest of L.A.&#8217;s wild spaces. If you agree, please sign Frankie&#8217;s <a target="_blank" href="https://www.petitiononline.com/firegoat/petition.html">petition</a> and then <a target="_blank" href="https://www.lacity.org/council.htm">contact</a> them yourself and ask that they set up a meeting soon to discuss the role goats can play in protecting our parks.&nbsp;</p>
-<p>Here are some <a target="_blank" href="https://www.flickr.com/photos/richardschave/sets/72157600256636511/">photos</a> of Frankie and his pals. And yet <a href="https://www.flickr.com/photos/markland/sets/72157600257383873/" target="_blank">more</a> photos, these ones by David Markland!</p>
+<p>Frankie the Fire Goat is on <a target="_blank" href="http://www.myspace.com/frankiethefiregoat">Myspace</a> now, and he would love to make friends with you.&nbsp;  </p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/511678441/"><img loading="lazy" width="500" height="332" border="0" alt="Frankie with Ashettes La Cholita and Paula Baby and Shepherdess Sarah with Channel 7 News' Elsa Ramon" src="//farm1.static.flickr.com/224/511678441_95b4ec89b8.jpg" /></a></p>
+<p>Frankie is feeling awfully proud, since he was on the Channel 7 news live tonight (with his all-showgirl fan club, the fabulous Ashettes) from the Griffith Park community meeting discussing the future of the park post-fire. He very much hopes that future will involve he and his herd munching lots of dry brush so it doesn&#8217;t get a chance to catch on fire. He got to meet Councilmen Eric Garcetti and Tom LaBonge and encouraged them both to seriously consider looking into creating a managed goat grazing plan for Griffith Park and the rest of L.A.&#8217;s wild spaces. If you agree, please sign Frankie&#8217;s <a target="_blank" href="http://www.petitiononline.com/firegoat/petition.html">petition</a> and then <a target="_blank" href="http://www.lacity.org/council.htm">contact</a> them yourself and ask that they set up a meeting soon to discuss the role goats can play in protecting our parks.&nbsp;</p>
+<p>Here are some <a target="_blank" href="http://www.flickr.com/photos/richardschave/sets/72157600256636511/">photos</a> of Frankie and his pals. And yet <a href="http://www.flickr.com/photos/markland/sets/72157600257383873/" target="_blank">more</a> photos, these ones by David Markland!</p>
 <p>He&#8217;s really a lovely goat, and his is a good cause. It was a real treat to spend the afternoon with him and see how people, especially kids, responded to his gentle ways and seemingly bottomless hunger. Thanks to Sarah and Hugh from Nanny &amp; Billy&#8217;s Vegetative Management for taking Frankie off the Getty chomping crew for this public appearance, the lovely Ashettes La Cholita and Paula Baby, the informed and passionate Judy Cairns from Peck Park Goats, Elsa Ramon from Channel 7 for giving so much time to this story, and all the nice folks who came over to meet Frankie and learn more about goats as fire fighters.</p>
 <p>We want goats!&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/24/frankie-the-fire-goat-superstar/">Frankie the Fire Goat Superstar</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/24/frankie-the-fire-goat-superstar/">Frankie the Fire Goat Superstar</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/24/frankie-the-fire-goat-superstar/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/24/frankie-the-fire-goat-superstar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

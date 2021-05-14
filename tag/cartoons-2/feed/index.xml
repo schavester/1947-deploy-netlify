@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>cartoons &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/cartoons-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/cartoons-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:52:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>cartoons &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>On the Comics Page</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/27/on-the-comics-page/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/27/on-the-comics-page/#respond</comments>
+		<link>https://1947project.com/2006/10/27/on-the-comics-page/</link>
+					<comments>https://1947project.com/2006/10/27/on-the-comics-page/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 27 Oct 2006 14:45:31 +0000</pubDate>
@@ -44,27 +44,27 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 27, 1907 Los Angeles Along with</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/27/on-the-comics-page/">On the Comics Page</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/27/on-the-comics-page/">On the Comics Page</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1027.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 260px; height: 283px;" src="//www.lmharnisch.com/images/1907_1027.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1027.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 260px; height: 283px;" src="//www.lmharnisch.com/images/1907_1027.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Oct. 27, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Along with </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/27/on-the-comics-page/">On the Comics Page</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/27/on-the-comics-page/">On the Comics Page</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/27/on-the-comics-page/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/27/on-the-comics-page/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Imp</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/20/the-imp/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/20/the-imp/#respond</comments>
+		<link>https://1947project.com/2006/10/20/the-imp/</link>
+					<comments>https://1947project.com/2006/10/20/the-imp/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 20 Oct 2006 14:50:16 +0000</pubDate>
@@ -76,19 +76,19 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 20, 1907 Los Angeles Windsor McCay and his cartoons never completely go out of fashion and are periodically rediscovered</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/20/the-imp/">The Imp</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/20/the-imp/">The Imp</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1020B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 375px; height: 168px;" src="//www.lmharnisch.com/images/1907_1020B.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1020B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 375px; height: 168px;" src="//www.lmharnisch.com/images/1907_1020B.jpg" alt="" border="0" /></a></p>
 <p><!--[endif]-->Oct. 20, 1907<br />
 Los Angeles  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Windsor McCay and his cartoons never completely go out of fashion and are periodically rediscovered</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/20/the-imp/">The Imp</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/20/the-imp/">The Imp</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/20/the-imp/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/20/the-imp/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

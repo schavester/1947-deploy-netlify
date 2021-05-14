@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>spurned love &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/domestic-unrest/spurned-love/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/domestic-unrest/spurned-love/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:39:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>spurned love &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Christmas Cheer in a Razorblade</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/28/christmas-cheer-in-a-razorblade/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/28/christmas-cheer-in-a-razorblade/#respond</comments>
+		<link>https://1947project.com/2007/12/28/christmas-cheer-in-a-razorblade/</link>
+					<comments>https://1947project.com/2007/12/28/christmas-cheer-in-a-razorblade/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 28 Dec 2007 02:00:37 +0000</pubDate>
@@ -46,22 +46,22 @@
 		<category><![CDATA[spurned love]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 27, 1927Los Angeles Carlos Monroy, 35, was that precarious combination, a glazier and lush, and the missus no longer wished to live with him. So Anita, 29, took Carlos Junior, 10, and moved in with mama, Antonia Barron of 626 East 36th Place, while Carlos stayed with his mother and brother at 2915 New&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/28/christmas-cheer-in-a-razorblade/">Continue reading <span class="screen-reader-text">Christmas Cheer in a Razorblade</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/28/christmas-cheer-in-a-razorblade/">Christmas Cheer in a Razorblade</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 27, 1927Los Angeles Carlos Monroy, 35, was that precarious combination, a glazier and lush, and the missus no longer wished to live with him. So Anita, 29, took Carlos Junior, 10, and moved in with mama, Antonia Barron of 626 East 36th Place, while Carlos stayed with his mother and brother at 2915 New&#8230; <a class="more-link" href="https://1947project.com/2007/12/28/christmas-cheer-in-a-razorblade/">Continue reading <span class="screen-reader-text">Christmas Cheer in a Razorblade</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/28/christmas-cheer-in-a-razorblade/">Christmas Cheer in a Razorblade</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><a title="monroy by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2142829618/"><img loading="lazy" width="330" height="290" border="0" alt="monroy" src="//farm3.static.flickr.com/2302/2142829618_c366a3b660_o.jpg" /></a></p>
+<p><a title="monroy by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2142829618/"><img loading="lazy" width="330" height="290" border="0" alt="monroy" src="//farm3.static.flickr.com/2302/2142829618_c366a3b660_o.jpg" /></a></p>
 <p>December 27, 1927<br />Los Angeles</p>
 <p>Carlos Monroy, 35, was that precarious combination, a glazier and lush, and the missus no longer wished to live with him. So Anita, 29, took Carlos Junior, 10, and moved in with mama, Antonia Barron of 626 East 36th Place, while Carlos stayed with his mother and brother at 2915 New Jersey Street. </p>
 <p>It being Christmas, Carlos found himself missing his family, and dropped by the Barron home, with a bottle of whiskey and a long line of apologies. Anita didn&#8217;t want to hear it. She intended to be divorced, and further, she and her sister Leonora were going downtown to shop. Would he please leave?</p>
 <p>Anita went to the bathroom, and Carlos followed her in, where he drew a razor from his coat pocket and slashed at her throat. Anita ran, bleeding and screaming, through the spare bedroom and into the dining room. Carlos finished her off there, then turned the blade on himself. Their son and the Barron women were witnesses to the carnage, then called for aid, though it was far too late for anything but tears.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/28/christmas-cheer-in-a-razorblade/">Christmas Cheer in a Razorblade</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/28/christmas-cheer-in-a-razorblade/">Christmas Cheer in a Razorblade</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/28/christmas-cheer-in-a-razorblade/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/28/christmas-cheer-in-a-razorblade/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

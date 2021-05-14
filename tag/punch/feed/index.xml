@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>punch &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/punch/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/punch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:50:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>punch &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>She Threw Herself Into the Part</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/25/she-threw-herself-into-the-part/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/25/she-threw-herself-into-the-part/#respond</comments>
+		<link>https://1947project.com/2007/06/25/she-threw-herself-into-the-part/</link>
+					<comments>https://1947project.com/2007/06/25/she-threw-herself-into-the-part/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 25 Jun 2007 03:42:52 +0000</pubDate>
@@ -44,22 +44,22 @@
 		<category><![CDATA[punch]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; June 24, 1927Hollywood Yeah, she threw herself into the part.&#160; She could throw a mean left cross too, apparently.&#160; In fact she went so nuts she broke several straw hats and mussed up the hair of several spectators and managed to bust the nose, teeth, and blacken the eye of some ponce named Basil&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/25/she-threw-herself-into-the-part/">Continue reading <span class="screen-reader-text">She Threw Herself Into the Part</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/25/she-threw-herself-into-the-part/">She Threw Herself Into the Part</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; June 24, 1927Hollywood Yeah, she threw herself into the part.&#160; She could throw a mean left cross too, apparently.&#160; In fact she went so nuts she broke several straw hats and mussed up the hair of several spectators and managed to bust the nose, teeth, and blacken the eye of some ponce named Basil&#8230; <a class="more-link" href="https://1947project.com/2007/06/25/she-threw-herself-into-the-part/">Continue reading <span class="screen-reader-text">She Threw Herself Into the Part</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/25/she-threw-herself-into-the-part/">She Threw Herself Into the Part</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="491" height="103" border="0" title="fistsoffury" alt="fistsoffury" src="//farm2.static.flickr.com/1067/617445146_81337a8f6a_o.gif" /></p>
 <p><img loading="lazy" width="152" height="400" border="0" align="right" title="eileen" alt="eileen" src="//farm2.static.flickr.com/1104/617445060_d69be04268_o.gif" /><img loading="lazy" width="122" height="223" border="0" align="left" title="basil" alt="basil" src="//farm2.static.flickr.com/1024/617445046_a45d99eb14_o.gif" />June 24, 1927<br />Hollywood</p>
 <p>Yeah, she threw herself into the part.&nbsp; She could throw a mean left cross too, apparently.&nbsp; In fact she went so nuts she broke several straw hats and mussed up the hair of several spectators and managed to bust the nose, teeth, and blacken the eye of some ponce named Basil Webb.</p>
-<p>She is <a href="https://www.imdb.com/name/nm0781293/bio" target="_blank" title="eileen">Eileen Sedgwick</a>, and she was portraying an excited Swedish servant girl, cheering the home town team in Metro&rsquo;s <a href="https://www.imdb.com/title/tt0018413/#comment" target="_blank" title="SKS"><em>Slide, Kelly, Slide</em></a>.&nbsp; And now she stands shoulder to shoulder to shoulder with Metro and the United States Fidelity and Guaranty Company, as Basil bemoans his condition before Referee Crowell of the State Industrial Accident Commission.</p>
+<p>She is <a href="http://www.imdb.com/name/nm0781293/bio" target="_blank" title="eileen">Eileen Sedgwick</a>, and she was portraying an excited Swedish servant girl, cheering the home town team in Metro&rsquo;s <a href="http://www.imdb.com/title/tt0018413/#comment" target="_blank" title="SKS"><em>Slide, Kelly, Slide</em></a>.&nbsp; And now she stands shoulder to shoulder to shoulder with Metro and the United States Fidelity and Guaranty Company, as Basil bemoans his condition before Referee Crowell of the State Industrial Accident Commission.</p>
 <p>We are beguiled by the fetching Ms. Sedgwick!&nbsp; Mr. Webb should consider himself lucky to have be walloped by so charming a creature.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/25/she-threw-herself-into-the-part/">She Threw Herself Into the Part</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/25/she-threw-herself-into-the-part/">She Threw Herself Into the Part</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/25/she-threw-herself-into-the-part/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/25/she-threw-herself-into-the-part/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

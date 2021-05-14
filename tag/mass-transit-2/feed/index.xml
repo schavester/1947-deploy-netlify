@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>mass transit &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/mass-transit-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/mass-transit-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 20:07:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>mass transit &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Danger Point</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/#respond</comments>
+		<link>https://1947project.com/2006/11/01/danger-point/</link>
+					<comments>https://1947project.com/2006/11/01/danger-point/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 01 Nov 2006 15:11:59 +0000</pubDate>
@@ -43,11 +43,11 @@
 		<category><![CDATA[mass transit]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oct. 31, 1907 Los Angeles John J. Mooney, 23, a Southern Pacific machinist who recently arrived from Butte, Mont., was aboard the West 2nd Street car on his way to be initiated in the Modern Woodmen of America when the brakes failed, sending the car into the southbound Spring Street trolley, killing him and injuring&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/">Continue reading <span class="screen-reader-text">Danger Point</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oct. 31, 1907 Los Angeles John J. Mooney, 23, a Southern Pacific machinist who recently arrived from Butte, Mont., was aboard the West 2nd Street car on his way to be initiated in the Modern Woodmen of America when the brakes failed, sending the car into the southbound Spring Street trolley, killing him and injuring&#8230; <a class="more-link" href="https://1947project.com/2006/11/01/danger-point/">Continue reading <span class="screen-reader-text">Danger Point</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1031B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 381px; height: 214px;" src="//www.lmharnisch.com/images/1907_1031B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1031B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 381px; height: 214px;" src="//www.lmharnisch.com/images/1907_1031B.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Oct. 31, 1907<br />
 Los Angeles</p>
@@ -56,18 +56,18 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">The intersection is known as a danger point because of the steep hill on 2<sup>nd</sup> Street, according to The Times, which noted that another fatal accident occurred there Dec. 24, 1905. Officials say the 2<sup>nd</sup> Street car stopped at Broadway, then proceeded toward Spring when the brakes failed. The motorman of the Spring Street car accelerated to avoid the oncoming trolley but couldn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/01/danger-point/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pigs&#8217; Feet</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/#respond</comments>
+		<link>https://1947project.com/2006/04/26/pigs-feet/</link>
+					<comments>https://1947project.com/2006/04/26/pigs-feet/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 26 Apr 2006 01:09:18 +0000</pubDate>
@@ -81,15 +81,15 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Anthony Kallan likes pigs</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">Anthony Kallan likes pigs</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/26/pigs-feet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

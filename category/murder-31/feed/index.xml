@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>murder &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/murder-31/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/murder-31/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:00:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>murder &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Debut 1947project Podcast</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/#comments</comments>
+		<link>https://1947project.com/2007/06/01/debut-1947project-podcast/</link>
+					<comments>https://1947project.com/2007/06/01/debut-1947project-podcast/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 01 Jun 2007 05:15:27 +0000</pubDate>
@@ -49,29 +49,29 @@
 		<category><![CDATA[podcast]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Greetings, citizens of the future! Click here to enjoy the debut bi-weekly podcast from your pals from the 1947project. Featured is a lively and sometimes tasteless recap of recent crimes covered on the blog (including the Bath Township school disaster), recommended events for the next two weeks for listeners in 1927 or 2007, A Moment&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/">Continue reading <span class="screen-reader-text">Debut 1947project Podcast</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/">Debut 1947project Podcast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Greetings, citizens of the future! Click here to enjoy the debut bi-weekly podcast from your pals from the 1947project. Featured is a lively and sometimes tasteless recap of recent crimes covered on the blog (including the Bath Township school disaster), recommended events for the next two weeks for listeners in 1927 or 2007, A Moment&#8230; <a class="more-link" href="https://1947project.com/2007/06/01/debut-1947project-podcast/">Continue reading <span class="screen-reader-text">Debut 1947project Podcast</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/01/debut-1947project-podcast/">Debut 1947project Podcast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Greetings, citizens of the future! Click <a href="https://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" target="_blank">here</a> to enjoy the debut bi-weekly podcast from your pals from the 1947project. </p>
+<p>Greetings, citizens of the future! Click <a href="http://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" target="_blank">here</a> to enjoy the debut bi-weekly podcast from your pals from the 1947project. </p>
 <p>Featured is a lively and sometimes tasteless recap of recent crimes covered on the blog (including the Bath Township school disaster), recommended events for the next two weeks for listeners in 1927 or 2007, A Moment with Crimebo the Crime Clown, Nathan Marsak&#8217;s saucy faux adverts and <strong>a sneak announcement of a top secret Crime Bus tour not otherwise available to the public.</strong> </p>
 <p>On the mic: Kim Cooper, Crimebo the Clown (Michael Perrick), Nathan Marsak, Mary McCoy and Joan Renner. We certainly hope you find this 40 minute podcast to your liking, and thank you for your kind attention.  </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/">Debut 1947project Podcast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/01/debut-1947project-podcast/">Debut 1947project Podcast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/01/debut-1947project-podcast/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/01/debut-1947project-podcast/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
-		<enclosure url="https://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="http://ia350613.us.archive.org/3/items/KimCooper1947projectPodcastMay26th/1947projectpodcast060107.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 		<item>
 		<title>The Confession of Morris Buck</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/07/the-confession-of-morris-buck/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/07/the-confession-of-morris-buck/#respond</comments>
+		<link>https://1947project.com/2006/12/07/the-confession-of-morris-buck/</link>
+					<comments>https://1947project.com/2006/12/07/the-confession-of-morris-buck/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 07 Dec 2006 16:11:05 +0000</pubDate>
@@ -86,26 +86,26 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Dec. 7, 1907 Los Angeles</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/07/the-confession-of-morris-buck/">The Confession of Morris Buck</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/07/the-confession-of-morris-buck/">The Confession of Morris Buck</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1207.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 231px; height: 252px;" src="//www.lmharnisch.com/images/1907_1207.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Dec. 7, 1907<br />
+<div><a href="http://www.lmharnisch.com/images/1907_1207.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 231px; height: 252px;" src="//www.lmharnisch.com/images/1907_1207.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Dec. 7, 1907<br />
 </span><span style="font-size: 100%;">Los Angeles<br />
 </span><span style="font-size: 100%;"><br />
 </span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/07/the-confession-of-morris-buck/">The Confession of Morris Buck</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/07/the-confession-of-morris-buck/">The Confession of Morris Buck</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/07/the-confession-of-morris-buck/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/07/the-confession-of-morris-buck/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Crime Bus Lurches Out of the Fog</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/#comments</comments>
+		<link>https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</link>
+					<comments>https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 22 Oct 2006 03:58:14 +0000</pubDate>
@@ -119,28 +119,28 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[west adams]]></category>
 		<category><![CDATA[crime bus]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</guid>
 
-					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! We&#8217;re taking a break from our regularly scheduled Crime Bus touring in early 2006 to develop some new and very wild rides, but private tours can still be booked during this time. Typically, public tours run on both days of a weekend about once a month, and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">Continue reading <span class="screen-reader-text">The Crime Bus Lurches Out of the Fog</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! We&#8217;re taking a break from our regularly scheduled Crime Bus touring in early 2006 to develop some new and very wild rides, but private tours can still be booked during this time. Typically, public tours run on both days of a weekend about once a month, and&#8230; <a class="more-link" href="https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">Continue reading <span class="screen-reader-text">The Crime Bus Lurches Out of the Fog</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Join us, gentle rider, on the Crime Bus! We&#8217;re taking a break from our regularly scheduled Crime Bus touring in early 2006 to develop some new and very wild rides, but private tours can still be booked during this time. Typically, public tours run on both days of a weekend about once a month, and prospective passengers can subscribe to our email list&#8211; just click the link at right to be kept informed of all the details. Or watch this site for announcements. </p>
 <p><strong>Tours include&#8230; THE REAL BLACK DAHLIA&#8230; PASADENA CONFIDENTIAL&#8230; WEIRD WEST ADAMS&#8230; NIGHTMARES OF BUNKER HILL&#8230; HALLOWEEN HORRORS&#8230; with more to come.</strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nine Out of Ten</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/14/nine-out-of-ten/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/14/nine-out-of-ten/#respond</comments>
+		<link>https://1947project.com/2006/10/14/nine-out-of-ten/</link>
+					<comments>https://1947project.com/2006/10/14/nine-out-of-ten/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 14 Oct 2006 17:02:13 +0000</pubDate>
@@ -152,27 +152,27 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 14, 1907 Los Angeles</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/14/nine-out-of-ten/">Nine Out of Ten</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/14/nine-out-of-ten/">Nine Out of Ten</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1014.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 240px; height: 334px;" src="//www.lmharnisch.com/images/1907_1014.jpg" alt="" border="0" /></a><br />
+<div><a href="http://www.lmharnisch.com/images/1907_1014.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 240px; height: 334px;" src="//www.lmharnisch.com/images/1907_1014.jpg" alt="" border="0" /></a><br />
 <span style="font-size: 100%;">Oct. 14, 1907<br />
 </span><span style="font-size: 100%;">Los Angeles<br />
 </span><span style="font-size: 100%;"><br />
 </span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/14/nine-out-of-ten/">Nine Out of Ten</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/14/nine-out-of-ten/">Nine Out of Ten</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/14/nine-out-of-ten/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/14/nine-out-of-ten/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Twelve Gelatos to Honor the Black Dahlia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/#respond</comments>
+		<link>https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/</link>
+					<comments>https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 05 Sep 2006 20:36:57 +0000</pubDate>
@@ -187,8 +187,8 @@
 		<category><![CDATA[unsolved]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The following is from our latest 1947project press release&#8230; even if you don&#8217;t ride the Crime Bus, you can still enjoy these treats at Scoops at 712 N. Heliotrope Dr., just north of Melrose, on Friday 9/15 and Saturday 9/16 from 12pm-9pm. LOS ANGELES- All Elizabeth Short wanted in life was to be someone. Now,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Continue reading <span class="screen-reader-text">Twelve Gelatos to Honor the Black Dahlia</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The following is from our latest 1947project press release&#8230; even if you don&#8217;t ride the Crime Bus, you can still enjoy these treats at Scoops at 712 N. Heliotrope Dr., just north of Melrose, on Friday 9/15 and Saturday 9/16 from 12pm-9pm. LOS ANGELES- All Elizabeth Short wanted in life was to be someone. Now,&#8230; <a class="more-link" href="https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Continue reading <span class="screen-reader-text">Twelve Gelatos to Honor the Black Dahlia</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>The following is from our latest 1947project press release&#8230; even if you don&#8217;t ride the Crime Bus, you can still enjoy these treats at Scoops at 712 N. Heliotrope Dr., just north of Melrose, on Friday 9/15 and Saturday 9/16 from 12pm-9pm. </p>
@@ -198,18 +198,18 @@
 <p>As the Crime Bus winds it way towards its downtown conclusion, the passengers will coming closer to a very special treat. The 1947project asked avant-garde gelato maker Tai Kim of Scoops in East Hollywood to create a new flavor, named after the Black Dahlia, to honor her memory and provide sustenance to the brave Crime Bus passengers. Tai responded by developing not one but twelve unique flavors, each of which reflects Elizabeth Short and her time and city: 1947 Los Angeles. These special gelatos will only be available on Friday 9/15 and Saturday 9/16, and on Sunday 9/17 for Crime Bus passengers exclusively.</p>
 <p>So what does the Black Dahlia gelato taste like? According to Tai, like White Licorice (an anise and lemon blend), Black Tea and Rosewater, Blackberry and Orange Blossom, Pomegranate and Poppy Seed, Blood Orange Sorbet, Black Currant with Blueberry and Anise Sorbet, Dark Chocolate and Raspberry, White Chocolate and Black Sea Salt Mousse, White Chocolate and Cranberry Syrup, Vanilla and Whiskey and Jasmine Tea and Raisin. An additional offering is Chunky Apple Rum, a flavor that was popular in the 1940s and which Elizabeth Short may have enjoyed in life.</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photos from the August 6 Pasadena Confidential Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/#respond</comments>
+		<link>https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/</link>
+					<comments>https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 08 Aug 2006 02:23:07 +0000</pubDate>
@@ -225,32 +225,32 @@
 		<category><![CDATA[michael perrick]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Continue reading <span class="screen-reader-text">Photos from the August 6 Pasadena Confidential Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened&#8230; <a class="more-link" href="https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Continue reading <span class="screen-reader-text">Photos from the August 6 Pasadena Confidential Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; </p>
 <p> Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened on the day she was born.</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/209657426/" title="Photo Sharing"><img loading="lazy" width="480" height="500" border="0" src="//static.flickr.com/93/209657426_176d8e2e17.jpg" alt="Crimebo the Crime Clown reads to Cathy" /></a></p>
+<p> <a href="http://www.flickr.com/photos/richardschave/209657426/" title="Photo Sharing"><img loading="lazy" width="480" height="500" border="0" src="//static.flickr.com/93/209657426_176d8e2e17.jpg" alt="Crimebo the Crime Clown reads to Cathy" /></a></p>
 <p>Here, Crimebo and hosts Kim and Nathan take a mid-tour breather at Connal&#8217;s on Washington Boulevard, conveniently loated between the sites of a hammer murder and a bathtub suicide. Plus their malts is yummy!</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/209657428/" title="Photo Sharing"><img loading="lazy" width="500" height="436" border="0" src="//static.flickr.com/71/209657428_2b1ce189c9.jpg" alt="1947project Crime Bus hosts Kim and Nathan with Crimebo the Crime Clown" /></a> </p>
+<p> <a href="http://www.flickr.com/photos/richardschave/209657428/" title="Photo Sharing"><img loading="lazy" width="500" height="436" border="0" src="//static.flickr.com/71/209657428_2b1ce189c9.jpg" alt="1947project Crime Bus hosts Kim and Nathan with Crimebo the Crime Clown" /></a> </p>
 <p> And another view of that scary clown Crimebo&#8230; don&#8217;t you want him at <em>your</em> birthday party?!</p>
 <p>&nbsp;</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/209657425/" title="Photo Sharing"><img loading="lazy" width="308" height="500" border="0" src="//static.flickr.com/62/209657425_1f5a4b7144.jpg" alt="Crimebo the Crime Clown reads from his Big Book of Crime" /></a></p>
+<p> <a href="http://www.flickr.com/photos/richardschave/209657425/" title="Photo Sharing"><img loading="lazy" width="308" height="500" border="0" src="//static.flickr.com/62/209657425_1f5a4b7144.jpg" alt="Crimebo the Crime Clown reads from his Big Book of Crime" /></a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2006 16:00:04 +0000</pubDate>
@@ -266,36 +266,36 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[bus]]></category>
 		<category><![CDATA[horror]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
+<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
 <p><em><strong>Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. </strong></em></p>
-<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="https://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
+<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="http://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
 <p><em><strong /></em></p>
 <p>About the tour: By popular demand, and following many nights terrifying ourselves reading grisly old news reports until falling into fitfull sleep, our <strong>Pasadena Confidential </strong>crime bus tour rolls on Sunday, August 6, from 10am-3pm. This five-hour luxury coach tour offers surprising insights into the often weird and horrible history of the Crown City, from the infamous to the forgotten. Tickets are $47 per person, and include cookies and home-made lemonade. </p>
 <p>From celebrated cases like the RFK assassination (with a visit to Sirhan Sirhan&#8217;s folks&#8217; house), &quot;Eraserhead&quot; star Jack Nance&#8217;s strange end, black magician/rocket scientist Jack Parsons&#8217; death-by-misadventure and the 1926 Rose Parade grand stand collapse, to fascinating obscurities, the tour&#8217;s dozens of murders, arsons, kidnappings, robberies, suicides, auto wrecks and oddball happening sites provide a alternate history of Pasadena that&#8217;s as fascinating as it is creepy.</p>
 <p> Crime Bus passengers will tour the old Millionaire&#8217;s Row on Orange Grove, thrill to the shocking Sphinx Murder on the steps of the downtown Masonic Hall, wonder about the unknown fiend who sneaked past a little girl to poison her father&#8217;s beer, discover why people named Judd should think twice before moving to Pasadena, and explore the racist spirit of the early 20th century through two forgotten stories: that of a Chinaman with leprosy whose suicide by hanging was treated as a novel entertainment by hundreds of citizens, and the case of wealthy mulatto Archie Hill, who shot a white trolley ticket-taker dead for shortchanging him.  </p>
-<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="https://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
+<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="http://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
 <p><strong><em><strong><strong>Disclaimer</strong>: Although it is extremely unlikely, the organizers reserve the right to postpone the tour in the event of extreme weather, riot, act of war or plague. Refunds may be available no more than 72 hours before the tour departs, and at the discretion of the organizers. You may substitute an alternate passenger&#8217;s name if you are unable to attend. We regret that there are no refunds for people who miss the bus. Potential passengers may call Kim at 323-223-2767 or email with any questions. </strong></em><strong><br /> </strong></strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Family&#8217;s Curse</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/09/a-familys-curse/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/09/a-familys-curse/#respond</comments>
+		<link>https://1947project.com/2006/06/09/a-familys-curse/</link>
+					<comments>https://1947project.com/2006/06/09/a-familys-curse/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 09 Jun 2006 17:24:39 +0000</pubDate>
@@ -308,11 +308,11 @@
 		<category><![CDATA[morbid curiosity]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 9, 1907 Los Angeles Olga Miller was a comely young thing who worked at the Hotel Rosslyn and was considered quite attractive despite the scar on her temple from shooting herself in the head. One day she fell ill and was taken to County Hospital, where she went into convulsions and died after a&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/09/a-familys-curse/">Continue reading <span class="screen-reader-text">A Family&#8217;s Curse</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/09/a-familys-curse/">A Family&#8217;s Curse</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 9, 1907 Los Angeles Olga Miller was a comely young thing who worked at the Hotel Rosslyn and was considered quite attractive despite the scar on her temple from shooting herself in the head. One day she fell ill and was taken to County Hospital, where she went into convulsions and died after a&#8230; <a class="more-link" href="https://1947project.com/2006/06/09/a-familys-curse/">Continue reading <span class="screen-reader-text">A Family&#8217;s Curse</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/09/a-familys-curse/">A Family&#8217;s Curse</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0609.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 192px; height: 316px;" src="//lmharnisch.com/images/1907_0609.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0609.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 192px; height: 316px;" src="//lmharnisch.com/images/1907_0609.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">June 9, 1907<br />
 </span><span style="font-size:100%;">Los Angeles</span><br />
 <span style="font-size:100%;"><br />
@@ -323,21 +323,21 @@
 <span style="font-size:100%;">But her death was only the beginning of the complicated story, a morbidly Victorian tale that includes murder, insanity, false identities, suicides and fears of body snatching.<br />
 </span><br />
 <span style="font-size:100%;">Shortly after Miller died, officials learned that she was actually Bertha Beilstein, the daughter of John Frederick Beilstein, a wealthy Allegheny, Pa., businessman  and politician. Before his mysterious death in 1897 (some people suspected Bertha of poisoning him in a fit of insanity), he wrote a will putting all his money in a trust for his heirs as long as she was alive.</p>
-<p></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0609_hed.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 454px; height: 180px;" src="//lmharnisch.com/images/1907_0609_hed.jpg" alt="" border="0" /></a><br />
+<p></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0609_hed.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 454px; height: 180px;" src="//lmharnisch.com/images/1907_0609_hed.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Then </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/09/a-familys-curse/">A Family&#8217;s Curse</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/09/a-familys-curse/">A Family&#8217;s Curse</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/09/a-familys-curse/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/09/a-familys-curse/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Six-Letter Word</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/17/the-six-letter-word/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/17/the-six-letter-word/#respond</comments>
+		<link>https://1947project.com/2006/03/17/the-six-letter-word/</link>
+					<comments>https://1947project.com/2006/03/17/the-six-letter-word/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 17 Mar 2006 17:15:52 +0000</pubDate>
@@ -350,23 +350,23 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Elijah Washington died because he didn</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/17/the-six-letter-word/">The Six-Letter Word</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/17/the-six-letter-word/">The Six-Letter Word</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0317_head.jpg"><img style="margin: 5pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0317_head.jpg" alt="" border="10" /></a><span style="font-size:100%;">Elijah Washington died because he didn</div>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0317_head.jpg"><img style="margin: 5pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0317_head.jpg" alt="" border="10" /></a><span style="font-size:100%;">Elijah Washington died because he didn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/17/the-six-letter-word/">The Six-Letter Word</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/17/the-six-letter-word/">The Six-Letter Word</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/17/the-six-letter-word/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/17/the-six-letter-word/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>April 16 Crime Bus Tour: Nightmares of Bunker Hill</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/#respond</comments>
+		<link>https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/</link>
+					<comments>https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 11 Mar 2006 01:37:59 +0000</pubDate>
@@ -380,26 +380,26 @@
 		<category><![CDATA[downtown los angeles]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oh, you delightful sickniks! After tabulating the votes for the next Crime Bus date, I saw that the majority of respondents asked for the tour to roll on Easter Sunday, 4/16. And so it did, to the queasy glee of all. Stay tuned for photos from the tour. Want to hear what some of the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">Continue reading <span class="screen-reader-text">April 16 Crime Bus Tour: Nightmares of Bunker Hill</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oh, you delightful sickniks! After tabulating the votes for the next Crime Bus date, I saw that the majority of respondents asked for the tour to roll on Easter Sunday, 4/16. And so it did, to the queasy glee of all. Stay tuned for photos from the tour. Want to hear what some of the&#8230; <a class="more-link" href="https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">Continue reading <span class="screen-reader-text">April 16 Crime Bus Tour: Nightmares of Bunker Hill</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Oh, you delightful sickniks! After tabulating the votes for the next Crime Bus date, I saw that the majority of respondents asked for the tour to roll on Easter Sunday, 4/16.</p>
 <p>And so it did, to the queasy glee of all. Stay tuned for photos from the tour. </p>
-<p>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
+<p>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="http://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
 <p>The next scheduled Nightmares of Bunker Hill tour is Saturday June 10. Please <a href="mailto:amscray@gmail.com">email</a> if you are interested in an alternate date.</p>
 <p>best regards,<br />
 Kim<br />
 1947project
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="http://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 	</channel>

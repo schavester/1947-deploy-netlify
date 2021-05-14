@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>lawyers &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/justice/lawyers-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/justice/lawyers-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:51:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>lawyers &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Insert Lawyer Joke Here</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/19/insert-lawyer-joke-here/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/19/insert-lawyer-joke-here/#respond</comments>
+		<link>https://1947project.com/2007/05/19/insert-lawyer-joke-here/</link>
+					<comments>https://1947project.com/2007/05/19/insert-lawyer-joke-here/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 19 May 2007 03:51:12 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[car crash]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 19, 1927Santa Ana W. F. Linder is an unfortunate man.&#160; To begin with, he crashed his car.&#160; Into another car.&#160; Driven by a lawyer. &#160; That other-car-drivin&#8217; Los Angeles attorney, J. Irving McKenna, sued Linder for $12,000 ($142,542USD 2007) in damages.&#160; That was Wednesday.&#160; Today, two more damage suits were brought&#8212;seems passenger Mrs. Catherine&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/19/insert-lawyer-joke-here/">Continue reading <span class="screen-reader-text">Insert Lawyer Joke Here</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 19, 1927Santa Ana W. F. Linder is an unfortunate man.&#160; To begin with, he crashed his car.&#160; Into another car.&#160; Driven by a lawyer. &#160; That other-car-drivin&#8217; Los Angeles attorney, J. Irving McKenna, sued Linder for $12,000 ($142,542USD 2007) in damages.&#160; That was Wednesday.&#160; Today, two more damage suits were brought&#8212;seems passenger Mrs. Catherine&#8230; <a class="more-link" href="https://1947project.com/2007/05/19/insert-lawyer-joke-here/">Continue reading <span class="screen-reader-text">Insert Lawyer Joke Here</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><img loading="lazy" width="245" height="107" border="0" align="right" title="lawsuits" alt="lawsuits" src="//farm1.static.flickr.com/206/504001698_3de757f842_o.gif" />May 19, 1927<br />Santa Ana</p>
@@ -56,18 +56,18 @@
 <p>Drive carefully, folks. &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/19/insert-lawyer-joke-here/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/19/insert-lawyer-joke-here/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Knocking at the Bar</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/#comments</comments>
+		<link>https://1947project.com/2006/12/25/knocking-at-the-bar/</link>
+					<comments>https://1947project.com/2006/12/25/knocking-at-the-bar/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 25 Dec 2006 16:54:46 +0000</pubDate>
@@ -77,29 +77,29 @@
 		<category><![CDATA[African Americans]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Dec. 25, 1907 Los Angeles There are precisely two African American attorneys in Los Angeles and their appearance against one another in court provides a bit of amusement for The Times. We can dispense with the news article and its unfortunate use of dialect rather quickly: Paul M. Nash was suing G.T. Crawford, an African&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/">Continue reading <span class="screen-reader-text">Knocking at the Bar</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/">Knocking at the Bar</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Dec. 25, 1907 Los Angeles There are precisely two African American attorneys in Los Angeles and their appearance against one another in court provides a bit of amusement for The Times. We can dispense with the news article and its unfortunate use of dialect rather quickly: Paul M. Nash was suing G.T. Crawford, an African&#8230; <a class="more-link" href="https://1947project.com/2006/12/25/knocking-at-the-bar/">Continue reading <span class="screen-reader-text">Knocking at the Bar</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/25/knocking-at-the-bar/">Knocking at the Bar</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1225.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 301px; height: 92px;" src="//www.lmharnisch.com/images/1907_1225.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 25, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1225.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 301px; height: 92px;" src="//www.lmharnisch.com/images/1907_1225.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 25, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">There are precisely two African American attorneys in Los Angeles and their appearance against one another in court provides a bit of amusement for The Times. We can dispense with the news article and its unfortunate use of dialect rather quickly: Paul M. Nash was suing G.T. Crawford, an African American waiter, for attorneys fees after representing his wife in a divorce. Crawford was represented by Charles S. Darden.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Like most mainstream newspapers of the period, The Times rarely wrote about African Americans and stories always identified them as: </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/">Knocking at the Bar</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/25/knocking-at-the-bar/">Knocking at the Bar</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/25/knocking-at-the-bar/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/25/knocking-at-the-bar/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fatal Fury</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/#respond</comments>
+		<link>https://1947project.com/2006/11/16/fatal-fury/</link>
+					<comments>https://1947project.com/2006/11/16/fatal-fury/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2006 15:29:33 +0000</pubDate>
@@ -111,11 +111,11 @@
 		<category><![CDATA[streetcars]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 16, 1907 Los Angeles Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Continue reading <span class="screen-reader-text">Fatal Fury</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 16, 1907 Los Angeles Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook&#8230; <a class="more-link" href="https://1947project.com/2006/11/16/fatal-fury/">Continue reading <span class="screen-reader-text">Fatal Fury</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1116C.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 232px; height: 303px;" src="//www.lmharnisch.com/images/1907_1116C.jpg" alt="" border="0" /></a>Nov. 16, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1116C.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 232px; height: 303px;" src="//www.lmharnisch.com/images/1907_1116C.jpg" alt="" border="0" /></a>Nov. 16, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook at the Juvenile Detention Home. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -123,10 +123,10 @@ Los Angeles    </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">One day, after being threatened with divorce, Frederick appeared at the juvenile home and upon seeing his wife, said: </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/16/fatal-fury/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

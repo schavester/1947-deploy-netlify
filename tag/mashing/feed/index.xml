@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>mashing &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/mashing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/mashing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:38:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>mashing &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>More Mashers</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/18/more-mashers/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/18/more-mashers/#respond</comments>
+		<link>https://1947project.com/2006/11/18/more-mashers/</link>
+					<comments>https://1947project.com/2006/11/18/more-mashers/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 18 Nov 2006 06:27:37 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[mashing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 17, 1907Los Angeles &#160;Mashers are at work across Los Angeles, although those at Levy&#8217;s Caf&#233; certainly don&#8217;t have the cachet of a Caruso (or even of a Cazauran, I suspect) as reported on in Larry&#8217;s post below. This time it was the work of ruffians, an all-too infrequently used word, which we at 1947project&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/18/more-mashers/">Continue reading <span class="screen-reader-text">More Mashers</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 17, 1907Los Angeles &#160;Mashers are at work across Los Angeles, although those at Levy&#8217;s Caf&#233; certainly don&#8217;t have the cachet of a Caruso (or even of a Cazauran, I suspect) as reported on in Larry&#8217;s post below. This time it was the work of ruffians, an all-too infrequently used word, which we at 1947project&#8230; <a class="more-link" href="https://1947project.com/2006/11/18/more-mashers/">Continue reading <span class="screen-reader-text">More Mashers</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>&#8230;.could this be an Edwardian-era building, remuddled into unrecognizability?&nbsp; Well, it&rsquo;s late on a Friday night, or early on a Saturday morning, and I&rsquo;m not about to go out investigating.&nbsp; But if it is an old building, I can conjecture with certitude that its interior no longer looks like this. <img loading="lazy" width="555" height="353" border="0" align="right" src="//static.flickr.com/113/299858559_be7c0aff4a_o.jpg" alt="levysinterior" title="levysinterior" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/18/more-mashers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/18/more-mashers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

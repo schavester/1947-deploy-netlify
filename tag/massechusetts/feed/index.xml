@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>massechusetts &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/massechusetts/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/massechusetts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:42:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>massechusetts &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Did she or didn&#8217;t she?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/16/did-she-or-didnt-she/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/16/did-she-or-didnt-she/#respond</comments>
+		<link>https://1947project.com/2007/05/16/did-she-or-didnt-she/</link>
+					<comments>https://1947project.com/2007/05/16/did-she-or-didnt-she/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 May 2007 16:21:28 +0000</pubDate>
@@ -50,20 +50,20 @@
 		<category><![CDATA[step-matricide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>England has her Ripper, but in America, there is just one supreme Victorian true crime mystery: did Lizzie Borden really take an axe and apply numerous wacks to the persons of her father and stepmother&#8230; or was it the maid&#8230; a mysterious neighbor&#8230; or Bad Lizzie, who only came out when the lady was visited&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/16/did-she-or-didnt-she/">Continue reading <span class="screen-reader-text">Did she or didn&#8217;t she?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/16/did-she-or-didnt-she/">Did she or didn&#8217;t she?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>England has her Ripper, but in America, there is just one supreme Victorian true crime mystery: did Lizzie Borden really take an axe and apply numerous wacks to the persons of her father and stepmother&#8230; or was it the maid&#8230; a mysterious neighbor&#8230; or Bad Lizzie, who only came out when the lady was visited&#8230; <a class="more-link" href="https://1947project.com/2007/05/16/did-she-or-didnt-she/">Continue reading <span class="screen-reader-text">Did she or didn&#8217;t she?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/16/did-she-or-didnt-she/">Did she or didn&#8217;t she?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>England has her Ripper, but in America, there is just one supreme Victorian true crime mystery: did Lizzie Borden really take an axe and apply numerous wacks to the persons of her father and stepmother&#8230; or was it the maid&#8230; a mysterious neighbor&#8230; or Bad Lizzie, who only came out when the lady was visited by Aunt Flo?</p>
 <p>Should you find yourself in Fall River, MA next August, you can explore these and other theories with fellow Borden-ologists at The Lizzie Borden Conference 2008. </p>
-<p>There&#8217;s even a call for papers, so if you have a theory of your own you&#8217;ve been polishing (much like one might sharpen a favorite axe), now&#8217;s the time to share. For more info, click <a href="https://www.lizziebordenconference2008.com/" target="_blank">here</a>.</p>
+<p>There&#8217;s even a call for papers, so if you have a theory of your own you&#8217;ve been polishing (much like one might sharpen a favorite axe), now&#8217;s the time to share. For more info, click <a href="http://www.lizziebordenconference2008.com/" target="_blank">here</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/16/did-she-or-didnt-she/">Did she or didn&#8217;t she?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/16/did-she-or-didnt-she/">Did she or didn&#8217;t she?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/16/did-she-or-didnt-she/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/16/did-she-or-didnt-she/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

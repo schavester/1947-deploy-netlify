@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>delinquency &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/moral-turpitude/delinquency-5/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/moral-turpitude/delinquency-5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 20:04:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>delinquency &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/#respond</comments>
+		<link>https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/</link>
+					<comments>https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Wed, 12 Mar 2008 00:57:56 +0000</pubDate>
@@ -47,11 +47,11 @@
 		<category><![CDATA[phallic laws]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 11, 1927 Los Angeles Fifteen-year-old Lloyd Alley, arrested today in Los Angeles, is said to have made statements &#8220;tantamount to a confession&#8221; of his involvement with the &#8220;Sacred School of the Great White Brotherhood,&#8221; an Oakland-based &#8220;love cult&#8221; with branches in San Francisco, San Jose, Portland, Chicago, and Texas. At the same time the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">Continue reading <span class="screen-reader-text">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 11, 1927 Los Angeles Fifteen-year-old Lloyd Alley, arrested today in Los Angeles, is said to have made statements &#8220;tantamount to a confession&#8221; of his involvement with the &#8220;Sacred School of the Great White Brotherhood,&#8221; an Oakland-based &#8220;love cult&#8221; with branches in San Francisco, San Jose, Portland, Chicago, and Texas. At the same time the&#8230; <a class="more-link" href="https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">Continue reading <span class="screen-reader-text">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2327840550/" title="Love Cultists by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2138/2327840550_7c9cd736e8_o.jpg" width="253" height="474" alt="Love Cultists" align="left"/></a>March 11, 1927<br />
+<div><a href="http://www.flickr.com/photos/lperil/2327840550/" title="Love Cultists by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2138/2327840550_7c9cd736e8_o.jpg" width="253" height="474" alt="Love Cultists" align="left"/></a>March 11, 1927<br />
 Los Angeles</p>
 <p>Fifteen-year-old Lloyd Alley, arrested today in Los Angeles, is said to have made statements &#8220;tantamount to a confession&#8221; of his involvement with the &#8220;Sacred School of the Great White Brotherhood,&#8221; an Oakland-based &#8220;love cult&#8221; with branches in San Francisco, San Jose, Portland, Chicago, and Texas. At the same time the teenager was spilling the beans in L.A., San Francisco police raided the cult&#8217;s Bay Area headquarters, where they found an &#8220;effigy of a woman with a sword piercing her heart, incoherent messages, cards bearing linked names of males and females and other equally weird evidence.&#8221; Cultists are said to have &#8220;encouraged free love in its most exotic forms&#8221; in its attempts to breed a &#8220;superman&#8221; and &#8220;superwoman.&#8221; &#8220;Mystical marriages&#8221; were arranged and &#8220;the sacred phallic laws&#8221; studied. Also in custody in Los Angeles is Russell Alley (Lloyd&#8217;s father, cult name &#8220;Omar&#8221;). Cult founder and high priestess, Mrs. Gertrude Wright (&#8220;Zareda&#8221; to her followers), is being held in Oakland, along with her disciple, Irma Gibbs (&#8220;Ermengarde,&#8221; a domestic in the Wright home). All were charged with contributing to the delinquency of minors:  Lloyd Alley, plus two young women, Thelma Reid, 17, and Caroline Merwin, 18. </p>
 <p>Lloyd Alley and Irma Gibbs both made confessions said to &#8220;be reeking with unprintable details,&#8221; though the paper managed to squeeze in a mention of two &#8220;new Messiah&#8221; ceremonials Lloyd performed with Caroline Merwin. Caroline (whose stepmother&#8217;s complaint set the raid in motion) was quite the little minx:  when she appeared in juvenile court later in the week she relished telling the judge that she wore only &#8220;filmy underthings&#8221; during her initiation ceremony, and that her &#8220;vibration robes&#8221; were scanty as well. When she &#8220;admitted intimacies with Lloyd Alley,&#8221; the two of them laughed until the judge admonished them to be quiet. </p>
@@ -63,18 +63,18 @@ Los Angeles</p>
 <p>Caroline Merwin was eventually released into her stepmother&#8217;s custody. Lloyd Alley was remanded into the custody of the Juvenile Detention Home and was later made a ward of the court. In May 1927, a jury deliberated for ten minutes before it found Russell Alley guilty of contributing to the delinquency of minors. Gertrude Wright and Irma Gibbs flew the coop before they could be tried; they remain at large.
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/">A Most &#8220;Pernicious, Revolting, Nefarious and Immoral&#8221; Love Cult</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/12/a-most-pernicious-revolting-nefarious-and-immoral-love-cult/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pass the Bromo, Please</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/#respond</comments>
+		<link>https://1947project.com/2008/01/01/pass-the-bromo-please/</link>
+					<comments>https://1947project.com/2008/01/01/pass-the-bromo-please/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 01 Jan 2008 21:30:18 +0000</pubDate>
@@ -87,31 +87,31 @@ Los Angeles</p>
 		<category><![CDATA[New Year's Eve]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 1, 1928Los Angeles A year ago prohibition agents observed that &#34;last-minute calls for holiday cheer&#34; skyrocketed on New Year&#8217;s Eve, so this year detective chief George Contreras and his men staked out area roadhouses. When &#34;suspicious-looking characters&#34; drove up, they were searched. Five flivvers were confiscated and thirty bootleggers arrested&#8212;and yet heads are splitting&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/">Continue reading <span class="screen-reader-text">Pass the Bromo, Please</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 1, 1928Los Angeles A year ago prohibition agents observed that &#34;last-minute calls for holiday cheer&#34; skyrocketed on New Year&#8217;s Eve, so this year detective chief George Contreras and his men staked out area roadhouses. When &#34;suspicious-looking characters&#34; drove up, they were searched. Five flivvers were confiscated and thirty bootleggers arrested&#8212;and yet heads are splitting&#8230; <a class="more-link" href="https://1947project.com/2008/01/01/pass-the-bromo-please/">Continue reading <span class="screen-reader-text">Pass the Bromo, Please</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2155203301/" title="Untitled by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2375/2155203301_ec56aff615_m.jpg" width="240" height="228" alt="" align="left" /></a></p>
+<div><a href="http://www.flickr.com/photos/lperil/2155203301/" title="Untitled by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2375/2155203301_ec56aff615_m.jpg" width="240" height="228" alt="" align="left" /></a></p>
 <p>January 1, 1928<br />Los Angeles  </p>
 <p>A year ago prohibition agents observed that &quot;last-minute calls for holiday cheer&quot; skyrocketed on New Year&#8217;s Eve, so this year detective chief George Contreras and his men staked out area roadhouses. When &quot;suspicious-looking characters&quot; drove up, they were searched. Five flivvers were confiscated and thirty bootleggers arrested&mdash;and yet heads are splitting all over Los Angeles this morning for, despite the last minute roundup, the hooch flowed freely last night.  </p>
 <p>Indeed, by 7 o&#8217;clock this morning, the Coroner&#8217;s Office and Receiving Hospital listed two dead, eight critically&mdash;perhaps fatally&mdash;injured, and another seventy people slightly hurt in booze-fueled traffic accidents, including a pedestrian who was &quot;partially scalped&quot; in a hit-and-run at 39th and Vermont.   </p>
-<p>Over at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1827+W.+78th+Place,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=60.811,96.855469&#038;ie=UTF8&#038;ll=33.96931,-118.3096&#038;spn=0.007901,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Gunn home">1827 W. 78th Place</a>, Justus Gunn woke up after the party he and his wife hosted for their friends and discovered that his wife was missing. Gunn told police he &quot;retired [<i>or passed out?</i>] as the guests were leaving&quot; and didn&#8217;t notice the little woman was gone until this morning. Friends didn&#8217;t know where she was, and Gunn declared there had been &quot;no quarrels or disagreements which might explain her sudden departure.&quot; There was no further mention of Mrs. Gunn in the pages of the <em>Times</em>, so whatever the cause of her disappearance, it probably wasn&#8217;t criminal.   </p>
-<p>More ominously, 14-year-old Florence Ellison left her father&#8217;s house (723 Bonnie Beach Place) yesterday afternoon to visit her mother (522 Clifton Street). Around 7:30 last night, Florence rang the doorbell at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=620+South+Wilton+Place,+los+angeles,+ca&#038;sll=34.05092,-118.20069&#038;sspn=0.063149,0.094585&#038;ie=UTF8&#038;ll=34.063735,-118.314042&#038;spn=0.007892,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Morrison house">620 South Wilton Place</a> and told C.R. Morrison she was <a href="https://maps.google.com/maps?saddr=723+S+Bonnie+Beach+Pl,+Los+Angeles,+CA+90023&#038;geocode=&#038;dirflg=&#038;daddr=522+Clifton+St,+Los+Angeles,+Los+Angeles,+California+90031,+United+States&#038;f=d&#038;hl=en&#038;sll=34.027464,-118.181326&#038;sspn=0.007896,0.011823&#038;ie=UTF8&#038;cd=1&#038;z=13&#038;om=1" target="_blank" title="From Florence's father's house to her mother's">lost</a>. Morrison drove Florence to the streetcar, gave her directions, then returned home and called Florence&#8217;s mother. But Florence never arrived.   </p>
+<p>Over at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1827+W.+78th+Place,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=60.811,96.855469&#038;ie=UTF8&#038;ll=33.96931,-118.3096&#038;spn=0.007901,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Gunn home">1827 W. 78th Place</a>, Justus Gunn woke up after the party he and his wife hosted for their friends and discovered that his wife was missing. Gunn told police he &quot;retired [<i>or passed out?</i>] as the guests were leaving&quot; and didn&#8217;t notice the little woman was gone until this morning. Friends didn&#8217;t know where she was, and Gunn declared there had been &quot;no quarrels or disagreements which might explain her sudden departure.&quot; There was no further mention of Mrs. Gunn in the pages of the <em>Times</em>, so whatever the cause of her disappearance, it probably wasn&#8217;t criminal.   </p>
+<p>More ominously, 14-year-old Florence Ellison left her father&#8217;s house (723 Bonnie Beach Place) yesterday afternoon to visit her mother (522 Clifton Street). Around 7:30 last night, Florence rang the doorbell at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=620+South+Wilton+Place,+los+angeles,+ca&#038;sll=34.05092,-118.20069&#038;sspn=0.063149,0.094585&#038;ie=UTF8&#038;ll=34.063735,-118.314042&#038;spn=0.007892,0.011823&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="The Morrison house">620 South Wilton Place</a> and told C.R. Morrison she was <a href="http://maps.google.com/maps?saddr=723+S+Bonnie+Beach+Pl,+Los+Angeles,+CA+90023&#038;geocode=&#038;dirflg=&#038;daddr=522+Clifton+St,+Los+Angeles,+Los+Angeles,+California+90031,+United+States&#038;f=d&#038;hl=en&#038;sll=34.027464,-118.181326&#038;sspn=0.007896,0.011823&#038;ie=UTF8&#038;cd=1&#038;z=13&#038;om=1" target="_blank" title="From Florence's father's house to her mother's">lost</a>. Morrison drove Florence to the streetcar, gave her directions, then returned home and called Florence&#8217;s mother. But Florence never arrived.   </p>
 <p><em>Epilogue</em>:  Florence Ellison was found, fatigued and possibly drugged, on January 2. She told police that after becoming lost, she joined the New Year&#8217;s celebrations downtown where she met cabdriver Edmund D. Kearney at about midnight. They had drinks, and after a drive through Chinatown, Florence spent the night at his apartment. Kearney was held on suspicion of contributing to the delinquency of a minor. No information was given as to just how Florence spent New Year&#8217;s Day. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/pass-the-bromo-please/">Pass the Bromo, Please</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/01/pass-the-bromo-please/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/01/pass-the-bromo-please/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Good Help Is Hard To Find</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/11/good-help-is-hard-to-find/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/11/good-help-is-hard-to-find/#respond</comments>
+		<link>https://1947project.com/2007/05/11/good-help-is-hard-to-find/</link>
+					<comments>https://1947project.com/2007/05/11/good-help-is-hard-to-find/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 May 2007 17:22:59 +0000</pubDate>
@@ -124,30 +124,30 @@ Los Angeles</p>
 		<category><![CDATA[South Central]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 11, 1927Los Angeles Most liquor raids are tedious affairs, a pack of lit-up salesmen here, a couple sobbing college boys there. But once in a while, officers make a raid that&#8217;s just kind of special. One such operation was on a blind pig at 3120 South Main Street, allegedly run by Mrs. Ocio Walsh.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/11/good-help-is-hard-to-find/">Continue reading <span class="screen-reader-text">Good Help Is Hard To Find</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/11/good-help-is-hard-to-find/">Good Help Is Hard To Find</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 11, 1927Los Angeles Most liquor raids are tedious affairs, a pack of lit-up salesmen here, a couple sobbing college boys there. But once in a while, officers make a raid that&#8217;s just kind of special. One such operation was on a blind pig at 3120 South Main Street, allegedly run by Mrs. Ocio Walsh.&#8230; <a class="more-link" href="https://1947project.com/2007/05/11/good-help-is-hard-to-find/">Continue reading <span class="screen-reader-text">Good Help Is Hard To Find</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/11/good-help-is-hard-to-find/">Good Help Is Hard To Find</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>May 11, 1927<br />Los Angeles </p>
 <p>Most liquor raids are tedious affairs, a pack of lit-up salesmen here, a couple sobbing college boys there. But once in a while, officers make a raid that&#8217;s just kind of special. </p>
-<p>One such operation was on a blind pig at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=3120+South+Main+Street,+la,+ca&#038;sll=37.0625,-95.677068&#038;sspn=58.99189,105.644531&#038;ie=UTF8&#038;ll=34.022147,-118.271255&#038;spn=0.007647,0.012896&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">3120 South Main Street</a>, allegedly run by Mrs. Ocio Walsh. Mrs. Walsh was taken into custody on charges of possession of liquor and contributing to the delinquency of a minor, while 38-year-old Frank Jones was charged with drunkenness and Robert Maschold, 37, with vagrancy.</p>
+<p>One such operation was on a blind pig at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=3120+South+Main+Street,+la,+ca&#038;sll=37.0625,-95.677068&#038;sspn=58.99189,105.644531&#038;ie=UTF8&#038;ll=34.022147,-118.271255&#038;spn=0.007647,0.012896&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">3120 South Main Street</a>, allegedly run by Mrs. Ocio Walsh. Mrs. Walsh was taken into custody on charges of possession of liquor and contributing to the delinquency of a minor, while 38-year-old Frank Jones was charged with drunkenness and Robert Maschold, 37, with vagrancy.</p>
 <p>That delinquency charge? See, Mrs. Walsh has a 14-year-old daughter, Mary Zella. Great kid, really <em>responsible</em>. When Sgt. Kynetto and Officers Wolf and Pound busted in they found a scantily-clad Mary Zella pouring a bottle of hooch down the sink. Mama sent her up to dress, the the clever minx hopped out a second story window and skedaddled. </p>
 <p>Where&#8217;s she gone? Maybe back to the convent, from which Mama recently removed her to help out with the family business. Like I said, great kid.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/11/good-help-is-hard-to-find/">Good Help Is Hard To Find</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/11/good-help-is-hard-to-find/">Good Help Is Hard To Find</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/11/good-help-is-hard-to-find/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/11/good-help-is-hard-to-find/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Daddy Dearest</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/08/daddy-dearest/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/08/daddy-dearest/#respond</comments>
+		<link>https://1947project.com/2007/05/08/daddy-dearest/</link>
+					<comments>https://1947project.com/2007/05/08/daddy-dearest/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 08 May 2007 00:53:40 +0000</pubDate>
@@ -161,29 +161,29 @@ Los Angeles</p>
 		<category><![CDATA[Teenagers]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 8, 1927 Hollywood &#8220;What&#8217;s a father to do?&#8221; lamented Dr. Eric R. Wilson today, after his 17-year-old daughter, Dorothy, accused him of beating her and taking her money before throwing her out of the house. Police officers escorted the girl to Juvenile Hall after they discovered her, hysterical, outside the family home at 176&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/08/daddy-dearest/">Continue reading <span class="screen-reader-text">Daddy Dearest</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/08/daddy-dearest/">Daddy Dearest</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 8, 1927 Hollywood &#8220;What&#8217;s a father to do?&#8221; lamented Dr. Eric R. Wilson today, after his 17-year-old daughter, Dorothy, accused him of beating her and taking her money before throwing her out of the house. Police officers escorted the girl to Juvenile Hall after they discovered her, hysterical, outside the family home at 176&#8230; <a class="more-link" href="https://1947project.com/2007/05/08/daddy-dearest/">Continue reading <span class="screen-reader-text">Daddy Dearest</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/08/daddy-dearest/">Daddy Dearest</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>May 8, 1927<br />
 Hollywood</p>
-<p>&ldquo;What&rsquo;s a father to do?&rdquo; lamented Dr. Eric R. Wilson today, after his 17-year-old daughter, Dorothy, accused him of beating her and taking her money before throwing her out of the house. Police officers escorted the girl to Juvenile Hall after they discovered her, hysterical, outside the family home at <a href="https://maps.google.com/maps?q=N+Mansfield+Ave,+Los+Angeles,+California&#038;sll=37.0625,-95.677068&#038;sspn=29.634084,57.832031&#038;hl=en&#038;ie=UTF8&#038;ll=34.090767,-118.340607&#038;spn=0.030209,0.056477&#038;z=14&#038;om=1" target="_blank" title="Location of the Wilson home.">176 North Mansfield Avenue</a>, Hollywood. Their first stop, however, was at Receiving Hospital, where Dorothy was treated for a broken nose, injuries to her eyes, and bruises to her lips and body.   </p>
+<p>&ldquo;What&rsquo;s a father to do?&rdquo; lamented Dr. Eric R. Wilson today, after his 17-year-old daughter, Dorothy, accused him of beating her and taking her money before throwing her out of the house. Police officers escorted the girl to Juvenile Hall after they discovered her, hysterical, outside the family home at <a href="http://maps.google.com/maps?q=N+Mansfield+Ave,+Los+Angeles,+California&#038;sll=37.0625,-95.677068&#038;sspn=29.634084,57.832031&#038;hl=en&#038;ie=UTF8&#038;ll=34.090767,-118.340607&#038;spn=0.030209,0.056477&#038;z=14&#038;om=1" target="_blank" title="Location of the Wilson home.">176 North Mansfield Avenue</a>, Hollywood. Their first stop, however, was at Receiving Hospital, where Dorothy was treated for a broken nose, injuries to her eyes, and bruises to her lips and body.   </p>
 <p>Wilson admitted he &ldquo;slapped&rdquo; Dorothy after he and his wife returned from the theater last night and observed shadowy figures slipping out the side entrance as they entered the front door. Dorothy denied she had gentlemen callers while her parents were out. &ldquo;She lied to me, and I make no apology for it,&rdquo; said Wilson. &ldquo;I slapped her down. She hit the side of the davenport and rolled on the floor, and then she pulled the hysterical stuff.&rdquo; He denied taking Dorothy&rsquo;s money or ordering her to leave home. </p>
 <p>According to her father, among other wild pranks, Dorothy broke into garages and took cars without their owners&rsquo; permission (some might call this grand theft auto, but not Dr. Wilson). &ldquo;I tried everything to make her happy,&rdquo; the put-upon father continued, &ldquo;I gave her an allowance of $50 a month and promised her a roadster if she would pass in her studies, but it did no good. She is incorrigible; she was put out of Hollywood High School; I tried to place her in the Ramona convent and they wouldn&rsquo;t take her.&rdquo;   </p>
 <p>Officials at Juvenile Hall confirmed that Dorothy Wilson was incommunicado pending an interview with a policewoman.   </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/08/daddy-dearest/">Daddy Dearest</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/08/daddy-dearest/">Daddy Dearest</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/08/daddy-dearest/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/08/daddy-dearest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wayward Youths</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/26/wayward-youths/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/26/wayward-youths/#respond</comments>
+		<link>https://1947project.com/2006/03/26/wayward-youths/</link>
+					<comments>https://1947project.com/2006/03/26/wayward-youths/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 26 Mar 2006 16:21:07 +0000</pubDate>
@@ -196,15 +196,15 @@ Hollywood</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Technology has changed, but people have not. Simply because they lived nearly a century ago doesn</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/26/wayward-youths/">Wayward Youths</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/26/wayward-youths/">Wayward Youths</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0326_messengers.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 253px; height: 317px;" src="//lmharnisch.com/images/1907_0326_messengers.jpg" alt="" border="0" /></a><span style="font-size:100%;">Technology has changed, but people have not. Simply because they lived nearly a century ago doesn</div>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0326_messengers.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 253px; height: 317px;" src="//lmharnisch.com/images/1907_0326_messengers.jpg" alt="" border="0" /></a><span style="font-size:100%;">Technology has changed, but people have not. Simply because they lived nearly a century ago doesn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/26/wayward-youths/">Wayward Youths</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/26/wayward-youths/">Wayward Youths</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/26/wayward-youths/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/26/wayward-youths/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

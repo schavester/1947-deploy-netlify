@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Church of the Blessed Sacrament &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/church-of-the-blessed-sacrament/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/church-of-the-blessed-sacrament/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:34:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Church of the Blessed Sacrament &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Their Mothers Must Be Proud</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/18/their-mothers-must-be-proud/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/18/their-mothers-must-be-proud/#respond</comments>
+		<link>https://1947project.com/2007/07/18/their-mothers-must-be-proud/</link>
+					<comments>https://1947project.com/2007/07/18/their-mothers-must-be-proud/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 18 Jul 2007 17:52:57 +0000</pubDate>
@@ -42,8 +42,8 @@
 		<category><![CDATA[Church of the Blessed Sacrament]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; Thomas Costello, 27, and Valentine Mezzeta, 32, came before a judge today on robbery charges.&#160; Their preferred targets?&#160; Church poor boxes.&#160; But before you start thinking Thomas and Valentine are soulless, diabolical fiends, stealing food from the mouths of widows and orphans, read a little further. &#160; It turns out that the pair used&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/18/their-mothers-must-be-proud/">Continue reading <span class="screen-reader-text">Their Mothers Must Be Proud</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/18/their-mothers-must-be-proud/">Their Mothers Must Be Proud</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; Thomas Costello, 27, and Valentine Mezzeta, 32, came before a judge today on robbery charges.&#160; Their preferred targets?&#160; Church poor boxes.&#160; But before you start thinking Thomas and Valentine are soulless, diabolical fiends, stealing food from the mouths of widows and orphans, read a little further. &#160; It turns out that the pair used&#8230; <a class="more-link" href="https://1947project.com/2007/07/18/their-mothers-must-be-proud/">Continue reading <span class="screen-reader-text">Their Mothers Must Be Proud</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/18/their-mothers-must-be-proud/">Their Mothers Must Be Proud</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -53,15 +53,15 @@
 <div align="left">&nbsp;</div>
 <div align="left">It turns out that the pair used wires covered with adhesive gum to fish coins out of the boxes of local churches, leaving the boxes themselves undamaged so they could return for another swipe without arousing suspicion.&nbsp; This sneaky, though inefficient method of theft never yielded more than a few dollars from any one box, mostly in loose change.</div>
 <div align="left">&nbsp;</div>
-<div align="left">Officer Prayter caught the men red-handed at the Church of the Blessed Sacrament, <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=6657+Sunset+Blvd.,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=31.23349,59.765625&#038;ie=UTF8&#038;ll=34.098906,-118.335414&#038;spn=0.00796,0.014591&#038;z=16&#038;om=1" target="_blank" title="blessedsacrament">6657 Sunset Blvd.</a>, and discovered that their church-robbing was more than a casual pasttime.&nbsp; After all, one has to pinch a lot of pennies to pay the rent.</div>
+<div align="left">Officer Prayter caught the men red-handed at the Church of the Blessed Sacrament, <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=6657+Sunset+Blvd.,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=31.23349,59.765625&#038;ie=UTF8&#038;ll=34.098906,-118.335414&#038;spn=0.00796,0.014591&#038;z=16&#038;om=1" target="_blank" title="blessedsacrament">6657 Sunset Blvd.</a>, and discovered that their church-robbing was more than a casual pasttime.&nbsp; After all, one has to pinch a lot of pennies to pay the rent.</div>
 <div align="left">&nbsp;</div>
 <div align="left">Bail was fixed at $3000 for each man.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/18/their-mothers-must-be-proud/">Their Mothers Must Be Proud</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/18/their-mothers-must-be-proud/">Their Mothers Must Be Proud</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/18/their-mothers-must-be-proud/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/18/their-mothers-must-be-proud/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

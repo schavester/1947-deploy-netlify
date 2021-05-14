@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>bus &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/bus/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/bus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:14:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>bus &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2006 16:00:04 +0000</pubDate>
@@ -49,28 +49,28 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[bus]]></category>
 		<category><![CDATA[horror]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
+<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
 <p><em><strong>Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. </strong></em></p>
-<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="https://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
+<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="http://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
 <p><em><strong /></em></p>
 <p>About the tour: By popular demand, and following many nights terrifying ourselves reading grisly old news reports until falling into fitfull sleep, our <strong>Pasadena Confidential </strong>crime bus tour rolls on Sunday, August 6, from 10am-3pm. This five-hour luxury coach tour offers surprising insights into the often weird and horrible history of the Crown City, from the infamous to the forgotten. Tickets are $47 per person, and include cookies and home-made lemonade. </p>
 <p>From celebrated cases like the RFK assassination (with a visit to Sirhan Sirhan&#8217;s folks&#8217; house), &quot;Eraserhead&quot; star Jack Nance&#8217;s strange end, black magician/rocket scientist Jack Parsons&#8217; death-by-misadventure and the 1926 Rose Parade grand stand collapse, to fascinating obscurities, the tour&#8217;s dozens of murders, arsons, kidnappings, robberies, suicides, auto wrecks and oddball happening sites provide a alternate history of Pasadena that&#8217;s as fascinating as it is creepy.</p>
 <p> Crime Bus passengers will tour the old Millionaire&#8217;s Row on Orange Grove, thrill to the shocking Sphinx Murder on the steps of the downtown Masonic Hall, wonder about the unknown fiend who sneaked past a little girl to poison her father&#8217;s beer, discover why people named Judd should think twice before moving to Pasadena, and explore the racist spirit of the early 20th century through two forgotten stories: that of a Chinaman with leprosy whose suicide by hanging was treated as a novel entertainment by hundreds of citizens, and the case of wealthy mulatto Archie Hill, who shot a white trolley ticket-taker dead for shortchanging him.  </p>
-<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="https://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
+<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="http://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
 <p><strong><em><strong><strong>Disclaimer</strong>: Although it is extremely unlikely, the organizers reserve the right to postpone the tour in the event of extreme weather, riot, act of war or plague. Refunds may be available no more than 72 hours before the tour departs, and at the discretion of the organizers. You may substitute an alternate passenger&#8217;s name if you are unable to attend. We regret that there are no refunds for people who miss the bus. Potential passengers may call Kim at 323-223-2767 or email with any questions. </strong></em><strong><br /> </strong></strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

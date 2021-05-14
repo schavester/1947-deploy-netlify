@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>shoes &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/shoes/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/shoes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>shoes &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Shoes of the Times</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/19/shoes-of-the-times/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/19/shoes-of-the-times/#respond</comments>
+		<link>https://1947project.com/2007/08/19/shoes-of-the-times/</link>
+					<comments>https://1947project.com/2007/08/19/shoes-of-the-times/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 19 Aug 2007 23:31:43 +0000</pubDate>
@@ -44,20 +44,20 @@
 		<category><![CDATA[shoes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 19, 1927Hollywood You jazz-age dames sure make life tough for us workingmen!&#160; Oscar Smith, veteran bootblack at the Paramount Studio, has been compared by the Times to no less than a modern Rembrandt. &#160; In order to operate a modern shoeshine stand, you see, Oscar&#8217;s had to stock an uncountable number of brushes and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/19/shoes-of-the-times/">Continue reading <span class="screen-reader-text">Shoes of the Times</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/19/shoes-of-the-times/">Shoes of the Times</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 19, 1927Hollywood You jazz-age dames sure make life tough for us workingmen!&#160; Oscar Smith, veteran bootblack at the Paramount Studio, has been compared by the Times to no less than a modern Rembrandt. &#160; In order to operate a modern shoeshine stand, you see, Oscar&#8217;s had to stock an uncountable number of brushes and&#8230; <a class="more-link" href="https://1947project.com/2007/08/19/shoes-of-the-times/">Continue reading <span class="screen-reader-text">Shoes of the Times</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/19/shoes-of-the-times/">Shoes of the Times</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>August 19, 1927<br />Hollywood</p>
 <p><img loading="lazy" width="365" height="500" border="0" align="left" title="nancyoscar" alt="nancyoscar" src="//farm2.static.flickr.com/1122/1176119408_25001a93d2_o.gif" />You jazz-age dames sure make life tough for us workingmen!&nbsp; Oscar Smith, veteran bootblack at the Paramount Studio, has been compared by the Times to no less than a modern Rembrandt. &nbsp;</p>
 <p>In order to operate a modern shoeshine stand, you see, Oscar&rsquo;s had to stock an uncountable number of brushes and equally innumerable paints to match the dizzying spectrum of colors that&#8217;ve come across his stand of late.&nbsp; Heck, with the basket-weave sandals, multileathered and multicolored pumps, snake and lizard slippers flying past him all day long, he should be getting an Oscar&trade; of his own!</p>
-<p>Here, Nancy Phillips is offering up a pair of head-scratch-worthy three-toned suede and velvet slippers.&nbsp; Don&rsquo;t worry Oscar, Old Man <a href="https://jpg2.lapl.org/pics33/00051471.jpg" target="_blank" title="paramount1935">Depression</a> is on the way! </p>
+<p>Here, Nancy Phillips is offering up a pair of head-scratch-worthy three-toned suede and velvet slippers.&nbsp; Don&rsquo;t worry Oscar, Old Man <a href="http://jpg2.lapl.org/pics33/00051471.jpg" target="_blank" title="paramount1935">Depression</a> is on the way! </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/19/shoes-of-the-times/">Shoes of the Times</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/19/shoes-of-the-times/">Shoes of the Times</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/19/shoes-of-the-times/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/19/shoes-of-the-times/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

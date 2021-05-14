@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>martin albornoz &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/martin-albornoz/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/martin-albornoz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:47:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>martin albornoz &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>L.A. Alternative Publisher Martin Albornoz stiffs 1947project</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/#comments</comments>
+		<link>https://1947project.com/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/</link>
+					<comments>https://1947project.com/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 20 Dec 2006 19:22:12 +0000</pubDate>
@@ -44,15 +44,15 @@
 		<category><![CDATA[martin albornoz]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>(See update below)&#160; Gentle reader, How pleased I was, during Sunset Junction week in late August, when the L.A. Alternative published an issue of their free weekly featuring my three-page pull-out crime map detailing the historic oddities and horrors of the Sunset Junction neighborhood. I heard from folks who attended the street fair that it&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/">Continue reading <span class="screen-reader-text">L.A. Alternative Publisher Martin Albornoz stiffs 1947project</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/">L.A. Alternative Publisher Martin Albornoz stiffs 1947project</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>(See update below)&#160; Gentle reader, How pleased I was, during Sunset Junction week in late August, when the L.A. Alternative published an issue of their free weekly featuring my three-page pull-out crime map detailing the historic oddities and horrors of the Sunset Junction neighborhood. I heard from folks who attended the street fair that it&#8230; <a class="more-link" href="https://1947project.com/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/">Continue reading <span class="screen-reader-text">L.A. Alternative Publisher Martin Albornoz stiffs 1947project</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/">L.A. Alternative Publisher Martin Albornoz stiffs 1947project</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><strong>(See update below)</strong>&nbsp;</p>
 <p>Gentle reader,</p>
-<p>How pleased I was, during Sunset Junction week in late August, when the L.A. Alternative published an issue of their free weekly featuring my three-page pull-out crime map detailing the historic oddities and horrors of the Sunset Junction neighborhood. I heard from folks who attended the street fair that it was a big hit, with people walking around checking addresses and shuddering. (The Sunset Junction story can now only be seen <a href="https://pensive-torvalds-020d34.netlify.app/?p=1656" target="_self">right here</a> at 1947project.) </p>
-<p>A month after my story came out, publisher Martin Albornoz <a href="https://www.laobserved.com/archive/2006/09/la_alternative_rip_update.php" target="_blank">announced</a> the paper was folding, but that he hoped to continue publishing online. Although at this point I was wondering where my payment was, I still dashed off a friendly email telling Martin that my husband Richard and I would be happy to meet with him and give him some ideas about how to  pull this off, as we believed he and his writers had a lot to offer the community. He never replied.</p>
+<p>How pleased I was, during Sunset Junction week in late August, when the L.A. Alternative published an issue of their free weekly featuring my three-page pull-out crime map detailing the historic oddities and horrors of the Sunset Junction neighborhood. I heard from folks who attended the street fair that it was a big hit, with people walking around checking addresses and shuddering. (The Sunset Junction story can now only be seen <a href="https://1947project.com/?p=1656" target="_self">right here</a> at 1947project.) </p>
+<p>A month after my story came out, publisher Martin Albornoz <a href="http://www.laobserved.com/archive/2006/09/la_alternative_rip_update.php" target="_blank">announced</a> the paper was folding, but that he hoped to continue publishing online. Although at this point I was wondering where my payment was, I still dashed off a friendly email telling Martin that my husband Richard and I would be happy to meet with him and give him some ideas about how to  pull this off, as we believed he and his writers had a lot to offer the community. He never replied.</p>
 <p>Nor did Martin reply to my repeated emails, as the weeks ticked away with no sign of the $250 payment for the feature. I sent a certified letter demanding the money, which went uncollected. So I finally phoned and left a message, which resulted in the following email on November 27:</p>
 <div>
 <div><em>Hello Kim, </em></div>
@@ -121,10 +121,10 @@
 <p>  </span></div>
 <p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/">L.A. Alternative Publisher Martin Albornoz stiffs 1947project</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/">L.A. Alternative Publisher Martin Albornoz stiffs 1947project</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/20/l-a-alternative-publisher-martin-albornoz-stiffs-1947project/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

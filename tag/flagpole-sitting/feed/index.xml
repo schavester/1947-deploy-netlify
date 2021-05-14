@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>flagpole sitting &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/flagpole-sitting/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/flagpole-sitting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:40:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>flagpole sitting &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Height of Mystery</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/19/the-height-of-mystery/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/19/the-height-of-mystery/#respond</comments>
+		<link>https://1947project.com/2007/07/19/the-height-of-mystery/</link>
+					<comments>https://1947project.com/2007/07/19/the-height-of-mystery/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 19 Jul 2007 22:57:37 +0000</pubDate>
@@ -46,21 +46,21 @@
 		<category><![CDATA[rose room]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 19, 1927Los Angeles Who&#8217;s that bobbing in the wind high atop the Rose Room Ballroom at 8th and Spring? Why, it&#8217;s The Phantom of the Flagpole, a mask-wearing fella who swears he&#8217;ll break the flagpole sitting record of 17 days and 2 hours set by V.H. Crouch of New Bedford, MA. Just hours after&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/19/the-height-of-mystery/">Continue reading <span class="screen-reader-text">The Height of Mystery</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/19/the-height-of-mystery/">The Height of Mystery</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 19, 1927Los Angeles Who&#8217;s that bobbing in the wind high atop the Rose Room Ballroom at 8th and Spring? Why, it&#8217;s The Phantom of the Flagpole, a mask-wearing fella who swears he&#8217;ll break the flagpole sitting record of 17 days and 2 hours set by V.H. Crouch of New Bedford, MA. Just hours after&#8230; <a class="more-link" href="https://1947project.com/2007/07/19/the-height-of-mystery/">Continue reading <span class="screen-reader-text">The Height of Mystery</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/19/the-height-of-mystery/">The Height of Mystery</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>July 19, 1927<br />Los Angeles</p>
-<p>Who&#8217;s that bobbing in the wind high atop the <a href="https://catalog1.lapl.org/cgi-bin/cw_cgi?fullRecord+6397+968+25710+7+0" target="_blank">Rose Room Ballroom</a> at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=8th+and+spring,+los+angeles,+ca&#038;sll=34.063096,-118.399808&#038;sspn=0.259956,0.449066&#038;ie=UTF8&#038;ll=34.04377,-118.253639&#038;spn=0.008125,0.014033&#038;z=16&#038;iwloc=addr&#038;om=1&#038;msa=0&#038;msid=101386585248378180364.00000113270d45b852ca2" target="_blank">8th and Spring</a>? Why, it&#8217;s The Phantom of the Flagpole, a mask-wearing fella who swears he&#8217;ll break the flagpole sitting record of 17 days and 2 hours set by V.H. Crouch of New Bedford, MA. Just hours after Crouch came down from his eastern pole, The Phantom climbed his. Oh, heavy hangs the crown of the nation&#8217;s greatest flagpole sitter.</p>
+<p>Who&#8217;s that bobbing in the wind high atop the <a href="http://catalog1.lapl.org/cgi-bin/cw_cgi?fullRecord+6397+968+25710+7+0" target="_blank">Rose Room Ballroom</a> at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=8th+and+spring,+los+angeles,+ca&#038;sll=34.063096,-118.399808&#038;sspn=0.259956,0.449066&#038;ie=UTF8&#038;ll=34.04377,-118.253639&#038;spn=0.008125,0.014033&#038;z=16&#038;iwloc=addr&#038;om=1&#038;msa=0&#038;msid=101386585248378180364.00000113270d45b852ca2" target="_blank">8th and Spring</a>? Why, it&#8217;s The Phantom of the Flagpole, a mask-wearing fella who swears he&#8217;ll break the flagpole sitting record of 17 days and 2 hours set by V.H. Crouch of New Bedford, MA. Just hours after Crouch came down from his eastern pole, The Phantom climbed his. Oh, heavy hangs the crown of the nation&#8217;s greatest flagpole sitter.</p>
 <p><em>The Times</em> reports that The Phantom is shaving and eating three meals a day (unsaid is what he does with these meals once he&#8217;s finished with them, if you catch our drift). He smokes 100 cigarettes a day and gulps black coffee most of the night, when he ties himself to the pole, just in case. He&#8217;s reading fiction magazines and would like an adventure novel sent up.</p>
 <p>On July 26, The Phantom will call for a cork helmet to avert the awful rays of the sun. When The Phantom of the Flagpole finally comes down to earth on August 5th, he is revealed as Captain Robert Hull, and happily takes possession of a $2500 prize from Rose Room manager Joseph Lederer.</p>
 <p>But while you cheer the achievement of our local pigeon, spare a kind thought for poor &quot;Hold Em Joe&quot; Powers, whose perch over the Morrison Hotel in Chicago ended at a disappointing 16 days and two hours on July 15, and unaccountably left him missing six teeth. (Scurvy? An excess of chattering? Only Joe knows, and he ain&#8217;t talking.) </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/19/the-height-of-mystery/">The Height of Mystery</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/19/the-height-of-mystery/">The Height of Mystery</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/19/the-height-of-mystery/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/19/the-height-of-mystery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

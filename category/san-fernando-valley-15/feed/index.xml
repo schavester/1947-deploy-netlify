@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>San Fernando Valley &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/san-fernando-valley-15/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/san-fernando-valley-15/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>San Fernando Valley &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Of Pachydermatae and Murder</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/#respond</comments>
+		<link>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/</link>
+					<comments>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 02 Mar 2008 22:15:29 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[elephants]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 2, 1927 Los Angeles The Wonderly shooting of Emerson over an elephant&#8217;s affection has been continued until March 15th. George Ã¢â‚¬Å“ScottyÃ¢â‚¬Â Wonderly is the keeper of the bloodhounds for the studios, George Emerson, trainer of the lions at Universal City. The story has a Old West theme to it to boot: on 15 February&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/">Continue reading <span class="screen-reader-text">Of Pachydermatae and Murder</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 2, 1927 Los Angeles The Wonderly shooting of Emerson over an elephant&#8217;s affection has been continued until March 15th. George Ã¢â‚¬Å“ScottyÃ¢â‚¬Â Wonderly is the keeper of the bloodhounds for the studios, George Emerson, trainer of the lions at Universal City. The story has a Old West theme to it to boot: on 15 February&#8230; <a class="more-link" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Continue reading <span class="screen-reader-text">Of Pachydermatae and Murder</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -66,18 +66,18 @@ Here, Wonderly shows how his beloved raised its trunk&#8230;and went on to maint
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Modes of Banditry, 1927</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/#respond</comments>
+		<link>https://1947project.com/2008/03/01/modes-of-banditry-1927/</link>
+					<comments>https://1947project.com/2008/03/01/modes-of-banditry-1927/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 01 Mar 2008 07:26:51 +0000</pubDate>
@@ -90,8 +90,8 @@ Here, Wonderly shows how his beloved raised its trunk&#8230;and went on to maint
 		<category><![CDATA[modus operandi]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 28, 1927 Los Angeles Drivers in lonely climes like Topanga Canyon have recently been distressed when stopping to check on a &#34;possum bandit&#34; found napping in the middle of the road. Of course when the do-gooder leans over the prone figure, he leaps up with a gun, steals their valuables, and races off much&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/">Continue reading <span class="screen-reader-text">Modes of Banditry, 1927</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 28, 1927 Los Angeles Drivers in lonely climes like Topanga Canyon have recently been distressed when stopping to check on a &#34;possum bandit&#34; found napping in the middle of the road. Of course when the do-gooder leans over the prone figure, he leaps up with a gun, steals their valuables, and races off much&#8230; <a class="more-link" href="https://1947project.com/2008/03/01/modes-of-banditry-1927/">Continue reading <span class="screen-reader-text">Modes of Banditry, 1927</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 28, 1927<br />
@@ -100,18 +100,18 @@ Los Angeles</p>
 <p>Meanwhile, at 317 1/2 South Berendo, two dandified thieves of an agonizing refinement relieved Albert Zigman of $125 cash and $700 in jewels in his own apartment. The victim described one man as having kept his hands in his pockets while gazing at a picture on the wall, as the other flicked cigarette ashes from his lazy perch on the davenport. Shortly afterwards, they relieved neighbor Michael Kreel of his extraneous possessions before slipping off into the night with a yawn and a whip of their cashmere scarves.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/01/modes-of-banditry-1927/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/#respond</comments>
+		<link>https://1947project.com/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/</link>
+					<comments>https://1947project.com/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2008 02:59:06 +0000</pubDate>
@@ -125,26 +125,26 @@ Los Angeles</p>
 		<category><![CDATA[nicknames]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 8, 1927Los Angeles The fourth in a series of bold daylight robberies of outlying classrooms has been reported at the Lillian School, near Holmes and Slauson Avenues. As a room full of terrorized seven-year-olds covered their ears and quaked, a tall, very slender negro relieved their teacher, Mrs. Ruth Hanna, of her handbag, which&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/">Continue reading <span class="screen-reader-text">The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/">The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 8, 1927Los Angeles The fourth in a series of bold daylight robberies of outlying classrooms has been reported at the Lillian School, near Holmes and Slauson Avenues. As a room full of terrorized seven-year-olds covered their ears and quaked, a tall, very slender negro relieved their teacher, Mrs. Ruth Hanna, of her handbag, which&#8230; <a class="more-link" href="https://1947project.com/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/">Continue reading <span class="screen-reader-text">The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/">The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 8, 1927<br />Los Angeles</p>
-<p>The fourth in a series of bold daylight robberies of outlying classrooms has been reported at the Lillian School, near <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Holmes+and+Slauson+Ave,+Los+Angeles,+CA,+USA&#038;sll=33.99511,-118.230314&#038;sspn=0.026187,0.054159&#038;ie=UTF8&#038;ll=33.990715,-118.241172&#038;spn=0.006547,0.01354&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank">Holmes and Slauson Avenues</a>. As a room full of terrorized seven-year-olds covered their ears and quaked, a tall, very slender negro relieved their teacher, Mrs. Ruth Hanna, of her handbag, which contained $20 cash. His weapon was neither gun nor knife, but his horrifying facility with curse words and threats. The criminal is suspected to be one William Tyler, known to police as &quot;Stealing 24&quot; and &quot;The Apple Box Kid.&quot;</p>
-<p>Meanwhile, in darkest <a href="https://en.wikipedia.org/wiki/North_Hollywood,_Los_Angeles,_California" target="_blank">Lankershim</a>, Isabel Suaze, 15, is in hiding after hearing her parents&#8217; plans for the family to return to their former home in Arizona. The girl is such a California booster, she&#8217;d rather become a street urchin than leave L.A. Here&#8217;s to a most discerning young lady!</div>
+<p>The fourth in a series of bold daylight robberies of outlying classrooms has been reported at the Lillian School, near <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Holmes+and+Slauson+Ave,+Los+Angeles,+CA,+USA&#038;sll=33.99511,-118.230314&#038;sspn=0.026187,0.054159&#038;ie=UTF8&#038;ll=33.990715,-118.241172&#038;spn=0.006547,0.01354&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank">Holmes and Slauson Avenues</a>. As a room full of terrorized seven-year-olds covered their ears and quaked, a tall, very slender negro relieved their teacher, Mrs. Ruth Hanna, of her handbag, which contained $20 cash. His weapon was neither gun nor knife, but his horrifying facility with curse words and threats. The criminal is suspected to be one William Tyler, known to police as &quot;Stealing 24&quot; and &quot;The Apple Box Kid.&quot;</p>
+<p>Meanwhile, in darkest <a href="http://en.wikipedia.org/wiki/North_Hollywood,_Los_Angeles,_California" target="_blank">Lankershim</a>, Isabel Suaze, 15, is in hiding after hearing her parents&#8217; plans for the family to return to their former home in Arizona. The girl is such a California booster, she&#8217;d rather become a street urchin than leave L.A. Here&#8217;s to a most discerning young lady!</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/">The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/">The Apple Box Kid and Miss &#8220;I Love L.A.&#8221; of 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/09/the-apple-box-kid-and-miss-i-love-l-a-of-1927/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The &#8220;Sack Murder&#8221; of San Fernando</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/27/the-sack-murder-of-san-fernando/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/27/the-sack-murder-of-san-fernando/#respond</comments>
+		<link>https://1947project.com/2007/12/27/the-sack-murder-of-san-fernando/</link>
+					<comments>https://1947project.com/2007/12/27/the-sack-murder-of-san-fernando/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Thu, 27 Dec 2007 04:58:03 +0000</pubDate>
@@ -154,32 +154,32 @@ Los Angeles</p>
 		<category><![CDATA[San Fernando Valley]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 26, 1927San Fernando, CA The body of an unidentified woman was discovered off of Mulholland St. (now called Foothill Blvd.) in San Fernando today. Her hands were bound across her chest with twine.&#160; Her knees were bent, and her feet tied to her back with a length of cord.&#160; Her body had been wrapped&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/27/the-sack-murder-of-san-fernando/">Continue reading <span class="screen-reader-text">The &#8220;Sack Murder&#8221; of San Fernando</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/27/the-sack-murder-of-san-fernando/">The &#8220;Sack Murder&#8221; of San Fernando</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 26, 1927San Fernando, CA The body of an unidentified woman was discovered off of Mulholland St. (now called Foothill Blvd.) in San Fernando today. Her hands were bound across her chest with twine.&#160; Her knees were bent, and her feet tied to her back with a length of cord.&#160; Her body had been wrapped&#8230; <a class="more-link" href="https://1947project.com/2007/12/27/the-sack-murder-of-san-fernando/">Continue reading <span class="screen-reader-text">The &#8220;Sack Murder&#8221; of San Fernando</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/27/the-sack-murder-of-san-fernando/">The &#8220;Sack Murder&#8221; of San Fernando</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <div align="left">  December 26, 1927<br />San Fernando, CA</p>
 <p><img loading="lazy" width="297" height="316" border="0" align="left" src="//farm3.static.flickr.com/2161/2140460666_40622916f0_o.jpg" alt="boundwoman" title="boundwoman" />The body of an unidentified woman was discovered off of Mulholland St. (now called Foothill Blvd.) in San Fernando today.</p>
 <p>Her hands were bound across her chest with twine.&nbsp; Her knees were bent, and her feet tied to her back with a length of cord.&nbsp; Her body had been wrapped in canvas.&nbsp; She had been struck in the forehead with a blunt instrument; however, a preliminary autopsy revealed that the blow was not hard enough to have killed her.&nbsp; Most likely, she was knocked unconscious by her assailant, tied up, then left to die of exposure.</p>
-<p>The dead woman was approximately 45 years of age, and was found wearing a black crepe dress, &quot;cheap cotton underwear,&quot; and hose.&nbsp; Her shoes had been removed.&nbsp; She had false upper teeth and a scar.&nbsp; She had been drinking the night she was beaten and left to die.&nbsp; She had been dead for approximately 24 hours before she was found, and lay in the San Fernando morgue for four days until she was identified as Amelia Appleby of <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=229+n.+hobart,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=33.160552,82.265625&#038;ie=UTF8&#038;ll=34.076372,-118.305523&#038;spn=0.00846,0.020084&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="hobart">229 N. Hobart Blvd</a>.</p>
+<p>The dead woman was approximately 45 years of age, and was found wearing a black crepe dress, &quot;cheap cotton underwear,&quot; and hose.&nbsp; Her shoes had been removed.&nbsp; She had false upper teeth and a scar.&nbsp; She had been drinking the night she was beaten and left to die.&nbsp; She had been dead for approximately 24 hours before she was found, and lay in the San Fernando morgue for four days until she was identified as Amelia Appleby of <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=229+n.+hobart,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=33.160552,82.265625&#038;ie=UTF8&#038;ll=34.076372,-118.305523&#038;spn=0.00846,0.020084&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank" title="hobart">229 N. Hobart Blvd</a>.</p>
 <p>The fourth wife of a wealthy Chicago inventor, Appleby had inherited a $1 million estate upon his death, taken the money, and moved to California.&nbsp; She was not well-liked by her late husband&#8217;s family, nor by her Los Angeles neighbors, who described her as &quot;eccentric&quot; and &quot;a troublemaker.&quot;&nbsp; However, she did have one friend who cared enough to tell police what she knew.&nbsp; Prior to her death, Appleby was known to keep company with a &quot;doctor&quot; named Charles McMillan, 57.&nbsp; Appleby had confided to her friend that she feared McMillan would kill her if she refused to marry him.</p>
 <p>McMillan was rounded up at his 531 S. Western Ave. apartment, where police found him poring over a stack of Appleby&#8217;s personal papers.&nbsp; They later found more of her personal items, including her diamond jewelry, in McMillan&#8217;s possession.&nbsp; Police investigators later found two versions of Appleby&#8217;s will, one which left her estate to McMillan, and another which left it to a long-lost daughter, although her relatives claimed that she&#8217;d never had a child.&nbsp; Neither will was signed, and both were strongly suspected to be forgeries.</p>
 <p> The evidence against McMillan was circumstantial, but strong.&nbsp; The stolen papers and jewels, a blood-stained jacket, the forged will, and the fact that he was the last person to be seen with Appleby were enough to convince jurors of his guilt.&nbsp; McMillan was convicted of murder and sentenced to life in prison on February 24, 1928. </div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/27/the-sack-murder-of-san-fernando/">The &#8220;Sack Murder&#8221; of San Fernando</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/27/the-sack-murder-of-san-fernando/">The &#8220;Sack Murder&#8221; of San Fernando</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/27/the-sack-murder-of-san-fernando/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/27/the-sack-murder-of-san-fernando/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>News of the Day</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/23/news-of-the-day/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/23/news-of-the-day/#respond</comments>
+		<link>https://1947project.com/2007/12/23/news-of-the-day/</link>
+					<comments>https://1947project.com/2007/12/23/news-of-the-day/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 23 Dec 2007 22:40:14 +0000</pubDate>
@@ -204,19 +204,19 @@ Los Angeles</p>
 		<category><![CDATA[sideshow]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 22, 1927Los Angeles Let&#8217;s put up our feet and see what&#8217;s gone on in the world this day.&#160; Not much.&#160; The odd curiosity or two.&#160;&#160;&#160; According to our concerned friends at the paper, it seems the Mexicans are making a menace of themselves, using flowers of the &#8220;hemp&#8221; plant as some sort of habit-forming&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/23/news-of-the-day/">Continue reading <span class="screen-reader-text">News of the Day</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/23/news-of-the-day/">News of the Day</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 22, 1927Los Angeles Let&#8217;s put up our feet and see what&#8217;s gone on in the world this day.&#160; Not much.&#160; The odd curiosity or two.&#160;&#160;&#160; According to our concerned friends at the paper, it seems the Mexicans are making a menace of themselves, using flowers of the &#8220;hemp&#8221; plant as some sort of habit-forming&#8230; <a class="more-link" href="https://1947project.com/2007/12/23/news-of-the-day/">Continue reading <span class="screen-reader-text">News of the Day</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/23/news-of-the-day/">News of the Day</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>December 22, 1927<br />Los Angeles</p>
-<p>Let&rsquo;s put up our feet and see what&rsquo;s gone on in the world this day.&nbsp; Not much.&nbsp; The odd curiosity or two.&nbsp;&nbsp;&nbsp; <br /><img loading="lazy" width="249" height="195" border="0" align="right" title="hemp" alt="hemp" src="//farm3.static.flickr.com/2197/2131536350_30713e4032_o.jpg" /><br />According to our concerned friends at the paper, it seems the Mexicans are making a menace of themselves, using flowers of the &ldquo;hemp&rdquo; plant as some sort of habit-forming drug (they&rsquo;re such a resourceful people!).&nbsp; Apparently the Imperial Linen Products Company has blanketed the Imperial Valley with the stuff.&nbsp; Well, I&rsquo;m sure the <a title="nexttheredcar" target="_blank" href="https://www.world-mysteries.com/marijuana1.htm">State</a> will sort this one out to everybody&rsquo;s satisfaction.</p>
+<p>Let&rsquo;s put up our feet and see what&rsquo;s gone on in the world this day.&nbsp; Not much.&nbsp; The odd curiosity or two.&nbsp;&nbsp;&nbsp; <br /><img loading="lazy" width="249" height="195" border="0" align="right" title="hemp" alt="hemp" src="//farm3.static.flickr.com/2197/2131536350_30713e4032_o.jpg" /><br />According to our concerned friends at the paper, it seems the Mexicans are making a menace of themselves, using flowers of the &ldquo;hemp&rdquo; plant as some sort of habit-forming drug (they&rsquo;re such a resourceful people!).&nbsp; Apparently the Imperial Linen Products Company has blanketed the Imperial Valley with the stuff.&nbsp; Well, I&rsquo;m sure the <a title="nexttheredcar" target="_blank" href="http://www.world-mysteries.com/marijuana1.htm">State</a> will sort this one out to everybody&rsquo;s satisfaction.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img loading="lazy" width="253" height="200" border="0" align="left" title="onelastcig" alt="onelastcig" src="//farm3.static.flickr.com/2236/2131536354_cd46111e8d_o.jpg" />Oh dear, here&rsquo;s <a title="kaboom" target="_blank" href="https://pensive-torvalds-020d34.netlify.app/?p=2189">another</a> fellow who just couldn&rsquo;t resist a final cigarette.&nbsp; Seems J. B. Smith left the wife at his <a title="jbsHouse" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=420+west+maple,+glendale,+ca&#038;sll=34.291509,-118.432102&#038;sspn=0.016062,0.029182&#038;ie=UTF8&#038;ll=34.138662,-118.261557&#038;spn=0.008045,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">Glendale home</a> and checked into the LaViolette Hotel on <a title="kablooie" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;time=&#038;date=&#038;ttype=&#038;q=N+Maclay+Ave,+San+Fernando,+Los+Angeles,+California,+United+States&#038;sll=34.28393,-118.43869&#038;sspn=0.008031,0.014591&#038;ie=UTF8&#038;cd=1&#038;geocode=0,34.290020,-118.432120&#038;ll=34.291509,-118.432102&#038;spn=0.016062,0.029182&#038;z=15&#038;iwloc=addr&#038;om=1">North Maclay</a> in San Fernando.&nbsp; He brought with him a stack of goodbye letters indicating his fears about going mad, and a loaf of bread&mdash;not for snacking, but for soaking in water and wadding into the wafty windows and drafty doors (my hat off again to the resourcefulness of our Southlanders).&nbsp; Of course, no-one banks on the dang&rsquo;d jets taking so <em>long</em>.&nbsp; Thankfully J. B. also brought along a pack of <a title="ifyagotem" target="_blank" href="https://www.youtube.com/watch?v=fIN8MmMloZE">smokes</a> to pass the time&hellip;the hole blown in the wall was six feet in diameter.&nbsp; J. B.&#8217;s smoldering remains lived long enough to say goodbye to his wife at the hospital, but not much longer than that.</p>
-<p><img loading="lazy" width="233" height="149" border="0" align="right" title="ostrichman" alt="ostrichman" src="//farm3.static.flickr.com/2087/2131536352_eed4992ac0_o.jpg" />And oh my, it seems one of my favorite attractions of the stage, Sidney Barnes the Human Ostrich, has expired in New Orleans.&nbsp; After complaining of stomach pains, the <em>Homo Struthio </em>underwent an operation to remove a cigar box full of bolts, carpet tacks, razor blades, washers and nails from therein&mdash;Barnes did not emerge alive.&nbsp; Guess <a title="burmashave" target="_blank" href="https://pensive-torvalds-020d34.netlify.app/?p=2135">growing up</a> to be a carnival side can be rough, kids!</p>
+<p><img loading="lazy" width="253" height="200" border="0" align="left" title="onelastcig" alt="onelastcig" src="//farm3.static.flickr.com/2236/2131536354_cd46111e8d_o.jpg" />Oh dear, here&rsquo;s <a title="kaboom" target="_blank" href="https://1947project.com/?p=2189">another</a> fellow who just couldn&rsquo;t resist a final cigarette.&nbsp; Seems J. B. Smith left the wife at his <a title="jbsHouse" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=420+west+maple,+glendale,+ca&#038;sll=34.291509,-118.432102&#038;sspn=0.016062,0.029182&#038;ie=UTF8&#038;ll=34.138662,-118.261557&#038;spn=0.008045,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">Glendale home</a> and checked into the LaViolette Hotel on <a title="kablooie" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;time=&#038;date=&#038;ttype=&#038;q=N+Maclay+Ave,+San+Fernando,+Los+Angeles,+California,+United+States&#038;sll=34.28393,-118.43869&#038;sspn=0.008031,0.014591&#038;ie=UTF8&#038;cd=1&#038;geocode=0,34.290020,-118.432120&#038;ll=34.291509,-118.432102&#038;spn=0.016062,0.029182&#038;z=15&#038;iwloc=addr&#038;om=1">North Maclay</a> in San Fernando.&nbsp; He brought with him a stack of goodbye letters indicating his fears about going mad, and a loaf of bread&mdash;not for snacking, but for soaking in water and wadding into the wafty windows and drafty doors (my hat off again to the resourcefulness of our Southlanders).&nbsp; Of course, no-one banks on the dang&rsquo;d jets taking so <em>long</em>.&nbsp; Thankfully J. B. also brought along a pack of <a title="ifyagotem" target="_blank" href="http://www.youtube.com/watch?v=fIN8MmMloZE">smokes</a> to pass the time&hellip;the hole blown in the wall was six feet in diameter.&nbsp; J. B.&#8217;s smoldering remains lived long enough to say goodbye to his wife at the hospital, but not much longer than that.</p>
+<p><img loading="lazy" width="233" height="149" border="0" align="right" title="ostrichman" alt="ostrichman" src="//farm3.static.flickr.com/2087/2131536352_eed4992ac0_o.jpg" />And oh my, it seems one of my favorite attractions of the stage, Sidney Barnes the Human Ostrich, has expired in New Orleans.&nbsp; After complaining of stomach pains, the <em>Homo Struthio </em>underwent an operation to remove a cigar box full of bolts, carpet tacks, razor blades, washers and nails from therein&mdash;Barnes did not emerge alive.&nbsp; Guess <a title="burmashave" target="_blank" href="https://1947project.com/?p=2135">growing up</a> to be a carnival side can be rough, kids!</p>
 <p>&nbsp;<img loading="lazy" width="252" height="195" border="0" title="mistakenidentity" alt="mistakenidentity" src="//farm3.static.flickr.com/2284/2131536346_b850b6acd3_o.jpg" /></p>
-<p>And what do have we here&hellip;a Coroner&rsquo;s inquest will be held at 1:30 today to determine whether Ralph McCoy, in City Jail on suspicion of robbery, actually hung himself in his cell or was killed by fellow prisoners&mdash;it seems McCoy bears (well, bore) a resemblance to one <a href="https://flickr.com/photos/10605329@N07/" target="_blank" title="WEH">William Edward Hickman</a>.</p>
+<p>And what do have we here&hellip;a Coroner&rsquo;s inquest will be held at 1:30 today to determine whether Ralph McCoy, in City Jail on suspicion of robbery, actually hung himself in his cell or was killed by fellow prisoners&mdash;it seems McCoy bears (well, bore) a resemblance to one <a href="http://flickr.com/photos/10605329@N07/" target="_blank" title="WEH">William Edward Hickman</a>.</p>
 <p>Oh yeah.&nbsp; Hickman.&nbsp; Some mention in the paper about him, too.</p>
 <p><img loading="lazy" width="450" height="29" border="0" title="vaunted" alt="vaunted" src="//farm3.static.flickr.com/2346/2131113513_5956a35671_o.gif" />&nbsp;<img loading="lazy" width="450" height="88" border="0" title="thanks" alt="thanks" src="//farm3.static.flickr.com/2075/2131896348_11c5ef053e_o.jpg" /><img loading="lazy" width="248" height="270" border="0" align="left" title="foild" alt="foild" src="//farm3.static.flickr.com/2017/2131113527_35007eb8b1_o.jpg" /></p>
 <p><img loading="lazy" width="494" height="127" border="0" title="sadfasdf" alt="sadfasdf" src="//farm3.static.flickr.com/2386/2131896328_1d6308422a_o.jpg" /><img loading="lazy" width="246" height="84" border="0" align="left" title="asylummother" alt="asylummother" src="//farm3.static.flickr.com/2268/2131110079_bbc1f6b2e6_o.jpg" /><img loading="lazy" width="259" height="280" border="0" align="right" title="furor" alt="furor" src="//farm3.static.flickr.com/2324/2131110077_76536a7219_o.jpg" /><img loading="lazy" width="260" height="276" border="0" title="fasher" alt="fasher" src="//farm3.static.flickr.com/2065/2131113515_548ab63823_o.jpg" /><img loading="lazy" width="241" height="134" border="0" align="left" title="img" alt="img" src="//farm3.static.flickr.com/2344/2131896346_6754d3d5e6_o.jpg" /><img loading="lazy" width="256" height="196" border="0" align="right" title="adfad" alt="adfad" src="//farm3.static.flickr.com/2316/2131110087_4ea2d4fe8e_o.jpg" /><img loading="lazy" width="450" height="218" border="0" title="queerquirk" alt="queerquirk" src="//farm3.static.flickr.com/2111/2131110081_4510aa85d8_o.gif" /><img loading="lazy" width="232" height="73" border="0" align="right" title="sleeps" alt="sleeps" src="//farm3.static.flickr.com/2325/2131894476_1bb424090a_o.jpg" /><img loading="lazy" width="450" height="128" border="0" title="mosher" alt="mosher" src="//farm3.static.flickr.com/2234/2131894482_073baac5bf_o.jpg" /><img loading="lazy" width="450" height="46" border="0" title="confession" alt="confession" src="//farm3.static.flickr.com/2399/2131110091_4f97ff7ae9_o.gif" /><img loading="lazy" width="450" height="126" border="0" title="escapedattack" alt="escapedattack" src="//farm3.static.flickr.com/2187/2131110083_cf297b719d_o.jpg" /><img loading="lazy" width="450" height="43" border="0" title="flaw2" alt="flaw2" src="//farm3.static.flickr.com/2138/2131113519_26c5d80dfb_o.gif" /><img loading="lazy" width="450" height="355" border="0" title="flightoutta" alt="flightoutta" src="//farm3.static.flickr.com/2325/2131113529_9eeb7a2824_o.gif" /><img loading="lazy" width="450" height="116" border="0" title="indictment" alt="indictment" src="//farm3.static.flickr.com/2250/2131894470_5c826d09fd_o.jpg" /><img loading="lazy" width="450" height="111" border="0" title="sdfasdf" alt="sdfasdf" src="//farm3.static.flickr.com/2020/2131894488_a5bd727fbf_o.jpg" />&nbsp;<img loading="lazy" width="241" height="273" border="0" align="right" title="hicktaked" alt="hicktaked" src="//farm3.static.flickr.com/2405/2131894464_d3c7311c2d_o.jpg" /></p>
@@ -225,18 +225,18 @@ Los Angeles</p>
 <p>&nbsp;<img loading="lazy" width="244" height="190" border="0" align="left" title="guns" alt="guns" src="//farm3.static.flickr.com/2375/2131894462_d448b63e4f_o.jpg" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/23/news-of-the-day/">News of the Day</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/23/news-of-the-day/">News of the Day</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/23/news-of-the-day/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/23/news-of-the-day/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Who&#8217;s Been Stealing Our Food?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/26/whos-been-stealing-our-food/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/26/whos-been-stealing-our-food/#respond</comments>
+		<link>https://1947project.com/2007/11/26/whos-been-stealing-our-food/</link>
+					<comments>https://1947project.com/2007/11/26/whos-been-stealing-our-food/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 26 Nov 2007 17:15:53 +0000</pubDate>
@@ -246,30 +246,30 @@ Los Angeles</p>
 		<category><![CDATA[The wacko file]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 26, 1927 Universal City A thief entered Alex Succetti&#8217;s home on Moorpark Street while Alex and his family were away. Behaving more like Goldilocks in the fairy tale &#8220;Goldilocks and the Three Bears&#8221; than a modern thief, the stranger made himself right at home. He pulled open the door to the ice box, stuck&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/26/whos-been-stealing-our-food/">Continue reading <span class="screen-reader-text">Who&#8217;s Been Stealing Our Food?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/26/whos-been-stealing-our-food/">Who&#8217;s Been Stealing Our Food?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 26, 1927 Universal City A thief entered Alex Succetti&#8217;s home on Moorpark Street while Alex and his family were away. Behaving more like Goldilocks in the fairy tale &#8220;Goldilocks and the Three Bears&#8221; than a modern thief, the stranger made himself right at home. He pulled open the door to the ice box, stuck&#8230; <a class="more-link" href="https://1947project.com/2007/11/26/whos-been-stealing-our-food/">Continue reading <span class="screen-reader-text">Who&#8217;s Been Stealing Our Food?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/26/whos-been-stealing-our-food/">Who&#8217;s Been Stealing Our Food?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="stealing our food headline" height="120" alt="stealing our food headline" src="//farm3.static.flickr.com/2072/2065628265_c94ec3eb67_o.jpg" width="305" border="0" /></p>
 <p>November 26, 1927 <br />Universal City <img loading="lazy" title="Three Bears" height="240" alt="Three Bears" src="//farm3.static.flickr.com/2206/2065628299_ba420f6616_m.jpg" width="167" align="right" border="0" /></p>
-<p>A thief entered Alex Succetti&rsquo;s home on Moorpark Street while Alex and his family were away. Behaving more like Goldilocks in the fairy tale &ldquo;<a title="Goldilocks" href="https://en.wikipedia.org/wiki/The_Three_Bears" target="_blank">Goldilocks and the Three Bears</a>&rdquo; than a modern thief, the stranger made himself right at home. He pulled open the door to the ice box, stuck his head in, and poked around until he found a chicken cut up and ready for cooking. He lit the gas stove and fried the bird until it was crispy and golden brown on the outside and tender on the inside &ndash; in other words, just right. Then the bandit sat down at the dining table with his entr&eacute;e and a few yummy (and just right) side dishes that he had found while rummaging about in the kitchen, and ate his fill. </p>
+<p>A thief entered Alex Succetti&rsquo;s home on Moorpark Street while Alex and his family were away. Behaving more like Goldilocks in the fairy tale &ldquo;<a title="Goldilocks" href="http://en.wikipedia.org/wiki/The_Three_Bears" target="_blank">Goldilocks and the Three Bears</a>&rdquo; than a modern thief, the stranger made himself right at home. He pulled open the door to the ice box, stuck his head in, and poked around until he found a chicken cut up and ready for cooking. He lit the gas stove and fried the bird until it was crispy and golden brown on the outside and tender on the inside &ndash; in other words, just right. Then the bandit sat down at the dining table with his entr&eacute;e and a few yummy (and just right) side dishes that he had found while rummaging about in the kitchen, and ate his fill. </p>
 <p>Rather than heading off to one of the bedrooms to take a nap following his hearty chicken dinner, the crook decided to pack up and head for home. He stole the family phonograph, as well as twenty five hens and twenty baby chicks from the henhouse in the backyard. But he wasn&rsquo;t finished yet. The bandit loaded his car with the loot, then returned and disconnected the gas stove and took it away with the rest of the plunder! </p>
-<p>A word of caution to the unknown bandit &#8212; in <a title="Roald Dahl" href="https://en.wikipedia.org/wiki/Roald_Dahl" target="_blank">Roald Dahl&rsquo;s</a> retelling of the &ldquo;Goldilocks&rdquo; tale in &ldquo;Revolting Rhymes&rdquo;, the criminally minded little girl meets a cruel end. The little blonde fiend breaks into the home of the bear family and trashes it. Displaying an utter lack of regard for their belongings, she destroys their valuable antique furniture, gobbles up their food, and soils their freshly made beds with her muddy shoes. Thoroughly ticked off by the wanton destruction of their home, the bears administer a bit of rough justice and devour the little brat. </p>
+<p>A word of caution to the unknown bandit &#8212; in <a title="Roald Dahl" href="http://en.wikipedia.org/wiki/Roald_Dahl" target="_blank">Roald Dahl&rsquo;s</a> retelling of the &ldquo;Goldilocks&rdquo; tale in &ldquo;Revolting Rhymes&rdquo;, the criminally minded little girl meets a cruel end. The little blonde fiend breaks into the home of the bear family and trashes it. Displaying an utter lack of regard for their belongings, she destroys their valuable antique furniture, gobbles up their food, and soils their freshly made beds with her muddy shoes. Thoroughly ticked off by the wanton destruction of their home, the bears administer a bit of rough justice and devour the little brat. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/26/whos-been-stealing-our-food/">Who&#8217;s Been Stealing Our Food?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/26/whos-been-stealing-our-food/">Who&#8217;s Been Stealing Our Food?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/26/whos-been-stealing-our-food/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/26/whos-been-stealing-our-food/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Close Shave</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/10/13/a-close-shave/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/10/13/a-close-shave/#respond</comments>
+		<link>https://1947project.com/2007/10/13/a-close-shave/</link>
+					<comments>https://1947project.com/2007/10/13/a-close-shave/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 13 Oct 2007 17:05:51 +0000</pubDate>
@@ -281,31 +281,31 @@ Los Angeles</p>
 		<category><![CDATA[razors]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; October 13, 1927Glendale Last week we told you of the extrahuman feats of two and one-half year-old Virginia Mae Pike.&#160; And now, collector of tale of childhood freakdom, comes two and one-half year-old Jimmy Baker Bogart. The Pikes were fond of fumigators; the Bogarts, rusty razors.&#160; They&#8217;d leave them lying around until they&#8217;d accumulate&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/10/13/a-close-shave/">Continue reading <span class="screen-reader-text">A Close Shave</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/13/a-close-shave/">A Close Shave</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; October 13, 1927Glendale Last week we told you of the extrahuman feats of two and one-half year-old Virginia Mae Pike.&#160; And now, collector of tale of childhood freakdom, comes two and one-half year-old Jimmy Baker Bogart. The Pikes were fond of fumigators; the Bogarts, rusty razors.&#160; They&#8217;d leave them lying around until they&#8217;d accumulate&#8230; <a class="more-link" href="https://1947project.com/2007/10/13/a-close-shave/">Continue reading <span class="screen-reader-text">A Close Shave</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/13/a-close-shave/">A Close Shave</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="277" height="199" border="0" src="//farm3.static.flickr.com/2342/1557139129_7163987590_o.gif" alt="heeats" title="heeats" /></p>
 <p><img loading="lazy" width="150" height="400" border="0" align="right" src="//farm3.static.flickr.com/2399/1557139133_39f1ad3f66_o.gif" alt="showoff" title="showoff" />October 13, 1927<br />Glendale </p>
-<p><a href="https://pensive-torvalds-020d34.netlify.app/?p=2128" target="_blank" title="VMPike">Last week </a>we told you of the extrahuman feats of two and one-half year-old Virginia Mae Pike.&nbsp; And now, collector of tale of childhood freakdom, comes two and one-half year-old Jimmy Baker Bogart.</p>
-<p>The Pikes were fond of fumigators; the <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=960+E+Dryden+St,+Glendale,+CA+91207&#038;sll=34.161286,-118.242846&#038;sspn=0.0087,0.014591&#038;ie=UTF8&#038;ll=34.161081,-118.242835&#038;spn=0.00435,0.007296&#038;z=17&#038;iwloc=addr&#038;om=1" target="_blank" title="bogarts">Bogarts</a>, rusty razors.&nbsp; They&rsquo;d leave them lying around until they&rsquo;d accumulate sufficient rust to look tasty enough, one supposes.&nbsp; In any event, just such a brown&rsquo;d blade seemed worth experimenting on with a new set of teeth, so li&rsquo;l Jimmy bit off a chunk of Gillette. Though Mrs. Bogart pulled the major portion of our erstwhile whisker remover from Jimmy&rsquo;s mouth, she watched a good piece of it go south.&nbsp; The hastily summoned physician, apparently seeking to avoid the imperative and serious operation, put JB on an oatmeal and potato diet and that was that; the razor remain was satisfactorily dissolved within.</p>
-<p>One wonders if li&rsquo;l Jimmy grew up to develop a pathological aversion to the &ldquo;safety&rdquo; device, or if, conversely, having developed a taste and his inclination, went on to ingest the objects for a <a href="https://www.jimrosecircus.com/newest_site/flash/main.html" target="_blank" title="flashforward">living</a>.</p>
+<p><a href="https://1947project.com/?p=2128" target="_blank" title="VMPike">Last week </a>we told you of the extrahuman feats of two and one-half year-old Virginia Mae Pike.&nbsp; And now, collector of tale of childhood freakdom, comes two and one-half year-old Jimmy Baker Bogart.</p>
+<p>The Pikes were fond of fumigators; the <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=960+E+Dryden+St,+Glendale,+CA+91207&#038;sll=34.161286,-118.242846&#038;sspn=0.0087,0.014591&#038;ie=UTF8&#038;ll=34.161081,-118.242835&#038;spn=0.00435,0.007296&#038;z=17&#038;iwloc=addr&#038;om=1" target="_blank" title="bogarts">Bogarts</a>, rusty razors.&nbsp; They&rsquo;d leave them lying around until they&rsquo;d accumulate sufficient rust to look tasty enough, one supposes.&nbsp; In any event, just such a brown&rsquo;d blade seemed worth experimenting on with a new set of teeth, so li&rsquo;l Jimmy bit off a chunk of Gillette. Though Mrs. Bogart pulled the major portion of our erstwhile whisker remover from Jimmy&rsquo;s mouth, she watched a good piece of it go south.&nbsp; The hastily summoned physician, apparently seeking to avoid the imperative and serious operation, put JB on an oatmeal and potato diet and that was that; the razor remain was satisfactorily dissolved within.</p>
+<p>One wonders if li&rsquo;l Jimmy grew up to develop a pathological aversion to the &ldquo;safety&rdquo; device, or if, conversely, having developed a taste and his inclination, went on to ingest the objects for a <a href="http://www.jimrosecircus.com/newest_site/flash/main.html" target="_blank" title="flashforward">living</a>.</p>
 <p><img loading="lazy" width="300" height="200" border="0" align="left" src="//farm3.static.flickr.com/2362/1557139123_c31b95214b_o.gif" alt="allgrowdup" title="allgrowdup" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/13/a-close-shave/">A Close Shave</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/13/a-close-shave/">A Close Shave</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/10/13/a-close-shave/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/10/13/a-close-shave/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Have a Zesty Labor Day!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/#respond</comments>
+		<link>https://1947project.com/2007/09/03/have-a-zesty-labor-day/</link>
+					<comments>https://1947project.com/2007/09/03/have-a-zesty-labor-day/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2007 15:15:03 +0000</pubDate>
@@ -328,7 +328,7 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>September 3, 1927 Los Angeles If you&#8217;re planning to escape the heat this Labor Day by going boating on Lake Arrowhead, don&#8217;t forget to take along your radio!</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -337,18 +337,18 @@ Los Angeles</p>
 <p><img loading="lazy" title="Radio" height="579" alt="Radio" src="//farm2.static.flickr.com/1244/1312974828_4df2864e11_o.jpg" width="605" border="0" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/09/03/have-a-zesty-labor-day/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Born Out of Tragedy</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/22/born-out-of-tragedy/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/22/born-out-of-tragedy/#respond</comments>
+		<link>https://1947project.com/2007/08/22/born-out-of-tragedy/</link>
+					<comments>https://1947project.com/2007/08/22/born-out-of-tragedy/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 22 Aug 2007 17:17:30 +0000</pubDate>
@@ -360,8 +360,8 @@ Los Angeles</p>
 		<category><![CDATA[adoption]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 22, 1927 Van Nuys One August night in 1927, Edgar Burnett of Van Nuys shot his wife, then turned the gun on himself, leaving their four children orphaned.&#160; The children were separated, and taken in by different families.&#160; Eleanor Ray Burnett, 7, was adopted by a wealthy Anaheim family; Ermie Jean, 3, was sent&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/22/born-out-of-tragedy/">Continue reading <span class="screen-reader-text">Born Out of Tragedy</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/22/born-out-of-tragedy/">Born Out of Tragedy</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 22, 1927 Van Nuys One August night in 1927, Edgar Burnett of Van Nuys shot his wife, then turned the gun on himself, leaving their four children orphaned.&#160; The children were separated, and taken in by different families.&#160; Eleanor Ray Burnett, 7, was adopted by a wealthy Anaheim family; Ermie Jean, 3, was sent&#8230; <a class="more-link" href="https://1947project.com/2007/08/22/born-out-of-tragedy/">Continue reading <span class="screen-reader-text">Born Out of Tragedy</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/22/born-out-of-tragedy/">Born Out of Tragedy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -376,18 +376,18 @@ Los Angeles</p>
 <div align="left">No word on whether the adoption ultimately went through, or whether Mrs. Paul was ever reunited with her lost brother and sisters.&nbsp; Here&#8217;s hoping.&nbsp;</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/22/born-out-of-tragedy/">Born Out of Tragedy</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/22/born-out-of-tragedy/">Born Out of Tragedy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/22/born-out-of-tragedy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/22/born-out-of-tragedy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Angelenos Run Amuck in One Day Crime Spree!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/#respond</comments>
+		<link>https://1947project.com/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/</link>
+					<comments>https://1947project.com/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Sun, 29 Jul 2007 16:06:19 +0000</pubDate>
@@ -405,29 +405,29 @@ Los Angeles</p>
 		<category><![CDATA[crime spree]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 30, 1927 Los Angeles and its crime ridden suburbs This has been a mad, felony fueled day in the Southland, and there isn&#8217;t even a full moon! We have four tales of crime including a beating, triple poisoning, robbery and assault, and finally the murder of a policeman in Arcadia by three wayward youths.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/">Continue reading <span class="screen-reader-text">Angelenos Run Amuck in One Day Crime Spree!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/">Angelenos Run Amuck in One Day Crime Spree!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 30, 1927 Los Angeles and its crime ridden suburbs This has been a mad, felony fueled day in the Southland, and there isn&#8217;t even a full moon! We have four tales of crime including a beating, triple poisoning, robbery and assault, and finally the murder of a policeman in Arcadia by three wayward youths.&#8230; <a class="more-link" href="https://1947project.com/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/">Continue reading <span class="screen-reader-text">Angelenos Run Amuck in One Day Crime Spree!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/">Angelenos Run Amuck in One Day Crime Spree!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>July 30, 1927 <br />Los Angeles and its crime ridden suburbs </p>
 <p>This has been a mad, felony fueled day in the Southland, and there isn&rsquo;t even a full moon! We have four tales of crime including a beating, triple poisoning, robbery and assault, and finally the murder of a policeman in Arcadia by three wayward youths. Read them at your leisure, or devour them all at once.</p>
 <p align="left"><img loading="lazy" width="240" height="117" border="0" align="left" src="//farm2.static.flickr.com/1398/940825666_53e30def0d_m.jpg" alt="Mystery Girl" title="Mystery Girl" /></p>
-<p align="left">A severely beaten woman was dropped off at <a target="_blank" href="https://www.you-are-here.com/building/hospital.htm" title="Culver City Hospital">Culver City Hospital</a> by three men, who then sped away. The victim&rsquo;s identity has not been confirmed, but she is believed to be Vivian Edwards of <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=501+S+Rampart+Blvd,+Los+Angeles,+Los+Angeles,+California+90057,+United+States&#038;sll=37.0625,-95.677068&#038;sspn=36.042042,95.800781&#038;ie=UTF8&#038;cd=1&#038;mpnum=0&#038;ll=34.064179,-118.280568&#038;spn=0.009208,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" title="501 S. Rampart">501 S. Rampart</a>. The injured woman lapsed in and out of consciousness. Finally in a moment of lucidity, she said that she had been assaulted by a man named Dick Burk. No trace of her alleged assailant has been found. The young woman&rsquo;s injuries are critical and it is feared that she may die. </p>
+<p align="left">A severely beaten woman was dropped off at <a target="_blank" href="http://www.you-are-here.com/building/hospital.htm" title="Culver City Hospital">Culver City Hospital</a> by three men, who then sped away. The victim&rsquo;s identity has not been confirmed, but she is believed to be Vivian Edwards of <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=501+S+Rampart+Blvd,+Los+Angeles,+Los+Angeles,+California+90057,+United+States&#038;sll=37.0625,-95.677068&#038;sspn=36.042042,95.800781&#038;ie=UTF8&#038;cd=1&#038;mpnum=0&#038;ll=34.064179,-118.280568&#038;spn=0.009208,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" title="501 S. Rampart">501 S. Rampart</a>. The injured woman lapsed in and out of consciousness. Finally in a moment of lucidity, she said that she had been assaulted by a man named Dick Burk. No trace of her alleged assailant has been found. The young woman&rsquo;s injuries are critical and it is feared that she may die. </p>
 <p align="center">&nbsp;</p>
 <p align="left">&nbsp;</p>
 <p align="center">*******</p>
 <p align="left"><img loading="lazy" width="201" height="240" border="0" src="//farm2.static.flickr.com/1290/940825686_79b51c7332_m.jpg" alt="Trio Poisoned" title="Trio Poisoned" /></p>
-<p align="left">In Glendale, a wealthy couple, Mr. and Mrs. Leroy Armstrong and their nurse, Mrs. M. Woolf, are recovering in the Armstrong&rsquo;s home at <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1311+Rossmoyne,+Glendale,+CA&#038;sll=37.0625,-95.677068&#038;sspn=36.042042,95.800781&#038;ie=UTF8&#038;z=16&#038;iwloc=addr&#038;om=1" title="1311 Rossmoyne">1311 Rossmoyne</a>, after having been poisoned with arsenic. The couple&rsquo;s servant, Ray Tayama, is being sought in connection with the crime. The missing domestic had been discharged by Mr. Armstrong earlier in the afternoon, and as a farewell gesture Tayama served the three people coffee laced with arsenic and then vanished. </p>
+<p align="left">In Glendale, a wealthy couple, Mr. and Mrs. Leroy Armstrong and their nurse, Mrs. M. Woolf, are recovering in the Armstrong&rsquo;s home at <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1311+Rossmoyne,+Glendale,+CA&#038;sll=37.0625,-95.677068&#038;sspn=36.042042,95.800781&#038;ie=UTF8&#038;z=16&#038;iwloc=addr&#038;om=1" title="1311 Rossmoyne">1311 Rossmoyne</a>, after having been poisoned with arsenic. The couple&rsquo;s servant, Ray Tayama, is being sought in connection with the crime. The missing domestic had been discharged by Mr. Armstrong earlier in the afternoon, and as a farewell gesture Tayama served the three people coffee laced with arsenic and then vanished. </p>
 <p align="left">&nbsp;</p>
 <p align="center">*******</p>
 <p>Are these the only cases from the police blotter today? Don&rsquo;t be ridiculous! The mayhem continues&hellip; </p>
 <p><img loading="lazy" width="170" height="196" border="0" align="middle" src="//farm2.static.flickr.com/1206/940826076_0aae5cb660_m.jpg" alt="Wife Hovers" title="Wife Hovers" /></p>
 <p>Ex-con and bail jumper Paul Knapp spent the day in the arms of his lovely wife Josephine, while she tenderly patted his cheek and vociferously<img loading="lazy" width="132" height="240" border="0" align="right" src="//farm2.static.flickr.com/1079/940826114_18cb638ac5_m.jpg" alt="Paul Knapp" title="Paul Knapp" /> declared his innocence of robbery and assault. Josephine may be confident that her husband is guiltless of the charges against him, but his record speaks persuasively to a life of crime.</p>
 <p>Paul was a cop in Seattle from 1919 until 1923 when he was dismissed for being absent without leave, refusal to obey orders, and for participating in a liquor hi-jacking. He was busted in Los Angeles in 1924 for attacking a woman, but he fled before he could be tried. By 1925 he was in Portland doing fifteen months in McNeil Island Federal pen for impersonating a Federal officer. </p>
-<p>In April of this year, after vowing to shoot it out with the law, he was cornered by police and wounded in the shoulder. He was booked on suspicion of robbery and as a fugitive from justice. As if those charges weren&rsquo;t enough, he was also wanted in Seattle for jumping bail and in Portland for violation of the <a target="_blank" href="https://en.wikipedia.org/wiki/Mann_Act" title="Mann Act">Mann Act</a>! </p>
+<p>In April of this year, after vowing to shoot it out with the law, he was cornered by police and wounded in the shoulder. He was booked on suspicion of robbery and as a fugitive from justice. As if those charges weren&rsquo;t enough, he was also wanted in Seattle for jumping bail and in Portland for violation of the <a target="_blank" href="http://en.wikipedia.org/wiki/Mann_Act" title="Mann Act">Mann Act</a>! </p>
 <p>Earlier this month, a court order allowed the bandit to be released into the custody of two deputy sheriffs so that he could visit a dentist &ndash; whose office was conveniently located across the street from his mother&rsquo;s house. Paul asked his custodians if he could be allowed to use the bathroom at his mother&rsquo;s place. The police acquiesced, and once inside the <img loading="lazy" width="134" height="240" border="0" align="left" src="//farm2.static.flickr.com/1411/940838444_d227e63cd0_m.jpg" alt="Josephine Knapp" title="Josephine Knapp" />house the bandit&rsquo;s cagey spouse and his wily mother engineered his escape through a trap door in the closet of the home, while the clueless officers continued to wait for him outside! </p>
-<p>Following his escape, Paul and Josephine reunited and hid out in a small apartment at <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1057+S+New+Hampshire+Ave,+Los+Angeles,+Los+Angeles,+California+90006,+United+States&#038;sll=34.164259,-118.239622&#038;sspn=0.009197,0.023389&#038;ie=UTF8&#038;cd=1&#038;mpnum=0&#038;z=16&#038;iwloc=addr&#038;om=1" title="1057 South New Hampshire">1057 South New Hampshire</a> which had been rented for them by an accomplice known to police. On a hunch, Detective Lieutenant Hull of the Central Police Station investigated and found Paul and his wife at the apartment. The couple&rsquo;s crime partner is being hunted. </p>
+<p>Following his escape, Paul and Josephine reunited and hid out in a small apartment at <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1057+S+New+Hampshire+Ave,+Los+Angeles,+Los+Angeles,+California+90006,+United+States&#038;sll=34.164259,-118.239622&#038;sspn=0.009197,0.023389&#038;ie=UTF8&#038;cd=1&#038;mpnum=0&#038;z=16&#038;iwloc=addr&#038;om=1" title="1057 South New Hampshire">1057 South New Hampshire</a> which had been rented for them by an accomplice known to police. On a hunch, Detective Lieutenant Hull of the Central Police Station investigated and found Paul and his wife at the apartment. The couple&rsquo;s crime partner is being hunted. </p>
 <p>Paul&rsquo;s mother and his wife have been accused of conspiracy for engineering his Houdini-like escape. A glimpse into the future finds Paul sentenced to from sixteen years to life in the state pen. His mother and his wife will seek probation, but no word if they&rsquo;ll be successful. </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -436,18 +436,18 @@ Los Angeles</p>
 <p>Had enough crime yet? Neither have we&hellip; </p>
 <p><img loading="lazy" width="216" height="240" border="0" src="//farm2.static.flickr.com/1012/940826058_be2b28b606_m.jpg" alt="Police Slaying" title="Police Slaying" /></p>
 <p>Our final story for this summer day in July of 1927 is a tale of flaming youth and flaming guns! <img loading="lazy" width="126" height="234" border="0" align="right" src="//farm2.static.flickr.com/1180/940826108_de221a8c0c_m.jpg" alt="Frank Miller" title="Frank Miller" /></p>
-<p>Under arrest for car theft and the murder of Arcadia police officer Alfred Mathias are: Frank Miller, 18 years of age, <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=820+West+Third,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=37.735377,95.800781&#038;ie=UTF8&#038;z=16&#038;iwloc=addr&#038;om=1" title="820 West Third Street">820-1/2 West Third Street,</a> accused of the actual slaying; Ray Oddell, 18, <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=4th+and+Beaudry,+Los+Angeles,+CA&#038;sll=34.054442,-118.253803&#038;sspn=0.009653,0.023389&#038;ie=UTF8&#038;ll=34.055237,-118.25424&#038;spn=0.009653,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" title="4th and Beaudry">Fourth and Beaudry streets</a>, confessed driver of the get away car and Miller&rsquo;s accuser. Also in custody is William Montfort, 21, <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=W+59th+St,+Los+Angeles,+Los+Angeles,+California,+United+States&#038;sll=34.05332,-118.24498&#038;sspn=0.30891,0.748444&#038;ie=UTF8&#038;cd=2&#038;mpnum=0&#038;z=13&#038;iwloc=addr&#038;om=1" title="903 West Fifty-ninth">903 West Fifty-ninth Drive</a> who admitted to have been along for the ride, but claimed to be ignorant of his two companion&rsquo;s hold-up plans. </p>
-<p><img loading="lazy" width="128" height="230" border="0" align="left" src="//farm2.static.flickr.com/1157/940838472_9eceb851c3_m.jpg" alt="Ray Oddell" title="Ray Oddell" />The three boys have been friends since meeting in the State reform school at Ione. Both Oddell and Montfort credit Miller with being the brains of the outfit and insist it was he who formed the plan to rob a barbeque stand in <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Arcadia,+California,+United+States&#038;ie=UTF8&#038;z=12&#038;iwloc=addr&#038;om=1" title="Arcadia">Arcadia</a>, which resulted in the shooting death of Officer Alfred Mathias. </p>
+<p>Under arrest for car theft and the murder of Arcadia police officer Alfred Mathias are: Frank Miller, 18 years of age, <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=820+West+Third,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=37.735377,95.800781&#038;ie=UTF8&#038;z=16&#038;iwloc=addr&#038;om=1" title="820 West Third Street">820-1/2 West Third Street,</a> accused of the actual slaying; Ray Oddell, 18, <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=4th+and+Beaudry,+Los+Angeles,+CA&#038;sll=34.054442,-118.253803&#038;sspn=0.009653,0.023389&#038;ie=UTF8&#038;ll=34.055237,-118.25424&#038;spn=0.009653,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" title="4th and Beaudry">Fourth and Beaudry streets</a>, confessed driver of the get away car and Miller&rsquo;s accuser. Also in custody is William Montfort, 21, <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=W+59th+St,+Los+Angeles,+Los+Angeles,+California,+United+States&#038;sll=34.05332,-118.24498&#038;sspn=0.30891,0.748444&#038;ie=UTF8&#038;cd=2&#038;mpnum=0&#038;z=13&#038;iwloc=addr&#038;om=1" title="903 West Fifty-ninth">903 West Fifty-ninth Drive</a> who admitted to have been along for the ride, but claimed to be ignorant of his two companion&rsquo;s hold-up plans. </p>
+<p><img loading="lazy" width="128" height="230" border="0" align="left" src="//farm2.static.flickr.com/1157/940838472_9eceb851c3_m.jpg" alt="Ray Oddell" title="Ray Oddell" />The three boys have been friends since meeting in the State reform school at Ione. Both Oddell and Montfort credit Miller with being the brains of the outfit and insist it was he who formed the plan to rob a barbeque stand in <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Arcadia,+California,+United+States&#038;ie=UTF8&#038;z=12&#038;iwloc=addr&#038;om=1" title="Arcadia">Arcadia</a>, which resulted in the shooting death of Officer Alfred Mathias. </p>
 <p>The boys were sitting in the stolen automobile when they were approached by Officer Mathias. The cop asked Oddell for the car&rsquo;s registration. Miller spoke from the back seat and told the officer he had the pink slip. Mathias thought the young man was acting suspiciously and asked &ldquo;what are you sitting on?&rdquo; Frank whipped out his gun and demanded that the officer &ldquo;stick &lsquo;em up&rdquo;. Mathias bolted and headed for the rear of the car as Frank fired, leaving the policeman dead in the parking lot. <img loading="lazy" width="126" height="233" border="0" align="right" src="//farm2.static.flickr.com/1141/940838520_4d2ccfc016_m.jpg" alt="William Montfort" title="William Montfort" /></p>
 <p>Set the time machine for two months hence; September 1927. Frank Miller will plead guilty to murder and auto theft and will be found guilty. He&rsquo;ll be lucky. The jury will recommend that the youth not hang, but rather spend one year to life in San Quentin. Frank&rsquo;s partners in crime Ray Oddell and William Montfort, will face similar fates. </p>
 <p>&nbsp;</p>
 <p>The flaming youths burned out&hellip;and so have we! What a day! </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/">Angelenos Run Amuck in One Day Crime Spree!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/">Angelenos Run Amuck in One Day Crime Spree!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/29/angelenos-run-amuck-in-one-day-crime-spree/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

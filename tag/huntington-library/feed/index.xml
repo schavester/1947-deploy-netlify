@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Huntington Library &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/huntington-library/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/huntington-library/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:52:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Huntington Library &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Historians&#8217; Clearinghouse</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/28/historians-clearinghouse/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/28/historians-clearinghouse/#respond</comments>
+		<link>https://1947project.com/2006/10/28/historians-clearinghouse/</link>
+					<comments>https://1947project.com/2006/10/28/historians-clearinghouse/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 28 Oct 2006 14:18:34 +0000</pubDate>
@@ -43,18 +43,18 @@
 		<category><![CDATA[research]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Fast forward to the future for a moment and plan to attend what sounds like a wonderful event for researchers: A bazaar in which many local archivists will be available at the Huntington to discuss their collections and set up appointments on the spot. As anyone who has researched local history can tell you, material&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/28/historians-clearinghouse/">Continue reading <span class="screen-reader-text">Historians&#8217; Clearinghouse</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/28/historians-clearinghouse/">Historians&#8217; Clearinghouse</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Fast forward to the future for a moment and plan to attend what sounds like a wonderful event for researchers: A bazaar in which many local archivists will be available at the Huntington to discuss their collections and set up appointments on the spot. As anyone who has researched local history can tell you, material&#8230; <a class="more-link" href="https://1947project.com/2006/10/28/historians-clearinghouse/">Continue reading <span class="screen-reader-text">Historians&#8217; Clearinghouse</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/28/historians-clearinghouse/">Historians&#8217; Clearinghouse</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><span style="font-size:100%;">Fast forward to the future for a moment and plan to attend what sounds like <a href="https://www.huntington.org/Information/archivesbazaar.pdf">a wonderful event for researchers</a></span><span style="font-size:100%;">: A bazaar in which many local archivists will be available at the Huntington to discuss their collections and set up appointments on the spot.<br />
+<div><span style="font-size:100%;">Fast forward to the future for a moment and plan to attend what sounds like <a href="http://www.huntington.org/Information/archivesbazaar.pdf">a wonderful event for researchers</a></span><span style="font-size:100%;">: A bazaar in which many local archivists will be available at the Huntington to discuss their collections and set up appointments on the spot.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">As anyone who has researched local history can tell you, material on the city</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/28/historians-clearinghouse/">Historians&#8217; Clearinghouse</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/28/historians-clearinghouse/">Historians&#8217; Clearinghouse</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/28/historians-clearinghouse/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/28/historians-clearinghouse/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

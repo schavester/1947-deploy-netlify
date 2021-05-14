@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>signage &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/signage-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/signage-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:55:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>signage &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Signs of the Times</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/06/signs-of-the-times/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/06/signs-of-the-times/#respond</comments>
+		<link>https://1947project.com/2006/11/06/signs-of-the-times/</link>
+					<comments>https://1947project.com/2006/11/06/signs-of-the-times/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2006 04:30:05 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[signs]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 5, 1907Los Angeles Just as an innocent toke of reefer leads to a lifetime of laudanum addiction, everybody knows that electric signs lead to&#8230;neon! Neon wouldn&#8217;t be introduced to the United States until 1923 (specifically, at the Earl C. Anthony Packard dealership, 10th &#38; Hope Street).&#160; That first reefer toke, though&#8230;that was the electric&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/06/signs-of-the-times/">Continue reading <span class="screen-reader-text">Signs of the Times</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/06/signs-of-the-times/">Signs of the Times</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 5, 1907Los Angeles Just as an innocent toke of reefer leads to a lifetime of laudanum addiction, everybody knows that electric signs lead to&#8230;neon! Neon wouldn&#8217;t be introduced to the United States until 1923 (specifically, at the Earl C. Anthony Packard dealership, 10th &#38; Hope Street).&#160; That first reefer toke, though&#8230;that was the electric&#8230; <a class="more-link" href="https://1947project.com/2006/11/06/signs-of-the-times/">Continue reading <span class="screen-reader-text">Signs of the Times</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/06/signs-of-the-times/">Signs of the Times</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -61,21 +61,21 @@
 <p>While this type of signage violates numerous and sundry City ordinances, the Board of Public Works has ignored similar signs in the downtown area that advertise caf&eacute;s and theaters, who are crying foul in that municipal authorities have allowed such signs to hang for the last year.&nbsp; Because of Jeffries&rsquo; transgression, he and all other sign owners received letters from the City Attorney demanding the removal of any and all projecting signage, the worry being that should these signs become commonplace, &ldquo;the sidewalks would be converted into tunnels darkened and obstructed by a covering of advertising signs.&rdquo; </p>
 <p>Moreover, a proposed ordinance shall prohibit signage advertising liquor.&nbsp; Can this be?</p>
 <p>Mayor Harper stands firm.&nbsp; What will become of our city?</p>
-<p><img loading="lazy" width="256" height="405" border="0" align="bottom" src="//static.flickr.com/122/290179644_6b47e5b767_o.jpg" alt="electricyouth" title="electricyouth" />Here&rsquo;s a vision of the future:&nbsp; electric signage along Broadway, ca. 1920, as pictured in, uh, <a href="https://losangelesneonbook.com/" target="_blank">this book</a>.</p>
+<p><img loading="lazy" width="256" height="405" border="0" align="bottom" src="//static.flickr.com/122/290179644_6b47e5b767_o.jpg" alt="electricyouth" title="electricyouth" />Here&rsquo;s a vision of the future:&nbsp; electric signage along Broadway, ca. 1920, as pictured in, uh, <a href="http://losangelesneonbook.com/" target="_blank">this book</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/06/signs-of-the-times/">Signs of the Times</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/06/signs-of-the-times/">Signs of the Times</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/06/signs-of-the-times/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/06/signs-of-the-times/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Route 66 Begins</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/#respond</comments>
+		<link>https://1947project.com/2006/06/23/route-66-begins/</link>
+					<comments>https://1947project.com/2006/06/23/route-66-begins/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 23 Jun 2006 15:55:09 +0000</pubDate>
@@ -87,21 +87,21 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>June 23, 1907 Los Angeles The Auto Club of Southern California has begun posting white enamel signs with blue lettering along Foothill Boulevard between Los Angeles and Riverside. Spending about half a day, auto club President George Allen Hancock and Charles Fuller Gates, who is in charge of the county</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://static.flickr.com/58/173294595_a47eb84240.jpg?v=0"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 226px; height: 239px;" src="//static.flickr.com/58/173294595_a47eb84240.jpg?v=0" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://flickr.com/photos/51138117@N00/173294595/"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//flickr.com/photos/51138117@N00/173294595/" alt="" border="0" /></a><span style="font-size:100%;">June 23, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/58/173294595_a47eb84240.jpg?v=0"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 226px; height: 239px;" src="//static.flickr.com/58/173294595_a47eb84240.jpg?v=0" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://flickr.com/photos/51138117@N00/173294595/"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//flickr.com/photos/51138117@N00/173294595/" alt="" border="0" /></a><span style="font-size:100%;">June 23, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The Auto Club of Southern California has begun posting white enamel signs with blue lettering along Foothill Boulevard between Los Angeles and Riverside.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Spending about half a day, auto club President George Allen Hancock and Charles Fuller Gates, who is in charge of the county</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/23/route-66-begins/">Route 66 Begins</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/23/route-66-begins/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/23/route-66-begins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

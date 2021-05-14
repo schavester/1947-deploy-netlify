@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>tourism &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/tourism-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/tourism-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:14:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>tourism &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Esotouric Named Best Tours by the Downtown News</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/#respond</comments>
+		<link>https://1947project.com/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/</link>
+					<comments>https://1947project.com/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 22 Jul 2007 16:34:04 +0000</pubDate>
@@ -45,29 +45,29 @@
 		<category><![CDATA[downtown news]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>We&#8217;re very happy to announce that the best of issue of the Downtown News is on the stands, and Esotouric has been named Best Tours. In 2005, Kim Cooper, Larry Harnisch and Nathan Marsak created the 1947project, a blog that chronicled a different L.A. crime for each day of that year. The project was such&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/">Continue reading <span class="screen-reader-text">Esotouric Named Best Tours by the Downtown News</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/">Esotouric Named Best Tours by the Downtown News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>We&#8217;re very happy to announce that the best of issue of the Downtown News is on the stands, and Esotouric has been named Best Tours. In 2005, Kim Cooper, Larry Harnisch and Nathan Marsak created the 1947project, a blog that chronicled a different L.A. crime for each day of that year. The project was such&#8230; <a class="more-link" href="https://1947project.com/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/">Continue reading <span class="screen-reader-text">Esotouric Named Best Tours by the Downtown News</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/">Esotouric Named Best Tours by the Downtown News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>We&#8217;re very happy to announce that the best of issue of the <a href="https://www.downtownnews.com/articles/2007/07/23/news/news04.txt" target="_blank">Downtown News</a> is on the stands, and Esotouric has been named Best Tours. </p>
+<p>We&#8217;re very happy to announce that the best of issue of the <a href="http://www.downtownnews.com/articles/2007/07/23/news/news04.txt" target="_blank">Downtown News</a> is on the stands, and Esotouric has been named Best Tours. </p>
 <blockquote><p>In 2005, Kim Cooper, Larry Harnisch and Nathan Marsak created the 1947project, a blog that chronicled a different L.A. crime for each day of that year. The project was such a success that they followed up with a similar blog detailing the sordid affairs of 1907 and 1927. Now, Cooper and others lead excursions for a tour bus company called Esotouric. The four- or five-hour adventures canvass the city, highlighting crime sites from the heinous to the quirky. This summer, Esotouric debuted &quot;John Fante&#8217;s Dreams of Bunker Hill,&quot; which visited the Downtown haunts of Arturo Bandini, the protagonist of Fante&#8217;s 1939 novel <em>Ask the Dust.</em> In August, don&#8217;t miss the Charles Bukowski birthday tour, which celebrates what would have been the author&#8217;s 87th birthday. At esotouric.com<em>.-LL</em></p></blockquote>
 <p>Well, if the Downtown News thinks we&#8217;re doing something right with our Black Dahlia, John Fante and other downtown-centered tours, the least we can do to say thanks is to offer two new bus tours celebrating the neighborhood as it was in the wild old days. </p>
-<p>So on September 8, we&#8217;ll launch our first 90-minute Crime Bus tours, the back-to-back <a href="https://www.esotouric.com/hotelhorrors-sept8" target="_blank">Hotel Horrors</a> and <a href="https://www.esotouric.com/mainstreetvice-sept8" target="_blank">Main Street Vice</a>, with a cocktail/snack break between. You can ride one for $25 or both for $45, and we hope the lower price and shorter running time will be an opportunity for folks who&#8217;ve been wanting to ride for a while to join us. See you on the bus!</p>
+<p>So on September 8, we&#8217;ll launch our first 90-minute Crime Bus tours, the back-to-back <a href="http://www.esotouric.com/hotelhorrors-sept8" target="_blank">Hotel Horrors</a> and <a href="http://www.esotouric.com/mainstreetvice-sept8" target="_blank">Main Street Vice</a>, with a cocktail/snack break between. You can ride one for $25 or both for $45, and we hope the lower price and shorter running time will be an opportunity for folks who&#8217;ve been wanting to ride for a while to join us. See you on the bus!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/">Esotouric Named Best Tours by the Downtown News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/">Esotouric Named Best Tours by the Downtown News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/22/esotouric-named-best-tours-by-the-downtown-news/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Come Ride the Crime Bus</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/10/come-ride-the-crime-bus/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/10/come-ride-the-crime-bus/#comments</comments>
+		<link>https://1947project.com/2007/05/10/come-ride-the-crime-bus/</link>
+					<comments>https://1947project.com/2007/05/10/come-ride-the-crime-bus/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 10 May 2007 03:49:42 +0000</pubDate>
@@ -76,26 +76,26 @@
 		<category><![CDATA[tourism]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#8230;and beyond! The Crime Bus now sails under the Esotouric flag, offering bus adventures into the secret heart of Los Angeles. Kindly visit our new site for the scoop on exciting new tours like James Ellroy Digs LA, Raymond Chandler&#8217;s Los Angeles, John Fante&#8217;s Dreams of Bunker Hill, Reyner Banham Loves Los Angeles, Hotel Horrors&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/10/come-ride-the-crime-bus/">Continue reading <span class="screen-reader-text">Come Ride the Crime Bus</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/10/come-ride-the-crime-bus/">Come Ride the Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#8230;and beyond! The Crime Bus now sails under the Esotouric flag, offering bus adventures into the secret heart of Los Angeles. Kindly visit our new site for the scoop on exciting new tours like James Ellroy Digs LA, Raymond Chandler&#8217;s Los Angeles, John Fante&#8217;s Dreams of Bunker Hill, Reyner Banham Loves Los Angeles, Hotel Horrors&#8230; <a class="more-link" href="https://1947project.com/2007/05/10/come-ride-the-crime-bus/">Continue reading <span class="screen-reader-text">Come Ride the Crime Bus</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/10/come-ride-the-crime-bus/">Come Ride the Crime Bus</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>&#8230;and beyond! The Crime Bus now sails under the Esotouric flag, offering bus adventures into the secret heart of Los Angeles. Kindly visit our <a href="https://www.esotouric.com/" target="_self">new site</a> for the scoop on exciting new tours like James Ellroy Digs LA, Raymond Chandler&#8217;s Los Angeles, John Fante&#8217;s Dreams of Bunker Hill, Reyner Banham Loves Los Angeles, Hotel Horrors and Main Street Vice.</p>
+<p>&#8230;and beyond! The Crime Bus now sails under the Esotouric flag, offering bus adventures into the secret heart of Los Angeles. Kindly visit our <a href="http://www.esotouric.com/" target="_self">new site</a> for the scoop on exciting new tours like James Ellroy Digs LA, Raymond Chandler&#8217;s Los Angeles, John Fante&#8217;s Dreams of Bunker Hill, Reyner Banham Loves Los Angeles, Hotel Horrors and Main Street Vice.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/10/come-ride-the-crime-bus/">Come Ride the Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/10/come-ride-the-crime-bus/">Come Ride the Crime Bus</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/10/come-ride-the-crime-bus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/10/come-ride-the-crime-bus/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Twelve Gelatos to Honor the Black Dahlia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/#respond</comments>
+		<link>https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/</link>
+					<comments>https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 05 Sep 2006 20:36:57 +0000</pubDate>
@@ -110,8 +110,8 @@
 		<category><![CDATA[unsolved]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The following is from our latest 1947project press release&#8230; even if you don&#8217;t ride the Crime Bus, you can still enjoy these treats at Scoops at 712 N. Heliotrope Dr., just north of Melrose, on Friday 9/15 and Saturday 9/16 from 12pm-9pm. LOS ANGELES- All Elizabeth Short wanted in life was to be someone. Now,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Continue reading <span class="screen-reader-text">Twelve Gelatos to Honor the Black Dahlia</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The following is from our latest 1947project press release&#8230; even if you don&#8217;t ride the Crime Bus, you can still enjoy these treats at Scoops at 712 N. Heliotrope Dr., just north of Melrose, on Friday 9/15 and Saturday 9/16 from 12pm-9pm. LOS ANGELES- All Elizabeth Short wanted in life was to be someone. Now,&#8230; <a class="more-link" href="https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Continue reading <span class="screen-reader-text">Twelve Gelatos to Honor the Black Dahlia</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>The following is from our latest 1947project press release&#8230; even if you don&#8217;t ride the Crime Bus, you can still enjoy these treats at Scoops at 712 N. Heliotrope Dr., just north of Melrose, on Friday 9/15 and Saturday 9/16 from 12pm-9pm. </p>
@@ -121,18 +121,18 @@
 <p>As the Crime Bus winds it way towards its downtown conclusion, the passengers will coming closer to a very special treat. The 1947project asked avant-garde gelato maker Tai Kim of Scoops in East Hollywood to create a new flavor, named after the Black Dahlia, to honor her memory and provide sustenance to the brave Crime Bus passengers. Tai responded by developing not one but twelve unique flavors, each of which reflects Elizabeth Short and her time and city: 1947 Los Angeles. These special gelatos will only be available on Friday 9/15 and Saturday 9/16, and on Sunday 9/17 for Crime Bus passengers exclusively.</p>
 <p>So what does the Black Dahlia gelato taste like? According to Tai, like White Licorice (an anise and lemon blend), Black Tea and Rosewater, Blackberry and Orange Blossom, Pomegranate and Poppy Seed, Blood Orange Sorbet, Black Currant with Blueberry and Anise Sorbet, Dark Chocolate and Raspberry, White Chocolate and Black Sea Salt Mousse, White Chocolate and Cranberry Syrup, Vanilla and Whiskey and Jasmine Tea and Raisin. An additional offering is Chunky Apple Rum, a flavor that was popular in the 1940s and which Elizabeth Short may have enjoyed in life.</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/">Twelve Gelatos to Honor the Black Dahlia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/05/twelve-gelatos-to-honor-the-black-dahlia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Seats now available on The Halloween Horrors Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 28 Aug 2006 17:46:48 +0000</pubDate>
@@ -147,31 +147,31 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[1947]]></category>
 		<category><![CDATA[halloween]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! NEW TOUR: Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Continue reading <span class="screen-reader-text">Seats now available on The Halloween Horrors Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! NEW TOUR: Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More&#8230; <a class="more-link" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Continue reading <span class="screen-reader-text">Seats now available on The Halloween Horrors Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Join us, gentle rider, on the Crime Bus!  </p>
-<p><strong>NEW TOUR:</strong> Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More info <a target="_self" href="https://pensive-torvalds-020d34.netlify.app/?p=1706">here</a>. </p>
-<p><strong>UPDATE: </strong>The October 21 tour has nearly sold out, so we have added a second bus on Sunday October 22, 1pm-6pm. If interested in tickets for Sunday or Saturday , please <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_self">contact us</a> to reserve, then you may either send a check or pay with Paypal <a href="https://www.dumplinglab.com/crimebus/" target="_blank">here</a>. Seats are $47/person, which includes Halloween-flavored Scoops gelato. Departure location &#8211; a metro station near downtown LA, provided to all passengers close to tour time.</p>
+<p><strong>NEW TOUR:</strong> Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More info <a target="_self" href="https://1947project.com/?p=1706">here</a>. </p>
+<p><strong>UPDATE: </strong>The October 21 tour has nearly sold out, so we have added a second bus on Sunday October 22, 1pm-6pm. If interested in tickets for Sunday or Saturday , please <a href="http://www.47upgradepath7.richardschave.com//feedback" target="_self">contact us</a> to reserve, then you may either send a check or pay with Paypal <a href="http://www.dumplinglab.com/crimebus/" target="_blank">here</a>. Seats are $47/person, which includes Halloween-flavored Scoops gelato. Departure location &#8211; a metro station near downtown LA, provided to all passengers close to tour time.</p>
 <p><strong>AND YES:</strong> Passengers are welcome to wear costumes!&nbsp; &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Accepting pre-reservations on next two crime bus tours</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/#respond</comments>
+		<link>https://1947project.com/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/</link>
+					<comments>https://1947project.com/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 17 Aug 2006 17:40:52 +0000</pubDate>
@@ -185,8 +185,8 @@
 		<category><![CDATA[halloween]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle rider, The Crime Bus Tour will ride again in September and October, and while final details are still being worked out before we can begin selling tickets, we are accepting pre-reservations to make it easier for interested passengers to fit us into their schedules. Note that our regular 5 hour Crime Bus tours cost&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/">Continue reading <span class="screen-reader-text">Accepting pre-reservations on next two crime bus tours</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/">Accepting pre-reservations on next two crime bus tours</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle rider, The Crime Bus Tour will ride again in September and October, and while final details are still being worked out before we can begin selling tickets, we are accepting pre-reservations to make it easier for interested passengers to fit us into their schedules. Note that our regular 5 hour Crime Bus tours cost&#8230; <a class="more-link" href="https://1947project.com/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/">Continue reading <span class="screen-reader-text">Accepting pre-reservations on next two crime bus tours</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/">Accepting pre-reservations on next two crime bus tours</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -196,21 +196,21 @@
 <p>The upcoming tours are as follows:  </p>
 <p>1) The Real Black Dahlia, Saturday 9/16 and perhaps also Sunday 9/17 (to coincide with opening weekend of the Black Dahlia film), in which we will visit many of the places Elizabeth Short actually frequented during her time in Los Angeles, including the spot where her body was found. The tour also includes scenes familiar from many of the weird theories surrounding her death, and a presentation by myself and Nathan on Dr. Walter Bayley, the only viable suspect ever proposed by a crime researcher, our 1947project colleague Larry Harnisch. </p>
 <p>2) Halloween Horrors, Saturday 10/21, our darkest tour yet, featuring the most horrible, weird and disturbing stories uncovered in our researches. This tour is not recommended for children or the faint of heart, and you might want to bring your own barf bag. </p>
-<p>If interested in either tour, please <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_blank">email me</a> with your name, phone number, and number of tickets desired. For the Dahlia tour, note if you can attend Saturday, Sunday or either. This does not obligate you to buy tickets, but you&#8217;ll get first crack at them when they are available. If it&#8217;s the Pasadena Confidential tour you wish to ride, let me know, as it will give us an idea of the demand and help determine when to schedule the next run.</p>
+<p>If interested in either tour, please <a href="http://www.47upgradepath7.richardschave.com//feedback" target="_blank">email me</a> with your name, phone number, and number of tickets desired. For the Dahlia tour, note if you can attend Saturday, Sunday or either. This does not obligate you to buy tickets, but you&#8217;ll get first crack at them when they are available. If it&#8217;s the Pasadena Confidential tour you wish to ride, let me know, as it will give us an idea of the demand and help determine when to schedule the next run.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/">Accepting pre-reservations on next two crime bus tours</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/">Accepting pre-reservations on next two crime bus tours</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/17/accepting-pre-reservations-on-next-two-crime-bus-tours/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pasadena Weekly Puts Crimebo and Pals on its Cover</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/#respond</comments>
+		<link>https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/</link>
+					<comments>https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2006 14:29:02 +0000</pubDate>
@@ -228,27 +228,27 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>All the world loves a clown&#8230; especially a Crime clown! And when the editor of Pasadena Weekly heard about Crimebo, he upgraded Carl Kozlowski&#8217;s planned feature on the Pasadena Confidential tour from the arts section to the cover! Sneak a peek, online or in person, and don&#8217;t miss Matt Craig&#8217;s evocative photos.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/205715990/"><img loading="lazy" width="360" height="487" border="0" alt="1947project on the Pasadena Weekly cover" src="//static.flickr.com/95/205715990_2d2ff80da1_o.jpg" /></a> </p>
-<p>All the world loves a clown&#8230; especially a Crime clown! And when the editor of <em>Pasadena Weekly</em> heard about Crimebo, he upgraded Carl Kozlowski&#8217;s planned feature on the Pasadena Confidential tour from the arts section to the cover! Sneak a peek, <a href="https://www.pasadenaweekly.com/article.php?id=3707&#038;IssueNum=31" target="_blank">online</a> or in person, and don&#8217;t miss Matt Craig&#8217;s evocative photos.</p>
-<p> <a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/205715991/"><img loading="lazy" width="275" height="412" border="0" alt="1947project in the Pasadena Weekly interior" src="//static.flickr.com/75/205715991_c4999cb37b_o.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/205715990/"><img loading="lazy" width="360" height="487" border="0" alt="1947project on the Pasadena Weekly cover" src="//static.flickr.com/95/205715990_2d2ff80da1_o.jpg" /></a> </p>
+<p>All the world loves a clown&#8230; especially a Crime clown! And when the editor of <em>Pasadena Weekly</em> heard about Crimebo, he upgraded Carl Kozlowski&#8217;s planned feature on the Pasadena Confidential tour from the arts section to the cover! Sneak a peek, <a href="http://www.pasadenaweekly.com/article.php?id=3707&#038;IssueNum=31" target="_blank">online</a> or in person, and don&#8217;t miss Matt Craig&#8217;s evocative photos.</p>
+<p> <a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/205715991/"><img loading="lazy" width="275" height="412" border="0" alt="1947project in the Pasadena Weekly interior" src="//static.flickr.com/75/205715991_c4999cb37b_o.jpg" /></a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2006 16:00:04 +0000</pubDate>
@@ -264,28 +264,28 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[bus]]></category>
 		<category><![CDATA[horror]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
+<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
 <p><em><strong>Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. </strong></em></p>
-<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="https://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
+<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="http://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
 <p><em><strong /></em></p>
 <p>About the tour: By popular demand, and following many nights terrifying ourselves reading grisly old news reports until falling into fitfull sleep, our <strong>Pasadena Confidential </strong>crime bus tour rolls on Sunday, August 6, from 10am-3pm. This five-hour luxury coach tour offers surprising insights into the often weird and horrible history of the Crown City, from the infamous to the forgotten. Tickets are $47 per person, and include cookies and home-made lemonade. </p>
 <p>From celebrated cases like the RFK assassination (with a visit to Sirhan Sirhan&#8217;s folks&#8217; house), &quot;Eraserhead&quot; star Jack Nance&#8217;s strange end, black magician/rocket scientist Jack Parsons&#8217; death-by-misadventure and the 1926 Rose Parade grand stand collapse, to fascinating obscurities, the tour&#8217;s dozens of murders, arsons, kidnappings, robberies, suicides, auto wrecks and oddball happening sites provide a alternate history of Pasadena that&#8217;s as fascinating as it is creepy.</p>
 <p> Crime Bus passengers will tour the old Millionaire&#8217;s Row on Orange Grove, thrill to the shocking Sphinx Murder on the steps of the downtown Masonic Hall, wonder about the unknown fiend who sneaked past a little girl to poison her father&#8217;s beer, discover why people named Judd should think twice before moving to Pasadena, and explore the racist spirit of the early 20th century through two forgotten stories: that of a Chinaman with leprosy whose suicide by hanging was treated as a novel entertainment by hundreds of citizens, and the case of wealthy mulatto Archie Hill, who shot a white trolley ticket-taker dead for shortchanging him.  </p>
-<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="https://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
+<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="http://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
 <p><strong><em><strong><strong>Disclaimer</strong>: Although it is extremely unlikely, the organizers reserve the right to postpone the tour in the event of extreme weather, riot, act of war or plague. Refunds may be available no more than 72 hours before the tour departs, and at the discretion of the organizers. You may substitute an alternate passenger&#8217;s name if you are unable to attend. We regret that there are no refunds for people who miss the bus. Potential passengers may call Kim at 323-223-2767 or email with any questions. </strong></em><strong><br /> </strong></strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

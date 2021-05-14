@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>weird &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/weird-11/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/weird-11/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:14:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>weird &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Our Seasonal Gift Selections</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/03/our-seasonal-gift-selections/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/03/our-seasonal-gift-selections/#respond</comments>
+		<link>https://1947project.com/2007/12/03/our-seasonal-gift-selections/</link>
+					<comments>https://1947project.com/2007/12/03/our-seasonal-gift-selections/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 03 Dec 2007 17:39:59 +0000</pubDate>
@@ -45,35 +45,35 @@
 		<category><![CDATA[spooky]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle reader, Comes the season when the people who put up with you all year begin to make subtle and not so subtle suggestions that they expect to be compensated for this. Are you going to be one of those bad dads or dull honeys whose gifts end up in the hall closet, only to&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/03/our-seasonal-gift-selections/">Continue reading <span class="screen-reader-text">Our Seasonal Gift Selections</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/03/our-seasonal-gift-selections/">Our Seasonal Gift Selections</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle reader, Comes the season when the people who put up with you all year begin to make subtle and not so subtle suggestions that they expect to be compensated for this. Are you going to be one of those bad dads or dull honeys whose gifts end up in the hall closet, only to&#8230; <a class="more-link" href="https://1947project.com/2007/12/03/our-seasonal-gift-selections/">Continue reading <span class="screen-reader-text">Our Seasonal Gift Selections</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/03/our-seasonal-gift-selections/">Our Seasonal Gift Selections</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Gentle reader,</p>
 <p>Comes the season when the people who put up with you all year begin to make subtle and not so subtle suggestions that they expect to be <em>compensated</em> for this. Are you going to be one of those bad dads or dull honeys whose gifts end up in the hall closet, only to be regifted in some humiliating Secret Santa scenario? Or are you going to listen to your pals from 1947project, and make the holidays a little more <em>interesting?</em>&nbsp;</p>
-<p>Does your beloved enjoy tales of historic American misery and death? Why then, they&#8217;ll be wanting the gorgeous new box set compilation <a href="https://www.amazon.com/exec/obidos/ASIN/B000ULQV20/ref=nosim/bubblegumbook" target="_blank"><em><span class="sans">People Take Warning! Murder Ballads &amp; Disaster Songs 1913-1938</span></em></a>. It&#8217;s packed with ships a-sinking, trains derailing, prisons a-burning, mines a-blowing, rain not falling, weavils munching, fiends, quakes and nightmares galore.</p>
-<p><img loading="lazy" width="240" height="240" border="0" align="left" src="//ecx.images-amazon.com/images/I/51kpWzDqL9L._AA240_.jpg" />Or do their tastes run more towards Continental miseries? If so, Luc Sante&#8217;s new translation of Felix F&eacute;n&eacute;on&#8217;s  <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FNovels-Three-Lines-Review-Classics%2Fdp%2F1590172302%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196704317%26sr%3D8-3&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Novels in Three Lines</a></em> will pique their schadenfreude. F&eacute;n&eacute;on was a fascinating Parisian character who, as a sideline to his involvement with bomb-throwing anarchists, editing of Rimbaud and Lautr&eacute;amont and discovery of Georges Seurat, contributed an extraordinary series of brief criminal and oddball news stories to the daily paper <em>Le Matin</em> in 1906. Imagine one of the more complex 1947project tales compressed down to its suggestive essense and you have F&eacute;n&eacute;on&#8217;s evocative and poetic formula. Sante&#8217;s elegant translation captures the poignancy, mystery and eternal grace of the otherwise forgotten traumas of one hundred years ago.</p>
-<p><img loading="lazy" width="240" height="240" border="0" align="right" src="//ecx.images-amazon.com/images/I/51ZsTF3axcL._AA240_.jpg" />Cuddle up together and cock yer ears to the sounds that made great-grandad guffaw: <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FActionable-Offenses-Indecent-Phonograph-Recordings%2Fdp%2FB000QEK41U%2F&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Actionable Offenses: Indecent Phonograph Recordings from the 1890s,</a></em>&nbsp; featuring &quot;The Tapeworm Story,&quot; &quot;The Virtues of Raw Oysters&quot; and &quot;Learning a City Gal How to Milk.&quot; Or read aloud from <a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FBlack-Lizard-Book-Pulps-Age%2Fdp%2F0307280489%2F&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"><em>The Black Lizard Big Book of Pulps: The Best Crime Stories from the Pulps During Their Golden Age, The &#8217;20s, &#8217;30s &amp; &#8217;40s</em></a>, which has short stories by recognized masters Chandler, Hammett, Cain, Gardner and Wollrich, and some newly unearthed rarities.</p>
+<p>Does your beloved enjoy tales of historic American misery and death? Why then, they&#8217;ll be wanting the gorgeous new box set compilation <a href="http://www.amazon.com/exec/obidos/ASIN/B000ULQV20/ref=nosim/bubblegumbook" target="_blank"><em><span class="sans">People Take Warning! Murder Ballads &amp; Disaster Songs 1913-1938</span></em></a>. It&#8217;s packed with ships a-sinking, trains derailing, prisons a-burning, mines a-blowing, rain not falling, weavils munching, fiends, quakes and nightmares galore.</p>
+<p><img loading="lazy" width="240" height="240" border="0" align="left" src="//ecx.images-amazon.com/images/I/51kpWzDqL9L._AA240_.jpg" />Or do their tastes run more towards Continental miseries? If so, Luc Sante&#8217;s new translation of Felix F&eacute;n&eacute;on&#8217;s  <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FNovels-Three-Lines-Review-Classics%2Fdp%2F1590172302%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196704317%26sr%3D8-3&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Novels in Three Lines</a></em> will pique their schadenfreude. F&eacute;n&eacute;on was a fascinating Parisian character who, as a sideline to his involvement with bomb-throwing anarchists, editing of Rimbaud and Lautr&eacute;amont and discovery of Georges Seurat, contributed an extraordinary series of brief criminal and oddball news stories to the daily paper <em>Le Matin</em> in 1906. Imagine one of the more complex 1947project tales compressed down to its suggestive essense and you have F&eacute;n&eacute;on&#8217;s evocative and poetic formula. Sante&#8217;s elegant translation captures the poignancy, mystery and eternal grace of the otherwise forgotten traumas of one hundred years ago.</p>
+<p><img loading="lazy" width="240" height="240" border="0" align="right" src="//ecx.images-amazon.com/images/I/51ZsTF3axcL._AA240_.jpg" />Cuddle up together and cock yer ears to the sounds that made great-grandad guffaw: <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FActionable-Offenses-Indecent-Phonograph-Recordings%2Fdp%2FB000QEK41U%2F&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Actionable Offenses: Indecent Phonograph Recordings from the 1890s,</a></em>&nbsp; featuring &quot;The Tapeworm Story,&quot; &quot;The Virtues of Raw Oysters&quot; and &quot;Learning a City Gal How to Milk.&quot; Or read aloud from <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FBlack-Lizard-Book-Pulps-Age%2Fdp%2F0307280489%2F&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"><em>The Black Lizard Big Book of Pulps: The Best Crime Stories from the Pulps During Their Golden Age, The &#8217;20s, &#8217;30s &amp; &#8217;40s</em></a>, which has short stories by recognized masters Chandler, Hammett, Cain, Gardner and Wollrich, and some newly unearthed rarities.</p>
 <p><img border="0" align="left" src="//ecx.images-amazon.com/images/I/51XATT9CEYL._AA240_.jpg" /></p>
-<p>If it&#8217;s images of early Los Angeles that scratch your dear one&#8217;s itch, there are some fine new books to suit, among them Marc Wanamaker and Robert Nudelman&#8217;s Images of America compilation <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FEarly-Hollywood-CA-Images-America%2Fdp%2F0738547921%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196705560%26sr%3D8-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Early Hollywood</a></em> and Sam Watters&#8217; two-volume <em>Houses of Los Angeles</em>, for which you can pick your period poison: <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FHouses-Los-Angeles-1885-1919-Watters%2Fdp%2F0926494309%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196705403%26sr%3D8-2&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">1885-1919</a></em> or <a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FHouses-Los-Angeles-1920-1935-Watters%2Fdp%2F0926494317%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196705403%26sr%3D8-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"><em>1920-1935</em>.</a> (And you already gave &#8217;em a copy of <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FCalifornia-Crazy-Beyond-Vernacular-Architecture%2Fdp%2F0811830187%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196709773%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">California Crazy and Beyond: Roadside Vernacular Architecture</a></em>, right? Of course you did!)&nbsp;</p>
-<p><img loading="lazy" width="93" height="120" border="0" align="right" src="//ecx.images-amazon.com/images/I/21NPMRA4gSL._PIsitb-dp-arrow,TopRight,15,-22_OU01_SL120_.jpg" />Then, too, you might wish to patronise the works of our 1947project contributors, like Nathan&#8217;s <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FLos-Angeles-Neon-Nathan-Marsak%2Fdp%2F0764315420%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196706310%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Los Angeles Neon</a></em> or Lynn&#8217;s <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FCollege-Girls-Bluestockings-Kittens-Co-Eds%2Fdp%2F0393327159%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196706485%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"> College Girls: Bluestockings, Sex Kittens, and Co-Eds, Then and Now</a></em> or Kim&#8217;s <em><a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FNeutral-Milk-Hotels-Aeroplane-Over%2Fdp%2F082641690X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196706564%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Neutral Milk Hotel&#8217;s &#8216;In the Aeroplane Over the Sea.&#8217;</a></em> Or get two of us in one go by picking up <a href="https://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FTaking-Things-Seriously-Unexpected-Significance%2Fdp%2F1568986904%2F&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"><em>T</em><em>aking Things Seriously: 75 Objects with Unexpected Significance</em></a>, Josh Glenn and Carol Hayes&#8217; anthology of things and their stories from the collections of Kim, Lynn and 73 other deranged hoarders<em>, </em>among them Bill &quot;Zippy&quot; Griffith, James Kocholka, Lisa Carver, Thomas Frank, Tony Millionaire and Luc Sante. None of whom is the owner of the book&#8217;s most popular object, Christopher Walken&#8217;s bagel.</p>
-<p>Or give &#8217;em an Esotouric <a target="_blank" href="https://www.esotouric.com/taxonomy/term/8">gift certificate</a>, one, two, three or four seats aboard the most interesting bus tours in the Southland, and a <a target="_blank" href="https://www.esotouric.com/chandlermap">Raymond Chandler Mystery Map</a> by which to plot noirish adventures of their own. Or engage <a href="https://esotouric.com/crimebo" target="_blank">Crimebo to Clown</a> to come over and put on a &quot;private&quot; show! And if you&#8217;ve ridden the Esotouric bus this year, don&#8217;t forget we&#8217;ve got a 2-for-1 seat offer on the James M. Cain <a target="_blank" href="https://www.esotouric.com/cain-12-15-07">tour</a> on 12/15. </p>
+<p>If it&#8217;s images of early Los Angeles that scratch your dear one&#8217;s itch, there are some fine new books to suit, among them Marc Wanamaker and Robert Nudelman&#8217;s Images of America compilation <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FEarly-Hollywood-CA-Images-America%2Fdp%2F0738547921%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196705560%26sr%3D8-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Early Hollywood</a></em> and Sam Watters&#8217; two-volume <em>Houses of Los Angeles</em>, for which you can pick your period poison: <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FHouses-Los-Angeles-1885-1919-Watters%2Fdp%2F0926494309%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196705403%26sr%3D8-2&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">1885-1919</a></em> or <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FHouses-Los-Angeles-1920-1935-Watters%2Fdp%2F0926494317%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196705403%26sr%3D8-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"><em>1920-1935</em>.</a> (And you already gave &#8217;em a copy of <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FCalifornia-Crazy-Beyond-Vernacular-Architecture%2Fdp%2F0811830187%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196709773%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">California Crazy and Beyond: Roadside Vernacular Architecture</a></em>, right? Of course you did!)&nbsp;</p>
+<p><img loading="lazy" width="93" height="120" border="0" align="right" src="//ecx.images-amazon.com/images/I/21NPMRA4gSL._PIsitb-dp-arrow,TopRight,15,-22_OU01_SL120_.jpg" />Then, too, you might wish to patronise the works of our 1947project contributors, like Nathan&#8217;s <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FLos-Angeles-Neon-Nathan-Marsak%2Fdp%2F0764315420%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196706310%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Los Angeles Neon</a></em> or Lynn&#8217;s <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FCollege-Girls-Bluestockings-Kittens-Co-Eds%2Fdp%2F0393327159%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196706485%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"> College Girls: Bluestockings, Sex Kittens, and Co-Eds, Then and Now</a></em> or Kim&#8217;s <em><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FNeutral-Milk-Hotels-Aeroplane-Over%2Fdp%2F082641690X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1196706564%26sr%3D1-1&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325">Neutral Milk Hotel&#8217;s &#8216;In the Aeroplane Over the Sea.&#8217;</a></em> Or get two of us in one go by picking up <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.com%2FTaking-Things-Seriously-Unexpected-Significance%2Fdp%2F1568986904%2F&#038;tag=bubblegumbook&#038;linkCode=ur2&#038;camp=1789&#038;creative=9325"><em>T</em><em>aking Things Seriously: 75 Objects with Unexpected Significance</em></a>, Josh Glenn and Carol Hayes&#8217; anthology of things and their stories from the collections of Kim, Lynn and 73 other deranged hoarders<em>, </em>among them Bill &quot;Zippy&quot; Griffith, James Kocholka, Lisa Carver, Thomas Frank, Tony Millionaire and Luc Sante. None of whom is the owner of the book&#8217;s most popular object, Christopher Walken&#8217;s bagel.</p>
+<p>Or give &#8217;em an Esotouric <a target="_blank" href="http://www.esotouric.com/taxonomy/term/8">gift certificate</a>, one, two, three or four seats aboard the most interesting bus tours in the Southland, and a <a target="_blank" href="http://www.esotouric.com/chandlermap">Raymond Chandler Mystery Map</a> by which to plot noirish adventures of their own. Or engage <a href="http://esotouric.com/crimebo" target="_blank">Crimebo to Clown</a> to come over and put on a &quot;private&quot; show! And if you&#8217;ve ridden the Esotouric bus this year, don&#8217;t forget we&#8217;ve got a 2-for-1 seat offer on the James M. Cain <a target="_blank" href="http://www.esotouric.com/cain-12-15-07">tour</a> on 12/15. </p>
 <p>But whatever objects or adventures you exchange this season, it&#8217;s our sincere wish that the year&#8217;s end ushers in a time of peace and contentment for you, yours and all of ours. Thanks for reading, and take good care.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/03/our-seasonal-gift-selections/">Our Seasonal Gift Selections</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/03/our-seasonal-gift-selections/">Our Seasonal Gift Selections</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/03/our-seasonal-gift-selections/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/03/our-seasonal-gift-selections/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>CourtTV rides the Crime Bus</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/#respond</comments>
+		<link>https://1947project.com/2006/11/10/courttv-rides-the-crime-bus/</link>
+					<comments>https://1947project.com/2006/11/10/courttv-rides-the-crime-bus/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 10 Nov 2006 15:52:08 +0000</pubDate>
@@ -91,8 +91,8 @@
 		<category><![CDATA[lisa sweetingham]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Lisa Sweetingham of CourtTV rode the Halloween Horrors Crime Bus, and reports in with a charming little feature she calls &#34;The bus ride to hell, and back.&#34; LOS ANGELES &#8212; &#34;Ladies and gentlemen, this tour should not be taken by anyone with a heart condition &#8230; We recommend you leave the bus immediately.&#34; A tour&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/">Continue reading <span class="screen-reader-text">CourtTV rides the Crime Bus</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/">CourtTV rides the Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Lisa Sweetingham of CourtTV rode the Halloween Horrors Crime Bus, and reports in with a charming little feature she calls &#34;The bus ride to hell, and back.&#34; LOS ANGELES &#8212; &#34;Ladies and gentlemen, this tour should not be taken by anyone with a heart condition &#8230; We recommend you leave the bus immediately.&#34; A tour&#8230; <a class="more-link" href="https://1947project.com/2006/11/10/courttv-rides-the-crime-bus/">Continue reading <span class="screen-reader-text">CourtTV rides the Crime Bus</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/10/courttv-rides-the-crime-bus/">CourtTV rides the Crime Bus</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -102,21 +102,21 @@
 <p>So why is there a clown breathing down my neck?</p>
 <p>Crimebo the crime clown (aka Michael Perrick) bares his teeth and purrs in a gravelly voice as he walks down the aisle with a cauldron full of cheap candy, some shaped like eyeballs. &quot;Something sticky?&quot; he offers.</p>
 <p>He pops a balloon animal and quips, &quot;These things just keep committing suicide.&quot;</p>
-<p align="right">Kindly <a href="https://www.courttv.com/news/special/crime_tour/crimetour_102606_ctv.html" target="_blank">click</a> to read on.</p>
+<p align="right">Kindly <a href="http://www.courttv.com/news/special/crime_tour/crimetour_102606_ctv.html" target="_blank">click</a> to read on.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/">CourtTV rides the Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/10/courttv-rides-the-crime-bus/">CourtTV rides the Crime Bus</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/10/courttv-rides-the-crime-bus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/10/courttv-rides-the-crime-bus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Crime Bus Lurches Out of the Fog</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/#comments</comments>
+		<link>https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</link>
+					<comments>https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 22 Oct 2006 03:58:14 +0000</pubDate>
@@ -130,28 +130,28 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[west adams]]></category>
 		<category><![CDATA[crime bus]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/</guid>
 
-					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! We&#8217;re taking a break from our regularly scheduled Crime Bus touring in early 2006 to develop some new and very wild rides, but private tours can still be booked during this time. Typically, public tours run on both days of a weekend about once a month, and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">Continue reading <span class="screen-reader-text">The Crime Bus Lurches Out of the Fog</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! We&#8217;re taking a break from our regularly scheduled Crime Bus touring in early 2006 to develop some new and very wild rides, but private tours can still be booked during this time. Typically, public tours run on both days of a weekend about once a month, and&#8230; <a class="more-link" href="https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">Continue reading <span class="screen-reader-text">The Crime Bus Lurches Out of the Fog</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Join us, gentle rider, on the Crime Bus! We&#8217;re taking a break from our regularly scheduled Crime Bus touring in early 2006 to develop some new and very wild rides, but private tours can still be booked during this time. Typically, public tours run on both days of a weekend about once a month, and prospective passengers can subscribe to our email list&#8211; just click the link at right to be kept informed of all the details. Or watch this site for announcements. </p>
 <p><strong>Tours include&#8230; THE REAL BLACK DAHLIA&#8230; PASADENA CONFIDENTIAL&#8230; WEIRD WEST ADAMS&#8230; NIGHTMARES OF BUNKER HILL&#8230; HALLOWEEN HORRORS&#8230; with more to come.</strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/">The Crime Bus Lurches Out of the Fog</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/22/the-crime-bus-lurches-out-of-the-fog/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/22/the-crime-bus-lurches-out-of-the-fog/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Seats now available on The Halloween Horrors Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 28 Aug 2006 17:46:48 +0000</pubDate>
@@ -166,31 +166,31 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[1947]]></category>
 		<category><![CDATA[halloween]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! NEW TOUR: Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Continue reading <span class="screen-reader-text">Seats now available on The Halloween Horrors Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! NEW TOUR: Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More&#8230; <a class="more-link" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Continue reading <span class="screen-reader-text">Seats now available on The Halloween Horrors Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Join us, gentle rider, on the Crime Bus!  </p>
-<p><strong>NEW TOUR:</strong> Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More info <a target="_self" href="https://pensive-torvalds-020d34.netlify.app/?p=1706">here</a>. </p>
-<p><strong>UPDATE: </strong>The October 21 tour has nearly sold out, so we have added a second bus on Sunday October 22, 1pm-6pm. If interested in tickets for Sunday or Saturday , please <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_self">contact us</a> to reserve, then you may either send a check or pay with Paypal <a href="https://www.dumplinglab.com/crimebus/" target="_blank">here</a>. Seats are $47/person, which includes Halloween-flavored Scoops gelato. Departure location &#8211; a metro station near downtown LA, provided to all passengers close to tour time.</p>
+<p><strong>NEW TOUR:</strong> Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More info <a target="_self" href="https://1947project.com/?p=1706">here</a>. </p>
+<p><strong>UPDATE: </strong>The October 21 tour has nearly sold out, so we have added a second bus on Sunday October 22, 1pm-6pm. If interested in tickets for Sunday or Saturday , please <a href="http://www.47upgradepath7.richardschave.com//feedback" target="_self">contact us</a> to reserve, then you may either send a check or pay with Paypal <a href="http://www.dumplinglab.com/crimebus/" target="_blank">here</a>. Seats are $47/person, which includes Halloween-flavored Scoops gelato. Departure location &#8211; a metro station near downtown LA, provided to all passengers close to tour time.</p>
 <p><strong>AND YES:</strong> Passengers are welcome to wear costumes!&nbsp; &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sunset Junction Map of Infamy in the LA Alternative</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/#respond</comments>
+		<link>https://1947project.com/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/</link>
+					<comments>https://1947project.com/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 25 Aug 2006 20:03:21 +0000</pubDate>
@@ -216,18 +216,18 @@
 		<category><![CDATA[sunset junction]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Original post: The editors of the L.A. Alternative contacted me a few weeks back, asking if I had any ideas for a way to mark the Sunset Junction street festival by looking back at the area&#8217;s criminal past. The result: a cover story featuring a pull-out crime map designed by Heidi Fikstad in which 29&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/">Continue reading <span class="screen-reader-text">Sunset Junction Map of Infamy in the LA Alternative</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/">Sunset Junction Map of Infamy in the LA Alternative</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Original post: The editors of the L.A. Alternative contacted me a few weeks back, asking if I had any ideas for a way to mark the Sunset Junction street festival by looking back at the area&#8217;s criminal past. The result: a cover story featuring a pull-out crime map designed by Heidi Fikstad in which 29&#8230; <a class="more-link" href="https://1947project.com/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/">Continue reading <span class="screen-reader-text">Sunset Junction Map of Infamy in the LA Alternative</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/">Sunset Junction Map of Infamy in the LA Alternative</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><strong>Original post:</strong> The editors of the L.A. Alternative contacted me a few weeks back, asking if I had any ideas for a way to mark the Sunset Junction street festival by looking back at the area&#8217;s criminal past. The result: a cover story featuring a pull-out crime map designed by Heidi Fikstad in which 29 of the more notable criminal happenings of the neighborhood are encapsulated for your edification. You can pick up a paper copy anywhere in L.A. this week, or check it out online <a href="https://www.laalternative.com/index.php/2006/08/25/the-horrifying-bizarre-unnatural-history-of-sunset-junction/ " target="_blank">here</a>. I very much hope that you enjoy, Kim&nbsp;</p>
-<p><strong>Update:</strong> since editor Martin Albornoz chose <a href="https://pensive-torvalds-020d34.netlify.app/?p=1800" target="_self">never to pay me</a> for the Sunset Junction crime map that ran in the L.A. Alternative, yet continues to run ads for L.A.&#8217;s dopest attorney, hot roomates and male dating services alongside the digital version, I&#8217;m going to host my own archival copy right here at 1947project. The art is by <span class="ppt">Heidi Fikstad from images from my personal collection.</span></p>
+<p><strong>Original post:</strong> The editors of the L.A. Alternative contacted me a few weeks back, asking if I had any ideas for a way to mark the Sunset Junction street festival by looking back at the area&#8217;s criminal past. The result: a cover story featuring a pull-out crime map designed by Heidi Fikstad in which 29 of the more notable criminal happenings of the neighborhood are encapsulated for your edification. You can pick up a paper copy anywhere in L.A. this week, or check it out online <a href="http://www.laalternative.com/index.php/2006/08/25/the-horrifying-bizarre-unnatural-history-of-sunset-junction/ " target="_blank">here</a>. I very much hope that you enjoy, Kim&nbsp;</p>
+<p><strong>Update:</strong> since editor Martin Albornoz chose <a href="https://1947project.com/?p=1800" target="_self">never to pay me</a> for the Sunset Junction crime map that ran in the L.A. Alternative, yet continues to run ads for L.A.&#8217;s dopest attorney, hot roomates and male dating services alongside the digital version, I&#8217;m going to host my own archival copy right here at 1947project. The art is by <span class="ppt">Heidi Fikstad from images from my personal collection.</span></p>
 <p><strong> The Horrifying, Bizarre, Unnatural History of Sunset Junction<br />As illustrated by the Map of Infamy</strong></p>
 <p>The strange and unusual multitude of murders, suicides, robberies, car crashes, ukelele beatings, firefighting pups and other odd factual tidbits from the historic era of today&rsquo;s Sunset Junction. </p>
 <p>By Kim Cooper </p>
 <p> Los Angeles is older than she looks-225-and her memory banks are piled high with forgotten oddities that were once big news. To celebrate the Sunset Junction street fair, we wanted to revive some of those memories via a crime geek&rsquo;s digging through the historic L.A. Times. Just like your grandpa might remember when those fools blew their gun shop up every time he tools past in his flivver, you might raise a mental toast to Jac Zinder when driving Sunset Boulevard around November. These memory maps are the soul of our city; we lose so much when they fade. Here is a smattering of historic oddities, to make it a richer neighborhood for whippersnappers of all ages. May all the dead ones rest in peace. </p>
-<p> <a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/458299238/"><img loading="lazy" width="450" height="334" border="0" alt="Sunset Junction Map of Infamy 1" src="//farm1.static.flickr.com/253/458299238_29ac0a4117_o.jpg" /></a></p>
+<p> <a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/458299238/"><img loading="lazy" width="450" height="334" border="0" alt="Sunset Junction Map of Infamy 1" src="//farm1.static.flickr.com/253/458299238_29ac0a4117_o.jpg" /></a></p>
 <p> 1. 3709 Sunset: August 15, 1950- Max Blakeley&rsquo;s gun shop erupted in flames and careening bullets after an employee making a movie prop rifle telescope ignited a box of blank cartridges with acetylene torch sparks. The building was destroyed by a series of explosions, followed by a high intensity fire that melted the burglar bars &ldquo;like limp bananas.&rdquo; Several people inside suffered bullet wounds and smoke inhalation, but somehow no one in the rush-hour traffic along Sunset was hurt. Blakeley told firemen that there had been 85,000 rounds of ammunition and a large quantity of black powder on the premises. Shot through the right shoulder, he estimated his stock losses at $100,000. Also damaged in the incident were a florist, beauty shop, liquor store, dry cleaners and a dress shop, encompassing 3701-3719 Sunset. (Three years later, Blakeley struck and killed a pedestrian near the intersection of Sunset and Edgecliffe.) </p>
 <p> 2. Sunset at Edgecliffe: Thanksgiving night, 1994- Fuzzyland club promoter, DJ and musician Jac Zinder, passenger in a car traveling on Sunset, is killed in a head-on collision with a drunk driver who crossed into oncoming traffic while driving without headlights. </p>
 <p> 3. 3719 Sunset: December 1968- A flower power pigeon has made itself at home in a flower shop. It spends much of each day flying with friends, then zooms in the back door between 3:00 and 3:30 p.m. to nap. The proprietors leave birdseed in a bowl in its favorite niche, and have to duck when opening the door in the morning because the beast is so anxious to soar. </p>
@@ -251,7 +251,7 @@
 <p> 17. 4443 Sunset: November 11, 1947- Somebody has it in for radio shop owner Ted Wells, who got little work done today while dealing with the fallout of this weisenheimer&rsquo;s idea of fun. First there was the $1,000 TV set supposedly ordered by a downtown bar. Ted lugged the bulky machine up the tavern steps, only to discover no one had called. Back at the store, taxis arrived on the hour, seeking phantom fares. The Fire Department showed up looking for a fire, followed by seven LAPD cars responding to a call of a stabbing. Phoned by a reporter, Wells expressed befuddlement as to the identity of his tormentor, then excused himself to answer the door. </p>
 <p> 18. 4473 Sunset: April 18, 1971- Christopher Russell, a 29-year-old transient, emerged from the all-night adult cinema where a robbery alarm had just been pulled, and took a revolver from his back pocket. When he ignored police orders to halt, Officer R. L. Bassett shot him twice in the chest. He was taken to County USC in critical condition; the gun was a plastic toy. </p>
 <p> 19. 4480 Sunset: August 17, 1924- This is the home of Harry Lowe, who, while picnicking with his family near Mint Canyon, discovered a suspicious burial site and alerted the Sheriff on his return to civilization. Deputies returned to the remote site, where they disinterred the remains of a monkey.</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/458299250/"><img loading="lazy" width="450" height="577" border="0" alt="Sunset Junction Map of Infamy 2" src="//farm1.static.flickr.com/176/458299250_b6dbd6f0e2_o.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/458299250/"><img loading="lazy" width="450" height="577" border="0" alt="Sunset Junction Map of Infamy 2" src="//farm1.static.flickr.com/176/458299250_b6dbd6f0e2_o.jpg" /></a></p>
 <p>20. 4413 Camero: December 19, 1922- Although it means giving up a $250,000 legacy dependent on her marrying within her Protestant faith, Mrs. Olga Crane Lynch, 18, today escaped from her father&rsquo;s home where she had been held captive since confessing her September 1st elopement with Catholic T.J. Lynch. She smuggled a note out to her husband who asked the district attorney to intervene. Called to City Hall, Olga&rsquo;s father claimed his daughter had gone to San Francisco for six months &ldquo;to see if she really loves him. I understood that Lynch had acquiesced in this arrangement.&rdquo; Moments later, the girl was brought in by Detective George Contreras, and raced into her husband&rsquo;s arms. &ldquo;I am of age, I love my husband, and I am going to live with him!&rdquo; she declared. Her father told her to go to blazes, and he and his wife stomped out. The young Lynches plan to go to New York. </p>
 <p> 21. Sunset at Micheltorena: December 20, 1914- D.C. Porter visits police to complain about the jitney bus that struck his horse and buggy today, pushing man and beast about 100 feet before dashing them roughly to the pavement. Porter estimated the bus was traveling a potentially deadly 25 mph, and says the driver drove on another half block before striding back to curse at the man and horse tangled in wreckage, demanding Porter reimburse him for the smashed headlights on his machine. (It is unclear if this was the same unlucky D.C. Porter who, in 1908, purchased a revolver from a shop at 313 South Main and accidentally discharged it, causing powder burns to the face of a clerk, damaging two showcases and shattering the plate glass window.) </p>
 <p> 22. Micheltorena &amp; Effie Street: September 5, 1926- Piloting a stock Packard 8, Frank Randall set a record on the Micheltorena grade of 58mph, having turned off Sunset at a full clip. He was then &ldquo;pulled over&rdquo; by LAPD motorcycle speed squad officers Snider and Goldy, who gave Randall a souvenir speeding ticket to commemorate the planned record attempt. Six years later, the makers of the Essex Terraplane used the same grade to prove the hill-climbing power of their vehicle, reaching a top speed of 39.5 mph from a standing start, in high gear, with two passengers. </p>
@@ -265,18 +265,18 @@
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/">Sunset Junction Map of Infamy in the LA Alternative</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/">Sunset Junction Map of Infamy in the LA Alternative</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/25/sunset-junction-map-of-infamy-in-the-la-alternative/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Book Crimebo For Your Event</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/09/book-crimebo-for-your-event/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/09/book-crimebo-for-your-event/#respond</comments>
+		<link>https://1947project.com/2006/08/09/book-crimebo-for-your-event/</link>
+					<comments>https://1947project.com/2006/08/09/book-crimebo-for-your-event/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 09 Aug 2006 19:27:40 +0000</pubDate>
@@ -293,27 +293,27 @@
 		<category><![CDATA[party]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit his page at Esotouric. Interested? Contact us with any questions, or to ask if&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/09/book-crimebo-for-your-event/">Continue reading <span class="screen-reader-text">Book Crimebo For Your Event</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit his page at Esotouric. Interested? Contact us with any questions, or to ask if&#8230; <a class="more-link" href="https://1947project.com/2006/08/09/book-crimebo-for-your-event/">Continue reading <span class="screen-reader-text">Book Crimebo For Your Event</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit <a href="https://www.esotouric.com/crimebo" target="_blank">his page</a> at Esotouric.</p>
-<p>Interested? <a target="_blank" href="https://www.47upgradepath7.richardschave.com//feedback">Contact us</a> with any questions, or to ask if your desired date and time are available. If you want the personalized touch, please include dates of the honoree&#8217;s birthday or anniversary (if different from the event date), so Crimebo can research all the terrible things that happened on that date. </p>
+<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit <a href="http://www.esotouric.com/crimebo" target="_blank">his page</a> at Esotouric.</p>
+<p>Interested? <a target="_blank" href="http://www.47upgradepath7.richardschave.com//feedback">Contact us</a> with any questions, or to ask if your desired date and time are available. If you want the personalized touch, please include dates of the honoree&#8217;s birthday or anniversary (if different from the event date), so Crimebo can research all the terrible things that happened on that date. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/09/book-crimebo-for-your-event/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/09/book-crimebo-for-your-event/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Photos from the August 6 Pasadena Confidential Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/#respond</comments>
+		<link>https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/</link>
+					<comments>https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 08 Aug 2006 02:23:07 +0000</pubDate>
@@ -329,32 +329,32 @@
 		<category><![CDATA[michael perrick]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Continue reading <span class="screen-reader-text">Photos from the August 6 Pasadena Confidential Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened&#8230; <a class="more-link" href="https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Continue reading <span class="screen-reader-text">Photos from the August 6 Pasadena Confidential Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Yesterday&#8217;s Pasadena Confidential Crime Bus Tour was a hoot, as we glided around the Crown City in our air conditioned murder bus with a happy coterie of grisly lookyloos. Here are a few photos snapped along the way&#8230; </p>
 <p> Below, Crimebo honors the lucky Miss Cathy with a pre-birthday litany of all the horrors that happened on the day she was born.</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/209657426/" title="Photo Sharing"><img loading="lazy" width="480" height="500" border="0" src="//static.flickr.com/93/209657426_176d8e2e17.jpg" alt="Crimebo the Crime Clown reads to Cathy" /></a></p>
+<p> <a href="http://www.flickr.com/photos/richardschave/209657426/" title="Photo Sharing"><img loading="lazy" width="480" height="500" border="0" src="//static.flickr.com/93/209657426_176d8e2e17.jpg" alt="Crimebo the Crime Clown reads to Cathy" /></a></p>
 <p>Here, Crimebo and hosts Kim and Nathan take a mid-tour breather at Connal&#8217;s on Washington Boulevard, conveniently loated between the sites of a hammer murder and a bathtub suicide. Plus their malts is yummy!</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/209657428/" title="Photo Sharing"><img loading="lazy" width="500" height="436" border="0" src="//static.flickr.com/71/209657428_2b1ce189c9.jpg" alt="1947project Crime Bus hosts Kim and Nathan with Crimebo the Crime Clown" /></a> </p>
+<p> <a href="http://www.flickr.com/photos/richardschave/209657428/" title="Photo Sharing"><img loading="lazy" width="500" height="436" border="0" src="//static.flickr.com/71/209657428_2b1ce189c9.jpg" alt="1947project Crime Bus hosts Kim and Nathan with Crimebo the Crime Clown" /></a> </p>
 <p> And another view of that scary clown Crimebo&#8230; don&#8217;t you want him at <em>your</em> birthday party?!</p>
 <p>&nbsp;</p>
-<p> <a href="https://www.flickr.com/photos/richardschave/209657425/" title="Photo Sharing"><img loading="lazy" width="308" height="500" border="0" src="//static.flickr.com/62/209657425_1f5a4b7144.jpg" alt="Crimebo the Crime Clown reads from his Big Book of Crime" /></a></p>
+<p> <a href="http://www.flickr.com/photos/richardschave/209657425/" title="Photo Sharing"><img loading="lazy" width="308" height="500" border="0" src="//static.flickr.com/62/209657425_1f5a4b7144.jpg" alt="Crimebo the Crime Clown reads from his Big Book of Crime" /></a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/">Photos from the August 6 Pasadena Confidential Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/08/photos-from-the-august-6-pasadena-confidential-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2006 16:00:04 +0000</pubDate>
@@ -370,36 +370,36 @@
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[bus]]></category>
 		<category><![CDATA[horror]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>To buy a ticket on Sunday&#8217;s tour, click here.&#160; Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. To be kept informed of future tour dates,&#8230; <a class="more-link" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Continue reading <span class="screen-reader-text">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
+<p><em><strong>To buy a ticket on Sunday&#8217;s tour, click <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">here</a>.&nbsp; <br /> </strong></em></p>
 <p><em><strong>Location: You will be emailed directions to the tour start point soon after payment is received; include a phone number in the payment comments if you won&#8217;t be able to check your email, and we&#8217;ll call with details. </strong></em></p>
-<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="https://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
+<p><em><strong>To be kept informed of future tour dates, sign up for our <a target="_blank" href="http://scram.notifylist.com/1947project.html">mailing list.</a><br /> </strong></em></p>
 <p><em><strong /></em></p>
 <p>About the tour: By popular demand, and following many nights terrifying ourselves reading grisly old news reports until falling into fitfull sleep, our <strong>Pasadena Confidential </strong>crime bus tour rolls on Sunday, August 6, from 10am-3pm. This five-hour luxury coach tour offers surprising insights into the often weird and horrible history of the Crown City, from the infamous to the forgotten. Tickets are $47 per person, and include cookies and home-made lemonade. </p>
 <p>From celebrated cases like the RFK assassination (with a visit to Sirhan Sirhan&#8217;s folks&#8217; house), &quot;Eraserhead&quot; star Jack Nance&#8217;s strange end, black magician/rocket scientist Jack Parsons&#8217; death-by-misadventure and the 1926 Rose Parade grand stand collapse, to fascinating obscurities, the tour&#8217;s dozens of murders, arsons, kidnappings, robberies, suicides, auto wrecks and oddball happening sites provide a alternate history of Pasadena that&#8217;s as fascinating as it is creepy.</p>
 <p> Crime Bus passengers will tour the old Millionaire&#8217;s Row on Orange Grove, thrill to the shocking Sphinx Murder on the steps of the downtown Masonic Hall, wonder about the unknown fiend who sneaked past a little girl to poison her father&#8217;s beer, discover why people named Judd should think twice before moving to Pasadena, and explore the racist spirit of the early 20th century through two forgotten stories: that of a Chinaman with leprosy whose suicide by hanging was treated as a novel entertainment by hundreds of citizens, and the case of wealthy mulatto Archie Hill, who shot a white trolley ticket-taker dead for shortchanging him.  </p>
-<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="https://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="https://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
+<p>For more about this tour, see Patricia Jiayi Ho&#8217;s <a target="_blank" href="http://www.pasadenastarnews.com/news/ci_4085286">feature</a> in the Pasadena Star-News. To purchase a seat using a credit card, visit our <a href="http://www.dumplinglab.com/crimebus/?q=pasadenaconfidentialaug6" target="_blank">storefront</a>. Sorry, it is now too late to pay by check for Sunday&#8217;s tour.&nbsp;</p>
 <p><strong><em><strong><strong>Disclaimer</strong>: Although it is extremely unlikely, the organizers reserve the right to postpone the tour in the event of extreme weather, riot, act of war or plague. Refunds may be available no more than 72 hours before the tour departs, and at the discretion of the organizers. You may substitute an alternate passenger&#8217;s name if you are unable to attend. We regret that there are no refunds for people who miss the bus. Potential passengers may call Kim at 323-223-2767 or email with any questions. </strong></em><strong><br /> </strong></strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/">Buy Tix on the August 6 Pasadena Confidential Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/12/buy-tix-on-the-august-6-pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nightmares on Bunker Hill Easter Tour Snaps</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/#respond</comments>
+		<link>https://1947project.com/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/</link>
+					<comments>https://1947project.com/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 21 Apr 2006 20:28:37 +0000</pubDate>
@@ -414,28 +414,28 @@
 		<category><![CDATA[nightmares of bunker hill]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal Dennis at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the O&#8217;Connor Electroplating Disaster to the hairy ghoul gal&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Continue reading <span class="screen-reader-text">Nightmares on Bunker Hill Easter Tour Snaps</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Nightmares on Bunker Hill Easter Tour Snaps</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal Dennis at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the O&#8217;Connor Electroplating Disaster to the hairy ghoul gal&#8230; <a class="more-link" href="https://1947project.com/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Continue reading <span class="screen-reader-text">Nightmares on Bunker Hill Easter Tour Snaps</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Nightmares on Bunker Hill Easter Tour Snaps</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal <a href="https://www.laweekly.com/la-people-2006/sitting-bull/13232/" target="_blank">Dennis</a> at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the <a href="https://www.47upgradepath7.richardschave.com//tags/oconnor-electro-plating-company" target="_blank">O&#8217;Connor Electroplating Disaster</a> to the hairy ghoul gal of Old Sonoratown, severed hands to rotting panhandlers, deadly Xmas gifts to fake mediums, it was a delightful dip into the weird old L.A. that&#8217;s not there anymore.</p>
-<p>Here are a few photographic impressions to mark the day. And if you&#8217;d like a spin on the Crime Bus, please note: Nightmares of Bunker Hill <a href="https://www.dumplinglab.com/crimebus/?q=bunkerhilljune" target="_blank">rolls again</a> on June 10.</p>
+<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal <a href="http://www.laweekly.com/la-people-2006/sitting-bull/13232/" target="_blank">Dennis</a> at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the <a href="http://www.47upgradepath7.richardschave.com//tags/oconnor-electro-plating-company" target="_blank">O&#8217;Connor Electroplating Disaster</a> to the hairy ghoul gal of Old Sonoratown, severed hands to rotting panhandlers, deadly Xmas gifts to fake mediums, it was a delightful dip into the weird old L.A. that&#8217;s not there anymore.</p>
+<p>Here are a few photographic impressions to mark the day. And if you&#8217;d like a spin on the Crime Bus, please note: Nightmares of Bunker Hill <a href="http://www.dumplinglab.com/crimebus/?q=bunkerhilljune" target="_blank">rolls again</a> on June 10.</p>
 <p><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/50/131912523_d959023e1c.jpg" />&nbsp;<img border="0" src="//static.flickr.com/50/131912858_3942ac64b3.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/46/131913366_eafc44aec9.jpg" /><img border="0" src="//static.flickr.com/55/131913428_dd911c261a.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/48/131914142_35ce440f3a.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/52/131913268_14432cc8b0.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/49/131913506_fde79336d5.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/1/131914209_2a00c289ea.jpg" /><img loading="lazy" width="335" height="500" border="0" src="//static.flickr.com/52/131914546_a223b34127.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/54/131913552_46df42323d.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/49/131914290_1392f43a6e.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/1/131914209_2a00c289ea.jpg" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Nightmares on Bunker Hill Easter Tour Snaps</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Nightmares on Bunker Hill Easter Tour Snaps</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/#respond</comments>
+		<link>https://1947project.com/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/</link>
+					<comments>https://1947project.com/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2006 06:33:35 +0000</pubDate>
@@ -450,23 +450,23 @@
 		<category><![CDATA[shot]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 18, 1907 Los Angeles&#160; Carlos Perez, an unarmed man shot by an Olvera Street nightwatchman as he walked towards his home on Macy Street last evening, lies tonight in County Hospital, gravely wounded with a bullet puncuring his lung. A gruesome side effect of his injury is that air is seeping beneath his skin,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/">Continue reading <span class="screen-reader-text">Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/">Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 18, 1907 Los Angeles&#160; Carlos Perez, an unarmed man shot by an Olvera Street nightwatchman as he walked towards his home on Macy Street last evening, lies tonight in County Hospital, gravely wounded with a bullet puncuring his lung. A gruesome side effect of his injury is that air is seeping beneath his skin,&#8230; <a class="more-link" href="https://1947project.com/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/">Continue reading <span class="screen-reader-text">Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/">Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>March 18, 1907<br /> Los Angeles&nbsp;</p>
-<p><img loading="lazy" width="129" height="254" border="0" align="left" src="//static.flickr.com/34/114502149_fe1d8ee284_o.jpg" />Carlos Perez, an unarmed man shot by an <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=olvera+street,+Los+Angeles,+CA&#038;ll=34.058455,-118.237352&#038;spn=0.016284,0.04004" target="_blank">Olvera Street</a> nightwatchman as he walked towards his home on Macy Street last evening, lies tonight in County Hospital, gravely wounded with a bullet puncuring his lung. A gruesome side effect of his injury is that air is seeping beneath his skin, inflating his body like a fleshy balloon. Doctors can press gently on the man&#8217;s hands, eyelids and ribcage, causing him to briefly deflate, though he quickly swells up again.&nbsp; </p>
+<p><img loading="lazy" width="129" height="254" border="0" align="left" src="//static.flickr.com/34/114502149_fe1d8ee284_o.jpg" />Carlos Perez, an unarmed man shot by an <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=olvera+street,+Los+Angeles,+CA&#038;ll=34.058455,-118.237352&#038;spn=0.016284,0.04004" target="_blank">Olvera Street</a> nightwatchman as he walked towards his home on Macy Street last evening, lies tonight in County Hospital, gravely wounded with a bullet puncuring his lung. A gruesome side effect of his injury is that air is seeping beneath his skin, inflating his body like a fleshy balloon. Doctors can press gently on the man&#8217;s hands, eyelids and ribcage, causing him to briefly deflate, though he quickly swells up again.&nbsp; </p>
 <p>Dr. Barber, the hospital superintendent, says that he has seen victims who suffer minor inflation around their injuries, but never someone whose entire body becomes so like a balloon. Doctors hesitate to puncture Perez&#8217; skin for fear of introducing an infection, and so the poor man suffers the strange sensation of constant pressure from within. His outlook is uncertain.</p>
 <p>Richard D. Birch, nightwatchman for the Merchant&#8217;s Fire Dispatch, has given conflicting statements regarding the shooting, and will surely face manslaughter charges should his victim perish.</p>
 <p><em>Below, Olvera Street circa 1890&nbsp;</em></p>
 <p><img border="0" src="//static.flickr.com/45/114500435_e9c8c7e019.jpg" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/">Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/">Wounded Man Blows Up Like Balloon, Terrible Injury Causes Weird Effect</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/19/wounded-man-blows-up-like-balloon-terrible-injury-causes-weird-effect/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

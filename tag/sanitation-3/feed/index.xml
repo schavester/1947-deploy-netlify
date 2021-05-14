@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>sanitation &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/sanitation-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/sanitation-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:53:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>sanitation &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>City Fathers Confront an Intractable Problem</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/01/city-fathers-confront-an-intractable-problem/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/01/city-fathers-confront-an-intractable-problem/#respond</comments>
+		<link>https://1947project.com/2007/03/01/city-fathers-confront-an-intractable-problem/</link>
+					<comments>https://1947project.com/2007/03/01/city-fathers-confront-an-intractable-problem/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 01 Mar 2007 15:01:12 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[trash]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 1, 1907 Los Angeles Downtown businessmen are at a complete loss over what to do with the garbage from their operations and want the city to either take it or designate a dump they can use. Ã¢â‚¬Å“They declare that the Board of Health has refused to let further deposits of garbage or refuse be&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/01/city-fathers-confront-an-intractable-problem/">Continue reading <span class="screen-reader-text">City Fathers Confront an Intractable Problem</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/01/city-fathers-confront-an-intractable-problem/">City Fathers Confront an Intractable Problem</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 1, 1907 Los Angeles Downtown businessmen are at a complete loss over what to do with the garbage from their operations and want the city to either take it or designate a dump they can use. Ã¢â‚¬Å“They declare that the Board of Health has refused to let further deposits of garbage or refuse be&#8230; <a class="more-link" href="https://1947project.com/2007/03/01/city-fathers-confront-an-intractable-problem/">Continue reading <span class="screen-reader-text">City Fathers Confront an Intractable Problem</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/01/city-fathers-confront-an-intractable-problem/">City Fathers Confront an Intractable Problem</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0301.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 220px; height: 185px;" src="//www.lmharnisch.com/images/1907_0301.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0301.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 220px; height: 185px;" src="//www.lmharnisch.com/images/1907_0301.jpg" alt="" border="0" /></a><br />
 <!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">March 1, 1907<br />
 Los Angeles</p>
@@ -61,7 +61,7 @@ Los Angeles</p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“We can scarcely take care of the garbage we are now forced to collect, one Board of Public Works commissioner says. Ã¢â‚¬Å“We donÃ¢â‚¬â„¢t want to take care of any more of it, even if it is hauled to the crematory without cost to the city.Ã¢â‚¬Â </p>
 <p class="MsoNormal"><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[endif]--><o:p></o:p></p>
@@ -73,22 +73,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/01/city-fathers-confront-an-intractable-problem/">City Fathers Confront an Intractable Problem</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/01/city-fathers-confront-an-intractable-problem/">City Fathers Confront an Intractable Problem</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/01/city-fathers-confront-an-intractable-problem/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/01/city-fathers-confront-an-intractable-problem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Foul Wind Blows Over Boyle Heights</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/12/a-foul-wind-blows-over-boyle-heights/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/12/a-foul-wind-blows-over-boyle-heights/#respond</comments>
+		<link>https://1947project.com/2006/10/12/a-foul-wind-blows-over-boyle-heights/</link>
+					<comments>https://1947project.com/2006/10/12/a-foul-wind-blows-over-boyle-heights/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 12 Oct 2006 14:24:36 +0000</pubDate>
@@ -100,11 +100,11 @@ var sc_security="77307670";
 		<category><![CDATA[sanitation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oct. 12, 1907 Los Angeles After repeated complaints to police because half a dozen dead dogs had laid in the streets for two weeks, the health department tried to charge C.T. Hanson, who held the contract for removing carcasses. But according to the city attorney, Hanson was only guilty of not abiding by his contract&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/12/a-foul-wind-blows-over-boyle-heights/">Continue reading <span class="screen-reader-text">A Foul Wind Blows Over Boyle Heights</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/12/a-foul-wind-blows-over-boyle-heights/">A Foul Wind Blows Over Boyle Heights</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oct. 12, 1907 Los Angeles After repeated complaints to police because half a dozen dead dogs had laid in the streets for two weeks, the health department tried to charge C.T. Hanson, who held the contract for removing carcasses. But according to the city attorney, Hanson was only guilty of not abiding by his contract&#8230; <a class="more-link" href="https://1947project.com/2006/10/12/a-foul-wind-blows-over-boyle-heights/">Continue reading <span class="screen-reader-text">A Foul Wind Blows Over Boyle Heights</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/12/a-foul-wind-blows-over-boyle-heights/">A Foul Wind Blows Over Boyle Heights</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1012.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 217px;" src="//www.lmharnisch.com/images/1907_1012.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1012.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 217px;" src="//www.lmharnisch.com/images/1907_1012.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Oct. 12, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -112,18 +112,18 @@ var sc_security="77307670";
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">In fact, Hanson had tried to get out his contract, claiming that he was losing money, but the city refused. </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/12/a-foul-wind-blows-over-boyle-heights/">A Foul Wind Blows Over Boyle Heights</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/12/a-foul-wind-blows-over-boyle-heights/">A Foul Wind Blows Over Boyle Heights</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/12/a-foul-wind-blows-over-boyle-heights/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/12/a-foul-wind-blows-over-boyle-heights/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>White Croaker</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/08/white-croaker/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/08/white-croaker/#respond</comments>
+		<link>https://1947project.com/2006/10/08/white-croaker/</link>
+					<comments>https://1947project.com/2006/10/08/white-croaker/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 08 Oct 2006 13:07:24 +0000</pubDate>
@@ -136,19 +136,19 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 8, 1907 Los Angeles Health officials and a deputy district attorney have joined to urge the Board of Supervisors to ban fishing within a half-mile of the city</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/08/white-croaker/">White Croaker</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/08/white-croaker/">White Croaker</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1008.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1008.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1008.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1008.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Oct. 8, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Health officials and a deputy district attorney have joined to urge the Board of Supervisors to ban fishing within a half-mile of the city</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/08/white-croaker/">White Croaker</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/08/white-croaker/">White Croaker</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/08/white-croaker/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/08/white-croaker/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

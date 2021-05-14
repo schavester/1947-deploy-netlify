@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>unipeds &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/unipeds-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/unipeds-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Wed, 06 Apr 2016 16:10:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>unipeds &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>1947project Podcast #4, July 22 2007</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/23/1947project-podcast-4-july-22-2007/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/23/1947project-podcast-4-july-22-2007/#comments</comments>
+		<link>https://1947project.com/2007/07/23/1947project-podcast-4-july-22-2007/</link>
+					<comments>https://1947project.com/2007/07/23/1947project-podcast-4-july-22-2007/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 23 Jul 2007 05:11:12 +0000</pubDate>
@@ -45,27 +45,27 @@
 		<category><![CDATA[unipeds]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The 4th biweekly 1947project podcast is now online, and can be accessed at the internet archive, at our new MOLI.com page (a new site offering free hosting for all your bulky media along with a personalized profile) or at iTunes. Pick yer poison. About this episode: This edition of the true crime time travel podcast&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/23/1947project-podcast-4-july-22-2007/">Continue reading <span class="screen-reader-text">1947project Podcast #4, July 22 2007</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/23/1947project-podcast-4-july-22-2007/">1947project Podcast #4, July 22 2007</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The 4th biweekly 1947project podcast is now online, and can be accessed at the internet archive, at our new MOLI.com page (a new site offering free hosting for all your bulky media along with a personalized profile) or at iTunes. Pick yer poison. About this episode: This edition of the true crime time travel podcast&#8230; <a class="more-link" href="https://1947project.com/2007/07/23/1947project-podcast-4-july-22-2007/">Continue reading <span class="screen-reader-text">1947project Podcast #4, July 22 2007</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/23/1947project-podcast-4-july-22-2007/">1947project Podcast #4, July 22 2007</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>The 4th biweekly 1947project podcast is now online, and can be accessed at the <a href="https://www.archive.org/details/KimCooper1947projectPodcast_4_0" target="_blank">internet archive</a>, at our new <a href="https://www.moli.com/esotouric" target="_blank">MOLI.com</a> page (a new site offering free hosting for all your bulky media along with a personalized profile) or at <a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">iTunes</a>. Pick yer poison.</p>
+<p>The 4th biweekly 1947project podcast is now online, and can be accessed at the <a href="http://www.archive.org/details/KimCooper1947projectPodcast_4_0" target="_blank">internet archive</a>, at our new <a href="http://www.moli.com/esotouric" target="_blank">MOLI.com</a> page (a new site offering free hosting for all your bulky media along with a personalized profile) or at <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">iTunes</a>. Pick yer poison.</p>
 <p><strong>About this episode:</strong> This edition of the true crime time travel podcast has a bare bones cast, following Crimebo&#8217;s horrific clown car spill on the 405 and Mary&#8217;s escape to the shore. But Kim, Nathan and Joan are on hand to share several daffy bits of 1927 Southern Californiana, including the tale of a business partnership severed by a hammer, the couple with two legs between &#8217;em caught driving drunk down Riverside way, and a rumination on the timely fad of flagpole sitting. The 1927 and 2007 events calendars are shared and new advertisers come aboard, including the League of Bloated Plutocrats, Masonic Jars and a corrective school for girls whose mothers think they&#8217;re fast. Join us on your<br />computational device! Today!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/23/1947project-podcast-4-july-22-2007/">1947project Podcast #4, July 22 2007</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/23/1947project-podcast-4-july-22-2007/">1947project Podcast #4, July 22 2007</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/23/1947project-podcast-4-july-22-2007/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/23/1947project-podcast-4-july-22-2007/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Together As One</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/#respond</comments>
+		<link>https://1947project.com/2007/07/07/together-as-one/</link>
+					<comments>https://1947project.com/2007/07/07/together-as-one/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 07 Jul 2007 17:45:18 +0000</pubDate>
@@ -77,19 +77,19 @@
 		<category><![CDATA[unipeds]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 7, 1927RiversideJames Clark has but one leg.&#160; Fortunately his wife has another.&#160; Together, they make one fine two-legged person.&#160; Unfortunately, their capacity for imbibery allows for the drunkitude of four persons, their double vision providing the visual acuity of eight. Seems the Clarks got a few in &#8216;em and, sans hollow leg and all,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/">Continue reading <span class="screen-reader-text">Together As One</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 7, 1927RiversideJames Clark has but one leg.&#160; Fortunately his wife has another.&#160; Together, they make one fine two-legged person.&#160; Unfortunately, their capacity for imbibery allows for the drunkitude of four persons, their double vision providing the visual acuity of eight. Seems the Clarks got a few in &#8216;em and, sans hollow leg and all,&#8230; <a class="more-link" href="https://1947project.com/2007/07/07/together-as-one/">Continue reading <span class="screen-reader-text">Together As One</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>July 7, 1927<br />Riverside<br /><img loading="lazy" width="449" height="112" border="0" title="oneleg" alt="oneleg" src="//farm2.static.flickr.com/1231/747852191_ac07a12956_o.gif" /><br />James Clark has but one leg.&nbsp; Fortunately his wife has another.&nbsp; Together, they make one fine two-legged person.&nbsp; Unfortunately, their capacity for imbibery allows for the drunkitude of four persons, their double vision providing the visual acuity of eight. </p>
-<p>Seems the Clarks got a few in &lsquo;em and, sans hollow leg and all, the booze went to their collective head, and they thought it a good idea to hop in a flivver and go tearing down <a title="missionblvdriverside" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Mission+Boulevard,+Riverside,+Calif&#038;sll=34.032034,-118.469524&#038;sspn=0.015613,0.027809&#038;ie=UTF8&#038;ll=34.025917,-117.448311&#038;spn=0.124913,0.222473&#038;z=12&#038;iwloc=addr&#038;om=1">Mission Boulevard</a> here in Riverside.&nbsp; Despite the symbiosis that stems from years of wedded camaraderie, his stomping the gas while she pounded brake and clutch didn&rsquo;t work out to their combined advantage&#8230;no, these tourists from the Lone Star state plowed into another vehicle driven by one Fred Stutzman of West Riverside.</p>
+<p>Seems the Clarks got a few in &lsquo;em and, sans hollow leg and all, the booze went to their collective head, and they thought it a good idea to hop in a flivver and go tearing down <a title="missionblvdriverside" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Mission+Boulevard,+Riverside,+Calif&#038;sll=34.032034,-118.469524&#038;sspn=0.015613,0.027809&#038;ie=UTF8&#038;ll=34.025917,-117.448311&#038;spn=0.124913,0.222473&#038;z=12&#038;iwloc=addr&#038;om=1">Mission Boulevard</a> here in Riverside.&nbsp; Despite the symbiosis that stems from years of wedded camaraderie, his stomping the gas while she pounded brake and clutch didn&rsquo;t work out to their combined advantage&#8230;no, these tourists from the Lone Star state plowed into another vehicle driven by one Fred Stutzman of West Riverside.</p>
 <p>Deputy Sheriff Scott hauled the intoxicated unipeds off to the hoosegow, and reported that while both autos were severely damaged, no-one was seriously injured.&nbsp; Scott certainly realized that had someone involved lost a limb, he would have had to fill out the separate irony paperwork, instead of just checking the irony box on his standard report form.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/07/together-as-one/">Together As One</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/07/together-as-one/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/07/together-as-one/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

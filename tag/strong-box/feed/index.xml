@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>strong box &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/strong-box/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/strong-box/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:46:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>strong box &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8230;and to Matron I leave a wild goose chase</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/#respond</comments>
+		<link>https://1947project.com/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/</link>
+					<comments>https://1947project.com/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 23 Mar 2007 22:05:17 +0000</pubDate>
@@ -47,29 +47,29 @@
 		<category><![CDATA[ukiah]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 23, 1927Los Angeles&#160; Notorious con artist Mrs. Mary Williams, aka Rose Mary Langhorn, has expired aged 65 in General Hospital while awaiting trial on charges that, shortly after making her acquaintance aboard the steamship Mongolia between Havana and L.A. last spring, she relieved Mrs. Marguerite Nonemacher of Highland, California of the burden of $3000&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/">Continue reading <span class="screen-reader-text">&#8230;and to Matron I leave a wild goose chase</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/">&#8230;and to Matron I leave a wild goose chase</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 23, 1927Los Angeles&#160; Notorious con artist Mrs. Mary Williams, aka Rose Mary Langhorn, has expired aged 65 in General Hospital while awaiting trial on charges that, shortly after making her acquaintance aboard the steamship Mongolia between Havana and L.A. last spring, she relieved Mrs. Marguerite Nonemacher of Highland, California of the burden of $3000&#8230; <a class="more-link" href="https://1947project.com/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/">Continue reading <span class="screen-reader-text">&#8230;and to Matron I leave a wild goose chase</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/">&#8230;and to Matron I leave a wild goose chase</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>March 23, 1927<br />Los Angeles&nbsp;</p>
-<p>Notorious con artist Mrs. Mary Williams, aka Rose Mary Langhorn, has expired aged 65 in General Hospital while awaiting trial on charges that, shortly after making her acquaintance aboard the steamship <a href="https://en.wikipedia.org/wiki/SS_Mongolia" target="_blank">Mongolia</a> between Havana and L.A. last spring, she relieved Mrs. Marguerite Nonemacher of Highland, California of the burden of $3000 cash money, in exchange for some oil stock royalties which were certain to yield $10,000 shortly, and $500,000 in the longer term. Mrs. Nonebacher bit, and later squealed when not a nickel or a whisper was forthcoming from her shipboard pal or the phantom wells. </p>
-<p><a href="https://www.flickr.com/photos/richardschave/431848885/" title="Photo Sharing"><img loading="lazy" width="500" height="321" border="0" src="//farm1.static.flickr.com/178/431848885_01e1e1d4cc.jpg" alt="USS Mongolia" /></a></p>
+<p>Notorious con artist Mrs. Mary Williams, aka Rose Mary Langhorn, has expired aged 65 in General Hospital while awaiting trial on charges that, shortly after making her acquaintance aboard the steamship <a href="http://en.wikipedia.org/wiki/SS_Mongolia" target="_blank">Mongolia</a> between Havana and L.A. last spring, she relieved Mrs. Marguerite Nonemacher of Highland, California of the burden of $3000 cash money, in exchange for some oil stock royalties which were certain to yield $10,000 shortly, and $500,000 in the longer term. Mrs. Nonebacher bit, and later squealed when not a nickel or a whisper was forthcoming from her shipboard pal or the phantom wells. </p>
+<p><a href="http://www.flickr.com/photos/richardschave/431848885/" title="Photo Sharing"><img loading="lazy" width="500" height="321" border="0" src="//farm1.static.flickr.com/178/431848885_01e1e1d4cc.jpg" alt="USS Mongolia" /></a></p>
 <p> The APB that went out for the flim flam artist described a plump, cheery gal of later years, who was &quot;full of conversation and bounced about the boat calling everybody &#8216;honey&#8217; and &#8216;dear.&#8217;&quot;     </p>
 <p> &quot;Sure I stole her money,&quot; said Mary whatever-her-real-name-is on her deathbed, but merely for &quot;the fun of the thing.&quot; It all started when she was a rich young woman ruined after trusting other wealthy people, and so devoted her career to exacting revenge on other members of her former class. And who can begrudge her that? </p>
 <p>The dying woman made a will naming a New York friend as her executor. But as California law forbids wills to be executed by non locals, she was instructed to think again. Not having many friends in California, and perhaps feeling indisposed to benefit Mrs. Nonemacher, Mary chose Chief Matron Vada Sullivan of the County Jail. </p>
 <p>And that&#8217;s why Matron is leaving work today to take a ride up to Ukiah, where Mary&#8217;s strongbox was stored, to examine its contents and her bank accounts. Assuming all are well-stuffed,&nbsp; there will be numerous local souls benefiting from their proximity to the fading swindler, among them attorney M.W. Purcell ($1000), Father Vanderdoucht ($1000), three physicians ($1000 each) and nurse Florence McDaniel (a ranch).</p>
-<p><a href="https://www.flickr.com/photos/richardschave/431758943/" title="Photo Sharing"><img loading="lazy" width="333" height="500" border="0" src="//farm1.static.flickr.com/163/431758943_bf06a898ae.jpg" alt="jail matron vada sullivan" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/431758943/" title="Photo Sharing"><img loading="lazy" width="333" height="500" border="0" src="//farm1.static.flickr.com/163/431758943_bf06a898ae.jpg" alt="jail matron vada sullivan" /></a></p>
 <p align="right">above left: Matron in 1937, and it&#8217;s pronounced Dee-KEY, sheesh.&nbsp;</p>
 <p> Recommended viewing, Preston Sturges&#8217; <em>The Lady Eve,</em> our favorite filmic treatment of the shipboard swindler&#8217;s art and love:</p>
-<p> <a href="https://www.amazon.com/exec/obidos/ASIN/B00005JH9B/ref=nosim/bubblegumbook"><img border="0" alt="Small Image" src="//images.amazon.com/images/P/B00005JH9B.01.TZZZZZZZ.jpg" /></a></p>
-<form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00005JH9B" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="//rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p> <a href="http://www.amazon.com/exec/obidos/ASIN/B00005JH9B/ref=nosim/bubblegumbook"><img border="0" alt="Small Image" src="//images.amazon.com/images/P/B00005JH9B.01.TZZZZZZZ.jpg" /></a></p>
+<form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.B00005JH9B" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="//rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/">&#8230;and to Matron I leave a wild goose chase</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/">&#8230;and to Matron I leave a wild goose chase</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/23/and-to-matron-i-leave-a-wild-goose-chase/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

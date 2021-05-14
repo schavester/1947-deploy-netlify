@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>trees &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/trees/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/trees/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:36:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>trees &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Next Time They Won&#8217;t Be So Lucky</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/09/next-time-they-wont-be-so-lucky/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/09/next-time-they-wont-be-so-lucky/#respond</comments>
+		<link>https://1947project.com/2007/12/09/next-time-they-wont-be-so-lucky/</link>
+					<comments>https://1947project.com/2007/12/09/next-time-they-wont-be-so-lucky/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 09 Dec 2007 07:11:04 +0000</pubDate>
@@ -45,24 +45,24 @@
 		<category><![CDATA[trees]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; December 8, 1927Los Angeles Mrs. Nancy Parrish likes her palm tree.&#160; A lot.&#160; And who can blame her?&#160; This is Los Angeles.&#160; Palms define our city&#8212;in shape, in spirit, in soul.&#160; So when she looked out her window and saw someone digging up the palm in front of her home, 419 Court Street, she&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/09/next-time-they-wont-be-so-lucky/">Continue reading <span class="screen-reader-text">Next Time They Won&#8217;t Be So Lucky</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/09/next-time-they-wont-be-so-lucky/">Next Time They Won&#8217;t Be So Lucky</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; December 8, 1927Los Angeles Mrs. Nancy Parrish likes her palm tree.&#160; A lot.&#160; And who can blame her?&#160; This is Los Angeles.&#160; Palms define our city&#8212;in shape, in spirit, in soul.&#160; So when she looked out her window and saw someone digging up the palm in front of her home, 419 Court Street, she&#8230; <a class="more-link" href="https://1947project.com/2007/12/09/next-time-they-wont-be-so-lucky/">Continue reading <span class="screen-reader-text">Next Time They Won&#8217;t Be So Lucky</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/09/next-time-they-wont-be-so-lucky/">Next Time They Won&#8217;t Be So Lucky</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="600" height="29" border="0" title="attacked" alt="attacked" src="//farm3.static.flickr.com/2320/2096277921_b9beb78c2c_o.gif" /></p>
 <p><img loading="lazy" width="249" height="283" border="0" align="left" title="theattack" alt="theattack" src="//farm3.static.flickr.com/2407/2096277917_dacdf15ed8_o.gif" />December 8, 1927<br />Los Angeles</p>
-<p>Mrs. Nancy Parrish likes her palm tree.&nbsp; A lot.&nbsp; And who can blame her?&nbsp; This is Los Angeles.&nbsp; Palms define our city&mdash;in shape, in spirit, in soul.&nbsp; So when she looked out her window and saw someone digging up the palm in front of her home, <a title="courtst" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=West+Court+St,+90026&#038;sll=34.068729,-118.2622&#038;sspn=0.016424,0.029182&#038;ie=UTF8&#038;ll=34.068196,-118.2622&#038;spn=0.016424,0.029182&#038;z=15&#038;iwloc=addr&#038;om=1">419 Court Street</a>, she became enraged, and grabbed the 1927 version of pepper spray, a can of red pepper.&nbsp; She raced down the stairs and threw it full in the workers&rsquo; faces. &nbsp;</p>
+<p>Mrs. Nancy Parrish likes her palm tree.&nbsp; A lot.&nbsp; And who can blame her?&nbsp; This is Los Angeles.&nbsp; Palms define our city&mdash;in shape, in spirit, in soul.&nbsp; So when she looked out her window and saw someone digging up the palm in front of her home, <a title="courtst" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=West+Court+St,+90026&#038;sll=34.068729,-118.2622&#038;sspn=0.016424,0.029182&#038;ie=UTF8&#038;ll=34.068196,-118.2622&#038;spn=0.016424,0.029182&#038;z=15&#038;iwloc=addr&#038;om=1">419 Court Street</a>, she became enraged, and grabbed the 1927 version of pepper spray, a can of red pepper.&nbsp; She raced down the stairs and threw it full in the workers&rsquo; faces. &nbsp;</p>
 <p>Never mind that it wasn&rsquo;t really her palm&mdash;Nancy&rsquo;s just a renter&mdash;she loved her palm, dammit.&nbsp; Of course that&rsquo;s no solace to poor Francisco Rodriquez, one of the diggers, who&rsquo;s facing the loss of his eyes, according to attendants at Receiving Hospital.&nbsp; Sidney Kanin, of 828 North Vermont, who&rsquo;d hired Rodriquez to help him dig out the palm, luckily turned his head in time to avoid the capsicum contents.&nbsp; Apparently Kanin had purchased the palm from Karl Vmorin, owner of Nancy&rsquo;s rentahouse. &nbsp;</p>
 <p>After the attack, Kanin summoned policemen William Price and J. L. Willis to the scene, but they refused to arrest Mrs. Parrish; nosy neighbors are reporting that matter to Chief Davis.&nbsp; A complaint charging Parrish with battery and wrongful acts, and a warrant for her arrest, have since been issued by Chief Deputy City Prosecutor Concannon.</p>
-<p><img loading="lazy" width="372" height="327" border="0" align="right" title="treekillaz" alt="treekillaz" src="//farm3.static.flickr.com/2339/2096277913_6f9c7f40d4_o.gif" />On a related note&mdash;here in the future&mdash;I like my palm tree.&nbsp; A lot.&nbsp; And who can blame me?&nbsp; So when I looked out my window and saw someone chainsawing&nbsp; up the palm in front of my home, I was close to grabbing something a lot stronger than a can of seasoning.&nbsp; (Never mind that it wasn&#8217;t really my palm&mdash;but on an embankment in front of my house&mdash;I loved my palm, dammit.)&nbsp; When the overscale condo development went up across the street from me, they stretched high-tension wires across to it.&nbsp; And then the DWP decided that the decades-old <a title="CIDP" target="_blank" href="https://en.wikipedia.org/wiki/Canary_Island_Date_Palm">Canary Island Date Palm</a> had to go; it was too close to the new wires (it wasn&rsquo;t, but that&rsquo;s just a matter of opinion).&nbsp; What&rsquo;s not a matter of opinion is this:&nbsp; that was a <a title="canarp" target="_blank" href="https://www.bigpalmtrees.com/size_specifications.htm">mature</a> $30,000 tree, and, in the world of palms, the <a href="https://www.sunpalmtrees.com/Palm-Trees-Pictures-Canary-Island-Date-Palms.htm" target="_blank" title="sunp"><em>Phoenix canariensis</em></a> is among the easiest to transplant.&nbsp; I&rsquo;m not necessarily saying that the wires should have, could have been moved&mdash;that&rsquo;s perfect world stuff&mdash;but the workers could have spent two hours moving the tree five feet to the left instead of spending one hour chopping it down.&nbsp; I&rsquo;m deep in the Highland Park <a title="hpoz" target="_blank" href="https://www.preservation.lacity.org/hpoz">HPOZ</a> and cutting down my tree, replete as it was with historic and cultural value, means I&rsquo;m reaching for my can o&rsquo; pepper.&nbsp; Ed Reyes, I&rsquo;m gunning for a new tree, and the fact that the &ldquo;<a title="nopalmsforLA" target="_blank" href="https://www.milliontreesla.org/mtabout.htm">Million Tree March</a>&rdquo; hates palms makes no never mind!&nbsp; The palm was the tree of choice for the Franciscan and Jesuit missionaries, Lucky Baldwin, Henry Huntington, and every builder of this city committed to its unique elan&hellip;certainly you are in that league, Councilman?&nbsp; Will he commit to Highland Park&rsquo;s streetscape heritage, reader?&nbsp; We&rsquo;ll keep you posted.</p>
+<p><img loading="lazy" width="372" height="327" border="0" align="right" title="treekillaz" alt="treekillaz" src="//farm3.static.flickr.com/2339/2096277913_6f9c7f40d4_o.gif" />On a related note&mdash;here in the future&mdash;I like my palm tree.&nbsp; A lot.&nbsp; And who can blame me?&nbsp; So when I looked out my window and saw someone chainsawing&nbsp; up the palm in front of my home, I was close to grabbing something a lot stronger than a can of seasoning.&nbsp; (Never mind that it wasn&#8217;t really my palm&mdash;but on an embankment in front of my house&mdash;I loved my palm, dammit.)&nbsp; When the overscale condo development went up across the street from me, they stretched high-tension wires across to it.&nbsp; And then the DWP decided that the decades-old <a title="CIDP" target="_blank" href="http://en.wikipedia.org/wiki/Canary_Island_Date_Palm">Canary Island Date Palm</a> had to go; it was too close to the new wires (it wasn&rsquo;t, but that&rsquo;s just a matter of opinion).&nbsp; What&rsquo;s not a matter of opinion is this:&nbsp; that was a <a title="canarp" target="_blank" href="http://www.bigpalmtrees.com/size_specifications.htm">mature</a> $30,000 tree, and, in the world of palms, the <a href="http://www.sunpalmtrees.com/Palm-Trees-Pictures-Canary-Island-Date-Palms.htm" target="_blank" title="sunp"><em>Phoenix canariensis</em></a> is among the easiest to transplant.&nbsp; I&rsquo;m not necessarily saying that the wires should have, could have been moved&mdash;that&rsquo;s perfect world stuff&mdash;but the workers could have spent two hours moving the tree five feet to the left instead of spending one hour chopping it down.&nbsp; I&rsquo;m deep in the Highland Park <a title="hpoz" target="_blank" href="http://www.preservation.lacity.org/hpoz">HPOZ</a> and cutting down my tree, replete as it was with historic and cultural value, means I&rsquo;m reaching for my can o&rsquo; pepper.&nbsp; Ed Reyes, I&rsquo;m gunning for a new tree, and the fact that the &ldquo;<a title="nopalmsforLA" target="_blank" href="http://www.milliontreesla.org/mtabout.htm">Million Tree March</a>&rdquo; hates palms makes no never mind!&nbsp; The palm was the tree of choice for the Franciscan and Jesuit missionaries, Lucky Baldwin, Henry Huntington, and every builder of this city committed to its unique elan&hellip;certainly you are in that league, Councilman?&nbsp; Will he commit to Highland Park&rsquo;s streetscape heritage, reader?&nbsp; We&rsquo;ll keep you posted.</p>
 <p></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/09/next-time-they-wont-be-so-lucky/">Next Time They Won&#8217;t Be So Lucky</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/09/next-time-they-wont-be-so-lucky/">Next Time They Won&#8217;t Be So Lucky</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/09/next-time-they-wont-be-so-lucky/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/09/next-time-they-wont-be-so-lucky/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>bunker hill &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/neighborhoods/bunker-hill-5/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/neighborhoods/bunker-hill-5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:21:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>bunker hill &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>1947project Crime Bus in the Downtown News</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/#respond</comments>
+		<link>https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/</link>
+					<comments>https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 17:08:07 +0000</pubDate>
@@ -47,13 +47,13 @@
 		<category><![CDATA[lea lion]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Lea Lion of the Los Angeles Downtown News rode along on the first Nightmares of Bunker Hill tour, and wrote a cool and moody piece about it in this week&#8217;s paper. Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold).&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/">Continue reading <span class="screen-reader-text">1947project Crime Bus in the Downtown News</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Lea Lion of the Los Angeles Downtown News rode along on the first Nightmares of Bunker Hill tour, and wrote a cool and moody piece about it in this week&#8217;s paper. Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold).&#8230; <a class="more-link" href="https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/">Continue reading <span class="screen-reader-text">1947project Crime Bus in the Downtown News</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Lea Lion of the Los Angeles Downtown News rode along on the first Nightmares of Bunker Hill tour, and wrote a cool and moody piece about it in this week&#8217;s paper.</p>
-<p> Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold). You can pick up a copy most anywhere in the middle of LA, or <a href="https://downtownnews.com/articles/2006/04/24/entertainment/entertainment01.txt" target="_blank">read it online.</a></p>
+<p> Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold). You can pick up a copy most anywhere in the middle of LA, or <a href="http://downtownnews.com/articles/2006/04/24/entertainment/entertainment01.txt" target="_blank">read it online.</a></p>
 <p>Thanks, Lea!&nbsp;</p>
 <p>                *****<br />
 <em>Murder, an Acid Attack and More Downtown Fun &#8216;Nightmares of Bunker Hill&#8217; Bus Tour Finds an Audience by Lea Lion</em></p>
@@ -77,18 +77,18 @@
 <p>During the five-hour tour, we do in fact learn that Downtown has an often gruesome past. Surprisingly, a whole slew of sometimes horrific, sometimes humorous acts took place in the early 1900s around New High Street in what is now Chinatown. According to our tour guides, the area was a hotspot for bar brawls, gambling houses and opium dens. It was also the site of at least one gypsy kidnapping and an out-of-control goat (in separate incidents).</p>
 <p>Countless brutal murders, fake s</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/#respond</comments>
+		<link>https://1947project.com/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/</link>
+					<comments>https://1947project.com/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 08 Apr 2006 16:50:07 +0000</pubDate>
@@ -104,8 +104,8 @@
 		<category><![CDATA[wills]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 8, 1907 Los Angeles R. Crawford Smith, a wealthy Cincinnati bachelor who died in February, aged 61, spent the past several years living amongst strangers in Los Angeles. For a long while, he called the Hotel Melrose on Grand Avenue his home, and more recently had lived with familes on McClintock Avenue and South&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/">Continue reading <span class="screen-reader-text">Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/">Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 8, 1907 Los Angeles R. Crawford Smith, a wealthy Cincinnati bachelor who died in February, aged 61, spent the past several years living amongst strangers in Los Angeles. For a long while, he called the Hotel Melrose on Grand Avenue his home, and more recently had lived with familes on McClintock Avenue and South&#8230; <a class="more-link" href="https://1947project.com/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/">Continue reading <span class="screen-reader-text">Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/">Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -116,22 +116,22 @@ Los Angeles</p>
 <p>E.Z. Barrett, husband of the woman willed $10,000, says his wife Dora befriended a sad old man, and was repaid for her kindness with the posthumous gift. Mediumship had nought to do with it&#8211;though Dora is a popular lecturer on the subject, who has been known to give public demonstrations of her ability to commune with those who have &#8220;passed over.&#8221; Mr. Barrett stresses however that Dora is not a medium of the typical type.</p>
 <p>Pasadena high school teacher Miss Lottie Livingston was willed $5000 from the Smith coffers, and Mrs. Lola Swilling, whose husband is said to be an Army officer stationed in Cuba, has a $2000 gift promised her.</p>
 <p>Smith&#8217;s few local friends recall him as a lonesome, ill and melancholy man, a believer in Spiritualism who sought out Mrs. Barrett and frequently visited her home in his last days, apologizing for being a burden but saying how much he appreciated being among friends.</p>
-<p>The late man&#8217;s estate was largely held in property, including a hotel at the southeast corner of <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=S+Hope+St+%26+W+6th+St,+Los+Angeles,+CA+90017&amp;ll=34.050313,-118.256364&amp;spn=0.015076,0.041757" target="_blank">Hope and Sixth Streets</a> here.</p>
+<p>The late man&#8217;s estate was largely held in property, including a hotel at the southeast corner of <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=S+Hope+St+%26+W+6th+St,+Los+Angeles,+CA+90017&amp;ll=34.050313,-118.256364&amp;spn=0.015076,0.041757" target="_blank">Hope and Sixth Streets</a> here.</p>
 <p>&nbsp;</p>
-<p><a href="https://www.amazon.com/exec/obidos/ASIN/0595363539/ref=nosim/bubblegumbook"><img src="//images.amazon.com/images/P/0595363539.01.MZZZZZZZ.jpg" alt="Medium Image" border="0" /></a></div>
+<p><a href="http://www.amazon.com/exec/obidos/ASIN/0595363539/ref=nosim/bubblegumbook"><img src="//images.amazon.com/images/P/0595363539.01.MZZZZZZZ.jpg" alt="Medium Image" border="0" /></a></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/">Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/">Cincinnati Heirs Claim Spiritualist Influence On Dead Brother</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/08/cincinnati-heirs-claim-spiritualist-influence-on-dead-brother/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nightmares of Bunker Hill &#8211; June 10</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/06/nightmares-of-bunker-hill-june-10/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/06/nightmares-of-bunker-hill-june-10/#respond</comments>
+		<link>https://1947project.com/2006/04/06/nightmares-of-bunker-hill-june-10/</link>
+					<comments>https://1947project.com/2006/04/06/nightmares-of-bunker-hill-june-10/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2006 06:23:11 +0000</pubDate>
@@ -143,31 +143,31 @@ Los Angeles</p>
 		<category><![CDATA[crime bus]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle riders, Won&#8217;t you please join us on Saturday June 10th, for our second tour of the downtown area to explore some of the weirdest criminal and spectral happenings of the past century? Each ticket costs $47, and entitles the bearer to a 5-hour guided tour on a n air-conditioned luxury coach, snacks, beverages and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/06/nightmares-of-bunker-hill-june-10/">Continue reading <span class="screen-reader-text">Nightmares of Bunker Hill &#8211; June 10</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/06/nightmares-of-bunker-hill-june-10/">Nightmares of Bunker Hill &#8211; June 10</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle riders, Won&#8217;t you please join us on Saturday June 10th, for our second tour of the downtown area to explore some of the weirdest criminal and spectral happenings of the past century? Each ticket costs $47, and entitles the bearer to a 5-hour guided tour on a n air-conditioned luxury coach, snacks, beverages and&#8230; <a class="more-link" href="https://1947project.com/2006/04/06/nightmares-of-bunker-hill-june-10/">Continue reading <span class="screen-reader-text">Nightmares of Bunker Hill &#8211; June 10</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/06/nightmares-of-bunker-hill-june-10/">Nightmares of Bunker Hill &#8211; June 10</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Gentle riders,</p>
 <p>Won&#8217;t you please join us on Saturday June 10th, for our second tour of the downtown area to explore some of the weirdest criminal and spectral happenings of the past century?</p>
 <p>Each ticket costs $47, and entitles the bearer to a 5-hour guided tour on a n air-conditioned luxury coach, snacks, beverages and the fascinating company of fifty-some fellow crime and social history buffs. </p>
-<p> Tickets may be purchased here, via paypal:<br /> <a href="https://www.dumplinglab.com/crimebus/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">https://www.dumplinglab.com/crimebus/</a><a href="https://pensive-torvalds-020d34.netlify.app../../" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)"></p>
-<p></a>   Or if you prefer to pay by check, just <a target="_blank" href="https://www.47upgradepath7.richardschave.com//feedback">get in touch</a> and we will hold your seat.  </p>
+<p> Tickets may be purchased here, via paypal:<br /> <a href="http://www.dumplinglab.com/crimebus/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">http://www.dumplinglab.com/crimebus/</a><a href="https://1947project.com../../" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)"></p>
+<p></a>   Or if you prefer to pay by check, just <a target="_blank" href="http://www.47upgradepath7.richardschave.com//feedback">get in touch</a> and we will hold your seat.  </p>
 <p>best regards,<br />  Kim</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/06/nightmares-of-bunker-hill-june-10/">Nightmares of Bunker Hill &#8211; June 10</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/06/nightmares-of-bunker-hill-june-10/">Nightmares of Bunker Hill &#8211; June 10</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/06/nightmares-of-bunker-hill-june-10/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/06/nightmares-of-bunker-hill-june-10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Avoid The Rush, Get On The Crime Bus</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/03/avoid-the-rush-get-on-the-crime-bus/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/03/avoid-the-rush-get-on-the-crime-bus/#respond</comments>
+		<link>https://1947project.com/2006/04/03/avoid-the-rush-get-on-the-crime-bus/</link>
+					<comments>https://1947project.com/2006/04/03/avoid-the-rush-get-on-the-crime-bus/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 03 Apr 2006 17:31:21 +0000</pubDate>
@@ -181,26 +181,26 @@ Los Angeles</p>
 		<category><![CDATA[media]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Tomorrow, at 10am, 10:40am and 11:20am, you can tune in to KFWB radio 980-AM to hear several different features on the upcoming Nightmares of Bunker Hill Crime Bus Tour, Sunday April 16 (Easter), noon-5pm. If you were holding off reserving your seat, we suggest you email me promptly to reserve, because the radio spots might&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/03/avoid-the-rush-get-on-the-crime-bus/">Continue reading <span class="screen-reader-text">Avoid The Rush, Get On The Crime Bus</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/03/avoid-the-rush-get-on-the-crime-bus/">Avoid The Rush, Get On The Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Tomorrow, at 10am, 10:40am and 11:20am, you can tune in to KFWB radio 980-AM to hear several different features on the upcoming Nightmares of Bunker Hill Crime Bus Tour, Sunday April 16 (Easter), noon-5pm. If you were holding off reserving your seat, we suggest you email me promptly to reserve, because the radio spots might&#8230; <a class="more-link" href="https://1947project.com/2006/04/03/avoid-the-rush-get-on-the-crime-bus/">Continue reading <span class="screen-reader-text">Avoid The Rush, Get On The Crime Bus</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/03/avoid-the-rush-get-on-the-crime-bus/">Avoid The Rush, Get On The Crime Bus</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Tomorrow, at 10am, 10:40am and 11:20am, you can tune in to KFWB radio 980-AM to hear several different features on the upcoming Nightmares of Bunker Hill Crime Bus Tour, Sunday April 16 (Easter), noon-5pm.</p>
-<p> If you were holding off reserving your seat, we suggest you <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_blank">email</a> me promptly to reserve, because the radio spots might well cause the Easter bus to sell out. We will run this tour again soon if demand so indicates.</p>
+<p> If you were holding off reserving your seat, we suggest you <a href="http://www.47upgradepath7.richardschave.com//feedback" target="_blank">email</a> me promptly to reserve, because the radio spots might well cause the Easter bus to sell out. We will run this tour again soon if demand so indicates.</p>
 <p> best regards,<br /> Kim</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/03/avoid-the-rush-get-on-the-crime-bus/">Avoid The Rush, Get On The Crime Bus</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/03/avoid-the-rush-get-on-the-crime-bus/">Avoid The Rush, Get On The Crime Bus</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/03/avoid-the-rush-get-on-the-crime-bus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/03/avoid-the-rush-get-on-the-crime-bus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>April 16 Crime Bus Tour: Nightmares of Bunker Hill</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/#respond</comments>
+		<link>https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/</link>
+					<comments>https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 11 Mar 2006 01:37:59 +0000</pubDate>
@@ -214,26 +214,26 @@ Los Angeles</p>
 		<category><![CDATA[downtown los angeles]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oh, you delightful sickniks! After tabulating the votes for the next Crime Bus date, I saw that the majority of respondents asked for the tour to roll on Easter Sunday, 4/16. And so it did, to the queasy glee of all. Stay tuned for photos from the tour. Want to hear what some of the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">Continue reading <span class="screen-reader-text">April 16 Crime Bus Tour: Nightmares of Bunker Hill</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oh, you delightful sickniks! After tabulating the votes for the next Crime Bus date, I saw that the majority of respondents asked for the tour to roll on Easter Sunday, 4/16. And so it did, to the queasy glee of all. Stay tuned for photos from the tour. Want to hear what some of the&#8230; <a class="more-link" href="https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">Continue reading <span class="screen-reader-text">April 16 Crime Bus Tour: Nightmares of Bunker Hill</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Oh, you delightful sickniks! After tabulating the votes for the next Crime Bus date, I saw that the majority of respondents asked for the tour to roll on Easter Sunday, 4/16.</p>
 <p>And so it did, to the queasy glee of all. Stay tuned for photos from the tour. </p>
-<p>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
+<p>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="http://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
 <p>The next scheduled Nightmares of Bunker Hill tour is Saturday June 10. Please <a href="mailto:amscray@gmail.com">email</a> if you are interested in an alternate date.</p>
 <p>best regards,<br />
 Kim<br />
 1947project
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/">April 16 Crime Bus Tour: Nightmares of Bunker Hill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/11/april-16-crime-bus-tour-nightmares-of-bunker-hill/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="http://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 	</channel>

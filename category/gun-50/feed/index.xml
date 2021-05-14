@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Gun &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/gun-50/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/gun-50/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:58:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Gun &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Second Chance</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/#respond</comments>
+		<link>https://1947project.com/2008/03/19/a-second-chance/</link>
+					<comments>https://1947project.com/2008/03/19/a-second-chance/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 19 Mar 2008 18:01:00 +0000</pubDate>
@@ -46,14 +46,14 @@
 		<category><![CDATA[Mary McCoy]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 19, 1927 Long Beach, CA Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown. But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all. Fred wanted to leave Long Beach for Freewater, Oregon, where they&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">Continue reading <span class="screen-reader-text">A Second Chance</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 19, 1927 Long Beach, CA Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown. But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all. Fred wanted to leave Long Beach for Freewater, Oregon, where they&#8230; <a class="more-link" href="https://1947project.com/2008/03/19/a-second-chance/">Continue reading <span class="screen-reader-text">A Second Chance</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 19, 1927<br />
 Long Beach, CA</p>
 <p><img loading="lazy" src="//farm4.static.flickr.com/3103/2345049446_6a45978606_m.jpg" alt="longbeachshooting" width="240" height="217" align="left" />Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown.  But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all.</p>
-<p>Fred wanted to leave Long Beach for Freewater, Oregon, where they owned a ranch; however, Lela was determined to stay put.  She moved out of their home at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=45+atlantic+avenue,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.769462,-118.185081&amp;spn=0.007474,0.014591&amp;z=16" target="_blank" title="atlantic">45 Atlantic Avenue</a>, and Fred spent nearly a week trying to track her down.  On March 18, they finally agreed to meet at a neutral location, their daughter&#8217;s home at 32 Neptune Place, and try to talk things through.</p>
+<p>Fred wanted to leave Long Beach for Freewater, Oregon, where they owned a ranch; however, Lela was determined to stay put.  She moved out of their home at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=45+atlantic+avenue,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.769462,-118.185081&amp;spn=0.007474,0.014591&amp;z=16" target="_blank" title="atlantic">45 Atlantic Avenue</a>, and Fred spent nearly a week trying to track her down.  On March 18, they finally agreed to meet at a neutral location, their daughter&#8217;s home at 32 Neptune Place, and try to talk things through.</p>
 <p>However, Lela refused to reconsider, and walked away from the argument.  As she was descending the stairs in her daughter&#8217;s house, Fred pulled out a gun and shot her twice in the back before turning the gun on himself, firing into his mouth.  The shots didn&#8217;t kill Lena, and when she was admitted to Seaside Hospital, it was assumed that she would recover.  However, Fred was barely clinging to life, and in fact, police arriving on the scene initially believed him dead.</p>
 <p>Today, things looked drastically different.  A bullet was lodged behind Fred&#8217;s left ear, but doctors expected that he would make a full recovery &#8212; and in all likelihood, be left to stand trial for his wife&#8217;s murder.  The shots fired into his wife&#8217;s back had punctured her right lung, and she was not expected to live.  Authorities stood watch at Fred&#8217;s bed, waiting to charge him either with murder or attempted murder.</p>
 <p>Shockingly, the story has a moderately happy ending.  On April 11, a frail Lena McElrath, appeared at her husband&#8217;s preliminary hearing and was helped to the stand by her son, where she made an impassioned plea on Fred&#8217;s behalf.</p>
@@ -61,18 +61,18 @@ Long Beach, CA</p>
 <p>Judge Stephen G. Long agreed she should have that chance, saying, &quot;This is a very remarkable affair, but if both parties are willing to forgive and forget and to endeavor to patch up their broken lives, I think the kindest thing for this court to do is to give McElrath a chance.&quot;</p>
 <p>The charge was dismissed, and the McElraths left the courtroom with their arms wrapped around each other.  Lena&#8217;s wounds were expected to heal completely with time, though Fred would be forever incapacitated by the bullet, still lodged near his spine.</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/19/a-second-chance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Of Pachydermatae and Murder</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/#respond</comments>
+		<link>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/</link>
+					<comments>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 02 Mar 2008 22:15:29 +0000</pubDate>
@@ -84,8 +84,8 @@ Long Beach, CA</p>
 		<category><![CDATA[elephants]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 2, 1927 Los Angeles The Wonderly shooting of Emerson over an elephant&#8217;s affection has been continued until March 15th. George Ã¢â‚¬Å“ScottyÃ¢â‚¬Â Wonderly is the keeper of the bloodhounds for the studios, George Emerson, trainer of the lions at Universal City. The story has a Old West theme to it to boot: on 15 February&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/">Continue reading <span class="screen-reader-text">Of Pachydermatae and Murder</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 2, 1927 Los Angeles The Wonderly shooting of Emerson over an elephant&#8217;s affection has been continued until March 15th. George Ã¢â‚¬Å“ScottyÃ¢â‚¬Â Wonderly is the keeper of the bloodhounds for the studios, George Emerson, trainer of the lions at Universal City. The story has a Old West theme to it to boot: on 15 February&#8230; <a class="more-link" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Continue reading <span class="screen-reader-text">Of Pachydermatae and Murder</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -105,18 +105,18 @@ Here, Wonderly shows how his beloved raised its trunk&#8230;and went on to maint
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/02/of-pachydermatae-and-murder/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Modes of Banditry, 1927</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/#respond</comments>
+		<link>https://1947project.com/2008/03/01/modes-of-banditry-1927/</link>
+					<comments>https://1947project.com/2008/03/01/modes-of-banditry-1927/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 01 Mar 2008 07:26:51 +0000</pubDate>
@@ -129,8 +129,8 @@ Here, Wonderly shows how his beloved raised its trunk&#8230;and went on to maint
 		<category><![CDATA[modus operandi]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 28, 1927 Los Angeles Drivers in lonely climes like Topanga Canyon have recently been distressed when stopping to check on a &#34;possum bandit&#34; found napping in the middle of the road. Of course when the do-gooder leans over the prone figure, he leaps up with a gun, steals their valuables, and races off much&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/">Continue reading <span class="screen-reader-text">Modes of Banditry, 1927</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 28, 1927 Los Angeles Drivers in lonely climes like Topanga Canyon have recently been distressed when stopping to check on a &#34;possum bandit&#34; found napping in the middle of the road. Of course when the do-gooder leans over the prone figure, he leaps up with a gun, steals their valuables, and races off much&#8230; <a class="more-link" href="https://1947project.com/2008/03/01/modes-of-banditry-1927/">Continue reading <span class="screen-reader-text">Modes of Banditry, 1927</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 28, 1927<br />
@@ -139,18 +139,18 @@ Los Angeles</p>
 <p>Meanwhile, at 317 1/2 South Berendo, two dandified thieves of an agonizing refinement relieved Albert Zigman of $125 cash and $700 in jewels in his own apartment. The victim described one man as having kept his hands in his pockets while gazing at a picture on the wall, as the other flicked cigarette ashes from his lazy perch on the davenport. Shortly afterwards, they relieved neighbor Michael Kreel of his extraneous possessions before slipping off into the night with a yawn and a whip of their cashmere scarves.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/01/modes-of-banditry-1927/">Modes of Banditry, 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/01/modes-of-banditry-1927/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/01/modes-of-banditry-1927/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Patricide Interrupted</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/16/patricide-interrupted/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/16/patricide-interrupted/#respond</comments>
+		<link>https://1947project.com/2008/02/16/patricide-interrupted/</link>
+					<comments>https://1947project.com/2008/02/16/patricide-interrupted/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 16 Feb 2008 04:21:43 +0000</pubDate>
@@ -160,10 +160,10 @@ Los Angeles</p>
 		<category><![CDATA[Kim Cooper]]></category>
 		<category><![CDATA[mystery]]></category>
 		<category><![CDATA[The wacko file]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2008/02/16/patricide-interrupted/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2008/02/16/patricide-interrupted/</guid>
 
-					<description><![CDATA[<p>February 15, 1927 San Pedro It&#8217;s a mysterious case indeed that enmeshes Mr. Alvin Hyder, wealthy inventor of diesel engines and proprietor of the motorship Nora, working the Channel Islands trade, and his daughter Nora Thomas, 22, wife of a local grocery man. Seems that Nora went into her father&#8217;s room at 2315 South Grand&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/16/patricide-interrupted/">Continue reading <span class="screen-reader-text">Patricide Interrupted</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/16/patricide-interrupted/">Patricide Interrupted</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 15, 1927 San Pedro It&#8217;s a mysterious case indeed that enmeshes Mr. Alvin Hyder, wealthy inventor of diesel engines and proprietor of the motorship Nora, working the Channel Islands trade, and his daughter Nora Thomas, 22, wife of a local grocery man. Seems that Nora went into her father&#8217;s room at 2315 South Grand&#8230; <a class="more-link" href="https://1947project.com/2008/02/16/patricide-interrupted/">Continue reading <span class="screen-reader-text">Patricide Interrupted</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/16/patricide-interrupted/">Patricide Interrupted</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -171,7 +171,7 @@ Los Angeles</p>
 February 15, 1927<br />
 San Pedro</p>
 <p>It&#8217;s a mysterious case indeed that enmeshes Mr. Alvin Hyder, wealthy inventor of diesel engines and proprietor of the motorship Nora, working the Channel Islands trade, and his daughter Nora Thomas, 22, wife of a local grocery man. </p>
-<p>Seems that Nora went into her father&#8217;s room at 2315 South Grand Avenue and shot daddy in the head with a .38, before <a href="https://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;saddr=2315+South+Grand+Avenue,+san+pedro,+ca&amp;daddr=2224+South+Grand+Avenue,+san+pedro,+ca&amp;sll=33.725,-118.290288&amp;sspn=0.006568,0.01354&amp;ie=UTF8&amp;ll=33.723625,-118.290255&amp;spn=0.001642,0.003385&amp;z=18" target="_blank">creeping back</a> to her home at 2224 South Grand. Hard-headed Alvin did not die, but repelled the bullet with the force of his personality, sending the leaden lump on a one way trip off his cheekbone, around his face and into the back of his neck, where it remained. Following treatment at San Pedro Emergency Hospital, Alvin returned to Grand Avenue to reflect upon all that had brought him to such a place. </p>
+<p>Seems that Nora went into her father&#8217;s room at 2315 South Grand Avenue and shot daddy in the head with a .38, before <a href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;saddr=2315+South+Grand+Avenue,+san+pedro,+ca&amp;daddr=2224+South+Grand+Avenue,+san+pedro,+ca&amp;sll=33.725,-118.290288&amp;sspn=0.006568,0.01354&amp;ie=UTF8&amp;ll=33.723625,-118.290255&amp;spn=0.001642,0.003385&amp;z=18" target="_blank">creeping back</a> to her home at 2224 South Grand. Hard-headed Alvin did not die, but repelled the bullet with the force of his personality, sending the leaden lump on a one way trip off his cheekbone, around his face and into the back of his neck, where it remained. Following treatment at San Pedro Emergency Hospital, Alvin returned to Grand Avenue to reflect upon all that had brought him to such a place. </p>
 <p>Nora, meanwhile, was arrested and charged with attempted murder. She pled not guilty, with local tongues wagging that this was really all about Nora&#8217;s baby who had died, or maybe $10,000 of her father&#8217;s money that she thought ought be hers. </p>
 <p>But in May, the girl was released after the DA declared he had insufficient evidence to convict. Perhaps dad and daughter reconciled in time to take advantage of the Cabrillo Beach grunion run, the dates for which were published in today&#8217;s papers. It&#8217;s the least a captain can do for his ship&#8217;s namesake.
 </p>
@@ -183,18 +183,18 @@ San Pedro</p>
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/16/patricide-interrupted/">Patricide Interrupted</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/16/patricide-interrupted/">Patricide Interrupted</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/16/patricide-interrupted/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/16/patricide-interrupted/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Everybody Has to Fall Some Time</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/#respond</comments>
+		<link>https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/</link>
+					<comments>https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 04 Feb 2008 17:19:17 +0000</pubDate>
@@ -208,31 +208,31 @@ San Pedro</p>
 		<category><![CDATA[west adams]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 4, 1927 Los Angeles A police dragnet is closing in on the killers of Luther H. Green.&#160; A&#160;member of the Los Angeles Stock Exchange, Green was slain outside of his home at 1053 Bonnie Brae, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/">Continue reading <span class="screen-reader-text">Everybody Has to Fall Some Time</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 4, 1927 Los Angeles A police dragnet is closing in on the killers of Luther H. Green.&#160; A&#160;member of the Los Angeles Stock Exchange, Green was slain outside of his home at 1053 Bonnie Brae, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was&#8230; <a class="more-link" href="https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/">Continue reading <span class="screen-reader-text">Everybody Has to Fall Some Time</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p align="left"><img loading="lazy" title="Luther Green headline" height="240" alt="Luther Green headline" src="//farm3.static.flickr.com/2019/2241605773_939601157b_m.jpg" width="215" border="0" /></p>
 <p>February 4, 1927 <br />Los Angeles </p>
-<p>A police dragnet is closing in on the killers of Luther H. Green.&nbsp; A&nbsp;member of the Los Angeles Stock Exchange, Green was slain outside of his home at <a title="1053 Bonnie Brae" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1053+south+bonnie+brae,+la,+ca&#038;sll=34.042345,-118.266076&#038;sspn=0.000942,0.001824&#038;layer=&#038;ie=UTF8&#038;om=1&#038;ll=34.060481,-118.27692&#038;spn=0.083621,0.152607&#038;z=13" target="_blank">1053 Bonnie Brae</a>, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was able to fire a single shot from his rifle before being mortally wounded by the burglers. </p>
-<p>According to Chief of Detectives Cline, six men have been implicated in the aborted liquor heist. It is believed that the ringleader of the failed raid may be the notorious crook, <a title="Mile Away Thomas" href="https://www.47upgradepath7.richardschave.com//node?from=315" target="_blank">Harry &ldquo;Mile-Away&rdquo; Thomas</a>. Mile-Away&rsquo;s mouthpiece, Attorney S.S. Hahn, told cops that he had conferred with his client and, &ldquo;&hellip;he was not only a <em>mile</em> away this time, but <em>sixteen</em> miles away&rdquo;. Harry and several of his confederates would soon be arrested in connection with Green&rsquo;s murder, but none of them would ever stand trial for the crime. </p>
-<p>More than a decade prior to the invention of <a title="Teflon" href="https://inventors.about.com/library/inventors/blteflon.htm" target="_blank">Teflon</a> &reg;, the often busted but rarely convicted non-stick felon would be released on the charges stemming from the Green killing. His lucky streak would end on the evening of April 21, 1927. Harry would be caught in a sting and gunned down by the law as he attempted to steal an expensive automobile from a private garage at <a title="1408 W 35th St" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1408+W+35th+St,+Los+Angeles,+Los+Angeles,+California+90026,+United+States&#038;sll=34.077332,-118.262393&#038;sspn=0.022287,0.039353&#038;ie=UTF8&#038;ll=34.025205,-118.296747&#038;spn=0.022301,0.039353&#038;z=15&#038;om=0" target="_blank">1408 West Thirty-Fifth Street</a>. </p>
+<p>A police dragnet is closing in on the killers of Luther H. Green.&nbsp; A&nbsp;member of the Los Angeles Stock Exchange, Green was slain outside of his home at <a title="1053 Bonnie Brae" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1053+south+bonnie+brae,+la,+ca&#038;sll=34.042345,-118.266076&#038;sspn=0.000942,0.001824&#038;layer=&#038;ie=UTF8&#038;om=1&#038;ll=34.060481,-118.27692&#038;spn=0.083621,0.152607&#038;z=13" target="_blank">1053 Bonnie Brae</a>, as he attempted to thwart the hijacking of his $10,000 [$120,710.34 current dollars] stash of pre-prohibition booze. He was able to fire a single shot from his rifle before being mortally wounded by the burglers. </p>
+<p>According to Chief of Detectives Cline, six men have been implicated in the aborted liquor heist. It is believed that the ringleader of the failed raid may be the notorious crook, <a title="Mile Away Thomas" href="http://www.47upgradepath7.richardschave.com//node?from=315" target="_blank">Harry &ldquo;Mile-Away&rdquo; Thomas</a>. Mile-Away&rsquo;s mouthpiece, Attorney S.S. Hahn, told cops that he had conferred with his client and, &ldquo;&hellip;he was not only a <em>mile</em> away this time, but <em>sixteen</em> miles away&rdquo;. Harry and several of his confederates would soon be arrested in connection with Green&rsquo;s murder, but none of them would ever stand trial for the crime. </p>
+<p>More than a decade prior to the invention of <a title="Teflon" href="http://inventors.about.com/library/inventors/blteflon.htm" target="_blank">Teflon</a> &reg;, the often busted but rarely convicted non-stick felon would be released on the charges stemming from the Green killing. His lucky streak would end on the evening of April 21, 1927. Harry would be caught in a sting and gunned down by the law as he attempted to steal an expensive automobile from a private garage at <a title="1408 W 35th St" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1408+W+35th+St,+Los+Angeles,+Los+Angeles,+California+90026,+United+States&#038;sll=34.077332,-118.262393&#038;sspn=0.022287,0.039353&#038;ie=UTF8&#038;ll=34.025205,-118.296747&#038;spn=0.022301,0.039353&#038;z=15&#038;om=0" target="_blank">1408 West Thirty-Fifth Street</a>. </p>
 <p>Riddled with machine-gun bullets, buckshot, and slugs from police revolvers, Harry staggered from the garage and collapsed in the arms of a uniformed officer. Mile-Away&rsquo;s last words before he succumbed to his injuries were &ldquo;Everybody has to fall some time.&rdquo; </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/">Everybody Has to Fall Some Time</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/04/everybody-has-to-fall-some-time/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/04/everybody-has-to-fall-some-time/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Second Time&#8217;s the Harm</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/#respond</comments>
+		<link>https://1947project.com/2008/02/02/second-times-the-harm/</link>
+					<comments>https://1947project.com/2008/02/02/second-times-the-harm/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 02 Feb 2008 06:38:03 +0000</pubDate>
@@ -250,27 +250,27 @@ San Pedro</p>
 		<category><![CDATA[texas]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 1, 1927Whittier Family annihilator George Hassell was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/">Continue reading <span class="screen-reader-text">Second Time&#8217;s the Harm</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 1, 1927Whittier Family annihilator George Hassell was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their&#8230; <a class="more-link" href="https://1947project.com/2008/02/02/second-times-the-harm/">Continue reading <span class="screen-reader-text">Second Time&#8217;s the Harm</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 1, 1927<br />Whittier</p>
-<p>Family annihilator <a href="https://laurajames.typepad.com/clews/2005/08/if_ever_a_man_d.html" target="_blank">George Hassell</a> was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their little home at 236 South Whittier Avenue. There seemed no reason not to confess this, so today, with some direction from long-suspicious neighbor Myrtle Lark and a little more from the agreeable killer, Constable Bob Way crawled under the house and unearthed the body of an infant. Its mother and siblings soon followed, thus explaining the wretched odors that had long plagued the spot.</p>
+<p>Family annihilator <a href="http://laurajames.typepad.com/clews/2005/08/if_ever_a_man_d.html" target="_blank">George Hassell</a> was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their little home at 236 South Whittier Avenue. There seemed no reason not to confess this, so today, with some direction from long-suspicious neighbor Myrtle Lark and a little more from the agreeable killer, Constable Bob Way crawled under the house and unearthed the body of an infant. Its mother and siblings soon followed, thus explaining the wretched odors that had long plagued the spot.</p>
 <p>In slightly gayer news, the grand new Mayfair Hotel has opened in the Crown Hill district of Los Angeles, providing the ideal vantage point for a drunken oil company exec named Ray Chandler to hole up for days with his secretary while threatening suicide to all who&#8217;ll listen.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/02/second-times-the-harm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Does Not Necessarily Result in Better-Smelling Bandits</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/#respond</comments>
+		<link>https://1947project.com/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/</link>
+					<comments>https://1947project.com/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 30 Jan 2008 19:05:21 +0000</pubDate>
@@ -281,8 +281,8 @@ San Pedro</p>
 		<category><![CDATA[carjacking]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 30, 1927 Los Angeles, CA &#160; &#160; Today was a good day to be a bad guy in Los Angeles, and a profitable one, too.&#160; Calls to police flooded in from the terrorized, the carjacked, the held-up, and the home invaded, for a total of 16 robberies and 30 burglaries in a single day.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/">Continue reading <span class="screen-reader-text">Does Not Necessarily Result in Better-Smelling Bandits</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/">Does Not Necessarily Result in Better-Smelling Bandits</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 30, 1927 Los Angeles, CA &#160; &#160; Today was a good day to be a bad guy in Los Angeles, and a profitable one, too.&#160; Calls to police flooded in from the terrorized, the carjacked, the held-up, and the home invaded, for a total of 16 robberies and 30 burglaries in a single day.&#8230; <a class="more-link" href="https://1947project.com/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/">Continue reading <span class="screen-reader-text">Does Not Necessarily Result in Better-Smelling Bandits</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/">Does Not Necessarily Result in Better-Smelling Bandits</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -291,25 +291,25 @@ San Pedro</p>
 <div align="left">&nbsp;</div>
 <div align="left"><img loading="lazy" width="500" height="128" border="0" src="//farm3.static.flickr.com/2351/2231367966_50661bef85.jpg" alt="banditry" title="banditry" />&nbsp;</div>
 <div align="left">Today was a good day to be a bad guy in Los Angeles, and a profitable one, too.&nbsp; Calls to police flooded in from the terrorized, the carjacked, the held-up, and the home invaded, for a total of 16 robberies and 30 burglaries in a single day.</p>
-<p>Poor Catherine Schmidt, a clerk at the Van De Camp bakery at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=3601+sunset,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=31.150864,59.765625&#038;ie=UTF8&#038;ll=34.091727,-118.276899&#038;spn=0.007943,0.014591&#038;z=16&#038;om=0" target="_blank" title="sunset">3601 Sunset</a>, was robbed for the second time in a single week.&nbsp; The scar-faced stick-up man made off with $17, and Catherine recognized him as the same guy who&#8217;d rifled through her register just a few days previous.</p>
+<p>Poor Catherine Schmidt, a clerk at the Van De Camp bakery at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=3601+sunset,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=31.150864,59.765625&#038;ie=UTF8&#038;ll=34.091727,-118.276899&#038;spn=0.007943,0.014591&#038;z=16&#038;om=0" target="_blank" title="sunset">3601 Sunset</a>, was robbed for the second time in a single week.&nbsp; The scar-faced stick-up man made off with $17, and Catherine recognized him as the same guy who&#8217;d rifled through her register just a few days previous.</p>
 <p>Drug store owner Charles A. Elliott had already closed up shop when bandits struck, and was spared the indignity of having a gun waved in his face.&nbsp; However, his safe was cracked and $300 liberated, along with 22 pints of medicinal whiskey.&nbsp; Pharmacy grade &#8212; nice!</p>
-<p>John S. Smith was held up at Mulholland and Laurel Canyon, and dragged from his car.&nbsp; When the thugs discovered that Smith didn&#8217;t have any money on him, they swiped his hat and coat and cut his ignition wires.&nbsp; Jack Olonglin was also stranded roadside when a carjacking pair set up a roadblock at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=wilshire+and+yale,+los+angeles,+ca&#038;sll=34.093255,-118.223534&#038;sspn=0.015886,0.029182&#038;ie=UTF8&#038;ll=34.039876,-118.474653&#038;spn=0.015896,0.029182&#038;z=15&#038;om=0" target="_blank" title="wilshire">Yale and Wilshire</a>, and took $300 and two suitcases of clothing from him before disabling his auto.</p>
+<p>John S. Smith was held up at Mulholland and Laurel Canyon, and dragged from his car.&nbsp; When the thugs discovered that Smith didn&#8217;t have any money on him, they swiped his hat and coat and cut his ignition wires.&nbsp; Jack Olonglin was also stranded roadside when a carjacking pair set up a roadblock at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=wilshire+and+yale,+los+angeles,+ca&#038;sll=34.093255,-118.223534&#038;sspn=0.015886,0.029182&#038;ie=UTF8&#038;ll=34.039876,-118.474653&#038;spn=0.015896,0.029182&#038;z=15&#038;om=0" target="_blank" title="wilshire">Yale and Wilshire</a>, and took $300 and two suitcases of clothing from him before disabling his auto.</p>
 <p>K.E. Winters, laundry truck driver, was stalled at Avenue 37 and Dayton when he was set upon by another would-be robber.&nbsp; However, as Winters&nbsp; handed over the money, he whipped up a hard luck story about not being able to cover his bills as it was.&nbsp; His assailant took pity on him, and returned the money, saying, &quot;Oh well.&nbsp; I guess I&#8217;m too soft-hearted to be a bandit anyway.&nbsp; Slip me enought to buy a bed and some eats and I&#8217;ll let you go.&quot;</p>
 <p>Can&#8217;t believe that one worked, but nicely played, Mr. Winters.</p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/">Does Not Necessarily Result in Better-Smelling Bandits</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/">Does Not Necessarily Result in Better-Smelling Bandits</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/30/does-not-necessarily-result-in-better-smelling-bandits/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cop Killer</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/28/cop-killer/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/28/cop-killer/#respond</comments>
+		<link>https://1947project.com/2008/01/28/cop-killer/</link>
+					<comments>https://1947project.com/2008/01/28/cop-killer/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 28 Jan 2008 18:41:59 +0000</pubDate>
@@ -320,32 +320,32 @@ San Pedro</p>
 		<category><![CDATA[Robbery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 28, 1927 Los Angeles The hunt is on for a cop killer. Traffic Officer Parley Bennett was mortally wounded when he attempted to halt a robbery at Brodin Millinery Company. Bennett was attempting to pull out his revolver when he was shot by the bandit. His weapon discharged as he fell, but fortunately no&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/28/cop-killer/">Continue reading <span class="screen-reader-text">Cop Killer</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/28/cop-killer/">Cop Killer</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 28, 1927 Los Angeles The hunt is on for a cop killer. Traffic Officer Parley Bennett was mortally wounded when he attempted to halt a robbery at Brodin Millinery Company. Bennett was attempting to pull out his revolver when he was shot by the bandit. His weapon discharged as he fell, but fortunately no&#8230; <a class="more-link" href="https://1947project.com/2008/01/28/cop-killer/">Continue reading <span class="screen-reader-text">Cop Killer</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/28/cop-killer/">Cop Killer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="cop killer headline" height="233" alt="cop killer headline" src="//farm3.static.flickr.com/2038/2226706486_b76ed486c6_m.jpg" width="240" border="0" /></p>
 <p>January 28, 1927 <br />Los Angeles </p>
 <p>The hunt is on for a cop killer. Traffic Officer Parley Bennett was mortally wounded when he attempted to halt a robbery at Brodin Millinery Company. Bennett was attempting to pull out his revolver when he was shot by the bandit. His weapon discharged as he fell, but fortunately no one was injured by the stray slug. Officer Bennett was dead before he hit the floor. </p>
-<p>Services for the slain officer would be held at the Brown Brothers Las Flores Chapel, <a title="935 W. Washington" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=935+West+Washington+St,+Los+Angeles,+Ca&#038;sll=34.146334,-118.185768&#038;sspn=0.037222,0.093555&#038;ie=UTF8&#038;ll=34.03744,-118.2781&#038;spn=0.009317,0.023389&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank">935 West Washington Street</a>, and he would be interred at <a title="Evergreen Cemetery" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=Evergreen+Cemetery,+Los+Angeles,+Ca&#038;ie=UTF8&#038;ll=34.053299,-118.233833&#038;spn=0.037263,0.093555&#038;z=14&#038;om=0" target="_blank">Evergreen Cemetery</a>. </p>
+<p>Services for the slain officer would be held at the Brown Brothers Las Flores Chapel, <a title="935 W. Washington" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=935+West+Washington+St,+Los+Angeles,+Ca&#038;sll=34.146334,-118.185768&#038;sspn=0.037222,0.093555&#038;ie=UTF8&#038;ll=34.03744,-118.2781&#038;spn=0.009317,0.023389&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank">935 West Washington Street</a>, and he would be interred at <a title="Evergreen Cemetery" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=Evergreen+Cemetery,+Los+Angeles,+Ca&#038;ie=UTF8&#038;ll=34.053299,-118.233833&#038;spn=0.037263,0.093555&#038;z=14&#038;om=0" target="_blank">Evergreen Cemetery</a>. </p>
 <p>Parley&rsquo;s widow, Elizabeth, received $1,000 [$12,071.03 USD 2007]&nbsp;worth of police insurance, and merchants on Los Angeles Street (where Bennett died) passed the hat and collected a total of $1,071 for the bereaved woman. </p>
 <p>While the fallen officer was being mourned, more that 150 policemen searched in vain for his slayer. Chief of Detectives Cline stated that the search for Parley&rsquo;s killer would continue indefinitely. </p>
 <p>Although 250 suspects would be taken in for questioning, none of them would be positively identified by witnesses to the shooting. There would be the usual sightings of men answering the description of the desperado, but each suspect would ultimately be released. Eventually the leads would dry up, and Officer Bennett&rsquo;s murder would remain unsolved. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/28/cop-killer/">Cop Killer</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/28/cop-killer/">Cop Killer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/28/cop-killer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/28/cop-killer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Demon Liquor</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/#respond</comments>
+		<link>https://1947project.com/2008/01/23/demon-liquor/</link>
+					<comments>https://1947project.com/2008/01/23/demon-liquor/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2008 16:51:27 +0000</pubDate>
@@ -357,8 +357,8 @@ San Pedro</p>
 		<category><![CDATA[public intoxication]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 23, 1927 Pasadena, CA&#160; &#160; W.H. Latour, a 71-year-old night watchman at the Lamanda Park Citrus Packing Plant in Pasadena, was propped up with a bottle of white lightning when he caught Tom Clark working on his car on the plant grounds.&#160; When Latour told him to leave, Clark nodded, and prepared to set&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/">Continue reading <span class="screen-reader-text">Demon Liquor</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 23, 1927 Pasadena, CA&#160; &#160; W.H. Latour, a 71-year-old night watchman at the Lamanda Park Citrus Packing Plant in Pasadena, was propped up with a bottle of white lightning when he caught Tom Clark working on his car on the plant grounds.&#160; When Latour told him to leave, Clark nodded, and prepared to set&#8230; <a class="more-link" href="https://1947project.com/2008/01/23/demon-liquor/">Continue reading <span class="screen-reader-text">Demon Liquor</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -368,23 +368,23 @@ San Pedro</p>
 <div align="left"><img loading="lazy" width="240" height="115" border="0" align="left" src="//farm3.static.flickr.com/2156/2214021308_b29ba6728a_m.jpg" alt="latour" title="latour" />W.H. Latour, a 71-year-old night watchman at the Lamanda Park Citrus Packing Plant in Pasadena, was propped up with a bottle of white lightning when he caught Tom Clark working on his car on the plant grounds.&nbsp; When Latour told him to leave, Clark nodded, and prepared to set off on his way.</p>
 <p>But then, Latour became convinced that the car was trying to attack him, and pulled a gun on it.&nbsp; After firing two shots at Clark&#8217;s car, Latour raised his arm to wave off the terrifying apparition and fired again &#8212; directly into his own hand.</p>
 <p>Elsewhere in Los Angeles today, another man paid a less gory price for intemperance.</p>
-<p><img loading="lazy" width="240" height="109" border="0" align="right" src="//farm3.static.flickr.com/2294/2213228409_0225dc4a46_m.jpg" alt="sober" title="sober" />Earlier this month, police were called to <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=mt.+washington+dr.,+los+angeles&#038;sll=37.0625,-95.677068&#038;sspn=31.150864,59.765625&#038;ie=UTF8&#038;ll=34.099332,-118.21641&#038;spn=0.015885,0.029182&#038;z=15&#038;iwloc=addr&#038;om=0" target="_blank" title="mtwashingtondr">Mt. Washington Dr.</a> following reports of a dead body slumped in a car along the side of the road.&nbsp; But James Proffit wasn&#8217;t dead &#8212; only dead drunk, and &quot;there were several dead soldiers around him in the form of empty bottles from which the spirits had fled.&quot;</p>
+<p><img loading="lazy" width="240" height="109" border="0" align="right" src="//farm3.static.flickr.com/2294/2213228409_0225dc4a46_m.jpg" alt="sober" title="sober" />Earlier this month, police were called to <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=mt.+washington+dr.,+los+angeles&#038;sll=37.0625,-95.677068&#038;sspn=31.150864,59.765625&#038;ie=UTF8&#038;ll=34.099332,-118.21641&#038;spn=0.015885,0.029182&#038;z=15&#038;iwloc=addr&#038;om=0" target="_blank" title="mtwashingtondr">Mt. Washington Dr.</a> following reports of a dead body slumped in a car along the side of the road.&nbsp; But James Proffit wasn&#8217;t dead &#8212; only dead drunk, and &quot;there were several dead soldiers around him in the form of empty bottles from which the spirits had fled.&quot;</p>
 <p>Today in court, Proffit had some interesting things to say for himself.&nbsp; &quot;It&#8217;s the holidays and festivities that get me in trouble,&quot; Proffit told Municipal Judge Turney.&nbsp; &quot;I was in jail at Thanksgiving for being drunk, and it was the same thing at Christmas and New Year&#8217;s.&nbsp; I wouldn&#8217;t be here now, but my brother got married, and of course, I was there as a guest.&quot;</p>
 <p>Turns out, Proffit had forgotten his duty to drive the newlyweds home from the reception.&nbsp; When he swerved off the road and got them all stuck in the mud, the bride and groom decided to walk the rest of the way home, leaving Proffit to fend for himself.&nbsp; Proffit was fined $200.</p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/23/demon-liquor/">Demon Liquor</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/23/demon-liquor/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/23/demon-liquor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Drunken Geezer Shoots Pal, Self</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/22/drunken-geezer-shoots-pal-self/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/22/drunken-geezer-shoots-pal-self/#respond</comments>
+		<link>https://1947project.com/2008/01/22/drunken-geezer-shoots-pal-self/</link>
+					<comments>https://1947project.com/2008/01/22/drunken-geezer-shoots-pal-self/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 22 Jan 2008 20:05:37 +0000</pubDate>
@@ -398,8 +398,8 @@ San Pedro</p>
 		<category><![CDATA[geezers]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 22, 1927 Altadena Mayhem ruled the backyard at 1795 Beverly Drive in Aladena this morning, when two 70-year-old pals ended a friendship of almost two decades with a gun. It all started when little Jimmie Jamison, 8-year-old grandson of George Ehret, heard noises from the cellar. The youngster investigated, and discovered Nicholas Tuck drunkenly&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/22/drunken-geezer-shoots-pal-self/">Continue reading <span class="screen-reader-text">Drunken Geezer Shoots Pal, Self</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/22/drunken-geezer-shoots-pal-self/">Drunken Geezer Shoots Pal, Self</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 22, 1927 Altadena Mayhem ruled the backyard at 1795 Beverly Drive in Aladena this morning, when two 70-year-old pals ended a friendship of almost two decades with a gun. It all started when little Jimmie Jamison, 8-year-old grandson of George Ehret, heard noises from the cellar. The youngster investigated, and discovered Nicholas Tuck drunkenly&#8230; <a class="more-link" href="https://1947project.com/2008/01/22/drunken-geezer-shoots-pal-self/">Continue reading <span class="screen-reader-text">Drunken Geezer Shoots Pal, Self</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/22/drunken-geezer-shoots-pal-self/">Drunken Geezer Shoots Pal, Self</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>January 22, 1927<br />
@@ -409,10 +409,10 @@ Altadena</p>
 <p>Ehret told police that Tuck was a mean drunk, and had on more than one occasion threatened him with a gun. He is expected to make a full recovery.
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/22/drunken-geezer-shoots-pal-self/">Drunken Geezer Shoots Pal, Self</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/22/drunken-geezer-shoots-pal-self/">Drunken Geezer Shoots Pal, Self</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/22/drunken-geezer-shoots-pal-self/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/22/drunken-geezer-shoots-pal-self/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

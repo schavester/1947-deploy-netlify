@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>wacko file &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/wacko-file/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/wacko-file/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>wacko file &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Headless Chicken Hitchhikes in Monterey Park!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/#respond</comments>
+		<link>https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</link>
+					<comments>https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Sun, 24 Jun 2007 19:09:40 +0000</pubDate>
@@ -42,26 +42,26 @@
 		<category><![CDATA[san gabriel valley]]></category>
 		<category><![CDATA[chicken theft]]></category>
 		<category><![CDATA[wacko file]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</guid>
 
-					<description><![CDATA[<p>June 25, 1927Monterey Park The latest version of the old riddle, &#8220;Why did the chicken cross the road&#8221;, debuted today in Judge P.F. Guaiano&#8217;s courtroom. It fell flat. While cruising his regular beat in the hills south of Monterey Park, Officer T.J. Neal eyeballed&#160;some shady looking characters in an automobile. The lawman resolved to have&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Continue reading <span class="screen-reader-text">Headless Chicken Hitchhikes in Monterey Park!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 25, 1927Monterey Park The latest version of the old riddle, &#8220;Why did the chicken cross the road&#8221;, debuted today in Judge P.F. Guaiano&#8217;s courtroom. It fell flat. While cruising his regular beat in the hills south of Monterey Park, Officer T.J. Neal eyeballed&#160;some shady looking characters in an automobile. The lawman resolved to have&#8230; <a class="more-link" href="https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Continue reading <span class="screen-reader-text">Headless Chicken Hitchhikes in Monterey Park!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="headless chicken headline" height="87" alt="headless chicken headline" src="//farm2.static.flickr.com/1062/614176362_ee6e55d8ca.jpg" width="500" border="0" /></p>
 <p>June 25, 1927<br />Monterey Park</p>
-<p>The latest version of the old riddle, <a title="Chicken Crosses Road" href="https://en.wikipedia.org/wiki/Why_did_the_chicken_cross_the_road?" target="_blank">&ldquo;Why did the chicken cross the road&rdquo;</a>, debuted today in Judge P.F. Guaiano&rsquo;s courtroom. It fell flat. </p>
-<p>While cruising his regular beat in the hills south of <a title="Monterey Park" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=monterey+park,+ca&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" target="_blank">Monterey Park</a>, Officer T.J. Neal eyeballed&nbsp;some shady looking characters in an automobile. The lawman resolved to have a look, and after further investigation he discovered three men, a decapitated chicken and three empty sacks with feathers stuck to them.&nbsp; Arriving at the obvious conclusion that the poultry had been pinched, Neal demanded an explanation for the beheaded bird. The suspects related a story so improbable it left the cop scratching his head in disbelief. </p>
-<p>According to the men, Yeacio Tavary of <a title="Downey" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=downey,+ca&#038;ie=UTF8&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Downey</a>, Isa Magana of <a title="Belvedere Gardens" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=belvedere+park+los+angeles&#038;sll=37.0625,-95.677071&#038;sspn=34.587666,86.396484&#038;ie=UTF8&#038;ll=34.039165,-118.161864&#038;spn=0.008837,0.021093&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">Belvedere</a>, and Daniel Garcia of <a title="Los Angeles" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=los+angeles,+ca&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" target="_blank">Los Angeles</a>, they had been out for a drive when they spied a headless chicken running amok through the countryside. Imagine their surprise when, without warning, the frenzied fowl dashed up to their car and jumped in!</p>
+<p>The latest version of the old riddle, <a title="Chicken Crosses Road" href="http://en.wikipedia.org/wiki/Why_did_the_chicken_cross_the_road?" target="_blank">&ldquo;Why did the chicken cross the road&rdquo;</a>, debuted today in Judge P.F. Guaiano&rsquo;s courtroom. It fell flat. </p>
+<p>While cruising his regular beat in the hills south of <a title="Monterey Park" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=monterey+park,+ca&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" target="_blank">Monterey Park</a>, Officer T.J. Neal eyeballed&nbsp;some shady looking characters in an automobile. The lawman resolved to have a look, and after further investigation he discovered three men, a decapitated chicken and three empty sacks with feathers stuck to them.&nbsp; Arriving at the obvious conclusion that the poultry had been pinched, Neal demanded an explanation for the beheaded bird. The suspects related a story so improbable it left the cop scratching his head in disbelief. </p>
+<p>According to the men, Yeacio Tavary of <a title="Downey" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=downey,+ca&#038;ie=UTF8&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Downey</a>, Isa Magana of <a title="Belvedere Gardens" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=belvedere+park+los+angeles&#038;sll=37.0625,-95.677071&#038;sspn=34.587666,86.396484&#038;ie=UTF8&#038;ll=34.039165,-118.161864&#038;spn=0.008837,0.021093&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">Belvedere</a>, and Daniel Garcia of <a title="Los Angeles" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=los+angeles,+ca&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" target="_blank">Los Angeles</a>, they had been out for a drive when they spied a headless chicken running amok through the countryside. Imagine their surprise when, without warning, the frenzied fowl dashed up to their car and jumped in!</p>
 <p>What were they to do? The bird possessed no identification, which ruled out returning it to its rightful owner. After a brief confab, the trio had decided to keep the bird and had been on their way to cook the obliging entree when they were rousted.</p>
 <p>Officer Neal hadn&rsquo;t believed the fantastic tale of the hitchhiking chicken, and apparently neither had Judge Guaiano who mused &ldquo;Chickens are not that foolish&rdquo;, and ordered the defendants to spend ten days in the slammer.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

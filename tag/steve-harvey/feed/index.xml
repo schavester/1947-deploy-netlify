@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>steve harvey &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/steve-harvey/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/steve-harvey/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>steve harvey &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Steve Harvey featurette in today&#8217;s L.A. Times</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/#respond</comments>
+		<link>https://1947project.com/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/</link>
+					<comments>https://1947project.com/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2006 16:15:39 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[steve harvey]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Welcome, readers of Steve Harvey&#8217;s Only in L.A.! Past Horrors Await Bus Tour, Provided Today&#8217;s Don&#8217;t Intervene &#34;Nightmares of Bunker Hill&#34; is a bus tour for those who revel in the murders, suicides, brothels, gambling palaces and opium dens of 19th century L.A. &#8212; you know, the good old days. &#34;The city was so strange&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/">Continue reading <span class="screen-reader-text">Steve Harvey featurette in today&#8217;s L.A. Times</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/">Steve Harvey featurette in today&#8217;s L.A. Times</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Welcome, readers of Steve Harvey&#8217;s Only in L.A.! Past Horrors Await Bus Tour, Provided Today&#8217;s Don&#8217;t Intervene &#34;Nightmares of Bunker Hill&#34; is a bus tour for those who revel in the murders, suicides, brothels, gambling palaces and opium dens of 19th century L.A. &#8212; you know, the good old days. &#34;The city was so strange&#8230; <a class="more-link" href="https://1947project.com/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/">Continue reading <span class="screen-reader-text">Steve Harvey featurette in today&#8217;s L.A. Times</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/">Steve Harvey featurette in today&#8217;s L.A. Times</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>Welcome, readers of Steve Harvey&#8217;s <a href="https://www.latimes.com/news/columnists/la-me-only28apr28,1,2764188.column?coll=la-news-columns" target="_blank">Only in L.A.</a>!</p>
+<div>Welcome, readers of Steve Harvey&#8217;s <a href="http://www.latimes.com/news/columnists/la-me-only28apr28,1,2764188.column?coll=la-news-columns" target="_blank">Only in L.A.</a>!</p>
 <p> <strong>Past Horrors Await Bus Tour, Provided Today&#8217;s Don&#8217;t Intervene<br /> </strong><br /> &quot;Nightmares of Bunker Hill&quot; is a bus tour for those who revel in the murders, suicides, brothels, gambling palaces and opium dens of 19th century L.A. &mdash; you know, the good old days.</p>
 <p> &quot;The city was so strange and wide open back then,&quot; said co-operator Kim Cooper. &quot;But they had a lot of the same problems as we do now. Wild kids &hellip; men and women not getting along&hellip;. &quot;</p>
 <p> Naturally, it takes a certain mind-set to be entranced by, say, a story about a woman throwing acid in the face of her lover (Chinatown, 1887). But the market evidently exists. The last group who signed up for an excursion were invited by Cooper and partner Nathan Marsak to pick a date. Easter Sunday was chosen. &quot;Oh, you delightful sickniks!&quot; the duo responded on their website, 1947project.com. And so the holiday was observed, in their own way.</p>
@@ -61,10 +61,10 @@
 <p> &bull;&nbsp; When forgery suspect Robert Putter, 49, was arrested in Alhambra, police found in his possession an 18-page how-to booklet for others in the trade. Ironically, he failed to observe one of his own rules: &quot;When you don&#8217;t succeed in passing a check, get out of town but fast.&quot;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/">Steve Harvey featurette in today&#8217;s L.A. Times</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/">Steve Harvey featurette in today&#8217;s L.A. Times</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/28/steve-harvey-featurette-in-todays-l-a-times/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Olivet Presbyterian &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/olivet-presbyterian/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/olivet-presbyterian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:38:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Olivet Presbyterian &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Salvation in the Round</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/#respond</comments>
+		<link>https://1947project.com/2006/10/22/salvation-in-the-round/</link>
+					<comments>https://1947project.com/2006/10/22/salvation-in-the-round/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 22 Oct 2006 06:21:34 +0000</pubDate>
@@ -43,8 +43,8 @@
 		<category><![CDATA[Olivet Presbyterian]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 21, 1907Highland Park First there was Dr. Widney&#8217;s Bethel, built into the notch of a hill in the form of a letter &#8220;A,&#8221; and now the tony downtown suburb of Highland Park is up for another piece of religious architectural eccentricity. The seceders from the First Presbyterian Church of Highland Park, under the leadership&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/">Continue reading <span class="screen-reader-text">Salvation in the Round</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 21, 1907Highland Park First there was Dr. Widney&#8217;s Bethel, built into the notch of a hill in the form of a letter &#8220;A,&#8221; and now the tony downtown suburb of Highland Park is up for another piece of religious architectural eccentricity. The seceders from the First Presbyterian Church of Highland Park, under the leadership&#8230; <a class="more-link" href="https://1947project.com/2006/10/22/salvation-in-the-round/">Continue reading <span class="screen-reader-text">Salvation in the Round</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>October 21, 1907<img loading="lazy" width="233" height="223" border="0" align="right" src="//static.flickr.com/95/275910976_7b50c15cc2_o.gif" alt="odd2" title="odd2" /><br />Highland Park</p>
@@ -52,10 +52,10 @@
 <p>The seceders from the First Presbyterian Church of Highland Park, under the leadership of Dr. F. P. Berry, have purchased an unusually triangular piece of ground, 134 by 135 feet at the corner of Avenue 56 and Ash.&nbsp; Architect George Howard was given the task of designing a new church, and his solution to this awkward parcel problem for the good people of the newly formed Olivet Presbyterian Church?&nbsp; Build in the form of a complete circle, fifty-eight feet in diameter, with a circular auditorium that seats 650.</p>
 <p>Don&rsquo;t know as to whether this unique structure was ever built, but do know that it isn&rsquo;t there now.<br /><img loading="lazy" width="400" height="261" border="0" align="bottom" src="//static.flickr.com/120/275907201_5695b684c3_o.gif" alt="odd" title="odd" /></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/22/salvation-in-the-round/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

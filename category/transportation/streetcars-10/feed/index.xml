@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>streetcars &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/transportation/streetcars-10/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/transportation/streetcars-10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:08:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>streetcars &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Speaking of the Weather</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/22/speaking-of-the-weather/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/22/speaking-of-the-weather/#comments</comments>
+		<link>https://1947project.com/2007/02/22/speaking-of-the-weather/</link>
+					<comments>https://1947project.com/2007/02/22/speaking-of-the-weather/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 22 Feb 2007 15:04:31 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[rain]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 22, 1907 Los Angeles HereÃ¢â‚¬â„¢s how The Times weather stories read a century ago: Ã¢â‚¬Å“For all the daylight hours yesterday, the rain drizzled down, much of the time like a heavy Scotch mist, but toward nightfall the storm deepened and the rain began to fall in earnest. For two hours in the early part&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/22/speaking-of-the-weather/">Continue reading <span class="screen-reader-text">Speaking of the Weather</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/22/speaking-of-the-weather/">Speaking of the Weather</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 22, 1907 Los Angeles HereÃ¢â‚¬â„¢s how The Times weather stories read a century ago: Ã¢â‚¬Å“For all the daylight hours yesterday, the rain drizzled down, much of the time like a heavy Scotch mist, but toward nightfall the storm deepened and the rain began to fall in earnest. For two hours in the early part&#8230; <a class="more-link" href="https://1947project.com/2007/02/22/speaking-of-the-weather/">Continue reading <span class="screen-reader-text">Speaking of the Weather</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/22/speaking-of-the-weather/">Speaking of the Weather</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0222.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0222.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0222.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0222.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Feb. 22, 1907<br />
 Los Angeles</p>
@@ -67,7 +67,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Normally, I donÃ¢â‚¬â„¢t like to merely copy what ran in The Times, but sometimes itÃ¢â‚¬â„¢s impossible to rewrite the stories and preserve the original flavor. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com  <!--[if !supportLineBreakNewLine]-->  <!--[endif]--></p>
 <p><!-- Start of StatCounter Code --><br />
@@ -77,22 +77,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/22/speaking-of-the-weather/">Speaking of the Weather</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/22/speaking-of-the-weather/">Speaking of the Weather</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/22/speaking-of-the-weather/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/22/speaking-of-the-weather/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Random Shots From Our 12-Bore</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/11/random-shots-from-our-12-bore/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/11/random-shots-from-our-12-bore/#respond</comments>
+		<link>https://1947project.com/2007/02/11/random-shots-from-our-12-bore/</link>
+					<comments>https://1947project.com/2007/02/11/random-shots-from-our-12-bore/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 11 Feb 2007 14:51:04 +0000</pubDate>
@@ -106,8 +106,8 @@ var sc_security="77307670";
 		<category><![CDATA[Senate]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 11, 1907 Los Angeles The Eastside gets a new Baptist Church and 2nd Street and St. Louis. Like Tom and Huck A large pond 7 feet deep at Normandie and San Marino left by the runoff of recent rainstorms proved too tempting to the boys of the Forrester tract and so they launched a&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/11/random-shots-from-our-12-bore/">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/11/random-shots-from-our-12-bore/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 11, 1907 Los Angeles The Eastside gets a new Baptist Church and 2nd Street and St. Louis. Like Tom and Huck A large pond 7 feet deep at Normandie and San Marino left by the runoff of recent rainstorms proved too tempting to the boys of the Forrester tract and so they launched a&#8230; <a class="more-link" href="https://1947project.com/2007/02/11/random-shots-from-our-12-bore/">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/11/random-shots-from-our-12-bore/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
@@ -115,12 +115,12 @@ var sc_security="77307670";
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--></p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0211B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 336px; height: 333px;" src="//www.lmharnisch.com/images/1907_0211B.jpg" alt="" border="0" /></a></p>
-<p style="text-align: center;" class="MsoNormal"><o:p></o:p><span style="font-weight: bold;">The Eastside gets a new </span><a style="font-weight: bold;" href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=200+S+St+Louis+St,+Los+Angeles,+CA+90033&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.043865,-118.214419&amp;spn=0.000576,0.002103&#038;t=h&amp;om=0">Baptist Church</a><span style="font-weight: bold;"> and 2</span><sup style="font-weight: bold;">nd</sup><span style="font-weight: bold;"> Street and St. Louis.</span></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0211B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 336px; height: 333px;" src="//www.lmharnisch.com/images/1907_0211B.jpg" alt="" border="0" /></a></p>
+<p style="text-align: center;" class="MsoNormal"><o:p></o:p><span style="font-weight: bold;">The Eastside gets a new </span><a style="font-weight: bold;" href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=200+S+St+Louis+St,+Los+Angeles,+CA+90033&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.043865,-118.214419&amp;spn=0.000576,0.002103&#038;t=h&amp;om=0">Baptist Church</a><span style="font-weight: bold;"> and 2</span><sup style="font-weight: bold;">nd</sup><span style="font-weight: bold;"> Street and St. Louis.</span></p>
 <div style="text-align: center;"><!--[if !supportEmptyParas]--> <o:p style="font-weight: bold;"></o:p>  </div>
 <p style="font-weight: bold;" class="MsoNormal">Like Tom and Huck</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">A large pond 7 feet deep at <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=S+Normandie+Ave+and+San+Marino+St,+Los+Angeles,+CA+90006&#038;ie=UTF8&amp;amp;amp;z=18&#038;ll=34.054428,-118.301007&amp;spn=0.001151,0.004206&#038;t=h&amp;om=0">Normandie and San Marino</a> left by the runoff of recent rainstorms proved too tempting to the boys of the Forrester tract and so they launched a raft to play. </p>
+<p class="MsoNormal">A large pond 7 feet deep at <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=S+Normandie+Ave+and+San+Marino+St,+Los+Angeles,+CA+90006&#038;ie=UTF8&amp;amp;amp;z=18&#038;ll=34.054428,-118.301007&amp;spn=0.001151,0.004206&#038;t=h&amp;om=0">Normandie and San Marino</a> left by the runoff of recent rainstorms proved too tempting to the boys of the Forrester tract and so they launched a raft to play. </p>
 <p class="MsoNormal">The raft tipped, The Times says, sending 8-year-old Clarence Rhodes of 1004 S. Jasmine tumbling into the water. Hearing the boysÃ¢â‚¬â„¢ cries for help, M. Allen rushed from his home at 922 Normandie, plunged into the water and rescued Clarence. </p>
 <p class="MsoNormal">After nearly half an hourÃ¢â‚¬â„¢s work, the boy was resuscitated, The Times says. </p>
 <p style="font-weight: bold;" class="MsoNormal">Abandoned Boy</p>
@@ -133,9 +133,9 @@ Los Angeles</p>
 <p class="MsoNormal">Ã¢â‚¬Å“According to witnesses, Mrs. Newton asked to be allowed to leave the car at 29<sup>th</sup> Street. When she saw the coach was running past the street, she jumped. The car crew carried her into a house nearby,Ã¢â‚¬Â The Times says. </p>
 <p class="MsoNormal">Ã¢â‚¬Å“Several passengers on the car said that it was No. 419. They state that the conductor paid no attention to Mrs. NewtonÃ¢â‚¬â„¢s signals.Ã¢â‚¬Â </p>
 <p class="MsoNormal">Note: I was amazed to learn just how many people were injured in 1907 by jumping from streetcars that failed to stop. Without checking further, I would say someone was hurt about once a week. </p>
-<p class="MsoNormal">Bonus fact: The local tourism industry is furious because the state Senate passed the <a href="https://pensive-torvalds-020d34.netlify.app/centennial-ramblings">bill banning horses with docked tails</a>. Businesses note that wealthy visitors from the East often bring their teams to Los Angeles at great expense and if their fancy horses are prohibited, wealthy tourists will avoid the Southland in favor of Florida. </p>
+<p class="MsoNormal">Bonus fact: The local tourism industry is furious because the state Senate passed the <a href="https://1947project.com/centennial-ramblings">bill banning horses with docked tails</a>. Businesses note that wealthy visitors from the East often bring their teams to Los Angeles at great expense and if their fancy horses are prohibited, wealthy tourists will avoid the Southland in favor of Florida. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -147,22 +147,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/11/random-shots-from-our-12-bore/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/11/random-shots-from-our-12-bore/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/11/random-shots-from-our-12-bore/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/11/random-shots-from-our-12-bore/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Why Doesn&#8217;t L.A. Do Something About Traffic?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/#respond</comments>
+		<link>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/</link>
+					<comments>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 27 Jan 2007 15:20:31 +0000</pubDate>
@@ -175,11 +175,11 @@ var sc_security="77307670";
 		<category><![CDATA[urban planning]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 27, 1907 Los Angeles One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Continue reading <span class="screen-reader-text">Why Doesn&#8217;t L.A. Do Something About Traffic?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 27, 1907 Los Angeles One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it&#8230; <a class="more-link" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Continue reading <span class="screen-reader-text">Why Doesn&#8217;t L.A. Do Something About Traffic?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
 <p><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 27, 1907<br />
 Los Angeles</p>
@@ -187,7 +187,7 @@ Los Angeles</p>
 <p class="MsoNormal">One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it many problems to be solved. The Owens River and the system of storm drains underway are the solutions of two important ones,Ã¢â‚¬Â The Times says.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">A traffic jam in 1907</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -196,7 +196,7 @@ Los Angeles</p>
 <p class="MsoNormal">Now this is painful reading:</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p style="font-weight: bold;" class="MsoNormal">Ã¢â‚¬Å“This problem of transportation will grow in importance every year during which it is neglected. Swift as has been the extension and shifting of lines of the great electric railway system in and about Los Angeles, the city has grown with still greater rapidity.Ã¢â‚¬Â</p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">The elevated train proposed for Los Angeles and never built.</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -220,7 +220,7 @@ Los Angeles</p>
 <p>But it is gratifying when wondering what became of the 1947 plan to remember that the new Gold Line tracks run between lanes of the Foothill Freeway. Some things just take time.</p>
 <p>Bonus factoid: The Harbor Freeway was realigned to spare the Auto Club headquarters on South Figueroa and USCÃ¢â‚¬â„¢s Fraternity Row.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -230,22 +230,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Highwaymen Captured</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/20/highwaymen-captured/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/20/highwaymen-captured/#respond</comments>
+		<link>https://1947project.com/2006/11/20/highwaymen-captured/</link>
+					<comments>https://1947project.com/2006/11/20/highwaymen-captured/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 20 Nov 2006 14:51:48 +0000</pubDate>
@@ -255,15 +255,15 @@ var sc_security="77307670";
 		<category><![CDATA[streetcars]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 20, 1907 Los Angeles Police battling the current crime wave say they have arrested two men who staged daring holdups on the Ascot Park and Eastlake streetcars, robbing the motormen and conductors as the cars reached the ends of their routes. These holdups had so infuriated local officials that Chief Kern armed bicycle officers&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/20/highwaymen-captured/">Continue reading <span class="screen-reader-text">Highwaymen Captured</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/20/highwaymen-captured/">Highwaymen Captured</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 20, 1907 Los Angeles Police battling the current crime wave say they have arrested two men who staged daring holdups on the Ascot Park and Eastlake streetcars, robbing the motormen and conductors as the cars reached the ends of their routes. These holdups had so infuriated local officials that Chief Kern armed bicycle officers&#8230; <a class="more-link" href="https://1947project.com/2006/11/20/highwaymen-captured/">Continue reading <span class="screen-reader-text">Highwaymen Captured</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/20/highwaymen-captured/">Highwaymen Captured</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1120C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 358px; height: 240px;" src="//www.lmharnisch.com/images/1907_1120C.jpg" alt="" border="0" /></a><br />
+<div><a href="http://www.lmharnisch.com/images/1907_1120C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 358px; height: 240px;" src="//www.lmharnisch.com/images/1907_1120C.jpg" alt="" border="0" /></a><br />
 <!-- [if !supportEmptyParas]--><!--[endif]--></p>
 <p class="MsoNormal">Nov. 20, 1907<br />
 Los Angeles</p>
-<p class="MsoNormal"><a href="https://www.lmharnisch.com/images/1907_1120B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 199px; height: 625px;" src="//www.lmharnisch.com/images/1907_1120B.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a href="http://www.lmharnisch.com/images/1907_1120B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 199px; height: 625px;" src="//www.lmharnisch.com/images/1907_1120B.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"><!-- [if !supportEmptyParas]--></p>
 <p class="MsoNormal">Police battling the current crime wave say they have arrested two men who staged daring holdups on the Ascot Park and Eastlake streetcars, robbing the motormen and conductors as the cars reached the ends of their routes. These holdups had so infuriated local officials that Chief Kern armed bicycle officers with shotguns and ordered mounted policemen to resume patrolling the city.</p>
 <p class="MsoNormal"><!-- [if !supportEmptyParas]--></p>
@@ -272,18 +272,18 @@ Los Angeles</p>
 <p class="MsoNormal">Officials say that S.A. Kursting and Frank O</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/20/highwaymen-captured/">Highwaymen Captured</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/20/highwaymen-captured/">Highwaymen Captured</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/20/highwaymen-captured/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/20/highwaymen-captured/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fatal Fury</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/#respond</comments>
+		<link>https://1947project.com/2006/11/16/fatal-fury/</link>
+					<comments>https://1947project.com/2006/11/16/fatal-fury/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2006 15:29:33 +0000</pubDate>
@@ -295,11 +295,11 @@ Los Angeles</p>
 		<category><![CDATA[streetcars]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 16, 1907 Los Angeles Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Continue reading <span class="screen-reader-text">Fatal Fury</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 16, 1907 Los Angeles Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook&#8230; <a class="more-link" href="https://1947project.com/2006/11/16/fatal-fury/">Continue reading <span class="screen-reader-text">Fatal Fury</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1116C.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 232px; height: 303px;" src="//www.lmharnisch.com/images/1907_1116C.jpg" alt="" border="0" /></a>Nov. 16, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1116C.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 232px; height: 303px;" src="//www.lmharnisch.com/images/1907_1116C.jpg" alt="" border="0" /></a>Nov. 16, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">Mrs. Amanda Cook (she is also identified as Jennie and Mary) came to Los Angeles from Boston in 1906 with two of her children in search of her husband, Frederick, a union plasterer and bricklayer. She advertised in the newspapers without success and finally took a job as a cook at the Juvenile Detention Home. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -307,18 +307,18 @@ Los Angeles    </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">One day, after being threatened with divorce, Frederick appeared at the juvenile home and upon seeing his wife, said: </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/16/fatal-fury/">Fatal Fury</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/16/fatal-fury/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/16/fatal-fury/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Bad Way With Horses</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/12/a-bad-way-with-horses/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/12/a-bad-way-with-horses/#respond</comments>
+		<link>https://1947project.com/2006/11/12/a-bad-way-with-horses/</link>
+					<comments>https://1947project.com/2006/11/12/a-bad-way-with-horses/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 12 Nov 2006 15:33:06 +0000</pubDate>
@@ -331,16 +331,16 @@ Los Angeles    </p>
 		<category><![CDATA[Westlake]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov.12, 1907 Los Angeles Half a block from his home at 1131 Westlake, John P. Shumway Jr. was badly injured when the carriage he was driving collided with the 11th Street trolley. Shumway was thrown about 20 feet, striking the pavement head-first, and the horse ran for the stable, pulling what was left of the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/12/a-bad-way-with-horses/">Continue reading <span class="screen-reader-text">A Bad Way With Horses</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/12/a-bad-way-with-horses/">A Bad Way With Horses</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov.12, 1907 Los Angeles Half a block from his home at 1131 Westlake, John P. Shumway Jr. was badly injured when the carriage he was driving collided with the 11th Street trolley. Shumway was thrown about 20 feet, striking the pavement head-first, and the horse ran for the stable, pulling what was left of the&#8230; <a class="more-link" href="https://1947project.com/2006/11/12/a-bad-way-with-horses/">Continue reading <span class="screen-reader-text">A Bad Way With Horses</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/12/a-bad-way-with-horses/">A Bad Way With Horses</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1112.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1112.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1112.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1112.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Nov.12, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">Half a block from his home at <a href="https://www.zillow.com/HomeDetails.htm?city=Los+Angeles&#038;state=CA&amp;zprop=20624434">1131 Westlake</a>, John P. Shumway Jr. was badly injured when the carriage he was driving collided with the 11<sup>th</sup> Street trolley.<span style="">  </span>Shumway was thrown about 20 feet, striking the pavement head-first, and the horse ran for the stable, pulling what was left of the smashed carriage, witnesses said. </p>
+<p class="MsoNormal">Half a block from his home at <a href="http://www.zillow.com/HomeDetails.htm?city=Los+Angeles&#038;state=CA&amp;zprop=20624434">1131 Westlake</a>, John P. Shumway Jr. was badly injured when the carriage he was driving collided with the 11<sup>th</sup> Street trolley.<span style="">  </span>Shumway was thrown about 20 feet, striking the pavement head-first, and the horse ran for the stable, pulling what was left of the smashed carriage, witnesses said. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Shumway was carried to his home, where his father, Dr. John P. Shumway, treated him for a concussion, bruises and cuts. A year later, the family filed a personal injury suit against the Los Angeles Railway, seeking $10,355 ($204,938.83), although The Times failed to report the outcome of the trial.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -348,18 +348,18 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">A few months later, he was fined $60 for cruelty to a horse. Witnesses said Shumway overloaded a three-horse truck in South Pasadena and </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/12/a-bad-way-with-horses/">A Bad Way With Horses</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/12/a-bad-way-with-horses/">A Bad Way With Horses</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/12/a-bad-way-with-horses/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/12/a-bad-way-with-horses/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Danger Point</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/#respond</comments>
+		<link>https://1947project.com/2006/11/01/danger-point/</link>
+					<comments>https://1947project.com/2006/11/01/danger-point/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 01 Nov 2006 15:11:59 +0000</pubDate>
@@ -369,11 +369,11 @@ Los Angeles</p>
 		<category><![CDATA[mass transit]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oct. 31, 1907 Los Angeles John J. Mooney, 23, a Southern Pacific machinist who recently arrived from Butte, Mont., was aboard the West 2nd Street car on his way to be initiated in the Modern Woodmen of America when the brakes failed, sending the car into the southbound Spring Street trolley, killing him and injuring&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/">Continue reading <span class="screen-reader-text">Danger Point</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oct. 31, 1907 Los Angeles John J. Mooney, 23, a Southern Pacific machinist who recently arrived from Butte, Mont., was aboard the West 2nd Street car on his way to be initiated in the Modern Woodmen of America when the brakes failed, sending the car into the southbound Spring Street trolley, killing him and injuring&#8230; <a class="more-link" href="https://1947project.com/2006/11/01/danger-point/">Continue reading <span class="screen-reader-text">Danger Point</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1031B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 381px; height: 214px;" src="//www.lmharnisch.com/images/1907_1031B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1031B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 381px; height: 214px;" src="//www.lmharnisch.com/images/1907_1031B.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Oct. 31, 1907<br />
 Los Angeles</p>
@@ -382,18 +382,18 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">The intersection is known as a danger point because of the steep hill on 2<sup>nd</sup> Street, according to The Times, which noted that another fatal accident occurred there Dec. 24, 1905. Officials say the 2<sup>nd</sup> Street car stopped at Broadway, then proceeded toward Spring when the brakes failed. The motorman of the Spring Street car accelerated to avoid the oncoming trolley but couldn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/01/danger-point/">Danger Point</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/01/danger-point/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/01/danger-point/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Her Last Walk</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/13/her-last-walk/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/13/her-last-walk/#respond</comments>
+		<link>https://1947project.com/2006/09/13/her-last-walk/</link>
+					<comments>https://1947project.com/2006/09/13/her-last-walk/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2006 13:28:52 +0000</pubDate>
@@ -405,27 +405,27 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Sept. 13, 1907 Los Angeles The family was too poor to take a streetcar, so Concepcion Parra, 60, and her sister Mrs. J.L. Ghiotto began walking the 12 miles to El Monte with Parra</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/13/her-last-walk/">Her Last Walk</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/13/her-last-walk/">Her Last Walk</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0913.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 245px;" src="//www.lmharnisch.com/images/1907_0913.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0913.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 245px;" src="//www.lmharnisch.com/images/1907_0913.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Sept. 13, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The family was too poor to take a streetcar, so Concepcion Parra, 60, and her sister Mrs. J.L. Ghiotto began walking the 12 miles to El Monte with Parra</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/13/her-last-walk/">Her Last Walk</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/13/her-last-walk/">Her Last Walk</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/13/her-last-walk/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/13/her-last-walk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tragic Traffic</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/30/tragic-traffic/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/30/tragic-traffic/#respond</comments>
+		<link>https://1947project.com/2006/07/30/tragic-traffic/</link>
+					<comments>https://1947project.com/2006/07/30/tragic-traffic/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 30 Jul 2006 12:24:10 +0000</pubDate>
@@ -436,26 +436,26 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>July 30, 1907 Los Angeles A horse and buggy had been hitched outside Jevne</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/30/tragic-traffic/">Tragic Traffic</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/30/tragic-traffic/">Tragic Traffic</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0730.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 247px; height: 71px;" src="//www.lmharnisch.com/images/1907_0730.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_730.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_730.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/1907_0730.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/1907_0730.jpg" alt="" border="0" /></a>July 30, 1907<br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0730.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 247px; height: 71px;" src="//www.lmharnisch.com/images/1907_0730.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_730.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_730.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/1907_0730.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/1907_0730.jpg" alt="" border="0" /></a>July 30, 1907<br />
 Los Angeles</p>
-<p>A horse and buggy had been hitched outside<a href="https://homepage.mac.com/lindalevi/PersonalAW/OralHistories.htm"> Jevne</div>
+<p>A horse and buggy had been hitched outside<a href="http://homepage.mac.com/lindalevi/PersonalAW/OralHistories.htm"> Jevne</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/30/tragic-traffic/">Tragic Traffic</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/30/tragic-traffic/">Tragic Traffic</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/30/tragic-traffic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/30/tragic-traffic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vegans, Avert Your Eyes</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/#respond</comments>
+		<link>https://1947project.com/2006/07/19/vegans-avert-your-eyes/</link>
+					<comments>https://1947project.com/2006/07/19/vegans-avert-your-eyes/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 19 Jul 2006 12:35:32 +0000</pubDate>
@@ -468,18 +468,18 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>July 19, 1907 Covina Lavish preparations are underway for an enormous, free picnic to celebrate the opening of a Pacific Electric streetcar line to Los Angeles.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0719.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 220px; height: 264px;" src="//www.lmharnisch.com/images/1907_0719.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 19, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0719.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 220px; height: 264px;" src="//www.lmharnisch.com/images/1907_0719.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 19, 1907<br />
 </span><span style="font-size:100%;">Covina<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Lavish preparations are underway for an enormo</span><span style="font-size:100%;">us, free picnic to celebrate the opening of a Pacific Electric streetcar line to Los Angeles. </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/19/vegans-avert-your-eyes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

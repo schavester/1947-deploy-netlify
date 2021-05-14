@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>electric rail &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/electric-rail/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/electric-rail/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>electric rail &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Historic Cobblestones Exposed in Lincoln Heights</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/#respond</comments>
+		<link>https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/</link>
+					<comments>https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 29 May 2006 04:46:50 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[street works]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 27, 2007 Los Angeles It is more than two weeks now since the graders came and removed the surface layer of the asphalt on Avenue 20, between Albion and Broadway, then went away without finishing their work. For all that time, the NO PARKING signs have hung on the telephone poles, and the regular&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Continue reading <span class="screen-reader-text">Historic Cobblestones Exposed in Lincoln Heights</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 27, 2007 Los Angeles It is more than two weeks now since the graders came and removed the surface layer of the asphalt on Avenue 20, between Albion and Broadway, then went away without finishing their work. For all that time, the NO PARKING signs have hung on the telephone poles, and the regular&#8230; <a class="more-link" href="https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Continue reading <span class="screen-reader-text">Historic Cobblestones Exposed in Lincoln Heights</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -58,7 +58,7 @@
 <p>After a week, a flash of red edged by corroded silver was visible on Avenue 20 just before Broadway. A careful peek between passing cars revealed a long-buried light rail track, with a row of handsome, narrow brick placed alongside it.</p>
 <p><img loading="lazy" width="300" height="201" border="0" src="//static.flickr.com/51/155278925_1fe6832382_o.jpg" />&nbsp;</p>
 <p>For this neglected area, just NE of downtown on the far side of the river, was once a thriving commercial and residential community, with trains running frequently down the middle of the streets.</p>
-<p>Here is a map of the immediate vicinity, drawn in 1906. The yellow lines demark the Yellow Trains of the <a href="https://www.erha.org/youngs.htm" target="_blank">Los Angeles Railway Company</a>, and just in the middle heading approximately north-south you&#8217;ll find the line that ran along Avenue 20, passing between Main Street and Downey, now known as Broadway. Behind the dead end at Main, the Los Angeles Brewing Company, now the Brewery Arts Complex. Avenues 21 and 22 are ghost streets, their rows of Victorian cottages bulldozed so the 5 can whisk folks away at speeds unimaginable in &#8217;06. Mayden too is no more. And the red line along Daly is a Pacific Electric Railway Company train. </p>
+<p>Here is a map of the immediate vicinity, drawn in 1906. The yellow lines demark the Yellow Trains of the <a href="http://www.erha.org/youngs.htm" target="_blank">Los Angeles Railway Company</a>, and just in the middle heading approximately north-south you&#8217;ll find the line that ran along Avenue 20, passing between Main Street and Downey, now known as Broadway. Behind the dead end at Main, the Los Angeles Brewing Company, now the Brewery Arts Complex. Avenues 21 and 22 are ghost streets, their rows of Victorian cottages bulldozed so the 5 can whisk folks away at speeds unimaginable in &#8217;06. Mayden too is no more. And the red line along Daly is a Pacific Electric Railway Company train. </p>
 <p><img loading="lazy" width="418" height="456" border="0" src="//static.flickr.com/73/155286938_bade602a4a_o.png" /></p>
 <p>Back to the state of the very sad street. Well into the second week with the gravel laid bare to constant steamrolling by SUVs and minivans, new patches opened up closer to Albion Street. Viewed from behind the windshield, these had a strangely archaic quality that demanded further inquiry.</p>
 <p>Here is the intersection, with the peculiar patch visible <em>in situ.</em> You can see how dangerous it is to get close to the quarry:</p>
@@ -71,10 +71,10 @@
 <p>your pal,<br /> Kim&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

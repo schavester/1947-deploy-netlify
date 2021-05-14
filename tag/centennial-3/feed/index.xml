@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>centennial &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/centennial-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/centennial-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:47:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>centennial &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>1907 Centennial Celebration Line Up</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/21/1907-centennial-celebration-line-up/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/21/1907-centennial-celebration-line-up/#respond</comments>
+		<link>https://1947project.com/2007/02/21/1907-centennial-celebration-line-up/</link>
+					<comments>https://1947project.com/2007/02/21/1907-centennial-celebration-line-up/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 21 Feb 2007 03:08:01 +0000</pubDate>
@@ -43,30 +43,30 @@
 		<category><![CDATA[centennial]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The proposals for the 1907 Centennial Celebration are in, and what wonderful performances they&#8217;ll be! We are so very pleased to host some of our favorite folks in a night dedicated to remembering the Los Angeles of one hundred years past. When you join us at Bedlam on Thursday night, March 22, this is what&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/21/1907-centennial-celebration-line-up/">Continue reading <span class="screen-reader-text">1907 Centennial Celebration Line Up</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/21/1907-centennial-celebration-line-up/">1907 Centennial Celebration Line Up</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The proposals for the 1907 Centennial Celebration are in, and what wonderful performances they&#8217;ll be! We are so very pleased to host some of our favorite folks in a night dedicated to remembering the Los Angeles of one hundred years past. When you join us at Bedlam on Thursday night, March 22, this is what&#8230; <a class="more-link" href="https://1947project.com/2007/02/21/1907-centennial-celebration-line-up/">Continue reading <span class="screen-reader-text">1907 Centennial Celebration Line Up</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/21/1907-centennial-celebration-line-up/">1907 Centennial Celebration Line Up</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>The proposals for the 1907 Centennial Celebration are in, and what wonderful performances they&#8217;ll be! We are so very pleased to host some of our favorite folks in a night dedicated to remembering the Los Angeles of one hundred years past.</p>
 <p>When you join us at Bedlam on Thursday night, March 22, this is what you&#8217;ll being thrilling to, in order of appearance:</p>
-<p>The invocation of <em>Zuckerman the Potato King</em> (<strong>Kim Cooper and Kelly Kuvo</strong>)<br />The strange tale of&nbsp; <em>A. Victor Segno, Mentalist with Beautiful Hair</em> (<a href="https://www.lmharnisch.com/" target="_blank"><strong>Larry Harnisch</strong></a>)<br />A description of life in 1907 L.A. (<a href="https://www.ulwaf.com/LA-1900s/index04.html" target="_blank"><strong>George Garrigues</strong></a>)<br />The song stylings of <strong>Miss Figueroa Daguerre</strong><br />Witty period readings from George Ade&#8217;s <em>&quot;Fables In Slang&quot;</em> (<a href="https://www.myspace.com/brookealberts" target="_blank"><strong>Brooke Alberts</strong></a>)<br />J. Stuart Blackton&#8217;s comic short film <em>&quot;The Starving Artist, or: Realism in Art&quot;</em> (American Vitagraph Company, 1907, live accompaniment by <strong>Laura Steenberge</strong>, presented by <strong>Ross Lipman</strong>)<br />Fortunes told in <a href="https://www.madamepamita.com/" target="_blank"><strong>Madame Pamita</strong></a>&#8216;s Parlor of Wonders<br />And the lovely Miss <a href="https://www.janetklein.com/" target="_blank"><strong>Janet Klein</strong></a> accompanied by <strong>Tom Marion</strong> revealing the next secret year to be blogged at 1947project, in song and patter.<br />&nbsp;<br />The fun starts at 9pm sharp, and we anticipate about one hour for the show, with a potluck party to follow. Please bring an old fashioned recipe to share, dress in period duds if you&#8217;ve got &#8217;em, and join us as we bid a centennial adieu to this great and endlessly surprising year of 1907 and welcome in the next year which we&#8217;re certain will prove every bit as worthy of obsession. Will it be 1967? 1887? Shhhh&#8230; you just have to come to Bedlam to find out!</p>
-<p>Where: Bedlam Arts, <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1275+E.+Sixth+Street,+LA,+CA&#038;ie=UTF8&#038;z=15&#038;ll=34.039609,-118.236365&#038;spn=0.015789,0.0418&#038;om=1&#038;iwloc=addr">1275 E. Sixth Street</a>, downtown L.A. 90021<br />When: Thursday, March 22, show starts at 9pm sharp<br />Cost: Free, but it would be neat if you brought an old timey potluck dish to share (recipe links are <a target="_self" href="https://pensive-torvalds-020d34.netlify.app/?page_id=1832">here</a>)</p>
+<p>The invocation of <em>Zuckerman the Potato King</em> (<strong>Kim Cooper and Kelly Kuvo</strong>)<br />The strange tale of&nbsp; <em>A. Victor Segno, Mentalist with Beautiful Hair</em> (<a href="http://www.lmharnisch.com/" target="_blank"><strong>Larry Harnisch</strong></a>)<br />A description of life in 1907 L.A. (<a href="http://www.ulwaf.com/LA-1900s/index04.html" target="_blank"><strong>George Garrigues</strong></a>)<br />The song stylings of <strong>Miss Figueroa Daguerre</strong><br />Witty period readings from George Ade&#8217;s <em>&quot;Fables In Slang&quot;</em> (<a href="http://www.myspace.com/brookealberts" target="_blank"><strong>Brooke Alberts</strong></a>)<br />J. Stuart Blackton&#8217;s comic short film <em>&quot;The Starving Artist, or: Realism in Art&quot;</em> (American Vitagraph Company, 1907, live accompaniment by <strong>Laura Steenberge</strong>, presented by <strong>Ross Lipman</strong>)<br />Fortunes told in <a href="http://www.madamepamita.com/" target="_blank"><strong>Madame Pamita</strong></a>&#8216;s Parlor of Wonders<br />And the lovely Miss <a href="http://www.janetklein.com/" target="_blank"><strong>Janet Klein</strong></a> accompanied by <strong>Tom Marion</strong> revealing the next secret year to be blogged at 1947project, in song and patter.<br />&nbsp;<br />The fun starts at 9pm sharp, and we anticipate about one hour for the show, with a potluck party to follow. Please bring an old fashioned recipe to share, dress in period duds if you&#8217;ve got &#8217;em, and join us as we bid a centennial adieu to this great and endlessly surprising year of 1907 and welcome in the next year which we&#8217;re certain will prove every bit as worthy of obsession. Will it be 1967? 1887? Shhhh&#8230; you just have to come to Bedlam to find out!</p>
+<p>Where: Bedlam Arts, <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1275+E.+Sixth+Street,+LA,+CA&#038;ie=UTF8&#038;z=15&#038;ll=34.039609,-118.236365&#038;spn=0.015789,0.0418&#038;om=1&#038;iwloc=addr">1275 E. Sixth Street</a>, downtown L.A. 90021<br />When: Thursday, March 22, show starts at 9pm sharp<br />Cost: Free, but it would be neat if you brought an old timey potluck dish to share (recipe links are <a target="_self" href="https://1947project.com/?page_id=1832">here</a>)</p>
 <p>See you then!<br />Kim &amp; the 1947project gang&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/21/1907-centennial-celebration-line-up/">1907 Centennial Celebration Line Up</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/21/1907-centennial-celebration-line-up/">1907 Centennial Celebration Line Up</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/21/1907-centennial-celebration-line-up/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/21/1907-centennial-celebration-line-up/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Celebrate 1907&#8217;s Centennial in March</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/01/celebrate-1907s-centennial-in-march/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/01/celebrate-1907s-centennial-in-march/#comments</comments>
+		<link>https://1947project.com/2007/02/01/celebrate-1907s-centennial-in-march/</link>
+					<comments>https://1947project.com/2007/02/01/celebrate-1907s-centennial-in-march/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 01 Feb 2007 20:19:14 +0000</pubDate>
@@ -75,8 +75,8 @@
 		<category><![CDATA[centennial]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Reminder, you have until February 5 to submit your proposals for the 1907 Centennial celebration. We&#8217;ve already received some fascinating submissions&#8211;including one for the first public appearance in more than a decade of a legendary L.A. postpunk band, presenting a live score to a Melies Brothers short &#8212; and would love to have you be&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/01/celebrate-1907s-centennial-in-march/">Continue reading <span class="screen-reader-text">Celebrate 1907&#8217;s Centennial in March</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/01/celebrate-1907s-centennial-in-march/">Celebrate 1907&#8217;s Centennial in March</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Reminder, you have until February 5 to submit your proposals for the 1907 Centennial celebration. We&#8217;ve already received some fascinating submissions&#8211;including one for the first public appearance in more than a decade of a legendary L.A. postpunk band, presenting a live score to a Melies Brothers short &#8212; and would love to have you be&#8230; <a class="more-link" href="https://1947project.com/2007/02/01/celebrate-1907s-centennial-in-march/">Continue reading <span class="screen-reader-text">Celebrate 1907&#8217;s Centennial in March</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/01/celebrate-1907s-centennial-in-march/">Celebrate 1907&#8217;s Centennial in March</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><strong>Reminder, you have until February 5 to submit your proposals for the 1907 Centennial celebration. We&#8217;ve already received some fascinating submissions&#8211;including one for the first public appearance in more than a decade of a legendary L.A. postpunk band, presenting a live score to a Melies Brothers short &#8212; and would love to have you be a part of it. So send over your ideas, half-baked or cooked straight through, and join us on March 22 at Bedlam.</strong></p>
@@ -86,14 +86,14 @@
 <p>Writers, musicians, actors, artists, comics, storytellers, vaudevillians, curators, filmmakers, historians, poets and others are invited to propose a 3-10 minute presentation on a theme inspired by 1907-era Los Angeles (or the wider world). Your piece can be original or an adaptation of something you&#8217;ve read on 1947project.com or elsewhere. All media are welcome (we can provide amplification and video projection). The only requirements are that it be entertaining and respectful to any crime victims involved.</p>
 <p>Prospective presenters should provide the following:<br />1) A one paragraph creative bio, 200 words or less, suitable for publication <br />2) A description of what you propose to do at the 1907 Centennial event, noting any source material that you have been inspired by<br />3) Length of proposed performance<br />4) Contact info <br />5) Your website or other helpful links</p>
 <p>Event curators Kim Cooper, Larry Harnisch, Lucinda Michele Knapp and Nathan Marsak will be collecting proposals through February 5 and announcing the line up shortly afterwards. The &#8217;07 celebration will be held on Thursday, March 22 at Bedlam Art downtown, and will culminate in the festive revelation by a very special musical guest of which historic year will next get the archival treatment from 1947project. The event will be free, with refreshments and libations on hand. Vintage recipes will be provided for those who enjoy cooking to contribute pot luck offerings to share.</p>
-<p>Need more info to stoke the fires of your creativity? Visit <a href="https://pensive-torvalds-020d34.netlify.app/?page_id=1832" target="_self">www.1947project.com/1907</a> for some helpful historic resources.</p>
-<p>Please submit your proposal for The 1907 Centennial by February 5 to Kim by <a target="_self" href="https://www.47upgradepath7.richardschave.com//feedback">email</a> or mail to PO Box 31227, Los Angeles CA 90031.</p>
+<p>Need more info to stoke the fires of your creativity? Visit <a href="https://1947project.com/?page_id=1832" target="_self">www.1947project.com/1907</a> for some helpful historic resources.</p>
+<p>Please submit your proposal for The 1907 Centennial by February 5 to Kim by <a target="_self" href="http://www.47upgradepath7.richardschave.com//feedback">email</a> or mail to PO Box 31227, Los Angeles CA 90031.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/01/celebrate-1907s-centennial-in-march/">Celebrate 1907&#8217;s Centennial in March</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/01/celebrate-1907s-centennial-in-march/">Celebrate 1907&#8217;s Centennial in March</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/01/celebrate-1907s-centennial-in-march/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/01/celebrate-1907s-centennial-in-march/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

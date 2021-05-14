@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Jimmy Burns &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/jimmy-burns/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/jimmy-burns/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Jimmy Burns &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Well, That Seems Like a Good Idea</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/21/well-that-seems-like-a-good-idea/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/21/well-that-seems-like-a-good-idea/#respond</comments>
+		<link>https://1947project.com/2007/07/21/well-that-seems-like-a-good-idea/</link>
+					<comments>https://1947project.com/2007/07/21/well-that-seems-like-a-good-idea/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 21 Jul 2007 21:09:22 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[stunt driving]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 21, 1927Across the Mighty United States&#160; &#160; Sadly, there&#8217;s no follow-up story about Burns&#8217; journey.&#160; We like to believe it involved something other than broken bones and twisted metal&#8212;&#8220;what a shame, the poor boy got all the way out here and crashed.&#8221; Driving in Los Angeles is a far cry from the corn-flanked roads&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/21/well-that-seems-like-a-good-idea/">Continue reading <span class="screen-reader-text">Well, That Seems Like a Good Idea</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/21/well-that-seems-like-a-good-idea/">Well, That Seems Like a Good Idea</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 21, 1927Across the Mighty United States&#160; &#160; Sadly, there&#8217;s no follow-up story about Burns&#8217; journey.&#160; We like to believe it involved something other than broken bones and twisted metal&#8212;&#8220;what a shame, the poor boy got all the way out here and crashed.&#8221; Driving in Los Angeles is a far cry from the corn-flanked roads&#8230; <a class="more-link" href="https://1947project.com/2007/07/21/well-that-seems-like-a-good-idea/">Continue reading <span class="screen-reader-text">Well, That Seems Like a Good Idea</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/21/well-that-seems-like-a-good-idea/">Well, That Seems Like a Good Idea</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,10 +59,10 @@
 <p>Driving in Los Angeles is a far cry from the corn-flanked roads of Lawrence, Jimmy.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/21/well-that-seems-like-a-good-idea/">Well, That Seems Like a Good Idea</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/21/well-that-seems-like-a-good-idea/">Well, That Seems Like a Good Idea</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/21/well-that-seems-like-a-good-idea/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/21/well-that-seems-like-a-good-idea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Octopi &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/octopi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/octopi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Octopi &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Eight Arms to Hold You</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/01/eight-arms-to-hold-you/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/01/eight-arms-to-hold-you/#respond</comments>
+		<link>https://1947project.com/2007/07/01/eight-arms-to-hold-you/</link>
+					<comments>https://1947project.com/2007/07/01/eight-arms-to-hold-you/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 01 Jul 2007 18:48:06 +0000</pubDate>
@@ -44,18 +44,18 @@
 		<category><![CDATA[sea monsters]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 1, 1927Newport Beach Readers should remember our last post about beasts from the international waters of terror&#8212;and now comes the tale of the thrilling night battle between one Captain Ole Ellasen and his truck-sized, razor-beaked, toxin-injecting foe. Ellasen has been contracted to remove the wreck of the Muriel from the Newport Beach channel, and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/eight-arms-to-hold-you/">Continue reading <span class="screen-reader-text">Eight Arms to Hold You</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/eight-arms-to-hold-you/">Eight Arms to Hold You</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 1, 1927Newport Beach Readers should remember our last post about beasts from the international waters of terror&#8212;and now comes the tale of the thrilling night battle between one Captain Ole Ellasen and his truck-sized, razor-beaked, toxin-injecting foe. Ellasen has been contracted to remove the wreck of the Muriel from the Newport Beach channel, and&#8230; <a class="more-link" href="https://1947project.com/2007/07/01/eight-arms-to-hold-you/">Continue reading <span class="screen-reader-text">Eight Arms to Hold You</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/eight-arms-to-hold-you/">Eight Arms to Hold You</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="247" height="231" border="0" align="right" title="octopus" alt="octopus" src="//farm2.static.flickr.com/1200/684885477_c48990a4c3_o.gif" />July 1, 1927<br />Newport Beach</p>
-<p>Readers should remember our <a title="seamonsterpost" target="_blank" href="https://pensive-torvalds-020d34.netlify.app/?p=1987">last post</a> about beasts from the international waters of terror&mdash;and now comes the tale of the thrilling night battle between one Captain Ole Ellasen and his truck-sized, razor-beaked, toxin-injecting foe.</p>
-<p>Ellasen has been contracted to remove the wreck of the Muriel from the Newport Beach channel, and as such was diving to inspect the underwater ruin, when something brushed his side.&nbsp; It was the besucker&rsquo;d arm of a mighty fire-eyed <a title="octy" target="_blank" href="https://marinebio.org/species.asp?id=60">cephalopod</a>, turning red with anger as it thundered &ldquo;Who dare invade my domain?!&rdquo;&nbsp; Fortunately Ellasen had carried a crow bar down to the wreck and freed himself repeatedly from the demon&rsquo;s circling tentacles; the crowbar proving useful in finally besting the beast in fight and killing his vicious attacker.</p>
+<p>Readers should remember our <a title="seamonsterpost" target="_blank" href="https://1947project.com/?p=1987">last post</a> about beasts from the international waters of terror&mdash;and now comes the tale of the thrilling night battle between one Captain Ole Ellasen and his truck-sized, razor-beaked, toxin-injecting foe.</p>
+<p>Ellasen has been contracted to remove the wreck of the Muriel from the Newport Beach channel, and as such was diving to inspect the underwater ruin, when something brushed his side.&nbsp; It was the besucker&rsquo;d arm of a mighty fire-eyed <a title="octy" target="_blank" href="http://marinebio.org/species.asp?id=60">cephalopod</a>, turning red with anger as it thundered &ldquo;Who dare invade my domain?!&rdquo;&nbsp; Fortunately Ellasen had carried a crow bar down to the wreck and freed himself repeatedly from the demon&rsquo;s circling tentacles; the crowbar proving useful in finally besting the beast in fight and killing his vicious attacker.</p>
 <p>Ellasen brought the marine monster to the surface, then descended to kill and extract five baby octopi.&nbsp; Hundreds of people arrived to view the octocorpse; Ellasen declared magnanimously that he expected another battle under water, as he was convinced another octopus lurked beneath.</p>
 <p>(Truth be told, this writer has no love for crowbar-wielding killers of mothers protecting their young, and hopes Mr. Widower Mollusca turns Ellasen into one of those creepy sea-ghosts.)</p>
 <p><img loading="lazy" width="400" height="274" border="0" title="themurielgoesdown" alt="themurielgoesdown" src="//farm2.static.flickr.com/1146/684976035_7b90c36c57_o.gif" /></p>
-<p>Above:&nbsp; the <a title="attack" target="_blank" href="https://www.cbc.ca/health/story/2006/01/27/octopus060127.html">final voyage </a>of the Muriel?&nbsp;</p>
+<p>Above:&nbsp; the <a title="attack" target="_blank" href="http://www.cbc.ca/health/story/2006/01/27/octopus060127.html">final voyage </a>of the Muriel?&nbsp;</p>
 <p><img loading="lazy" width="297" height="400" border="0" align="left" title="fightintheocto" alt="fightintheocto" src="//farm2.static.flickr.com/1394/686326474_ff992625cf_o.gif" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -63,13 +63,13 @@
 <p>Ellasen at his return battle, left.&nbsp; </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>(For this and more jaw-dropping octomazement than you can shake a machete at, go <a title="pulplink" target="_blank" href="https://francesca.net/pulp.html">here</a>. )</p>
+<p>(For this and more jaw-dropping octomazement than you can shake a machete at, go <a title="pulplink" target="_blank" href="http://francesca.net/pulp.html">here</a>. )</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/eight-arms-to-hold-you/">Eight Arms to Hold You</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/eight-arms-to-hold-you/">Eight Arms to Hold You</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/01/eight-arms-to-hold-you/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/01/eight-arms-to-hold-you/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

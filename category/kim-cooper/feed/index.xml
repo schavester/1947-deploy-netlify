@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Kim Cooper &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/kim-cooper/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/kim-cooper/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Wed, 06 Apr 2016 16:05:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,231 +21,231 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Kim Cooper &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Raymond Chandler in the 1940 census</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2012/06/01/chandler1940/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2012/06/01/chandler1940/#respond</comments>
+		<link>https://1947project.com/2012/06/01/chandler1940/</link>
+					<comments>https://1947project.com/2012/06/01/chandler1940/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 01 Jun 2012 22:11:43 +0000</pubDate>
 				<category><![CDATA[Kim Cooper]]></category>
 		<category><![CDATA[Neighborhoods]]></category>
-		<guid isPermaLink="false">https://www.1947project.com/?p=5961</guid>
+		<guid isPermaLink="false">http://www.1947project.com/?p=5961</guid>
 
-					<description><![CDATA[<p>There&#8217;s something perverse and delicious when mundane formality captures genius in its net. The census is one of the best tools for illuminating these queer intersections. The recently published 1940 US census finds the serial renters Raymond and Pearl (Cissy) Chandler living at 1155 Arcadia Avenue in what was then Monrovia Township. Their monthly rent&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2012/06/01/chandler1940/">Continue reading <span class="screen-reader-text">Raymond Chandler in the 1940 census</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/06/01/chandler1940/">Raymond Chandler in the 1940 census</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>There&#8217;s something perverse and delicious when mundane formality captures genius in its net. The census is one of the best tools for illuminating these queer intersections. The recently published 1940 US census finds the serial renters Raymond and Pearl (Cissy) Chandler living at 1155 Arcadia Avenue in what was then Monrovia Township. Their monthly rent&#8230; <a class="more-link" href="https://1947project.com/2012/06/01/chandler1940/">Continue reading <span class="screen-reader-text">Raymond Chandler in the 1940 census</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/06/01/chandler1940/">Raymond Chandler in the 1940 census</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>There&#8217;s something perverse and delicious when mundane formality captures genius in its net. The census is one of the best tools for illuminating these queer intersections.</p>
-<p><a title="chandler 1940 census stitched by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7481001648/"><img loading="lazy" src="//farm8.staticflickr.com/7251/7481001648_459789790d.jpg" alt="chandler 1940 census stitched" width="640" height="111" /></a></p>
+<p><a title="chandler 1940 census stitched by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7481001648/"><img loading="lazy" src="//farm8.staticflickr.com/7251/7481001648_459789790d.jpg" alt="chandler 1940 census stitched" width="640" height="111" /></a></p>
 <p>The recently published 1940 US census finds the serial renters Raymond and Pearl (Cissy) Chandler living at <a href="https://maps.google.com/maps?q=1155+Arcadia+Ave+Arcadia,+CA+91007&amp;hl=en&amp;sll=34.127102,-118.057587&amp;sspn=0.020782,0.035191&amp;gl=us&amp;hnear=1155+Arcadia+Ave,+Arcadia,+California+91007&amp;t=m&amp;z=17" target="_blank">1155 Arcadia Avenue</a> in what was then Monrovia Township. Their monthly rent is $50. (Regrettably, for those who like to visit the residences of great writers, the house has not survived; much of the block was replaced by condominiums in 1979.)</p>
 <p>Mrs. Chandler, who answered census taker Cornelius F. Hax&#8217; questions, gives her age as 63 (she was actually 69) and Chandler&#8217;s as 51. She states that during the week of March 24-30, 1940, Chandler spent 36 hours engaged in his profession, Free Lance Writer. Yet when asked about employment during the calendar year 1939, she states that Chandler did not work at all.&nbsp;</p>
-<p><a title="chandler names crop by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7480991310/"><img loading="lazy" src="//farm8.staticflickr.com/7276/7480991310_b5a53b51f8.jpg" alt="chandler names crop" width="394" height="47" /></a><a title="chandler occupation crop by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7480989714/"><img loading="lazy" src="//farm8.staticflickr.com/7269/7480989714_01f5aab8f1_o.png" alt="chandler occupation crop" width="150" height="31" /></a></p>
+<p><a title="chandler names crop by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7480991310/"><img loading="lazy" src="//farm8.staticflickr.com/7276/7480991310_b5a53b51f8.jpg" alt="chandler names crop" width="394" height="47" /></a><a title="chandler occupation crop by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7480989714/"><img loading="lazy" src="//farm8.staticflickr.com/7269/7480989714_01f5aab8f1_o.png" alt="chandler occupation crop" width="150" height="31" /></a></p>
 <p class="p2">This report of an idle 1939, like her age, is a lie. Chandler worked fiendishly that year. His first novel, <em>The Big Sleep,</em> was published in February. He began, then set aside <em>The Lady in the Lake</em>&nbsp;and dug into <em>Farewell My Lovely.</em>&nbsp;</p>
-<p><a title="chandler farewell my lovely first edition by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7481803094/"><img loading="lazy" src="//farm8.staticflickr.com/7128/7481803094_cb1bd6bbae_o.png" alt="chandler farewell my lovely first edition" width="163" height="240" /></a></p>
+<p><a title="chandler farewell my lovely first edition by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7481803094/"><img loading="lazy" src="//farm8.staticflickr.com/7128/7481803094_cb1bd6bbae_o.png" alt="chandler farewell my lovely first edition" width="163" height="240" /></a></p>
 <p>By the time the census taker knocked on their door on April 8, the revisions for <em>Farewell</em> were nearly complete; it would be published in October. Perhaps Chandler was in his study working while Cissy spoke with Mr. Hax in the front of the house. Maybe, ever conscious of their privacy, she pulled the door shut behind her and answered his questions on the porch. As is nearly always the case with these dry census records, one is left longing for more. A few facts, most of them wrong, jotted down, and then Mr. Hax was off to knock on another door.&nbsp;</p>
-<p>In walking his route that spring day, Mr. Hax recorded a cross-section of the suburban west. The Chandlers&#8217; neighbors came from California, Italy, New York, Nebraska, Wyoming, Ohio, Maine, Pennsylvania, Canada, England, Texas, Missouri, Illinois, Massachusetts, Arkansas, Iowa, Minnesota and Montana. There was a painter and a telegraph operator, a chicken rancher and a bookkeeper in a meat packing plant (Chandler, when new to California, had done similar work in a <a href="https://www.esotouric.com/chandlerandthecreamery" target="_blank">dairy</a>), an automotive mechanic and a U.S. Postmaster, a wholesale shoe salesman, an architect, a department store saleslady, a machinist, a comptometer operator, a stenographer, a teacher, an attorney and a man who kept an aviary.&nbsp;</p>
+<p>In walking his route that spring day, Mr. Hax recorded a cross-section of the suburban west. The Chandlers&#8217; neighbors came from California, Italy, New York, Nebraska, Wyoming, Ohio, Maine, Pennsylvania, Canada, England, Texas, Missouri, Illinois, Massachusetts, Arkansas, Iowa, Minnesota and Montana. There was a painter and a telegraph operator, a chicken rancher and a bookkeeper in a meat packing plant (Chandler, when new to California, had done similar work in a <a href="http://www.esotouric.com/chandlerandthecreamery" target="_blank">dairy</a>), an automotive mechanic and a U.S. Postmaster, a wholesale shoe salesman, an architect, a department store saleslady, a machinist, a comptometer operator, a stenographer, a teacher, an attorney and a man who kept an aviary.&nbsp;</p>
 <p>As he began what would be the most distinguished and lasting literary career of any writer working in the debased genre of detective fiction, Chandler chose to live modestly among strangers, far from L.A.&#8217;s literary or intellectual hum. Hollywood wouldn&#8217;t call for a few years yet.</p>
 <p>The Chandlers kept to themselves. He wrote. She looked after him. He was still sober. They had fourteen more years together. And the purple San Gabriels loomed above.</p>
-<p><a title="Chandler circa 1940 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7481823458/"><img loading="lazy" src="//farm9.staticflickr.com/8144/7481823458_42b624a418_o.jpg" alt="Chandler circa 1940" width="460" height="276" /></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/06/01/chandler1940/">Raymond Chandler in the 1940 census</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p><a title="Chandler circa 1940 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7481823458/"><img loading="lazy" src="//farm9.staticflickr.com/8144/7481823458_42b624a418_o.jpg" alt="Chandler circa 1940" width="460" height="276" /></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/06/01/chandler1940/">Raymond Chandler in the 1940 census</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2012/06/01/chandler1940/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2012/06/01/chandler1940/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A moment in time: Beth Short in the 1940 census</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2012/04/15/1940census/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2012/04/15/1940census/#respond</comments>
+		<link>https://1947project.com/2012/04/15/1940census/</link>
+					<comments>https://1947project.com/2012/04/15/1940census/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 15 Apr 2012 22:03:42 +0000</pubDate>
 				<category><![CDATA[Black Dahlia]]></category>
 		<category><![CDATA[Kim Cooper]]></category>
 		<category><![CDATA[Neighborhoods]]></category>
-		<guid isPermaLink="false">https://www.1947project.com/?p=5954</guid>
+		<guid isPermaLink="false">http://www.1947project.com/?p=5954</guid>
 
-					<description><![CDATA[<p>On April 10, 1940&#8211;seventy-two years ago today&#8211;a man named Edmund M. Hart walked the streets of Medford, Massachusetts in the county of Middlesex, knocking on doors and making inquiries about the people who lived behind them. He was the designated U.S. Census enumerator, and the personal information he gathered has just this month been placed&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2012/04/15/1940census/">Continue reading <span class="screen-reader-text">A moment in time: Beth Short in the 1940 census</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/04/15/1940census/">A moment in time: Beth Short in the 1940 census</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>On April 10, 1940&#8211;seventy-two years ago today&#8211;a man named Edmund M. Hart walked the streets of Medford, Massachusetts in the county of Middlesex, knocking on doors and making inquiries about the people who lived behind them. He was the designated U.S. Census enumerator, and the personal information he gathered has just this month been placed&#8230; <a class="more-link" href="https://1947project.com/2012/04/15/1940census/">Continue reading <span class="screen-reader-text">A moment in time: Beth Short in the 1940 census</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/04/15/1940census/">A moment in time: Beth Short in the 1940 census</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>On April 10, 1940&#8211;seventy-two years ago today&#8211;a man named Edmund M. Hart walked the streets of Medford, Massachusetts in the county of Middlesex, knocking on doors and making inquiries about the people who lived behind them. He was the designated U.S. Census enumerator, and the personal information he gathered has just this month been <a href="https://www.census.gov/1940census/index.html" target="_blank">placed</a> online.</p>
+										<content:encoded><![CDATA[<p>On April 10, 1940&#8211;seventy-two years ago today&#8211;a man named Edmund M. Hart walked the streets of Medford, Massachusetts in the county of Middlesex, knocking on doors and making inquiries about the people who lived behind them. He was the designated U.S. Census enumerator, and the personal information he gathered has just this month been <a href="http://www.census.gov/1940census/index.html" target="_blank">placed</a> online.</p>
 <p><iframe loading="lazy" src="//www.youtube.com/embed/OwZk6rASC8k" frameborder="0" width="480" height="360"></iframe></p>
 <p>On Salem Street, at number 115, Hart recorded the particulars of three separate households.</p>
 <p>The owner of the property (valued at $5000) was Myer Winer, aged 59. A widower, he lived with his sons Samuel (21) and Allen (19), his daughter Dorothy (29) and her husband Eli Reingold (30). The young people were all born in Massachusetts, Myer Winer in Russia. He was a tailor in a retail clothing store, earning $700 for the previous year (for only 18 weeks work).&nbsp; Son-in-law Eli Reingold was employed as a clerk in a wholesale tea company, earning $1200 for the previous year (52 weeks). His wife, a stenographer for the Commonwealth of Massachusetts, earned the same wage for her 52 weeks of work. Although the census did not ask, we know from other sources that theirs was a Jewish family.&nbsp;</p>
 <p>Paying $35 in monthly rent was Edwin F. Jones, 58, and his wife Minnie, 56. He was from Maine, she from Massachusetts, and both had been living in the same house for at least five years. Jones was a newspaper printer, with wages of $2350 for the previous year (47 weeks work).&nbsp;</p>
-<p><a title="Beth Short 1940 census (detail) by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6917431858/"><img loading="lazy" src="//farm6.staticflickr.com/5275/6917431858_2884a82158.jpg" alt="Beth Short 1940 census (detail)" width="500" height="226" /></a></p>
+<p><a title="Beth Short 1940 census (detail) by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6917431858/"><img loading="lazy" src="//farm6.staticflickr.com/5275/6917431858_2884a82158.jpg" alt="Beth Short 1940 census (detail)" width="500" height="226" /></a></p>
 <p>It is the third and final family which draws our attention, for reasons having nothing to do with their quiet life in Medford, Mass. The head of the household is Phoebe Short, 39, native of Maine. She tells Mr. Hart that her family of six has been living in this place for at least five years, and pays $28 rent&#8211;$7 less than Mr. and Mrs. Jones, perhaps a reflection of Myer Winer&#8217;s charity. Although unemployed, she has an unspecified income of more than $50, not from wages. This is, we assume, money provided to her by her estranged husband Cleo.</p>
 <p>Living with Phoebe are five unmarried daughters. Virginia M. (19), is the only one seeking work outside the home, claiming 34 weeks unemployment through the end of March 1940. Her occupation is given as New Worker, meaning she had left school but had not yet secured any position. The other Short sisters are all in school: Dorothea (17), Elizabeth (15), Elenora (14) and Muriel J. (11).&nbsp;</p>
-<p><a title="medford high school pc by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6917431852/"><img loading="lazy" src="//farm8.staticflickr.com/7087/6917431852_15f4668d88.jpg" alt="medford high school pc" width="500" height="317" /></a></p>
+<p><a title="medford high school pc by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6917431852/"><img loading="lazy" src="//farm8.staticflickr.com/7087/6917431852_15f4668d88.jpg" alt="medford high school pc" width="500" height="317" /></a></p>
 <p>Although history records that Phoebe Short&#8217;s husband Cleo was still living, she identifies herself to the census as a widow. Maybe at this time, Phoebe really thought her husband was dead. Maybe she claimed to be a widow instead of admitting to a stranger that she had been abandoned. We do not know if the story she told Edmund Hart was the same one that she told her landlord and her daughters. The bare facts of the census record cannot reveal the nuances of any family&#8217;s tragedy.</p>
-<p>Phoebe&#8217;s pretty daughter Elizabeth (15) is frozen in time by the census keeper&#8217;s ink. She is still safe with the women who know and love her, still free to walk out the front door on a balmy day and turn west on the Salem Road, which is will not for some years be bisected by I-93, a highway which seems to have obliterated 115 Salem Street. Half a mile from her home, past the <a href="https://cinematreasures.org/theaters/8922" target="_blank">movie theater</a> and the city hall, is the old <a href="https://www.findagrave.com/cgi-bin/fg.cgi?page=cr&amp;CRid=1959623" target="_blank">Salem Street Burying Ground</a>, a neglected cemetery dating to the late 17th century. Maybe she wandered there, among the <a href="https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GScid=1959623&amp;GRid=26920791&amp;" target="_blank">winged skull markers</a> and crumbling walls, and thought about her own mortality and imagined the joys her life would contain before the grave. &nbsp;</p>
-<p style="padding-left: 150px;"><a title="winged skull by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6917431854/"><img loading="lazy" src="//farm6.staticflickr.com/5451/6917431854_dfbb3f4737_m.jpg" alt="winged skull" width="203" height="240" /></a></p>
+<p>Phoebe&#8217;s pretty daughter Elizabeth (15) is frozen in time by the census keeper&#8217;s ink. She is still safe with the women who know and love her, still free to walk out the front door on a balmy day and turn west on the Salem Road, which is will not for some years be bisected by I-93, a highway which seems to have obliterated 115 Salem Street. Half a mile from her home, past the <a href="http://cinematreasures.org/theaters/8922" target="_blank">movie theater</a> and the city hall, is the old <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=cr&amp;CRid=1959623" target="_blank">Salem Street Burying Ground</a>, a neglected cemetery dating to the late 17th century. Maybe she wandered there, among the <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GScid=1959623&amp;GRid=26920791&amp;" target="_blank">winged skull markers</a> and crumbling walls, and thought about her own mortality and imagined the joys her life would contain before the grave. &nbsp;</p>
+<p style="padding-left: 150px;"><a title="winged skull by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6917431854/"><img loading="lazy" src="//farm6.staticflickr.com/5451/6917431854_dfbb3f4737_m.jpg" alt="winged skull" width="203" height="240" /></a></p>
 <p>She&#8217;s still a couple of years away from her ill-considered escape from the limited opportunities available to a poor, fatherless girl in the Boston suburbs. When she runs, she will go to California, to be reunited with Cleo Short. Their relationship will quickly fracture, and she will become a vagabond, moving often and forming short-lived, intimate relationships with strangers. She will travel from California to Florida, to Chicago, then west again. She will lie to her mother, and she will not look for work. She will sink into depressive obsession over a promising relationship cut off when the man dies in a plane crash. She&#8217;ll make some foolish choices, and some stupid ones.&nbsp;</p>
 <p>And at 22, they will find her body cut into two pieces, naked and brutalized, in a vacant lot in Los Angeles. She will find posthumous fame as the beautiful victim of one of the most heinous unsolved crimes in American history. They will call her The Black Dahlia, leer over the terrible photographs, and they&#8217;ll never stop talking about her.&nbsp;</p>
 <p>But for this moment, she is still frozen in time. The census taker knocks on the door, and wants to know: who is the head of this household? What are the names of the children, and their ages?&nbsp;</p>
 <p>Elizabeth Short is 15 years old, and it is springtime. The possibilities are limitless. And we are far away, and remembering a girl we never knew.&nbsp;</p>
 <p><em><span class="Apple-tab-span" style="white-space: pre;"> </span>Thank you, Joe Cianciarulo, for the detective work.</em></p>
-<p><a title="Medford, 1880 by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6917431856/"><img loading="lazy" src="//farm6.staticflickr.com/5457/6917431856_d873001418.jpg" alt="Medford, 1880" width="500" height="390" /></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/04/15/1940census/">A moment in time: Beth Short in the 1940 census</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p><a title="Medford, 1880 by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6917431856/"><img loading="lazy" src="//farm6.staticflickr.com/5457/6917431856_d873001418.jpg" alt="Medford, 1880" width="500" height="390" /></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/04/15/1940census/">A moment in time: Beth Short in the 1940 census</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2012/04/15/1940census/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2012/04/15/1940census/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Garden of Allah in the 1940 census</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2012/04/01/gardenofallah1940/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2012/04/01/gardenofallah1940/#respond</comments>
+		<link>https://1947project.com/2012/04/01/gardenofallah1940/</link>
+					<comments>https://1947project.com/2012/04/01/gardenofallah1940/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 01 Apr 2012 22:08:00 +0000</pubDate>
 				<category><![CDATA[hotels]]></category>
 		<category><![CDATA[Kim Cooper]]></category>
 		<category><![CDATA[Neighborhoods]]></category>
-		<guid isPermaLink="false">https://www.1947project.com/?p=5958</guid>
+		<guid isPermaLink="false">http://www.1947project.com/?p=5958</guid>
 
-					<description><![CDATA[<p>Hollywood in its Golden Age was filled with beautiful, glamorous apartments, residence hotels and bungalow courts, quite a few of which have survived the harsh winds of time, neglect, temblors and the questionable taste of subsequent owners. But the site of that most storied of all the Hollywood residences, the legendary Garden of Allah (8152&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2012/04/01/gardenofallah1940/">Continue reading <span class="screen-reader-text">The Garden of Allah in the 1940 census</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/04/01/gardenofallah1940/">The Garden of Allah in the 1940 census</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Hollywood in its Golden Age was filled with beautiful, glamorous apartments, residence hotels and bungalow courts, quite a few of which have survived the harsh winds of time, neglect, temblors and the questionable taste of subsequent owners. But the site of that most storied of all the Hollywood residences, the legendary Garden of Allah (8152&#8230; <a class="more-link" href="https://1947project.com/2012/04/01/gardenofallah1940/">Continue reading <span class="screen-reader-text">The Garden of Allah in the 1940 census</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/04/01/gardenofallah1940/">The Garden of Allah in the 1940 census</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Hollywood in its Golden Age was filled with beautiful, glamorous apartments, residence hotels and bungalow courts, quite a few of which have survived the harsh winds of time, neglect, temblors and the questionable taste of subsequent owners.</p>
-<p>But the site of that most storied of all the Hollywood residences, the legendary Garden of Allah (8152 Sunset Boulevard), is <a href="https://maps.google.com/maps?q=8152+Sunset+Boulevard,+Los+Angeles,+CA&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=43.713406,75.146484&amp;oq=8152+Sunset&amp;hnear=8152+Sunset+Blvd,+Los+Angeles,+California+90046&amp;t=m&amp;z=16" target="_blank">today</a> a bland mini-mall anchored by a McDonald&#8217;s restaurant in the post-modern style. Popular myth has it that it was demolition of the Garden of Allah and its beautiful pool and fountains, mature gardens, handsome villas and culture of creativity that inspired Joni Mitchell to write &#8220;Big Yellow Taxi&#8221; &#8212; &#8220;they paved paradise, put up a parking lot.&#8221; If that isn&#8217;t true, it ought to be. <a title="00058512 Garden of Allah LAPL by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7081067559/"><img loading="lazy" src="//farm8.staticflickr.com/7062/7081067559_e3c2804a6b.jpg" alt="00058512 Garden of Allah LAPL" width="500" height="339" /></a></p>
+<p>But the site of that most storied of all the Hollywood residences, the legendary Garden of Allah (8152 Sunset Boulevard), is <a href="http://maps.google.com/maps?q=8152+Sunset+Boulevard,+Los+Angeles,+CA&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=43.713406,75.146484&amp;oq=8152+Sunset&amp;hnear=8152+Sunset+Blvd,+Los+Angeles,+California+90046&amp;t=m&amp;z=16" target="_blank">today</a> a bland mini-mall anchored by a McDonald&#8217;s restaurant in the post-modern style. Popular myth has it that it was demolition of the Garden of Allah and its beautiful pool and fountains, mature gardens, handsome villas and culture of creativity that inspired Joni Mitchell to write &#8220;Big Yellow Taxi&#8221; &#8212; &#8220;they paved paradise, put up a parking lot.&#8221; If that isn&#8217;t true, it ought to be. <a title="00058512 Garden of Allah LAPL by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7081067559/"><img loading="lazy" src="//farm8.staticflickr.com/7062/7081067559_e3c2804a6b.jpg" alt="00058512 Garden of Allah LAPL" width="500" height="339" /></a></p>
 <p><em>Photo: Los Angeles Public Library</em></p>
 <p>The Garden of Allah fell to the wrecker in summer 1959. But on April 9, 1940, when the census enumerator dropped by to take the hotel&#8217;s temperature, it was at its height as an urbane social center, the only place suitable for a certain class of extraordinary person to make their Hollywood home.</p>
 <p>The census record is illuminating and more than a little heartbreaking as a suggestive portrait of a vanished time. The first resident recorded is practically a novel in a single line:</p>
 <p>Lerner, Herbert A. White, single, Louisiana-born, 29. His residence on April 1, 1935? &#8221; At sea. Near Florida&#8221; Occupation? &#8220;First mate, private yacht.&#8221; Annual wages $1200.</p>
-<p><a title="garden of allah 1940 herbert lerner by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6934947814/"><img loading="lazy" src="//farm6.staticflickr.com/5446/6934947814_122cdf2a51.jpg" alt="garden of allah 1940 herbert lerner" width="500" height="23" /></a></p>
+<p><a title="garden of allah 1940 herbert lerner by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6934947814/"><img loading="lazy" src="//farm6.staticflickr.com/5446/6934947814_122cdf2a51.jpg" alt="garden of allah 1940 herbert lerner" width="500" height="23" /></a></p>
 <p>This is the type of fascinating stranger one might make a friend of at the famous bar at the Garden of Allah. No wonder writers loved the place.</p>
 <p>And yes, there are famous writers living at the Garden of Allah in the spring of 1940, and we&#8217;ll get to them, but just look at the variety of elevated humanity that was drawn to this seductive corner of the world.</p>
-<p>A stock broker. A public utilities executive. A couple guys in advertising. Varied and sundry magazine hacks. A night club publicity manager. An actors&#8217; agent. Alonzo F. Farrow and wife Edna, who run the joint ($3600/year for him). British film producer <a href="https://www.imdb.com/name/nm0821301/" target="_blank">John Stafford</a>. The beautiful <a href="https://silenthollywood.com/gretanissen.html" target="_blank">Greta Nissen</a>, a silent star that fell from favor, though not entirely, due to her strong Norwegian accent. Populist historian and pulp writer <a href="https://en.wikipedia.org/wiki/Harold_Lamb" target="_blank">Harold Lamb</a>, who must have been a hoot over a cup of grog. Irish novelist <a href="https://www.irishcultureandcustoms.com/awriters/liamoflaherty.html" target="_blank">Liam O&#8217;Flaherty</a>, slumming with film work. Edwin Justus Mayer, who wrote <em>To Be or Not To Be.</em></p>
-<p><a title="garden of allah 1940 census benchley campbell parker by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6934947816/"><img loading="lazy" src="//farm8.staticflickr.com/7097/6934947816_10724ac805.jpg" alt="garden of allah 1940 census benchley campbell parker" width="500" height="46" /></a></p>
+<p>A stock broker. A public utilities executive. A couple guys in advertising. Varied and sundry magazine hacks. A night club publicity manager. An actors&#8217; agent. Alonzo F. Farrow and wife Edna, who run the joint ($3600/year for him). British film producer <a href="http://www.imdb.com/name/nm0821301/" target="_blank">John Stafford</a>. The beautiful <a href="http://silenthollywood.com/gretanissen.html" target="_blank">Greta Nissen</a>, a silent star that fell from favor, though not entirely, due to her strong Norwegian accent. Populist historian and pulp writer <a href="http://en.wikipedia.org/wiki/Harold_Lamb" target="_blank">Harold Lamb</a>, who must have been a hoot over a cup of grog. Irish novelist <a href="http://www.irishcultureandcustoms.com/awriters/liamoflaherty.html" target="_blank">Liam O&#8217;Flaherty</a>, slumming with film work. Edwin Justus Mayer, who wrote <em>To Be or Not To Be.</em></p>
+<p><a title="garden of allah 1940 census benchley campbell parker by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6934947816/"><img loading="lazy" src="//farm8.staticflickr.com/7097/6934947816_10724ac805.jpg" alt="garden of allah 1940 census benchley campbell parker" width="500" height="46" /></a></p>
 <p>And mostly clustered together near the bottom of the page, those grand Algonquin wits. George S. Kaufman, theatrical writer, 50, who declined to state his income. Robert C. Benchley, motion picture writer, $5000+ per annum. Alan Campbell and wife Dorothy P., for Parker, both movie writers, both earning what friend Benchley brings home.&nbsp;This was where the hard work got done, and steam was let off, before the cycle began again. What nights they must have had, and what days, beneath the ridiculous California sun, surrounded by geniuses and nincompoops, the lovely and the lost.</p>
 <p>Once upon a time in Hollywood, this place was real, not imagined. Now it&#8217;s just real estate, a ring of shaggy palm trees around an asphalt lot. Pull in some time, park in the center, close your eyes and just breathe the air that once fed paradise. That grand moment has passed, and this moment can be rude and trying. But a more beautiful world is coming. It was ever thus.</p>
-<p><a title="00011968 Garden of Allah LAPL by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/6934947820/"><img loading="lazy" src="//farm8.staticflickr.com/7090/6934947820_34f650bbd3.jpg" alt="00011968 Garden of Allah LAPL" width="500" height="346" /></a></p>
+<p><a title="00011968 Garden of Allah LAPL by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/6934947820/"><img loading="lazy" src="//farm8.staticflickr.com/7090/6934947820_34f650bbd3.jpg" alt="00011968 Garden of Allah LAPL" width="500" height="346" /></a></p>
 <p><em>Photo: Los Angeles Public Library</em></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/04/01/gardenofallah1940/">The Garden of Allah in the 1940 census</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/04/01/gardenofallah1940/">The Garden of Allah in the 1940 census</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2012/04/01/gardenofallah1940/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2012/04/01/gardenofallah1940/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2012/03/25/downtoearth/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2012/03/25/downtoearth/#respond</comments>
+		<link>https://1947project.com/2012/03/25/downtoearth/</link>
+					<comments>https://1947project.com/2012/03/25/downtoearth/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 25 Mar 2012 22:20:15 +0000</pubDate>
 				<category><![CDATA[Black Dahlia]]></category>
 		<category><![CDATA[Kim Cooper]]></category>
 		<category><![CDATA[Neighborhoods]]></category>
-		<guid isPermaLink="false">https://www.1947project.com/?p=5963</guid>
+		<guid isPermaLink="false">http://www.1947project.com/?p=5963</guid>
 
-					<description><![CDATA[<p>Here&#8217;s another amazing discovery from the good folks at the Internet Archive. This May 1946 night time process shot through Downtown Los Angeles was filmed by Columbia for the Rita Hayworth vehicle Down to Earth. In the picture, the actress portrays the ancient Greek Muse Terpsichore, who visits 20th century America to torment the Broadway&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2012/03/25/downtoearth/">Continue reading <span class="screen-reader-text">Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/03/25/downtoearth/">Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Here&#8217;s another amazing discovery from the good folks at the Internet Archive. This May 1946 night time process shot through Downtown Los Angeles was filmed by Columbia for the Rita Hayworth vehicle Down to Earth. In the picture, the actress portrays the ancient Greek Muse Terpsichore, who visits 20th century America to torment the Broadway&#8230; <a class="more-link" href="https://1947project.com/2012/03/25/downtoearth/">Continue reading <span class="screen-reader-text">Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/03/25/downtoearth/">Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><iframe loading="lazy" src="//archive.org/embed/PET0981_R-2_LA_color?start=138.5" frameborder="0" width="640" height="480"></iframe></p>
-<p class="p1">Here&#8217;s another amazing discovery from the good folks at the Internet Archive. This May 1946 night time process shot through Downtown Los Angeles was filmed by Columbia for the Rita Hayworth vehicle <em><a href="https://www.amazon.com/gp/product/B0001L3MEO/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=bubble1-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0001L3MEO" target="_blank">Down to Earth</a></em>. In the picture, the actress portrays the ancient Greek Muse Terpsichore, who visits 20th century America to torment the Broadway producer who dares put on a show portraying the muses as man-crazy sluts, and Terpsichore herself as &#8220;just an ordinary dame.&#8221; Sacrilege!&nbsp;</p>
-<p>It&#8217;s a fitting theme for us here at 1947project. For while perturbed Terpsichore was no human female, we think she&#8217;d sympathize with the posthumous plight of Beth Short, Black Dahlia murder victim, brutalized before death by unknown assailants, and ever after subject to vile, false rumors. (No, she wasn&#8217;t a prostitute. Our offshoot <a href="https://www.esotouric.com/blackdahlia" target="_blank">Esotouric</a> offers a bus tour explaining who she really was.)&nbsp;</p>
+<p class="p1">Here&#8217;s another amazing discovery from the good folks at the Internet Archive. This May 1946 night time process shot through Downtown Los Angeles was filmed by Columbia for the Rita Hayworth vehicle <em><a href="http://www.amazon.com/gp/product/B0001L3MEO/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=bubble1-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B0001L3MEO" target="_blank">Down to Earth</a></em>. In the picture, the actress portrays the ancient Greek Muse Terpsichore, who visits 20th century America to torment the Broadway producer who dares put on a show portraying the muses as man-crazy sluts, and Terpsichore herself as &#8220;just an ordinary dame.&#8221; Sacrilege!&nbsp;</p>
+<p>It&#8217;s a fitting theme for us here at 1947project. For while perturbed Terpsichore was no human female, we think she&#8217;d sympathize with the posthumous plight of Beth Short, Black Dahlia murder victim, brutalized before death by unknown assailants, and ever after subject to vile, false rumors. (No, she wasn&#8217;t a prostitute. Our offshoot <a href="http://www.esotouric.com/blackdahlia" target="_blank">Esotouric</a> offers a bus tour explaining who she really was.)&nbsp;</p>
 <p>Now thanks to <em>Down to Earth</em>, we have this gorgeous footage of the heart of Beth Short&#8217;s post-war city, a bright, populated and thriving Downtown that is as lost to us as the cultures of the Inca or the Toltec. Click &#8220;play&#8221; and enter a place that positively thrums with energy. Marvel at the neon lights, the late-night coffee houses, the fur shops, the airline offices, the swimsuit-clad manikins, the drug stores, the theaters of Broadway (some open all night), the street life. Gasp at Clifton&#8217;s Pacific Seas (demolished 1960, now a parking lot) and Clifton&#8217;s Brookdale (still with us, but indefinitely closed for renovations), boggle at Alexander &amp; Oviatt&#8217;s bright-lit windows packed with the <em>hautest</em> of gentleman&#8217;s <em>couture</em>, and laugh when you spy unmistakeable evidence of just how huge a star Miss Rita Hayworth was in the spring of 1946.</p>
 <p>Beth Short spent the last half of 1946 living in Los Angeles, bouncing from cheap hotel to friends&#8217; couch and back again. Her social life centered on the nightspots of Hollywood and Downtown. This process footage contains a near-exact recreation of her final steps on the night she vanished: south along Olive Street away from the Biltmore Hotel, then left on Eighth Street, where we are rewarded with two astonishingly rare views of the Crown Grill, the last place she was seen alive.&nbsp;</p>
 <p>Knowing what we do, the stylized crown above the bar&#8217;s entrance looks an awful lot like a death&#8217;s head, doesn&#8217;t it?</p>
-<p><a title="Screen grab, 1946 &quot;Down To Earth&quot; process shot by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/7015509873/"><img loading="lazy" src="//farm7.staticflickr.com/6224/7015509873_aee29868e6.jpg" alt="Screen grab, 1946 &quot;Down To Earth&quot; process shot" width="500" height="313" /></a></p>
+<p><a title="Screen grab, 1946 &quot;Down To Earth&quot; process shot by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/7015509873/"><img loading="lazy" src="//farm7.staticflickr.com/6224/7015509873_aee29868e6.jpg" alt="Screen grab, 1946 &quot;Down To Earth&quot; process shot" width="500" height="313" /></a></p>
 <p>As a time travel portal, this clip rates among the finest. Blow it up big on your screen, sit back with a cup of something soothing, and be transported.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/03/25/downtoearth/">Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/03/25/downtoearth/">Downtown Los Angeles, 1946: Beth Short&#8217;s last walk</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2012/03/25/downtoearth/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2012/03/25/downtoearth/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>1947project&#8217;s L.A. history presentation at Occidental College</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2012/03/03/oxy/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2012/03/03/oxy/#respond</comments>
+		<link>https://1947project.com/2012/03/03/oxy/</link>
+					<comments>https://1947project.com/2012/03/03/oxy/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 03 Mar 2012 22:22:25 +0000</pubDate>
 				<category><![CDATA[Kim Cooper]]></category>
 		<category><![CDATA[nathan marsak]]></category>
-		<guid isPermaLink="false">https://www.1947project.com/?p=5966</guid>
+		<guid isPermaLink="false">http://www.1947project.com/?p=5966</guid>
 
-					<description><![CDATA[<p>On March 6, 2012, social historians, bloggers and tour guides Nathan Marsak and Richard Schave spoke to students in Dr. J.B.C. Axelrod&#8217;s History 395 course &#8220;Reading and Writing L.A.&#8221; at Occidental College about their work on the 1947project time travel blogs, including On Bunker Hill, and the many ways of telling the many stories of&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2012/03/03/oxy/">Continue reading <span class="screen-reader-text">1947project&#8217;s L.A. history presentation at Occidental College</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/03/03/oxy/">1947project&#8217;s L.A. history presentation at Occidental College</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>On March 6, 2012, social historians, bloggers and tour guides Nathan Marsak and Richard Schave spoke to students in Dr. J.B.C. Axelrod&#8217;s History 395 course &#8220;Reading and Writing L.A.&#8221; at Occidental College about their work on the 1947project time travel blogs, including On Bunker Hill, and the many ways of telling the many stories of&#8230; <a class="more-link" href="https://1947project.com/2012/03/03/oxy/">Continue reading <span class="screen-reader-text">1947project&#8217;s L.A. history presentation at Occidental College</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/03/03/oxy/">1947project&#8217;s L.A. history presentation at Occidental College</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>On March 6, 2012, social historians, bloggers and tour guides Nathan Marsak and Richard Schave spoke to students in <a href="https://astore.amazon.com/bubble1-20/detail/0520252853" target="_blank">Dr. J.B.C. Axelrod&#8217;s</a> History 395 course &#8220;Reading and Writing L.A.&#8221; at Occidental College about their work on the 1947project time travel blogs, including <a href="https://www.onbunkerhill.org/" target="_blank">On Bunker Hill</a>, and the many ways of telling the many stories of Los Angeles.</p>
-<p><iframe loading="lazy" src="https://www.youtube.com/embed/ZLuq7uCt4cA" frameborder="0" width="640" height="360"></iframe></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2012/03/03/oxy/">1947project&#8217;s L.A. history presentation at Occidental College</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>On March 6, 2012, social historians, bloggers and tour guides Nathan Marsak and Richard Schave spoke to students in <a href="http://astore.amazon.com/bubble1-20/detail/0520252853" target="_blank">Dr. J.B.C. Axelrod&#8217;s</a> History 395 course &#8220;Reading and Writing L.A.&#8221; at Occidental College about their work on the 1947project time travel blogs, including <a href="http://www.onbunkerhill.org/" target="_blank">On Bunker Hill</a>, and the many ways of telling the many stories of Los Angeles.</p>
+<p><iframe loading="lazy" src="http://www.youtube.com/embed/ZLuq7uCt4cA" frameborder="0" width="640" height="360"></iframe></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2012/03/03/oxy/">1947project&#8217;s L.A. history presentation at Occidental College</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2012/03/03/oxy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2012/03/03/oxy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Black Dahlia and the News of the World</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2011/07/11/newsoftheworld/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2011/07/11/newsoftheworld/#respond</comments>
+		<link>https://1947project.com/2011/07/11/newsoftheworld/</link>
+					<comments>https://1947project.com/2011/07/11/newsoftheworld/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 11 Jul 2011 22:26:54 +0000</pubDate>
 				<category><![CDATA[Black Dahlia]]></category>
 		<category><![CDATA[Kim Cooper]]></category>
-		<guid isPermaLink="false">https://www.1947project.com/?p=5969</guid>
+		<guid isPermaLink="false">http://www.1947project.com/?p=5969</guid>
 
-					<description><![CDATA[<p>After 168 years of publication, todayâ€™s edition of the News of the World is that scandal-plagued English tabloidâ€™s last. The collapse of a major newspaper is fascinating to watch unfold, but any suggestion that this is an unprecedented media scandal the likes of which has never before been seen is, simply, balderdash. Take away the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2011/07/11/newsoftheworld/">Continue reading <span class="screen-reader-text">The Black Dahlia and the News of the World</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2011/07/11/newsoftheworld/">The Black Dahlia and the News of the World</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>After 168 years of publication, todayâ€™s edition of the News of the World is that scandal-plagued English tabloidâ€™s last. The collapse of a major newspaper is fascinating to watch unfold, but any suggestion that this is an unprecedented media scandal the likes of which has never before been seen is, simply, balderdash. Take away the&#8230; <a class="more-link" href="https://1947project.com/2011/07/11/newsoftheworld/">Continue reading <span class="screen-reader-text">The Black Dahlia and the News of the World</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2011/07/11/newsoftheworld/">The Black Dahlia and the News of the World</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>After 168 years of publication, todayâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s edition of the <em><a href="https://en.wikipedia.org/wiki/News_of_the_World" target="_blank">News of the World</a></em> is that scandal-plagued English tabloidâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://www.guardian.co.uk/media/2011/jul/07/news-of-the-world-to-close" target="_blank">last</a>.</p>
-<p>The collapse of a major newspaper is fascinating to watch unfold, but any suggestion that this is an unprecedented media scandal the likes of which has never before been seen is, simply, balderdash. Take away the trapping of modern media tools, and the situation in the <em>News of the World</em> newsroom is revealed to have been nearly identical to what was happening in 1947 Los Angeles, during the investigation of the murder of Elizabeth Short, AKA <a href="https://www.lmharnisch.com/" target="_blank">The Black Dahlia</a>.</p>
+<p>After 168 years of publication, todayâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s edition of the <em><a href="http://en.wikipedia.org/wiki/News_of_the_World" target="_blank">News of the World</a></em> is that scandal-plagued English tabloidâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="http://www.guardian.co.uk/media/2011/jul/07/news-of-the-world-to-close" target="_blank">last</a>.</p>
+<p>The collapse of a major newspaper is fascinating to watch unfold, but any suggestion that this is an unprecedented media scandal the likes of which has never before been seen is, simply, balderdash. Take away the trapping of modern media tools, and the situation in the <em>News of the World</em> newsroom is revealed to have been nearly identical to what was happening in 1947 Los Angeles, during the investigation of the murder of Elizabeth Short, AKA <a href="http://www.lmharnisch.com/" target="_blank">The Black Dahlia</a>.</p>
 <p>The <em>News of the World</em> folded, not because it lacked readers, but in a desperate effort by Rupert Murdochâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s News Corporation to deflect political fallout from an escalating newsroom phone hacking scandal that included interfering in the investigation of the murders of children and spying on the families of dead soldiers and victims of terrorism.</p>
-<p>Top British politicians appear to have had knowledge of these crimes and to have been intimately involved with some perpetrators. Further, editors have confessed to <a href="https://www.guardian.co.uk/media/2011/jul/08/clive-goodman-arrest-bribes" target="_blank">paying large sums</a> to the Metropolitan Police for scoops on celebrities and crime victims. The scandal is an evolving thing, with fresh revelations coming by the hour.</p>
-<p>Popular opinion holds that the entire working staff of the paper has been sacrificed to save the skin of former editor, current News Corporation chief executive, <a href="https://www.guardian.co.uk/media/2011/jul/08/rebekah-brooks-profile-phone-hacking" target="_blank">Rebekah Wade</a>, an intimate of Murdoch and of Prime Minister David Cameron. Meanwhile, the entire affair is subject to passionate commentary by <a href="https://www.guardian.co.uk/media/organgrinder/2011/jul/10/news-of-the-world-whipping-boys?INTCMP=SRCH" target="_blank">rival journalists</a>, <a href="https://www.youtube.com/watch?v=LkTs1Ayq8qo" target="_blank">stalked</a><a href="https://www.youtube.com/watch?v=ZV9Sh_R3wB4" target="_blank"> celebrities</a> and the scandalized public via Twitter and other social media.</p>
+<p>Top British politicians appear to have had knowledge of these crimes and to have been intimately involved with some perpetrators. Further, editors have confessed to <a href="http://www.guardian.co.uk/media/2011/jul/08/clive-goodman-arrest-bribes" target="_blank">paying large sums</a> to the Metropolitan Police for scoops on celebrities and crime victims. The scandal is an evolving thing, with fresh revelations coming by the hour.</p>
+<p>Popular opinion holds that the entire working staff of the paper has been sacrificed to save the skin of former editor, current News Corporation chief executive, <a href="http://www.guardian.co.uk/media/2011/jul/08/rebekah-brooks-profile-phone-hacking" target="_blank">Rebekah Wade</a>, an intimate of Murdoch and of Prime Minister David Cameron. Meanwhile, the entire affair is subject to passionate commentary by <a href="http://www.guardian.co.uk/media/organgrinder/2011/jul/10/news-of-the-world-whipping-boys?INTCMP=SRCH" target="_blank">rival journalists</a>, <a href="http://www.youtube.com/watch?v=LkTs1Ayq8qo" target="_blank">stalked</a><a href="http://www.youtube.com/watch?v=ZV9Sh_R3wB4" target="_blank"> celebrities</a> and the scandalized public via Twitter and other social media.</p>
 <p>But how does this relate to the Black Dahlia and 1940s yellow journalism?</p>
-<p>For <a href="https://www.slate.com/id/2205748/" target="_blank">Rupert Murdoch</a>, powerful and much-despised king of the yellow media, read <a href="https://en.wikipedia.org/wiki/William_Randolph_Hearst" target="_blank">William Randolph Hearst</a>, whose <em>Examiner</em> was the best capitalized paper in post-war Los Angeles, and whose reporters did much more to further the Black Dahlia murder investigation than anyone else, including the detectives of the LAPD. For ruthless Murdoch editors Andy Coulson and Rebekah Wade, read Hearstâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s top execs James Richardson and Aggie Underwood.</p>
+<p>For <a href="http://www.slate.com/id/2205748/" target="_blank">Rupert Murdoch</a>, powerful and much-despised king of the yellow media, read <a href="http://en.wikipedia.org/wiki/William_Randolph_Hearst" target="_blank">William Randolph Hearst</a>, whose <em>Examiner</em> was the best capitalized paper in post-war Los Angeles, and whose reporters did much more to further the Black Dahlia murder investigation than anyone else, including the detectives of the LAPD. For ruthless Murdoch editors Andy Coulson and Rebekah Wade, read Hearstâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s top execs James Richardson and Aggie Underwood.</p>
 <p>For the Metropolitan Police, implicated in the current privileged-information-for-cash scandal, read the Los Angeles Police Department, who were so deep in Hearstâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s pocket that they didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t balk when <em>Examiner</em> city editor James Richardson invited detectives to join reporters in the newsroom for the opening of murder victim Elizabeth Shortâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s missing luggage, which a reporter had located at the downtown Greyhound station and illegally purchased from the bag check desk. The evidence inside was promptly photographed for publication in the paper, and only then was handed off to detectives.</p>
-<p>For Milly Dowlerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s long-suffering parents, newly victimized by the news that their kidnapped daughter was not alive and deleting her own mobile phone messages in 2002, but rather her phone was being <a href="https://www.guardian.co.uk/uk/2011/jul/04/milly-dowler-voicemail-hacked-news-of-world" target="_blank">checked</a> by <em>News of the World</em> hacks, read <a href="https://jpg2.lapl.org/pics01/00010483.jpg" target="_blank">Phoebe Short</a>, Elizabethâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mother, tricked into telling a telephoning reporter all about her 22-year-old daughter with the ruse that Elizabeth had won a beauty contest. Only when she had nothing left to say did the reporter confess that in truth her daughter had been found naked and hacked in two in a vacant lot.</p>
+<p>For Milly Dowlerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s long-suffering parents, newly victimized by the news that their kidnapped daughter was not alive and deleting her own mobile phone messages in 2002, but rather her phone was being <a href="http://www.guardian.co.uk/uk/2011/jul/04/milly-dowler-voicemail-hacked-news-of-world" target="_blank">checked</a> by <em>News of the World</em> hacks, read <a href="http://jpg2.lapl.org/pics01/00010483.jpg" target="_blank">Phoebe Short</a>, Elizabethâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mother, tricked into telling a telephoning reporter all about her 22-year-old daughter with the ruse that Elizabeth had won a beauty contest. Only when she had nothing left to say did the reporter confess that in truth her daughter had been found naked and hacked in two in a vacant lot.</p>
 <p>In both instances, 1947 Los Angeles and 2011 London, the motivation was the same: to sell newspapers, and advertising, by appealing to the most base instincts of the general public. Then as now, people are fascinated by stories of sex and violence, and willing to pay for the publication that gives them seemingly factual information they canâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t get elsewhere. Reporters have always been able to justify their intrusions by laying their work on the altar of Truth. And unscrupulous publishers have always been willing to pay whatever it takes to hack into private lives of public people, to feed the information hunger.</p>
 <p>As the dust settles in England over this latest manifestation of a very old story, the real question is why gossip is so powerful a thing, alluring enough to make fortunes and bring down empires. <em>Why are we so interested in other peoplesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> private lives?</em></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2011/07/11/newsoftheworld/">The Black Dahlia and the News of the World</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2011/07/11/newsoftheworld/">The Black Dahlia and the News of the World</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2011/07/11/newsoftheworld/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2011/07/11/newsoftheworld/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Newsflash: win the &#8220;People Take Warning!&#8221; box set</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/07/02/newsflash-win-the-people-take-warning-box-set/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/07/02/newsflash-win-the-people-take-warning-box-set/#respond</comments>
+		<link>https://1947project.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/</link>
+					<comments>https://1947project.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 02 Jul 2008 15:05:22 +0000</pubDate>
 				<category><![CDATA[Crime Bus Tours]]></category>
 		<category><![CDATA[Kim Cooper]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/</guid>
 
-					<description><![CDATA[<p>Gentle reader, When not trawling the archives for tales of past century misbehavior, several of your 1947project / On Bunker Hill bloggers host Esotouric bus adventures on themes of crime, literature, architecture and rock and roll. You&#8217;ll see our upcoming events calendar in the sidebar, but to really stay informed about these popular and provocative&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/07/02/newsflash-win-the-people-take-warning-box-set/">Continue reading <span class="screen-reader-text">Newsflash: win the &#8220;People Take Warning!&#8221; box set</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/07/02/newsflash-win-the-people-take-warning-box-set/">Newsflash: win the &#8220;People Take Warning!&#8221; box set</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle reader, When not trawling the archives for tales of past century misbehavior, several of your 1947project / On Bunker Hill bloggers host Esotouric bus adventures on themes of crime, literature, architecture and rock and roll. You&#8217;ll see our upcoming events calendar in the sidebar, but to really stay informed about these popular and provocative&#8230; <a class="more-link" href="https://1947project.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/">Continue reading <span class="screen-reader-text">Newsflash: win the &#8220;People Take Warning!&#8221; box set</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/">Newsflash: win the &#8220;People Take Warning!&#8221; box set</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -253,28 +253,28 @@
 Gentle reader,
 </p>
 <p>
-When not trawling the archives for tales of past century misbehavior, several of your 1947project / <a href="https://www.onbunkerhill.org/" target="_blank">On Bunker Hill</a> bloggers host <a href="https://www.esotouric.com/" target="_blank">Esotouric bus adventures</a> on themes of crime, literature, architecture and rock and roll. You&#8217;ll see our upcoming events calendar in the sidebar, but to <em>really</em> stay informed about these popular and provocative tours, you want to subscribe to our weekly email announcement list, packed with sneak previews, links to tour photos, discount offers and contests.
+When not trawling the archives for tales of past century misbehavior, several of your 1947project / <a href="http://www.onbunkerhill.org/" target="_blank">On Bunker Hill</a> bloggers host <a href="http://www.esotouric.com/" target="_blank">Esotouric bus adventures</a> on themes of crime, literature, architecture and rock and roll. You&#8217;ll see our upcoming events calendar in the sidebar, but to <em>really</em> stay informed about these popular and provocative tours, you want to subscribe to our weekly email announcement list, packed with sneak previews, links to tour photos, discount offers and contests.
 </p>
 <p>
-This week&#8217;s announcement went out on Tuesday, and includes a drawing to win a copy of the astonishing box set &quot;<a href="https://ptw-on-amazon.notlong.com/" target="_blank">People Take Warning! Murder Ballads &amp; Disaster Songs 1913-1938,&quot;</a> the musical equivalent of one of our crime bus tours. The lucky winner will be picked on July 4, and <em>you</em> still have a chance to enter. Just <a href="https://www.47upgradepath7.richardschave.com//feedback">email</a> and say &quot;put me on the list, I want to win PTW&quot; and we&#8217;ll sign you up and send you the most recent announcement, where you&#8217;ll also find a discount offer for the July 12 <a href="https://www.esotouric.com/newchinatowns" target="_blank">New Chinatowns</a> urban history tour ending with a dim sum /wine tasting, news of a repeat edition of <a href="https://www.esotouric.com/vsion" target="_blank">Visionary Hollywood</a> and of the upcoming <a href="https://www.esotouric.com/waits">Crawling Down Cahuenga: Tom Waits LA</a>. 
+This week&#8217;s announcement went out on Tuesday, and includes a drawing to win a copy of the astonishing box set &quot;<a href="http://ptw-on-amazon.notlong.com/" target="_blank">People Take Warning! Murder Ballads &amp; Disaster Songs 1913-1938,&quot;</a> the musical equivalent of one of our crime bus tours. The lucky winner will be picked on July 4, and <em>you</em> still have a chance to enter. Just <a href="http://www.47upgradepath7.richardschave.com//feedback">email</a> and say &quot;put me on the list, I want to win PTW&quot; and we&#8217;ll sign you up and send you the most recent announcement, where you&#8217;ll also find a discount offer for the July 12 <a href="http://www.esotouric.com/newchinatowns" target="_blank">New Chinatowns</a> urban history tour ending with a dim sum /wine tasting, news of a repeat edition of <a href="http://www.esotouric.com/vsion" target="_blank">Visionary Hollywood</a> and of the upcoming <a href="http://www.esotouric.com/waits">Crawling Down Cahuenga: Tom Waits LA</a>. 
 </p>
 <p>
-Another good reason to get on the list: when James Ellroy offered his sold out <a href="https://esotouric.com/ellroy" target="_blank">James Ellroy Digs L.A.</a> tours over the Christmas holidays, most everyone who snagged a ticket was an Esotouric mailing list subscriber. By the time word spread out among civilians, the bus was full.
+Another good reason to get on the list: when James Ellroy offered his sold out <a href="http://esotouric.com/ellroy" target="_blank">James Ellroy Digs L.A.</a> tours over the Christmas holidays, most everyone who snagged a ticket was an Esotouric mailing list subscriber. By the time word spread out among civilians, the bus was full.
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/07/02/newsflash-win-the-people-take-warning-box-set/">Newsflash: win the &#8220;People Take Warning!&#8221; box set</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/">Newsflash: win the &#8220;People Take Warning!&#8221; box set</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/07/02/newsflash-win-the-people-take-warning-box-set/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/07/02/newsflash-win-the-people-take-warning-box-set/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Moving Day!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/04/02/moving-day/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/04/02/moving-day/#respond</comments>
+		<link>https://1947project.com/2008/04/02/moving-day/</link>
+					<comments>https://1947project.com/2008/04/02/moving-day/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 02 Apr 2008 17:20:29 +0000</pubDate>
@@ -282,31 +282,31 @@ Another good reason to get on the list: when James Ellroy offered his sold out <
 		<category><![CDATA[Kim Cooper]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle reader, 1947project has moved&#8230; to Bunker Hill. For the next twelve months, our dogged blog team will be exploring this lost neighborhood in all its permutations. Yes, we&#8217;ll be reporting on the crimes upon the hill, but we&#8217;ll also look at architecture, social life, notable residents, transportation, redevelopment, its mysteries and what small survivors&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/04/02/moving-day/">Continue reading <span class="screen-reader-text">Moving Day!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/04/02/moving-day/">Moving Day!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle reader, 1947project has moved&#8230; to Bunker Hill. For the next twelve months, our dogged blog team will be exploring this lost neighborhood in all its permutations. Yes, we&#8217;ll be reporting on the crimes upon the hill, but we&#8217;ll also look at architecture, social life, notable residents, transportation, redevelopment, its mysteries and what small survivors&#8230; <a class="more-link" href="https://1947project.com/2008/04/02/moving-day/">Continue reading <span class="screen-reader-text">Moving Day!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/04/02/moving-day/">Moving Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>
-<a href="https://www.flickr.com/photos/richardschave/2383349268/" title="saltbox moving day by richardschave, on Flickr"><img loading="lazy" src="//farm4.static.flickr.com/3017/2383349268_a88432183c_o.jpg" alt="saltbox moving day" width="600" height="474" /></a>
+<a href="http://www.flickr.com/photos/richardschave/2383349268/" title="saltbox moving day by richardschave, on Flickr"><img loading="lazy" src="//farm4.static.flickr.com/3017/2383349268_a88432183c_o.jpg" alt="saltbox moving day" width="600" height="474" /></a>
 </p>
 <p>
-Gentle reader, 1947project has moved&#8230; to Bunker Hill. For the next twelve months, our dogged blog team will be exploring this lost neighborhood in all its permutations. Yes, we&#8217;ll be reporting on the crimes upon the hill, but we&#8217;ll also look at architecture, social life, notable residents, transportation, redevelopment, its mysteries and what small survivors remain from the glory days. With this project, we intend to shine a light on a community that was displaced by a well intentioned but misguided slum clearance plan that tore the heart out of L.A.&#8217;s downtown, a blow the city still staggers from. As downtown struggles to be reborn as a city center, we need a history more than ever before. Visit <a href="https://www.onbunkerhill.org/" target="_blank">On Bunker Hill</a> this year and share in our discoveries, or <a href="https://www.onbunkerhill.org/feedback">join us</a> and contribute your own.
+Gentle reader, 1947project has moved&#8230; to Bunker Hill. For the next twelve months, our dogged blog team will be exploring this lost neighborhood in all its permutations. Yes, we&#8217;ll be reporting on the crimes upon the hill, but we&#8217;ll also look at architecture, social life, notable residents, transportation, redevelopment, its mysteries and what small survivors remain from the glory days. With this project, we intend to shine a light on a community that was displaced by a well intentioned but misguided slum clearance plan that tore the heart out of L.A.&#8217;s downtown, a blow the city still staggers from. As downtown struggles to be reborn as a city center, we need a history more than ever before. Visit <a href="http://www.onbunkerhill.org/" target="_blank">On Bunker Hill</a> this year and share in our discoveries, or <a href="http://www.onbunkerhill.org/feedback">join us</a> and contribute your own.
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/04/02/moving-day/">Moving Day!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/04/02/moving-day/">Moving Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/04/02/moving-day/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/04/02/moving-day/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Second Chance</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/#respond</comments>
+		<link>https://1947project.com/2008/03/19/a-second-chance/</link>
+					<comments>https://1947project.com/2008/03/19/a-second-chance/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 19 Mar 2008 18:01:00 +0000</pubDate>
@@ -319,14 +319,14 @@ Gentle reader, 1947project has moved&#8230; to Bunker Hill. For the next twelve 
 		<category><![CDATA[Mary McCoy]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 19, 1927 Long Beach, CA Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown. But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all. Fred wanted to leave Long Beach for Freewater, Oregon, where they&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">Continue reading <span class="screen-reader-text">A Second Chance</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 19, 1927 Long Beach, CA Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown. But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all. Fred wanted to leave Long Beach for Freewater, Oregon, where they&#8230; <a class="more-link" href="https://1947project.com/2008/03/19/a-second-chance/">Continue reading <span class="screen-reader-text">A Second Chance</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 19, 1927<br />
 Long Beach, CA</p>
 <p><img loading="lazy" src="//farm4.static.flickr.com/3103/2345049446_6a45978606_m.jpg" alt="longbeachshooting" width="240" height="217" align="left" />Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown.  But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all.</p>
-<p>Fred wanted to leave Long Beach for Freewater, Oregon, where they owned a ranch; however, Lela was determined to stay put.  She moved out of their home at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=45+atlantic+avenue,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.769462,-118.185081&amp;spn=0.007474,0.014591&amp;z=16" target="_blank" title="atlantic">45 Atlantic Avenue</a>, and Fred spent nearly a week trying to track her down.  On March 18, they finally agreed to meet at a neutral location, their daughter&#8217;s home at 32 Neptune Place, and try to talk things through.</p>
+<p>Fred wanted to leave Long Beach for Freewater, Oregon, where they owned a ranch; however, Lela was determined to stay put.  She moved out of their home at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=45+atlantic+avenue,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.769462,-118.185081&amp;spn=0.007474,0.014591&amp;z=16" target="_blank" title="atlantic">45 Atlantic Avenue</a>, and Fred spent nearly a week trying to track her down.  On March 18, they finally agreed to meet at a neutral location, their daughter&#8217;s home at 32 Neptune Place, and try to talk things through.</p>
 <p>However, Lela refused to reconsider, and walked away from the argument.  As she was descending the stairs in her daughter&#8217;s house, Fred pulled out a gun and shot her twice in the back before turning the gun on himself, firing into his mouth.  The shots didn&#8217;t kill Lena, and when she was admitted to Seaside Hospital, it was assumed that she would recover.  However, Fred was barely clinging to life, and in fact, police arriving on the scene initially believed him dead.</p>
 <p>Today, things looked drastically different.  A bullet was lodged behind Fred&#8217;s left ear, but doctors expected that he would make a full recovery &#8212; and in all likelihood, be left to stand trial for his wife&#8217;s murder.  The shots fired into his wife&#8217;s back had punctured her right lung, and she was not expected to live.  Authorities stood watch at Fred&#8217;s bed, waiting to charge him either with murder or attempted murder.</p>
 <p>Shockingly, the story has a moderately happy ending.  On April 11, a frail Lena McElrath, appeared at her husband&#8217;s preliminary hearing and was helped to the stand by her son, where she made an impassioned plea on Fred&#8217;s behalf.</p>
@@ -334,18 +334,18 @@ Long Beach, CA</p>
 <p>Judge Stephen G. Long agreed she should have that chance, saying, &quot;This is a very remarkable affair, but if both parties are willing to forgive and forget and to endeavor to patch up their broken lives, I think the kindest thing for this court to do is to give McElrath a chance.&quot;</p>
 <p>The charge was dismissed, and the McElraths left the courtroom with their arms wrapped around each other.  Lena&#8217;s wounds were expected to heal completely with time, though Fred would be forever incapacitated by the bullet, still lodged near his spine.</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/19/a-second-chance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/#respond</comments>
+		<link>https://1947project.com/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/</link>
+					<comments>https://1947project.com/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 18 Mar 2008 20:28:34 +0000</pubDate>
@@ -357,20 +357,20 @@ Long Beach, CA</p>
 		<category><![CDATA[henchmen]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 18, 1927 Los Angeles Police are searching for &#8220;bandit queen&#8221; Rose Berk with renewed effort after today&#8217;s arrest of one of her henchmen, Fred J. Cook. Berk (aka Rose Buckingham, aka Rose Burke) is suspected of masterminding more than half a dozen &#8220;feminine lure&#8221; robberies during the last week alone. During the course of&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/">Continue reading <span class="screen-reader-text">Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/">Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 18, 1927 Los Angeles Police are searching for &#8220;bandit queen&#8221; Rose Berk with renewed effort after today&#8217;s arrest of one of her henchmen, Fred J. Cook. Berk (aka Rose Buckingham, aka Rose Burke) is suspected of masterminding more than half a dozen &#8220;feminine lure&#8221; robberies during the last week alone. During the course of&#8230; <a class="more-link" href="https://1947project.com/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/">Continue reading <span class="screen-reader-text">Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/">Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2343154973/" title="An Old-Fashioned Girl by peril61, on Flickr"><img loading="lazy" src="//farm4.static.flickr.com/3078/2343154973_91aebeb746_o.jpg" width="231" height="297" alt="An Old-Fashioned Girl" align="left"/></a>March 18, 1927<br />
+<div><a href="http://www.flickr.com/photos/lperil/2343154973/" title="An Old-Fashioned Girl by peril61, on Flickr"><img loading="lazy" src="//farm4.static.flickr.com/3078/2343154973_91aebeb746_o.jpg" width="231" height="297" alt="An Old-Fashioned Girl" align="left"/></a>March 18, 1927<br />
 Los Angeles</p>
 <p>Police are searching for &#8220;bandit queen&#8221; Rose Berk with renewed effort after today&#8217;s arrest of one of her henchmen, Fred J. Cook. Berk (aka Rose Buckingham, aka Rose Burke) is suspected of masterminding more than half a dozen &#8220;feminine lure&#8221; robberies during the last week alone. During the course of these hold-ups, Berk pretended to be a helpless female seeking &#8220;assistance in starting a stalled automobile.&#8221; She was perhaps particularly suited to this role because, &#8220;unlike the usual type&#8221; of bandit queen, Berk was described by police as &#8220;homely, awkward in her manner and so old-fashioned that she still wears her hair long.&#8221; </p>
 <p>However out of style she may have been, Berk evaded capture by the L.A.P.D. On April 13, 1927, she was behind the wheel of the getaway car when a group of hold-up men, Fred Cook among them, robbed the Seaboard National Bank on Wilshire Boulevard of $21,000. The hapless Cook was arrested two years later, when in August 1929, he was recognized on a visit to Rose Berk, then jailed in Indianapolis. Alas, her trail goes cold hereÃ¢â‚¬â€we&#8217;ll never know if she finally bobbed her hair. </p>
 <p><i>Modeling the &#8220;old-fashioned&#8221; look is one of the winners of the</i> Times&#8217;s <i>Mary Pickford look-alike contest in 1924.</i></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/">Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/">Just An Old-Fashioned Girl Ã¢â‚¬Â¦ Driving the Getaway Car</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/18/just-an-old-fashioned-girl-driving-the-getaway-car/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>corruprtion &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/corruprtion/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/corruprtion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:39:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>corruprtion &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Weird Tale of the Wig Lady</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/#respond</comments>
+		<link>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/</link>
+					<comments>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 30 Nov 2007 19:18:09 +0000</pubDate>
@@ -49,16 +49,16 @@
 		<category><![CDATA[wig]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 30, 1927Alhambra Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">Continue reading <span class="screen-reader-text">The Weird Tale of the Wig Lady</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 30, 1927Alhambra Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room&#8230; <a class="more-link" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">Continue reading <span class="screen-reader-text">The Weird Tale of the Wig Lady</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a title="Nona Lesher, the wig lady by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785111/"><img loading="lazy" width="390" height="508" border="0" alt="Nona Lesher, the wig lady" src="//farm3.static.flickr.com/2270/2075785111_c65923f8a5_o.png" /></a></p>
+<div><a title="Nona Lesher, the wig lady by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785111/"><img loading="lazy" width="390" height="508" border="0" alt="Nona Lesher, the wig lady" src="//farm3.static.flickr.com/2270/2075785111_c65923f8a5_o.png" /></a></p>
 <p>November 30, 1927<br />Alhambra</p>
 <p>Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. </p>
 <p>But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room shared by Nona, hubby Harvey (or Harry), half-brother Phil Rohan and pal Mike Garvey at 2048 West Twentieth Street were an unheard of 61 pairs of shoes and twenty hats, plus Harry, Phil and the aforementioned wigs.</p>
-<p><a title="Harrt Lesher, wig lady's accomplice by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785107/"><img loading="lazy" width="98" height="175" border="0" alt="Harrt Lesher, wig lady's accomplice" src="//farm3.static.flickr.com/2414/2075785107_e2bb414821_o.png" /></a></p>
-<p><a title="Phil Rohan, wig lady's accomplice by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785105/"><img loading="lazy" width="100" height="177" border="0" alt="Phil Rohan, wig lady's accomplice" src="//farm3.static.flickr.com/2051/2075785105_ceedc63b28_o.png" /></a></p>
+<p><a title="Harrt Lesher, wig lady's accomplice by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785107/"><img loading="lazy" width="98" height="175" border="0" alt="Harrt Lesher, wig lady's accomplice" src="//farm3.static.flickr.com/2414/2075785107_e2bb414821_o.png" /></a></p>
+<p><a title="Phil Rohan, wig lady's accomplice by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785105/"><img loading="lazy" width="100" height="177" border="0" alt="Phil Rohan, wig lady's accomplice" src="//farm3.static.flickr.com/2051/2075785105_ceedc63b28_o.png" /></a></p>
 <p> The men soon became suspects in the November 1 drug store beating death of proprietor A.R. Miles (or A.M. Miller) at 2329 West Jefferson after Lesher allegedly confessed to friend H.S. Walton, &quot;I pulled that West Jefferson job&mdash;I hit Miles over the head and when he came to and called me &#8216;Heinie&#8217; I finished him with my feet.&quot; However, Walton later said he had been so drunk that night, he might have imagined the whole thing, had only spoken out because he&#8217;d been told charges against him would be dropped if he did, and anyway, he believed the trio was innocent.</p>
 <p>Still, 10-year-old witness Eddie Yates ID&#8217;d Phil Rohan as the youth in a snazzy blue and white sweater who he&#8217;d seen dashing from the crime scene. Lesher and Garvey also looked familiar to the boy. Roberta Scriver, sitting in a car outside the drug store, also identified the trio. Simple robbery-murder case with eyewitnesses, eh?</p>
 <p>But then a cop&#8217;s badge was found in Mike Garvey&#8217;s possession, leading to the arrest of 77th Street Division policeman George H. Foster, the Wig Gang&#8217;s next door neighbor, on charges that he&#8217;d used the badge to shake down bootlegger John Sykes for $57 in exchange for not noticing a quantity of liquor stored in a vacant house; Rohan and Garvey supposedly served as muscle on the robbery, and somehow Garvey ended up with the badge.</p>
@@ -67,10 +67,10 @@
 <p>Once freed, the trio sought $5000 each in payment from the state for their ordeal, while Lesher and Rohan&#8217;s mother Carrie testified she&#8217;d spent $6000 on their defense and appeals. During this hearing, which was ultimately unsuccessful, an Alhambra Detective offered the hitherto unknown information that their arrest had resulted from a tip from the Wig Lady herself, Nona Lesher. It was unclear if she had remained true to Harvey during his incarceration, but one assumes the marriage didn&#8217;t survive this revelation. At least their mother still loved &#8217;em!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

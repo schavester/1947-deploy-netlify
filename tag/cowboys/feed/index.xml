@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>cowboys &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/cowboys/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/cowboys/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:38:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>cowboys &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Yeee-haw!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/25/yeee-haw/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/25/yeee-haw/#respond</comments>
+		<link>https://1947project.com/2007/03/25/yeee-haw/</link>
+					<comments>https://1947project.com/2007/03/25/yeee-haw/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 25 Mar 2007 21:39:30 +0000</pubDate>
@@ -46,22 +46,22 @@
 		<category><![CDATA[texas]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; March 25, 1927Los Angeles C. D. Fabrick had just stepped into the Jefferson and San Pedro office of the Merchants&#8217; National Trust and Savings Bank to begin his canvass of the theft and burglary situation in that part of the city. Therefore he thought there was a gag afoot when a booted Olde West&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/25/yeee-haw/">Continue reading <span class="screen-reader-text">Yeee-haw!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/25/yeee-haw/">Yeee-haw!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; March 25, 1927Los Angeles C. D. Fabrick had just stepped into the Jefferson and San Pedro office of the Merchants&#8217; National Trust and Savings Bank to begin his canvass of the theft and burglary situation in that part of the city. Therefore he thought there was a gag afoot when a booted Olde West&#8230; <a class="more-link" href="https://1947project.com/2007/03/25/yeee-haw/">Continue reading <span class="screen-reader-text">Yeee-haw!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/25/yeee-haw/">Yeee-haw!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="400" height="94" border="0" align="absmiddle" title="languid" alt="languid" src="//farm1.static.flickr.com/161/433974870_f1dc6f748c_o.gif" />&nbsp;</p>
 <p> March 25, 1927<br />Los Angeles  </p>
-<p>C. D. Fabrick had just stepped into the <a href="https://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&#038;q1=jefferson+at+san+pedro%2C+la%2C+ca&#038;trf=0&#038;lon=-118.265312&#038;lat=34.015335&#038;mag=3" target="_blank" title="jeffersonsanpedro">Jefferson and San Pedro</a> office of the Merchants&rsquo; National Trust and Savings Bank to begin his canvass of the theft and burglary situation in that part of the city.  Therefore he thought there was a gag afoot when a booted Olde West cowboy type approached him, twirling a gun.  &ldquo;I&rsquo;m a robbery and theft insurance underwriter,&rdquo; said Fabrick, &ldquo;what are you trying to do, kid me?&rdquo;  But Fabrick was not the butt of a joke but on the business end of a .45.  </p>
+<p>C. D. Fabrick had just stepped into the <a href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&#038;q1=jefferson+at+san+pedro%2C+la%2C+ca&#038;trf=0&#038;lon=-118.265312&#038;lat=34.015335&#038;mag=3" target="_blank" title="jeffersonsanpedro">Jefferson and San Pedro</a> office of the Merchants&rsquo; National Trust and Savings Bank to begin his canvass of the theft and burglary situation in that part of the city.  Therefore he thought there was a gag afoot when a booted Olde West cowboy type approached him, twirling a gun.  &ldquo;I&rsquo;m a robbery and theft insurance underwriter,&rdquo; said Fabrick, &ldquo;what are you trying to do, kid me?&rdquo;  But Fabrick was not the butt of a joke but on the business end of a .45.  </p>
 <p><img loading="lazy" width="127" height="220" border="0" align="left" title="blaisdell" alt="blaisdell" src="//farm1.static.flickr.com/167/433974872_4b0f4fec78_o.gif" />Fabrick, bank employees and customers were invited in thick Texas drawl to find themselves &ldquo;a nice cozy spot on the floor&rdquo; after which another bandit scooped $2,000 ($23,390 USD 2007) from the tills.  They then lumbered out to a dust-covered touring car where a third bandit sat with a Winchester rifle across his knees.  As the two egressed, one of the bandits held the door for an incoming customer and with true Texas courtesy drawled &ldquo;It&rsquo;s all right, lady.  It&rsquo;s all right.  Walk right in.&rdquo;  </p>
 <p>&nbsp;<br />While bank manager R. E. Blaisdell was not in attendance for the show, he had been present for an east side Merchants&rsquo; bank shootout earlier in the year that left one policeman and one bandit dead. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/25/yeee-haw/">Yeee-haw!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/25/yeee-haw/">Yeee-haw!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/25/yeee-haw/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/25/yeee-haw/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

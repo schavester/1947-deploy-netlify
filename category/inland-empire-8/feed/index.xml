@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Inland Empire &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/inland-empire-8/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/inland-empire-8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:09:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Inland Empire &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>It&#8217;s a Man&#8217;s World</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/17/its-a-mans-world/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/17/its-a-mans-world/#respond</comments>
+		<link>https://1947project.com/2008/03/17/its-a-mans-world/</link>
+					<comments>https://1947project.com/2008/03/17/its-a-mans-world/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 17 Mar 2008 17:30:44 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[cross dressing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Ã‚Â  March 17, 1927 Bakersfield Frustrated at being rejected for employment as a nurse by Kern Hospital, twenty-one year old Gladys Maryon Lindley came up with a plan Ã¢â‚¬â€œ become a man! Dressed in menÃ¢â‚¬â„¢s clothing and answering to the name Ã¢â‚¬Å“BillyÃ¢â‚¬Â, Gladys presented herself at Kern Hospital once again. Instead of seeking employment as&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/17/its-a-mans-world/">Continue reading <span class="screen-reader-text">It&#8217;s a Man&#8217;s World</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/17/its-a-mans-world/">It&#8217;s a Man&#8217;s World</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Ã‚Â  March 17, 1927 Bakersfield Frustrated at being rejected for employment as a nurse by Kern Hospital, twenty-one year old Gladys Maryon Lindley came up with a plan Ã¢â‚¬â€œ become a man! Dressed in menÃ¢â‚¬â„¢s clothing and answering to the name Ã¢â‚¬Å“BillyÃ¢â‚¬Â, Gladys presented herself at Kern Hospital once again. Instead of seeking employment as&#8230; <a class="more-link" href="https://1947project.com/2008/03/17/its-a-mans-world/">Continue reading <span class="screen-reader-text">It&#8217;s a Man&#8217;s World</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/17/its-a-mans-world/">It&#8217;s a Man&#8217;s World</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -70,18 +70,18 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/17/its-a-mans-world/">It&#8217;s a Man&#8217;s World</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/17/its-a-mans-world/">It&#8217;s a Man&#8217;s World</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/17/its-a-mans-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/17/its-a-mans-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We&#8217;re so hungry, we could eat a sheep</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/14/were-so-hungry-we-could-eat-a-sheep/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/14/were-so-hungry-we-could-eat-a-sheep/#respond</comments>
+		<link>https://1947project.com/2008/01/14/were-so-hungry-we-could-eat-a-sheep/</link>
+					<comments>https://1947project.com/2008/01/14/were-so-hungry-we-could-eat-a-sheep/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 14 Jan 2008 17:11:07 +0000</pubDate>
@@ -91,30 +91,30 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<category><![CDATA[The wacko file]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 14, 1927 Taft Hut, two, three, four &#8211; an army of field mice is on the march in Taft, and like most armies, this one travels on its stomach. Despite being low on the food chain, or maybe because of it, field mice are crafty little creatures, and they can rapidly assess a situation&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/14/were-so-hungry-we-could-eat-a-sheep/">Continue reading <span class="screen-reader-text">We&#8217;re so hungry, we could eat a sheep</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/14/were-so-hungry-we-could-eat-a-sheep/">We&#8217;re so hungry, we could eat a sheep</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 14, 1927 Taft Hut, two, three, four &#8211; an army of field mice is on the march in Taft, and like most armies, this one travels on its stomach. Despite being low on the food chain, or maybe because of it, field mice are crafty little creatures, and they can rapidly assess a situation&#8230; <a class="more-link" href="https://1947project.com/2008/01/14/were-so-hungry-we-could-eat-a-sheep/">Continue reading <span class="screen-reader-text">We&#8217;re so hungry, we could eat a sheep</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/14/were-so-hungry-we-could-eat-a-sheep/">We&#8217;re so hungry, we could eat a sheep</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="eat a sheep headline" height="115" alt="eat a sheep headline" src="//farm3.static.flickr.com/2210/2193105308_2b0a67d5ab.jpg" width="500" border="0" /></p>
 <p>January 14, 1927 <br />Taft </p>
-<p>Hut, two, three, four &ndash; an army of field mice is on the march in <a title="Taft, CA" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=taft,+CA&#038;ie=UTF8&#038;ll=35.14247,-119.45743&#038;spn=2.811783,5.037231&#038;z=8&#038;om=1" target="_blank">Taft</a>, and like most armies, this one travels on its stomach. </p>
+<p>Hut, two, three, four &ndash; an army of field mice is on the march in <a title="Taft, CA" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=taft,+CA&#038;ie=UTF8&#038;ll=35.14247,-119.45743&#038;spn=2.811783,5.037231&#038;z=8&#038;om=1" target="_blank">Taft</a>, and like most armies, this one travels on its stomach. </p>
 <p>Despite being low on the food chain, or maybe because of it, field mice are crafty little creatures, and they can rapidly assess a situation before taking action. While cutting a wide swath through Taft, the mouse invaders spied a small sheep that was confined in a pen and unable to escape. Hundreds of rodent soldiers felt their mousedar vibrate. They swarmed the helpless animal and devoured it on the spot. </p>
-<p>Not all mice are evil sheep snacking marauders. On November 18, 1928, <a title="Walt Disney" href="https://en.wikipedia.org/wiki/Walt_Disney" target="_blank">Walt Disney</a> would introduce an adorable animated <a title="Mickey Mouse" href="https://en.wikipedia.org/wiki/Mickey_Mouse" target="_blank">anthropomorphic mouse</a> in the cartoon, <a title="Steamboat Willie" href="https://en.wikipedia.org/wiki/Steamboat_Willie" target="_blank">&ldquo;Steamboat Willie&rdquo;.</a> Nobody would ever look at a mouse in quite the same way. </p>
+<p>Not all mice are evil sheep snacking marauders. On November 18, 1928, <a title="Walt Disney" href="http://en.wikipedia.org/wiki/Walt_Disney" target="_blank">Walt Disney</a> would introduce an adorable animated <a title="Mickey Mouse" href="http://en.wikipedia.org/wiki/Mickey_Mouse" target="_blank">anthropomorphic mouse</a> in the cartoon, <a title="Steamboat Willie" href="http://en.wikipedia.org/wiki/Steamboat_Willie" target="_blank">&ldquo;Steamboat Willie&rdquo;.</a> Nobody would ever look at a mouse in quite the same way. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/14/were-so-hungry-we-could-eat-a-sheep/">We&#8217;re so hungry, we could eat a sheep</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/14/were-so-hungry-we-could-eat-a-sheep/">We&#8217;re so hungry, we could eat a sheep</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/14/were-so-hungry-we-could-eat-a-sheep/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/14/were-so-hungry-we-could-eat-a-sheep/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Stars That Shine and Smolder</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/#respond</comments>
+		<link>https://1947project.com/2007/12/06/stars-that-shine-and-smolder/</link>
+					<comments>https://1947project.com/2007/12/06/stars-that-shine-and-smolder/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 06 Dec 2007 22:56:42 +0000</pubDate>
@@ -129,8 +129,8 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<category><![CDATA[celebrity]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 6, 1927Los Angeles Calling all cars! Calling all cars! Be on the lookout for two easily-recognized scofflaws, film stars Reginald Denny and Hedda Hopper. She&#8217;s wanted for speeding at about 34mph around Melrose and La Brea, he for setting a similar pace in the 20mph zone at Sunset and Vine, and without a valid&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/">Continue reading <span class="screen-reader-text">Stars That Shine and Smolder</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 6, 1927Los Angeles Calling all cars! Calling all cars! Be on the lookout for two easily-recognized scofflaws, film stars Reginald Denny and Hedda Hopper. She&#8217;s wanted for speeding at about 34mph around Melrose and La Brea, he for setting a similar pace in the 20mph zone at Sunset and Vine, and without a valid&#8230; <a class="more-link" href="https://1947project.com/2007/12/06/stars-that-shine-and-smolder/">Continue reading <span class="screen-reader-text">Stars That Shine and Smolder</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>December 6, 1927<br />Los Angeles</p>
@@ -139,18 +139,18 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 <p>What shall we do with these antisocial celebrities? Perhaps we should just drop by their homes and have a talk with them. Miss Hopper is reported as residing at 1416 Fairfax Avenue, Mr. Denny at 2060 North Vine.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/06/stars-that-shine-and-smolder/">Stars That Shine and Smolder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/06/stars-that-shine-and-smolder/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/06/stars-that-shine-and-smolder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Have a Zesty Labor Day!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/#respond</comments>
+		<link>https://1947project.com/2007/09/03/have-a-zesty-labor-day/</link>
+					<comments>https://1947project.com/2007/09/03/have-a-zesty-labor-day/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2007 15:15:03 +0000</pubDate>
@@ -173,7 +173,7 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>September 3, 1927 Los Angeles If you&#8217;re planning to escape the heat this Labor Day by going boating on Lake Arrowhead, don&#8217;t forget to take along your radio!</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -182,18 +182,18 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 <p><img loading="lazy" title="Radio" height="579" alt="Radio" src="//farm2.static.flickr.com/1244/1312974828_4df2864e11_o.jpg" width="605" border="0" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/09/03/have-a-zesty-labor-day/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/09/03/have-a-zesty-labor-day/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Marriage, 1927 Style</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/28/marriage-1927-style/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/28/marriage-1927-style/#respond</comments>
+		<link>https://1947project.com/2007/05/28/marriage-1927-style/</link>
+					<comments>https://1947project.com/2007/05/28/marriage-1927-style/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 28 May 2007 03:29:31 +0000</pubDate>
@@ -204,33 +204,33 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<category><![CDATA[pre-nuptial agreement]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 28, 1927 Riverside &#34;I guess the only way to stop divorce is to stop marriage.&#34; &#8212; Will Rogers Everyone is familiar with the Boy Scout motto, Be Prepared, but newlyweds Grant Dewlaney and Ethel Hornaday have prepared themselves for marriage in a way that no Boy Scout ever could have imagined. Grant and Ethel&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/28/marriage-1927-style/">Continue reading <span class="screen-reader-text">Marriage, 1927 Style</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/28/marriage-1927-style/">Marriage, 1927 Style</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 28, 1927 Riverside &#34;I guess the only way to stop divorce is to stop marriage.&#34; &#8212; Will Rogers Everyone is familiar with the Boy Scout motto, Be Prepared, but newlyweds Grant Dewlaney and Ethel Hornaday have prepared themselves for marriage in a way that no Boy Scout ever could have imagined. Grant and Ethel&#8230; <a class="more-link" href="https://1947project.com/2007/05/28/marriage-1927-style/">Continue reading <span class="screen-reader-text">Marriage, 1927 Style</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/28/marriage-1927-style/">Marriage, 1927 Style</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="unusual agreement" height="169" alt="unusual agreement" src="//farm1.static.flickr.com/246/517171209_da82f7e6aa_m.jpg" width="212" border="0" /></p>
 <p>May 28, 1927 <br />Riverside </p>
-<p><em>&quot;I guess the only way to stop divorce is to stop marriage.&quot;</em> &#8212; <a title="Will Rogers" href="https://en.wikipedia.org/wiki/Will_Rogers" target="_blank">Will Rogers</a> </p>
-<p>Everyone is familiar with the <a title="Boy Scouts of America" href="https://en.wikipedia.org/wiki/Boy_Scouts_of_America" target="_blank">Boy Scout</a> motto, Be Prepared, but newlyweds Grant Dewlaney and Ethel Hornaday have prepared themselves for marriage in a way that no Boy Scout ever could have imagined. <img loading="lazy" title="divorce filings" height="120" alt="divorce filings" src="//farm1.static.flickr.com/250/517171207_5cf2f0d733_m.jpg" width="240" align="right" border="0" /></p>
+<p><em>&quot;I guess the only way to stop divorce is to stop marriage.&quot;</em> &#8212; <a title="Will Rogers" href="http://en.wikipedia.org/wiki/Will_Rogers" target="_blank">Will Rogers</a> </p>
+<p>Everyone is familiar with the <a title="Boy Scouts of America" href="http://en.wikipedia.org/wiki/Boy_Scouts_of_America" target="_blank">Boy Scout</a> motto, Be Prepared, but newlyweds Grant Dewlaney and Ethel Hornaday have prepared themselves for marriage in a way that no Boy Scout ever could have imagined. <img loading="lazy" title="divorce filings" height="120" alt="divorce filings" src="//farm1.static.flickr.com/250/517171207_5cf2f0d733_m.jpg" width="240" align="right" border="0" /></p>
 <p>Grant and Ethel hope to spend the rest of their lives together in blissful tandem harness, but what if the unthinkable happens and they fall out of love like the ten couples who filed for divorce today in Los Angeles? </p>
-<p>In the event that their love does not endure, the pragmatic pair has taken an unusual step to avoid future battles over the house, furniture, and the family <a title="Ford Model-T" href="https://en.wikipedia.org/wiki/Ford_Model_T" target="_blank">Ford</a>. Prior to their marriage ceremony they filed an agreement with the Los Angeles County Recorder which may inspire other modern couples to do the same. </p>
-<p>The <a title="Pre-Nup" href="https://en.wikipedia.org/wiki/Pre-nuptial_agreement" target="_blank">contract</a> states that if Ethel ever files for divorce she will accept a settlement of $500 ($5939.25USD 2007) to pay for an attorney, her separate maintenance and any other of her expenses. If Ethel files for divorce before their first wedding anniversary, she has agreed to accept the sum of $300 ($3563.55USD 2007). </p>
+<p>In the event that their love does not endure, the pragmatic pair has taken an unusual step to avoid future battles over the house, furniture, and the family <a title="Ford Model-T" href="http://en.wikipedia.org/wiki/Ford_Model_T" target="_blank">Ford</a>. Prior to their marriage ceremony they filed an agreement with the Los Angeles County Recorder which may inspire other modern couples to do the same. </p>
+<p>The <a title="Pre-Nup" href="http://en.wikipedia.org/wiki/Pre-nuptial_agreement" target="_blank">contract</a> states that if Ethel ever files for divorce she will accept a settlement of $500 ($5939.25USD 2007) to pay for an attorney, her separate maintenance and any other of her expenses. If Ethel files for divorce before their first wedding anniversary, she has agreed to accept the sum of $300 ($3563.55USD 2007). </p>
 <p>Will this type of agreement ever catch on? Only time will tell. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/28/marriage-1927-style/">Marriage, 1927 Style</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/28/marriage-1927-style/">Marriage, 1927 Style</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/28/marriage-1927-style/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/28/marriage-1927-style/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>With Time Off For Being So Enterprising</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/03/with-time-off-for-being-so-enterprising/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/03/with-time-off-for-being-so-enterprising/#respond</comments>
+		<link>https://1947project.com/2007/05/03/with-time-off-for-being-so-enterprising/</link>
+					<comments>https://1947project.com/2007/05/03/with-time-off-for-being-so-enterprising/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 03 May 2007 14:04:54 +0000</pubDate>
@@ -246,8 +246,8 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<category><![CDATA[reno]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 3, 1927Pomona&#160; Some call it extortion; we call it a rather clever short con. C.L. Jackson and R.W. Hedgreth, both 48 and old enough to know better, approached service station operators Harold K. Hemmingway and Norman Bliss in the guise of being Prohibition officers, and asked where &#8217;round here one could wet one&#8217;s whistle.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/03/with-time-off-for-being-so-enterprising/">Continue reading <span class="screen-reader-text">With Time Off For Being So Enterprising</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/03/with-time-off-for-being-so-enterprising/">With Time Off For Being So Enterprising</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 3, 1927Pomona&#160; Some call it extortion; we call it a rather clever short con. C.L. Jackson and R.W. Hedgreth, both 48 and old enough to know better, approached service station operators Harold K. Hemmingway and Norman Bliss in the guise of being Prohibition officers, and asked where &#8217;round here one could wet one&#8217;s whistle.&#8230; <a class="more-link" href="https://1947project.com/2007/05/03/with-time-off-for-being-so-enterprising/">Continue reading <span class="screen-reader-text">With Time Off For Being So Enterprising</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/03/with-time-off-for-being-so-enterprising/">With Time Off For Being So Enterprising</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -257,18 +257,18 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 <p>Meanwhile, in Reno, Nevada&#8217;s first short residency divorce was granted to Sophia M. Ross of New York, who braved the desert winds and cultural drought for three months so she could be freed of her Albert, who ate mashed potatoes with his hands. &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/03/with-time-off-for-being-so-enterprising/">With Time Off For Being So Enterprising</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/03/with-time-off-for-being-so-enterprising/">With Time Off For Being So Enterprising</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/03/with-time-off-for-being-so-enterprising/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/03/with-time-off-for-being-so-enterprising/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Most Impressive Fellow</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/04/06/a-most-impressive-fellow/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/04/06/a-most-impressive-fellow/#respond</comments>
+		<link>https://1947project.com/2007/04/06/a-most-impressive-fellow/</link>
+					<comments>https://1947project.com/2007/04/06/a-most-impressive-fellow/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 06 Apr 2007 17:12:05 +0000</pubDate>
@@ -279,8 +279,8 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<category><![CDATA[tijuana]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 6, 1927Redlands&#160; CONfidential to all garage managers: be on the lookout for a swell-looking swell of about 40 sporting diamonds on his fingers, checkered suit and a loud necktie, who pulls up in a swishy wagon spilling tales of his string of racehorses in TJ, the barn he&#8217;s rented for them in town and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/04/06/a-most-impressive-fellow/">Continue reading <span class="screen-reader-text">A Most Impressive Fellow</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/06/a-most-impressive-fellow/">A Most Impressive Fellow</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 6, 1927Redlands&#160; CONfidential to all garage managers: be on the lookout for a swell-looking swell of about 40 sporting diamonds on his fingers, checkered suit and a loud necktie, who pulls up in a swishy wagon spilling tales of his string of racehorses in TJ, the barn he&#8217;s rented for them in town and&#8230; <a class="more-link" href="https://1947project.com/2007/04/06/a-most-impressive-fellow/">Continue reading <span class="screen-reader-text">A Most Impressive Fellow</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/06/a-most-impressive-fellow/">A Most Impressive Fellow</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -289,18 +289,18 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 <p>When this charmer stopped by Charles Maynard&#8217;s Pioneer Tranfer Company garage, Maynard was dazzled by his line and said yes, yes, a thousand times yes. Now he&#8217;s got a stolen car on his lot, a bad check in his register and a cranky chauffeur who, after waiting four hours for his client outside a Los Angeles hotel, drove back to Redlands to tell Maynard just what a dope he&#8217;d been. All that glitters, etc.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/06/a-most-impressive-fellow/">A Most Impressive Fellow</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/06/a-most-impressive-fellow/">A Most Impressive Fellow</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/04/06/a-most-impressive-fellow/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/04/06/a-most-impressive-fellow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Toe-Bling, 1907 Style</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/22/toe-bling-1907-style/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/22/toe-bling-1907-style/#respond</comments>
+		<link>https://1947project.com/2006/04/22/toe-bling-1907-style/</link>
+					<comments>https://1947project.com/2006/04/22/toe-bling-1907-style/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 22 Apr 2006 17:18:49 +0000</pubDate>
@@ -314,7 +314,7 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>April 22, 1907 San Bernadino The trial of R. Patterson begins here today, wherein the accused must answer to the charge of robbery.Â  Patterson, a brakeman on the Santa Fe line, became acquainted with a young Pole, a tailor, en route from New York to Los Angeles.&#60;!&#8211; D([&#8220;mb&#8221;,&#8221;</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/22/toe-bling-1907-style/">Toe-Bling, 1907 Style</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/22/toe-bling-1907-style/">Toe-Bling, 1907 Style</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -324,10 +324,10 @@ Perhaps naively, the LA Times reported that Ã¢â‚¬Å“a real desire to do 
 <div>The trial of R. Patterson begins here today, wherein the accused must answer to the charge of robbery.Â  Patterson, a brakeman on the Santa Fe line, became acquainted with a young Pole, a tailor, en route from New York to Los Angeles.&lt;!&#8211; D([&#8220;mb&#8221;,&#8221;</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/22/toe-bling-1907-style/">Toe-Bling, 1907 Style</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/22/toe-bling-1907-style/">Toe-Bling, 1907 Style</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/22/toe-bling-1907-style/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/22/toe-bling-1907-style/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

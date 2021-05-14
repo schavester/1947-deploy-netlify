@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>oil &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/neighborhoods/oil-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/neighborhoods/oil-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:39:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>oil &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cowboys and Indians</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/#respond</comments>
+		<link>https://1947project.com/2008/01/10/cowboys-and-indians/</link>
+					<comments>https://1947project.com/2008/01/10/cowboys-and-indians/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 10 Jan 2008 19:27:44 +0000</pubDate>
@@ -52,26 +52,26 @@
 		<category><![CDATA[nightmares]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 10, 1927Unincorporated Los Angeles Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/">Continue reading <span class="screen-reader-text">Cowboys and Indians</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 10, 1927Unincorporated Los Angeles Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the&#8230; <a class="more-link" href="https://1947project.com/2008/01/10/cowboys-and-indians/">Continue reading <span class="screen-reader-text">Cowboys and Indians</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>January 10, 1927<br />Unincorporated Los Angeles</p>
 <p>Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the diggers advised to avoid the spot in the future.</p>
-<p>And in another Sheriff&#8217;s case with a fresher body, the peculiar suicide by gun of Charles Norton, shopkeeper at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1760+East+Slauson,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=33.990484,-118.307905&#038;spn=0.007419,0.014205&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1760 East Slauson</a>, was explained away rather ingeniously. Why was the man found dead in his bed in the store&#8217;s back room, when his brother said he had no reason to do away with himself? Deputy Sheriff Hackett believes the cause was a nightmare, triggered by the story &quot;Shooting Mad&quot; in the Wild West-themed magazine lying beside the dead man. Hackett suggests Norton dozed off while reading, dreamed a gunman was in the room, reached under the pillow for his own weapon and inadvertently shot himself. Stranger things have happened in Los Angeles.</div>
+<p>And in another Sheriff&#8217;s case with a fresher body, the peculiar suicide by gun of Charles Norton, shopkeeper at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1760+East+Slauson,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=33.990484,-118.307905&#038;spn=0.007419,0.014205&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1760 East Slauson</a>, was explained away rather ingeniously. Why was the man found dead in his bed in the store&#8217;s back room, when his brother said he had no reason to do away with himself? Deputy Sheriff Hackett believes the cause was a nightmare, triggered by the story &quot;Shooting Mad&quot; in the Wild West-themed magazine lying beside the dead man. Hackett suggests Norton dozed off while reading, dreamed a gunman was in the room, reached under the pillow for his own weapon and inadvertently shot himself. Stranger things have happened in Los Angeles.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/10/cowboys-and-indians/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/10/cowboys-and-indians/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>When Dry Agents Go Wet</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/04/08/when-dry-agents-go-wet/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/04/08/when-dry-agents-go-wet/#respond</comments>
+		<link>https://1947project.com/2007/04/08/when-dry-agents-go-wet/</link>
+					<comments>https://1947project.com/2007/04/08/when-dry-agents-go-wet/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 08 Apr 2007 09:00:17 +0000</pubDate>
@@ -86,31 +86,31 @@
 		<category><![CDATA[Volstead]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 7, 1927Los Angeles A Coroner&#8217;s inquest commenced today in an effort to determine just what happened when two inebriates&#8212;Frank Farley and George H. Hudson&#8212;pixilatedly plowed their car head-on into the auto driven by Union Oil bigwig E. Percy Ingmire &#38; wife near Wilmington.&#160; Two things are certain:&#160; Ingmire is dead, and the two sots&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/04/08/when-dry-agents-go-wet/">Continue reading <span class="screen-reader-text">When Dry Agents Go Wet</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/08/when-dry-agents-go-wet/">When Dry Agents Go Wet</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 7, 1927Los Angeles A Coroner&#8217;s inquest commenced today in an effort to determine just what happened when two inebriates&#8212;Frank Farley and George H. Hudson&#8212;pixilatedly plowed their car head-on into the auto driven by Union Oil bigwig E. Percy Ingmire &#38; wife near Wilmington.&#160; Two things are certain:&#160; Ingmire is dead, and the two sots&#8230; <a class="more-link" href="https://1947project.com/2007/04/08/when-dry-agents-go-wet/">Continue reading <span class="screen-reader-text">When Dry Agents Go Wet</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/08/when-dry-agents-go-wet/">When Dry Agents Go Wet</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>April 7, 1927<br />Los Angeles<img loading="lazy" width="256" height="294" border="0" align="left" title="dryagentsgowethed" alt="dryagentsgowethed" src="//farm1.static.flickr.com/247/450424811_f0769f279c_o.gif" /></p>
 <p>A Coroner&rsquo;s inquest commenced today in an effort to determine just what happened when two inebriates&mdash;Frank Farley and George H. Hudson&mdash;pixilatedly plowed their car head-on into the auto driven by Union Oil bigwig E. Percy Ingmire &amp; wife near Wilmington.&nbsp; Two things are certain:&nbsp; Ingmire is dead, and the two sots being held for murder are Prohibition Agents, drunkenly driving a government car on government business.</p>
-<p>Seems our Boys of the Eighteenth, <a href="https://maps.live.com/default.aspx?v=2&#038;cp=ppm5n454jrnk&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=6866971&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="farleyhome">Farley</a>&nbsp; and <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=fresno,+ca&#038;layer=&#038;ie=UTF8&#038;z=12&#038;ll=36.758691,-119.771233&#038;spn=0.129277,0.233459&#038;om=1&#038;iwloc=addr" target="_blank" title="hudson">Hudson</a>, were out carousing (with liquor in the car on the wrong side of the road and with excessive speed) in the company of three seamen from the steamer Pomona and a Mrs. Margaret &ldquo;Bessie&rdquo; McCallister (at whose <a href="https://maps.live.com/default.aspx?v=2&#038;cp=pmppjg548tm4&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=7046604&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="bessiehouse">home</a> they&rsquo;d earlier had a drinking party) when the accident occurred.&nbsp;<img loading="lazy" width="171" height="300" border="0" align="right" title="ingmire" alt="ingmire" src="//farm1.static.flickr.com/212/450424809_1ad0225ddd_o.gif" /> Normally, drunken vehicular homicides under the auspices of Volstead-Feds get swept under the rug, but unfortunately Ingmire was former president of the <a href="https://www.sanpedrochamber.com/" target="_blank" title="spchambre">San Pedro Chamber of Commerce</a>, Past Master of the <a href="https://www.calodges.org/no332/" target="_blank" title="spmasons">San Pedro Masonic Lodge</a>, Past Exalted Ruler of <a href="https://www.sanpedroelks.org/history1.html" target="_blank" title="spelks">San Pedro Elks&rsquo; Lodge</a>, President of the San Pedro Industrial Association, ad infinitum.&nbsp; As such, all and sundry jumped into the fray:&nbsp; the DA appeared for the State, the Dep US Atty for the Feds, the prohibition administrators for themselves&mdash;the last of which entering into a fray with folks from the Customs Dept, who are fond of hampering prohibition enforcement in California.&nbsp; (The Department of Justice and the Intelligence Section of the Treasury Department are on deck.)</p>
+<p>Seems our Boys of the Eighteenth, <a href="http://maps.live.com/default.aspx?v=2&#038;cp=ppm5n454jrnk&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=6866971&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="farleyhome">Farley</a>&nbsp; and <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=fresno,+ca&#038;layer=&#038;ie=UTF8&#038;z=12&#038;ll=36.758691,-119.771233&#038;spn=0.129277,0.233459&#038;om=1&#038;iwloc=addr" target="_blank" title="hudson">Hudson</a>, were out carousing (with liquor in the car on the wrong side of the road and with excessive speed) in the company of three seamen from the steamer Pomona and a Mrs. Margaret &ldquo;Bessie&rdquo; McCallister (at whose <a href="http://maps.live.com/default.aspx?v=2&#038;cp=pmppjg548tm4&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=7046604&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="bessiehouse">home</a> they&rsquo;d earlier had a drinking party) when the accident occurred.&nbsp;<img loading="lazy" width="171" height="300" border="0" align="right" title="ingmire" alt="ingmire" src="//farm1.static.flickr.com/212/450424809_1ad0225ddd_o.gif" /> Normally, drunken vehicular homicides under the auspices of Volstead-Feds get swept under the rug, but unfortunately Ingmire was former president of the <a href="http://www.sanpedrochamber.com/" target="_blank" title="spchambre">San Pedro Chamber of Commerce</a>, Past Master of the <a href="http://www.calodges.org/no332/" target="_blank" title="spmasons">San Pedro Masonic Lodge</a>, Past Exalted Ruler of <a href="http://www.sanpedroelks.org/history1.html" target="_blank" title="spelks">San Pedro Elks&rsquo; Lodge</a>, President of the San Pedro Industrial Association, ad infinitum.&nbsp; As such, all and sundry jumped into the fray:&nbsp; the DA appeared for the State, the Dep US Atty for the Feds, the prohibition administrators for themselves&mdash;the last of which entering into a fray with folks from the Customs Dept, who are fond of hampering prohibition enforcement in California.&nbsp; (The Department of Justice and the Intelligence Section of the Treasury Department are on deck.)</p>
 <p>Dry Agent Farley, driver of the killer flivver, is a real catch.&nbsp; He had been arrested for a street holdup in 1923, was caught sneaking onto the Dutch steamer Eemdyk looking for booze (outside the official capacity of his employment, that is) and, according to Customs officials, was often insolent and acted beyond his authority.&nbsp; Of course, those Wet Agents from Customs <em>would</em> say that.</p>
 <p><img loading="lazy" width="400" height="108" border="0" align="middle" title="bailhead" alt="bailhead" src="//farm1.static.flickr.com/172/450424801_be01b44147_o.gif" /></p>
 <p>On September 20, a US District Judge gave Farley one to ten in San Quentin.&nbsp; Of course, the Federal Comptroller refused to pay Farley&rsquo;s railroad fare to Q, on the grounds that Farley was a State Prisoner.&nbsp; The State controller stated that Farley is a Federal prisoner and if anyone was going to pay his fare, it was the Feds.&nbsp; So Farley stayed a spell in County, where he made pals with one Maj. Donald McRae, on trial for robbing government liquor warehouses.&nbsp; Inside County they got liquor all the time, until Farley went up north and subsequently testified about his involvement in McRae&#8217;s phony alibis, whereafter McRae threatened his life.&nbsp; And so go our drunken, fallen Feds.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/08/when-dry-agents-go-wet/">When Dry Agents Go Wet</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/08/when-dry-agents-go-wet/">When Dry Agents Go Wet</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/04/08/when-dry-agents-go-wet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/04/08/when-dry-agents-go-wet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Some Interesting Oil Facts, 1907-style</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/06/some-interesting-oil-facts-1907-style/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/06/some-interesting-oil-facts-1907-style/#respond</comments>
+		<link>https://1947project.com/2006/11/06/some-interesting-oil-facts-1907-style/</link>
+					<comments>https://1947project.com/2006/11/06/some-interesting-oil-facts-1907-style/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 06 Nov 2006 07:02:52 +0000</pubDate>
@@ -121,8 +121,8 @@
 		<category><![CDATA[industry]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 6, 1907Los Angeles Oil facts, you say?&#160; And you continue to comment, I thought this was a crime blog!&#160; Well, the way most people talk about oil companies, you&#8217;d think the SS was Toys for Tots.&#160; So it&#8217;s apropos, especially as we head into Tuesday and face the outcome of Proposition 87. On this&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/06/some-interesting-oil-facts-1907-style/">Continue reading <span class="screen-reader-text">Some Interesting Oil Facts, 1907-style</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/06/some-interesting-oil-facts-1907-style/">Some Interesting Oil Facts, 1907-style</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 6, 1907Los Angeles Oil facts, you say?&#160; And you continue to comment, I thought this was a crime blog!&#160; Well, the way most people talk about oil companies, you&#8217;d think the SS was Toys for Tots.&#160; So it&#8217;s apropos, especially as we head into Tuesday and face the outcome of Proposition 87. On this&#8230; <a class="more-link" href="https://1947project.com/2006/11/06/some-interesting-oil-facts-1907-style/">Continue reading <span class="screen-reader-text">Some Interesting Oil Facts, 1907-style</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/06/some-interesting-oil-facts-1907-style/">Some Interesting Oil Facts, 1907-style</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -134,18 +134,18 @@
 <p><img loading="lazy" width="444" height="279" border="0" align="bottom" title="oilwells" alt="oilwells" src="//static.flickr.com/104/290315746_5f7f2041ef_o.gif" /><img loading="lazy" width="401" height="243" border="0" align="bottom" title="oilLA" alt="oilLA" src="//static.flickr.com/101/290315747_cf6eff8f64_o.gif" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/06/some-interesting-oil-facts-1907-style/">Some Interesting Oil Facts, 1907-style</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/06/some-interesting-oil-facts-1907-style/">Some Interesting Oil Facts, 1907-style</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/06/some-interesting-oil-facts-1907-style/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/06/some-interesting-oil-facts-1907-style/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Notes from the Hydrocarbon Front</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/19/notes-from-the-hydrocarbon-front/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/19/notes-from-the-hydrocarbon-front/#respond</comments>
+		<link>https://1947project.com/2006/07/19/notes-from-the-hydrocarbon-front/</link>
+					<comments>https://1947project.com/2006/07/19/notes-from-the-hydrocarbon-front/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Wed, 19 Jul 2006 23:07:24 +0000</pubDate>
@@ -157,8 +157,8 @@
 		<category><![CDATA[seventh ward]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 19, 1907Los Angeles After Doheny hit oil near (what&#8217;s now) Dodger Stadium back in &#8217;92, Los Angeles went brea-happy, depressing world oil prices with its outstanding production and eventually producing 3/4 of the world&#8217;s supply after the 20s hits in Wilmington, Dominquez Hills, Huntington and Long Beach, et al. In 1907 everybody was getting&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/notes-from-the-hydrocarbon-front/">Continue reading <span class="screen-reader-text">Notes from the Hydrocarbon Front</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/notes-from-the-hydrocarbon-front/">Notes from the Hydrocarbon Front</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 19, 1907Los Angeles After Doheny hit oil near (what&#8217;s now) Dodger Stadium back in &#8217;92, Los Angeles went brea-happy, depressing world oil prices with its outstanding production and eventually producing 3/4 of the world&#8217;s supply after the 20s hits in Wilmington, Dominquez Hills, Huntington and Long Beach, et al. In 1907 everybody was getting&#8230; <a class="more-link" href="https://1947project.com/2006/07/19/notes-from-the-hydrocarbon-front/">Continue reading <span class="screen-reader-text">Notes from the Hydrocarbon Front</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/19/notes-from-the-hydrocarbon-front/">Notes from the Hydrocarbon Front</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -169,10 +169,10 @@
 <p>While everyone was worried about being blown up by oil storage tanks, today one Ernest Malcom, of the Los Angeles City Dye Works, was cleaning a suit of clothes in some distillate&#8230;when there was a tremendous flash and a roar.  He was thrown thirty feet backward and into a door, which gave way and he tumbled into the street uharmed.  A series of tremendous inflammable cleaning fluid explosions incinerated the rest of the building, although firefighters were able to save the surrounding houses. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/notes-from-the-hydrocarbon-front/">Notes from the Hydrocarbon Front</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/19/notes-from-the-hydrocarbon-front/">Notes from the Hydrocarbon Front</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/19/notes-from-the-hydrocarbon-front/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/19/notes-from-the-hydrocarbon-front/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Transportation &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/transportation-10/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/transportation-10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:18:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Transportation &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>In Which a Ghostly Visitor Returns</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/15/in-which-a-ghostly-visitor-returns/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/15/in-which-a-ghostly-visitor-returns/#comments</comments>
+		<link>https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/</link>
+					<comments>https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2007 13:12:47 +0000</pubDate>
@@ -47,11 +47,11 @@
 		<category><![CDATA[safety]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 2007 Los Angeles Ã¢â‚¬Å“Well, dear boy, I suppose you thought you were through.Ã¢â‚¬Â Ã¢â‚¬Å“Yes, I did.Ã¢â‚¬Â Ã¢â‚¬Å“And?Ã¢â‚¬Â Ã¢â‚¬Å“Good grief! Do you see this bridge over the Gold Line? It looks like itÃ¢â‚¬â„¢s held up with hairpins and spit!Ã¢â‚¬Â Ã¢â‚¬Å“Saliva, dear boy. And what is the Gold Line?Ã¢â‚¬Â Ã¢â‚¬Å“Well, itÃ¢â‚¬â„¢s sort of a streetcar,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/15/in-which-a-ghostly-visitor-returns/">Continue reading <span class="screen-reader-text">In Which a Ghostly Visitor Returns</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 15, 2007 Los Angeles Ã¢â‚¬Å“Well, dear boy, I suppose you thought you were through.Ã¢â‚¬Â Ã¢â‚¬Å“Yes, I did.Ã¢â‚¬Â Ã¢â‚¬Å“And?Ã¢â‚¬Â Ã¢â‚¬Å“Good grief! Do you see this bridge over the Gold Line? It looks like itÃ¢â‚¬â„¢s held up with hairpins and spit!Ã¢â‚¬Â Ã¢â‚¬Å“Saliva, dear boy. And what is the Gold Line?Ã¢â‚¬Â Ã¢â‚¬Å“Well, itÃ¢â‚¬â„¢s sort of a streetcar,&#8230; <a class="more-link" href="https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/">Continue reading <span class="screen-reader-text">In Which a Ghostly Visitor Returns</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0315.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 292px;" src="//www.lmharnisch.com/images/1907_0315.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0315.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 292px;" src="//www.lmharnisch.com/images/1907_0315.jpg" alt="" border="0" /></a><br />
 <o:p></o:p>    </p>
 <p class="MsoNormal">March 15, 2007<br />
 Los Angeles</p>
@@ -117,7 +117,7 @@ Los Angeles</p>
 <p class="MsoNormal">I didnÃ¢â‚¬â„¢t know what else to say: Ã¢â‚¬Å“Thanks for everything.Ã¢â‚¬Â</p>
 <p class="MsoNormal">Ã¢â‚¬Å“You are most welcome. And thank you.Ã¢â‚¬Â<span style="">  </span></p>
 <p class="MsoNormal">And then she was gone. </p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -127,22 +127,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/15/in-which-a-ghostly-visitor-returns/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>It Was a Kinder, Simpler Time&#8230;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/08/it-was-a-kinder-simpler-time/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/08/it-was-a-kinder-simpler-time/#respond</comments>
+		<link>https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/</link>
+					<comments>https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 08 Mar 2007 15:13:49 +0000</pubDate>
@@ -153,13 +153,13 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>March 8, 1907 Los Angeles lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 8, 1907<br />
 Los Angeles</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0308.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0308.jpg" alt="" border="0" /></a><a href="https://lmharnisch.com/">lmharnisch.com</a><br />
-<a href="https://lmharnisch.blogspot.com/">lmharnisch.blogspot.com</a><br />
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0308.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0308.jpg" alt="" border="0" /></a><a href="http://lmharnisch.com/">lmharnisch.com</a><br />
+<a href="http://lmharnisch.blogspot.com/">lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com<br />
 <!-- Start of StatCounter Code --><br />
 <script type="text/javascript" language="javascript">
@@ -168,22 +168,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/08/it-was-a-kinder-simpler-time/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Stuck Fast</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/30/stuck-fast/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/30/stuck-fast/#respond</comments>
+		<link>https://1947project.com/2007/01/30/stuck-fast/</link>
+					<comments>https://1947project.com/2007/01/30/stuck-fast/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 30 Jan 2007 15:23:54 +0000</pubDate>
@@ -192,11 +192,11 @@ var sc_security="77307670";
 		<category><![CDATA[Transportation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 30, 1907 Los Angeles Recent rains have left the cityÃ¢â‚¬â„¢s streets in terrible shape, as The Times shows in a photo taken at 1st Street and Spring. This wagon, pulled by a strong team, plunged up to its hubs in one of the potholes and the horses were unable to free it. Ã¢â‚¬Å“Under the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/30/stuck-fast/">Continue reading <span class="screen-reader-text">Stuck Fast</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/30/stuck-fast/">Stuck Fast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 30, 1907 Los Angeles Recent rains have left the cityÃ¢â‚¬â„¢s streets in terrible shape, as The Times shows in a photo taken at 1st Street and Spring. This wagon, pulled by a strong team, plunged up to its hubs in one of the potholes and the horses were unable to free it. Ã¢â‚¬Å“Under the&#8230; <a class="more-link" href="https://1947project.com/2007/01/30/stuck-fast/">Continue reading <span class="screen-reader-text">Stuck Fast</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/30/stuck-fast/">Stuck Fast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0130.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0130.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0130.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0130.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 30, 1907<br />
 Los Angeles</p>
@@ -209,7 +209,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“Street conditions in Los Angeles never were so bad as they are today under our new-fangled, high-salaried and pompous Board of Public Works.<span style="">  </span>When we had a street superintendent it was sometimes possible to Ã¢â‚¬Ëœget a move on,Ã¢â‚¬â„¢ Ã¢â‚¬Â The Times says.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">lmharnisch.com<br />
 lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -219,22 +219,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/30/stuck-fast/">Stuck Fast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/30/stuck-fast/">Stuck Fast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/30/stuck-fast/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/30/stuck-fast/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Why Doesn&#8217;t L.A. Do Something About Traffic?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/#respond</comments>
+		<link>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/</link>
+					<comments>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 27 Jan 2007 15:20:31 +0000</pubDate>
@@ -247,11 +247,11 @@ var sc_security="77307670";
 		<category><![CDATA[urban planning]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 27, 1907 Los Angeles One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Continue reading <span class="screen-reader-text">Why Doesn&#8217;t L.A. Do Something About Traffic?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 27, 1907 Los Angeles One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it&#8230; <a class="more-link" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Continue reading <span class="screen-reader-text">Why Doesn&#8217;t L.A. Do Something About Traffic?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
 <p><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 27, 1907<br />
 Los Angeles</p>
@@ -259,7 +259,7 @@ Los Angeles</p>
 <p class="MsoNormal">One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it many problems to be solved. The Owens River and the system of storm drains underway are the solutions of two important ones,Ã¢â‚¬Â The Times says.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">A traffic jam in 1907</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -268,7 +268,7 @@ Los Angeles</p>
 <p class="MsoNormal">Now this is painful reading:</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p style="font-weight: bold;" class="MsoNormal">Ã¢â‚¬Å“This problem of transportation will grow in importance every year during which it is neglected. Swift as has been the extension and shifting of lines of the great electric railway system in and about Los Angeles, the city has grown with still greater rapidity.Ã¢â‚¬Â</p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">The elevated train proposed for Los Angeles and never built.</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -292,7 +292,7 @@ Los Angeles</p>
 <p>But it is gratifying when wondering what became of the 1947 plan to remember that the new Gold Line tracks run between lanes of the Foothill Freeway. Some things just take time.</p>
 <p>Bonus factoid: The Harbor Freeway was realigned to spare the Auto Club headquarters on South Figueroa and USCÃ¢â‚¬â„¢s Fraternity Row.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -302,22 +302,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>If They Had Only Known</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/21/if-they-had-only-known/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/21/if-they-had-only-known/#respond</comments>
+		<link>https://1947project.com/2007/01/21/if-they-had-only-known/</link>
+					<comments>https://1947project.com/2007/01/21/if-they-had-only-known/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 21 Jan 2007 16:05:18 +0000</pubDate>
@@ -327,24 +327,24 @@ var sc_security="77307670";
 		<category><![CDATA[Mayor Harper]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 21, 1907 Los Angeles Mayor Arthur C. Harper addressed the crowd for a moment, reminiscing about a teacher who used to tell his pupils that someday, long after he was gone, people would get around Los Angeles in self-propelled vehicles. And with that, Harper threw the switch, illuminating 10,000 electric lights at MorleyÃ¢â‚¬â„¢s Skating&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/21/if-they-had-only-known/">Continue reading <span class="screen-reader-text">If They Had Only Known</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/21/if-they-had-only-known/">If They Had Only Known</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 21, 1907 Los Angeles Mayor Arthur C. Harper addressed the crowd for a moment, reminiscing about a teacher who used to tell his pupils that someday, long after he was gone, people would get around Los Angeles in self-propelled vehicles. And with that, Harper threw the switch, illuminating 10,000 electric lights at MorleyÃ¢â‚¬â„¢s Skating&#8230; <a class="more-link" href="https://1947project.com/2007/01/21/if-they-had-only-known/">Continue reading <span class="screen-reader-text">If They Had Only Known</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/21/if-they-had-only-known/">If They Had Only Known</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0121B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 236px; height: 232px;" src="//www.lmharnisch.com/images/1907_0121B.jpg" alt="" border="0" /></a><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0121B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 236px; height: 232px;" src="//www.lmharnisch.com/images/1907_0121B.jpg" alt="" border="0" /></a><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 21, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">Mayor <a href="https://pensive-torvalds-020d34.netlify.app/search/node/harper?PHPSESSID=05791f46615b8d1ec499faf8a6c90eaf">Arthur C. Harper</a> addressed the crowd for a moment, reminiscing about a teacher who used to tell his pupils that someday, long after he was gone, people would get around Los Angeles in self-propelled vehicles. </p>
+<p class="MsoNormal">Mayor <a href="https://1947project.com/search/node/harper?PHPSESSID=05791f46615b8d1ec499faf8a6c90eaf">Arthur C. Harper</a> addressed the crowd for a moment, reminiscing about a teacher who used to tell his pupils that someday, long after he was gone, people would get around Los Angeles in self-propelled vehicles. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">And with that, Harper threw the switch, illuminating 10,000 electric lights at MorleyÃ¢â‚¬â„¢s Skating Rink on Grand between 9<sup>th</sup> and 10<sup>th</sup> Streets and beginning the insanity, formally unveiling the automobile in the first car show not only in Los Angeles, but on the West Coast.<span style="">  </span></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">More than 3,000 people poured through the exhibits in the first three hours of the show, which featured 97 gas-powered autos and two electric cars, as well as all manner of accessories such as odometers, speedometers, dashboard clocks and gas lamps. There was a personal appearance by <a href="https://pensive-torvalds-020d34.netlify.app/search/node/oldfield?PHPSESSID=05791f46615b8d1ec499faf8a6c90eaf">Barney Oldfield</a> with his famous Ã¢â‚¬Å“Green DragonÃ¢â‚¬Â racecar.<span style="">  </span></p>
+<p class="MsoNormal">More than 3,000 people poured through the exhibits in the first three hours of the show, which featured 97 gas-powered autos and two electric cars, as well as all manner of accessories such as odometers, speedometers, dashboard clocks and gas lamps. There was a personal appearance by <a href="https://1947project.com/search/node/oldfield?PHPSESSID=05791f46615b8d1ec499faf8a6c90eaf">Barney Oldfield</a> with his famous Ã¢â‚¬Å“Green DragonÃ¢â‚¬Â racecar.<span style="">  </span></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Not all of the exhibitors arrived in time for the opening night. The railroad car carrying the shipment of Pope-Toledos caught fire near Barstow and the Ford was delayed, although Henry Ford did attend the show, The Times says. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Great preparations had been made to display the vehicles: 9<sup>th</sup> and 10<sup>th</sup> Streets, as yet unpaved, were muddy from recent storms, but Grand was cleared of mud and a wooden causeway was built to the entrance. The Times notes that a canopy had been erected for people arriving in carriages.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0121.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 354px; height: 253px;" src="//www.lmharnisch.com/images/1907_0121.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0121.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 354px; height: 253px;" src="//www.lmharnisch.com/images/1907_0121.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">The autosÃ¢â‚¬â„¢ technical innovations were breathtaking: Ã¢â‚¬Å“At the space of the White garage a constant crowd looked over the Christman, a car built for the hardest kind of place, the desert,Ã¢â‚¬Â The Times says. Ã¢â‚¬Å“The car is built for carrying passengers over no roads at all, for jumping off rocks and climbing over gullies and generally being abused.</p>
@@ -357,25 +357,25 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">There were many questions and after a few days, salesmen became exhausted from explaining why a car engine needs pistons and why a manufacturer canÃ¢â‚¬â„¢t leave off the differential to save weight. The show was extended because of its popularity, and was forced to close in part because most of the exhibition cars had been sold. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">If anyone asked about mass transit, pollution or traffic, the comments were not recorded. No, the first thing people did when they got hold of their cars was to see how <a href="https://pensive-torvalds-020d34.netlify.app/angelenos-and-their-cars">fast they could go</a>. </p>
+<p class="MsoNormal">If anyone asked about mass transit, pollution or traffic, the comments were not recorded. No, the first thing people did when they got hold of their cars was to see how <a href="https://1947project.com/angelenos-and-their-cars">fast they could go</a>. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/21/if-they-had-only-known/">If They Had Only Known</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/21/if-they-had-only-known/">If They Had Only Known</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/21/if-they-had-only-known/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/21/if-they-had-only-known/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Loud Pipes Save Lives</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/28/loud-pipes-save-lives/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/28/loud-pipes-save-lives/#respond</comments>
+		<link>https://1947project.com/2006/09/28/loud-pipes-save-lives/</link>
+					<comments>https://1947project.com/2006/09/28/loud-pipes-save-lives/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 28 Sep 2006 14:20:18 +0000</pubDate>
@@ -385,10 +385,10 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Sept. 28, 1907 Los Angeles Members of the Los Angeles Motorcycle Club have written to officials in support of a measure banning loud exhaust pipes on motorcycles.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/28/loud-pipes-save-lives/">Loud Pipes Save Lives</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/28/loud-pipes-save-lives/">Loud Pipes Save Lives</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0928.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 422px; height: 224px;" src="//www.lmharnisch.com/images/1907_0928.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0928.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 422px; height: 224px;" src="//www.lmharnisch.com/images/1907_0928.jpg" alt="" border="0" /></a></p>
 <p><span style="font-size:100%;">Sept. 28, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -396,18 +396,18 @@ E-mail: lmharnisch (AT) gmail.com</p>
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/28/loud-pipes-save-lives/">Loud Pipes Save Lives</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/28/loud-pipes-save-lives/">Loud Pipes Save Lives</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/28/loud-pipes-save-lives/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/28/loud-pipes-save-lives/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Burning Bridges</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/25/burning-bridges/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/25/burning-bridges/#respond</comments>
+		<link>https://1947project.com/2006/07/25/burning-bridges/</link>
+					<comments>https://1947project.com/2006/07/25/burning-bridges/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2006 18:22:24 +0000</pubDate>
@@ -419,7 +419,7 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>July 25, 1907 Arcadia, Calif. Despite the efforts of 75 volunteer firefighters, a blaze rapidly consumed a 150-foot wooden bridge on Foothill Boulevard over the Santa Anita between Arcadia and Monrovia. Although the firefighters had a chemical apparatus,</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size: 100%;">July 25, 1907<br />
@@ -429,18 +429,18 @@ E-mail: lmharnisch (AT) gmail.com</p>
 </span><span style="font-size: 100%;"><br />
 </span><span style="font-size: 100%;">Although the firefighters had a chemical apparatus, </span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/25/burning-bridges/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/25/burning-bridges/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vegans, Avert Your Eyes</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/#respond</comments>
+		<link>https://1947project.com/2006/07/19/vegans-avert-your-eyes/</link>
+					<comments>https://1947project.com/2006/07/19/vegans-avert-your-eyes/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 19 Jul 2006 12:35:32 +0000</pubDate>
@@ -453,26 +453,26 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>July 19, 1907 Covina Lavish preparations are underway for an enormous, free picnic to celebrate the opening of a Pacific Electric streetcar line to Los Angeles.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0719.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 220px; height: 264px;" src="//www.lmharnisch.com/images/1907_0719.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 19, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0719.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 220px; height: 264px;" src="//www.lmharnisch.com/images/1907_0719.jpg" alt="" border="0" /></a><span style="font-size:100%;">July 19, 1907<br />
 </span><span style="font-size:100%;">Covina<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Lavish preparations are underway for an enormo</span><span style="font-size:100%;">us, free picnic to celebrate the opening of a Pacific Electric streetcar line to Los Angeles. </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/19/vegans-avert-your-eyes/">Vegans, Avert Your Eyes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/19/vegans-avert-your-eyes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/19/vegans-avert-your-eyes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Number-Crunching the Horseless Carriage</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/#respond</comments>
+		<link>https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/</link>
+					<comments>https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 01 Jul 2006 21:31:11 +0000</pubDate>
@@ -482,11 +482,11 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<category><![CDATA[fuel efficiency]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 1, 1907 Los Angeles If you ever wondered if the Locomobile or Pope-Hartford got great gas mileage, the answer is no, as shown in the results of the 185-mile Lakeside Endurance Race. In cost and fuel efficiency, the 1907 automobiles were about the equivalent of a 2006 Ford Explorer (MSRP $31,650) or a Range&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/">Continue reading <span class="screen-reader-text">Number-Crunching the Horseless Carriage</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 1, 1907 Los Angeles If you ever wondered if the Locomobile or Pope-Hartford got great gas mileage, the answer is no, as shown in the results of the 185-mile Lakeside Endurance Race. In cost and fuel efficiency, the 1907 automobiles were about the equivalent of a 2006 Ford Explorer (MSRP $31,650) or a Range&#8230; <a class="more-link" href="https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/">Continue reading <span class="screen-reader-text">Number-Crunching the Horseless Carriage</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0701_pope.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 408px; height: 271px;" src="//www.lmharnisch.com/images/1907_0701_pope.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0701_pope.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 408px; height: 271px;" src="//www.lmharnisch.com/images/1907_0701_pope.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">July 1, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -494,18 +494,18 @@ E-mail: lmharnisch (AT) gmail.com</p>
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The car with the best gas mileage in the economy competition was the Pope-Hartford, 8</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/">Number-Crunching the Horseless Carriage</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/01/number-crunching-the-horseless-carriage/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/01/number-crunching-the-horseless-carriage/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Runaway Flats</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/27/runaway-flats/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/27/runaway-flats/#respond</comments>
+		<link>https://1947project.com/2006/04/27/runaway-flats/</link>
+					<comments>https://1947project.com/2006/04/27/runaway-flats/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 00:22:39 +0000</pubDate>
@@ -516,21 +516,21 @@ E-mail: lmharnisch (AT) gmail.com</p>
 		<category><![CDATA[Gravity]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes. Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/runaway-flats/">Continue reading <span class="screen-reader-text">Runaway Flats</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes. Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time,&#8230; <a class="more-link" href="https://1947project.com/2006/04/27/runaway-flats/">Continue reading <span class="screen-reader-text">Runaway Flats</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0426_runaway.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 265px; height: 320px;" src="//lmharnisch.com/images/1907_0426_runaway.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0426_runaway.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 265px; height: 320px;" src="//lmharnisch.com/images/1907_0426_runaway.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time, so a serious accident was avoided.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The flatcars, part of a gravel-hauling operation in  Roscoe [Sun Valley], inexplicably came loose and had a four-mile downhill start before blazing through the Burbank station. The Burbank operator sent warning ahead that he saw something rip past</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/27/runaway-flats/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/27/runaway-flats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

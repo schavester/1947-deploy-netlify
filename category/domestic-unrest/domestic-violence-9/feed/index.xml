@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Domestic Violence &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/domestic-unrest/domestic-violence-9/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/domestic-unrest/domestic-violence-9/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 20:07:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Domestic Violence &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Second Chance</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/#respond</comments>
+		<link>https://1947project.com/2008/03/19/a-second-chance/</link>
+					<comments>https://1947project.com/2008/03/19/a-second-chance/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 19 Mar 2008 18:01:00 +0000</pubDate>
@@ -46,14 +46,14 @@
 		<category><![CDATA[Mary McCoy]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 19, 1927 Long Beach, CA Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown. But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all. Fred wanted to leave Long Beach for Freewater, Oregon, where they&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">Continue reading <span class="screen-reader-text">A Second Chance</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 19, 1927 Long Beach, CA Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown. But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all. Fred wanted to leave Long Beach for Freewater, Oregon, where they&#8230; <a class="more-link" href="https://1947project.com/2008/03/19/a-second-chance/">Continue reading <span class="screen-reader-text">A Second Chance</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 19, 1927<br />
 Long Beach, CA</p>
 <p><img loading="lazy" src="//farm4.static.flickr.com/3103/2345049446_6a45978606_m.jpg" alt="longbeachshooting" width="240" height="217" align="left" />Fred and Lela McElrath had been married for 25 years, and raised three children together, now grown.  But just as the couple should have been settling down into contented empty nesthood, a violent disagreement nearly destroyed it all.</p>
-<p>Fred wanted to leave Long Beach for Freewater, Oregon, where they owned a ranch; however, Lela was determined to stay put.  She moved out of their home at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=45+atlantic+avenue,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.769462,-118.185081&amp;spn=0.007474,0.014591&amp;z=16" target="_blank" title="atlantic">45 Atlantic Avenue</a>, and Fred spent nearly a week trying to track her down.  On March 18, they finally agreed to meet at a neutral location, their daughter&#8217;s home at 32 Neptune Place, and try to talk things through.</p>
+<p>Fred wanted to leave Long Beach for Freewater, Oregon, where they owned a ranch; however, Lela was determined to stay put.  She moved out of their home at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=45+atlantic+avenue,+los+angeles,+ca&amp;sll=37.0625,-95.677068&amp;sspn=29.219963,59.765625&amp;ie=UTF8&amp;ll=33.769462,-118.185081&amp;spn=0.007474,0.014591&amp;z=16" target="_blank" title="atlantic">45 Atlantic Avenue</a>, and Fred spent nearly a week trying to track her down.  On March 18, they finally agreed to meet at a neutral location, their daughter&#8217;s home at 32 Neptune Place, and try to talk things through.</p>
 <p>However, Lela refused to reconsider, and walked away from the argument.  As she was descending the stairs in her daughter&#8217;s house, Fred pulled out a gun and shot her twice in the back before turning the gun on himself, firing into his mouth.  The shots didn&#8217;t kill Lena, and when she was admitted to Seaside Hospital, it was assumed that she would recover.  However, Fred was barely clinging to life, and in fact, police arriving on the scene initially believed him dead.</p>
 <p>Today, things looked drastically different.  A bullet was lodged behind Fred&#8217;s left ear, but doctors expected that he would make a full recovery &#8212; and in all likelihood, be left to stand trial for his wife&#8217;s murder.  The shots fired into his wife&#8217;s back had punctured her right lung, and she was not expected to live.  Authorities stood watch at Fred&#8217;s bed, waiting to charge him either with murder or attempted murder.</p>
 <p>Shockingly, the story has a moderately happy ending.  On April 11, a frail Lena McElrath, appeared at her husband&#8217;s preliminary hearing and was helped to the stand by her son, where she made an impassioned plea on Fred&#8217;s behalf.</p>
@@ -61,18 +61,18 @@ Long Beach, CA</p>
 <p>Judge Stephen G. Long agreed she should have that chance, saying, &quot;This is a very remarkable affair, but if both parties are willing to forgive and forget and to endeavor to patch up their broken lives, I think the kindest thing for this court to do is to give McElrath a chance.&quot;</p>
 <p>The charge was dismissed, and the McElraths left the courtroom with their arms wrapped around each other.  Lena&#8217;s wounds were expected to heal completely with time, though Fred would be forever incapacitated by the bullet, still lodged near his spine.</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/19/a-second-chance/">A Second Chance</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/19/a-second-chance/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/19/a-second-chance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Venice Slasher</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/#respond</comments>
+		<link>https://1947project.com/2007/11/01/the-venice-slasher/</link>
+					<comments>https://1947project.com/2007/11/01/the-venice-slasher/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Thu, 01 Nov 2007 01:43:00 +0000</pubDate>
@@ -83,8 +83,8 @@ Long Beach, CA</p>
 		<category><![CDATA[Venice]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 31, 1927 Venice, CA &#160; A gory scene unfolded at the Venice Police Station today as 23-year-old Eddie Berry burst through the front door with a slit throat and passed out on the floor. &#160; An employee of the Venice Speedboat Company, Berry had been working on the Venice Pier when he was accosted&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/">Continue reading <span class="screen-reader-text">The Venice Slasher</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 31, 1927 Venice, CA &#160; A gory scene unfolded at the Venice Police Station today as 23-year-old Eddie Berry burst through the front door with a slit throat and passed out on the floor. &#160; An employee of the Venice Speedboat Company, Berry had been working on the Venice Pier when he was accosted&#8230; <a class="more-link" href="https://1947project.com/2007/11/01/the-venice-slasher/">Continue reading <span class="screen-reader-text">The Venice Slasher</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -100,18 +100,18 @@ Long Beach, CA</p>
 <div align="left">Okay, it&#8217;s not much of a Halloween story, but it was this or the story of a few rowdy teens from the Redlands being sent to a YWCA dance to keep them from vandalizing property.&nbsp; Plus, isn&#8217;t &quot;The Venice Slasher&quot; a great name for a would-be murderess?</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/01/the-venice-slasher/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Random Shots From Our 12-Bore</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/09/random-shots-from-our-12-bore-3/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/09/random-shots-from-our-12-bore-3/#comments</comments>
+		<link>https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/</link>
+					<comments>https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 09 Mar 2007 14:31:01 +0000</pubDate>
@@ -122,11 +122,11 @@ Long Beach, CA</p>
 		<category><![CDATA[police]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 9, 1907 Los Angeles The Insanity Begins Led by I. Newerf and J.B. Dudley, the automobile owners of Los Angeles are fighting a new city ordinance that bans parking within 40 feet of downtown intersections. Newerf, the West Coast representative of Goodyear Tire Co., and Dudley, a car salesman, received citations for violating the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/09/random-shots-from-our-12-bore-3/">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 9, 1907 Los Angeles The Insanity Begins Led by I. Newerf and J.B. Dudley, the automobile owners of Los Angeles are fighting a new city ordinance that bans parking within 40 feet of downtown intersections. Newerf, the West Coast representative of Goodyear Tire Co., and Dudley, a car salesman, received citations for violating the&#8230; <a class="more-link" href="https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0309A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 343px; height: 377px;" src="//www.lmharnisch.com/images/1907_0309A.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0309A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 343px; height: 377px;" src="//www.lmharnisch.com/images/1907_0309A.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"> </o:p></p>
 <p class="MsoNormal">March 9, 1907<br />
 Los Angeles</p>
@@ -160,7 +160,7 @@ Los Angeles</p>
 <p class="MsoNormal"> <o:p></o:p></p>
 <p class="MsoNormal">Flood skipped town in September 1907. Ã¢â‚¬Å“He made the acquaintance of a fast sot and spent plenty of money, too much, in fact, for a man of his means. Late suppers at swell cafes cost Flood much cash. Then he became possessed of a desire to take long journeys in touring cars. He paid his bills with other peopleÃ¢â‚¬â„¢s money, the new restaurant manager says, by levying on the cash drawer of the restaurant, which is owned by a company,Ã¢â‚¬Â The Times says.<span style="">  </span></p>
 <p class="MsoNormal"> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"> <o:p></o:p></p>
@@ -172,22 +172,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/09/random-shots-from-our-12-bore-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Court Briefs</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/07/court-briefs/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/07/court-briefs/#respond</comments>
+		<link>https://1947project.com/2007/02/07/court-briefs/</link>
+					<comments>https://1947project.com/2007/02/07/court-briefs/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 07 Feb 2007 15:53:16 +0000</pubDate>
@@ -198,11 +198,11 @@ var sc_security="77307670";
 		<category><![CDATA[police]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 7, 1907 Los Angeles A Child&#8217;s Testimony Charles Babbitt is sentenced to 30 days in jail on charges of domestic violence after the testimony of his 6-year-old son. Ã¢â‚¬Å“Papa hit me with a whip and it cut my head,Ã¢â‚¬Â the boy said. Ã¢â‚¬Å“Then he hit mama.Ã¢â‚¬Â Ã¢â‚¬Å“The man blinked his eyes and said that&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/07/court-briefs/">Continue reading <span class="screen-reader-text">Court Briefs</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/07/court-briefs/">Court Briefs</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 7, 1907 Los Angeles A Child&#8217;s Testimony Charles Babbitt is sentenced to 30 days in jail on charges of domestic violence after the testimony of his 6-year-old son. Ã¢â‚¬Å“Papa hit me with a whip and it cut my head,Ã¢â‚¬Â the boy said. Ã¢â‚¬Å“Then he hit mama.Ã¢â‚¬Â Ã¢â‚¬Å“The man blinked his eyes and said that&#8230; <a class="more-link" href="https://1947project.com/2007/02/07/court-briefs/">Continue reading <span class="screen-reader-text">Court Briefs</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/07/court-briefs/">Court Briefs</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0207.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0207.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0207.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0207.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Feb. 7, 1907<br />
 Los Angeles</p>
@@ -214,7 +214,7 @@ Los Angeles</p>
 <p class="MsoNormal">Charles Babbitt is sentenced to 30 days in jail on charges of domestic violence after the testimony of his 6-year-old son. Ã¢â‚¬Å“Papa hit me with a whip and it cut my head,Ã¢â‚¬Â the boy said. Ã¢â‚¬Å“Then he hit mama.Ã¢â‚¬Â<span style="">  </span>Ã¢â‚¬Å“The man blinked his eyes and said that he did it because he was drunkÃ¢â‚¬Â The Times says.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p style="font-weight: bold;" class="MsoNormal">Ross&#8217; Widow Arrested</p>
-<p class="MsoNormal">Mary Ross, whose husband was killed by Officer Hoover, is fined $50 after being arrested in a raid on a  rooming house that was selling liquor without a license. Ross was among the women seized at the establishment of Mrs. Mary Cooper, 261Ã‚Â½ S. Los Angeles St. <a href="https://pensive-torvalds-020d34.netlify.app/officer-c-a-may-end-of-watch">William Ross</a>, who fatally shot Officer C.A May, was buried in potterÃ¢â‚¬â„¢s field, The Times says. </p>
+<p class="MsoNormal">Mary Ross, whose husband was killed by Officer Hoover, is fined $50 after being arrested in a raid on a  rooming house that was selling liquor without a license. Ross was among the women seized at the establishment of Mrs. Mary Cooper, 261Ã‚Â½ S. Los Angeles St. <a href="https://1947project.com/officer-c-a-may-end-of-watch">William Ross</a>, who fatally shot Officer C.A May, was buried in potterÃ¢â‚¬â„¢s field, The Times says. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p style="font-weight: bold;" class="MsoNormal">Fined for Blind Pig</p>
 <p class="MsoNormal">Frank Stadler pleads guilty to running a blind pig called the Mechanics Club, 1466 Channing St., and is ordered to pay a $50 fine. </p>
@@ -226,7 +226,7 @@ Los Angeles</p>
 </p>
 <p class="MsoNormal">Patrol officers recognized J.W. Mason, who had just gotten out of jail, and watched as he found Ã¢â‚¬Å“a drunken, well-dressed man and lured him into a doorway,Ã¢â‚¬Â The Times says. He was given 20 days in jail for disorderly conduct.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -236,22 +236,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/07/court-briefs/">Court Briefs</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/07/court-briefs/">Court Briefs</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/07/court-briefs/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/07/court-briefs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Love That Would Not Die</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/22/a-love-that-would-not-die/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/22/a-love-that-would-not-die/#respond</comments>
+		<link>https://1947project.com/2006/11/22/a-love-that-would-not-die/</link>
+					<comments>https://1947project.com/2006/11/22/a-love-that-would-not-die/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 22 Nov 2006 15:12:35 +0000</pubDate>
@@ -262,11 +262,11 @@ var sc_security="77307670";
 		<category><![CDATA[baseball]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 22, 1907 Los Angeles Weeping and heavily bandaged from where her drunk, enraged husband hadshot her in the head, Ellen Larkin, 38, rose from her hospital bed, staggered to a nearby room and threw herself into the arms of her injured spouse. She covered him with kisses, vowing that she still loved him, and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/22/a-love-that-would-not-die/">Continue reading <span class="screen-reader-text">A Love That Would Not Die</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/22/a-love-that-would-not-die/">A Love That Would Not Die</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 22, 1907 Los Angeles Weeping and heavily bandaged from where her drunk, enraged husband hadshot her in the head, Ellen Larkin, 38, rose from her hospital bed, staggered to a nearby room and threw herself into the arms of her injured spouse. She covered him with kisses, vowing that she still loved him, and&#8230; <a class="more-link" href="https://1947project.com/2006/11/22/a-love-that-would-not-die/">Continue reading <span class="screen-reader-text">A Love That Would Not Die</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/22/a-love-that-would-not-die/">A Love That Would Not Die</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1122.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 242px; height: 335px;" src="//www.lmharnisch.com/images/1907_1122.jpg" alt="" border="0" /></a><br />
+<div><a href="http://www.lmharnisch.com/images/1907_1122.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 242px; height: 335px;" src="//www.lmharnisch.com/images/1907_1122.jpg" alt="" border="0" /></a><br />
 <!-- [if !supportEmptyParas]--><!--[endif]--></p>
 <p class="MsoNormal">Nov. 22, 1907<br />
 Los Angeles</p>
@@ -276,18 +276,18 @@ Los Angeles</p>
 <p class="MsoNormal">According to The Times, Jefferson B. Larkin, 45, a sometime teamster, horse player and</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/22/a-love-that-would-not-die/">A Love That Would Not Die</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/22/a-love-that-would-not-die/">A Love That Would Not Die</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/22/a-love-that-would-not-die/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/22/a-love-that-would-not-die/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What&#8217;s That on Your Shirt, Phelan?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/30/whats-that-on-your-shirt-phelan/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/30/whats-that-on-your-shirt-phelan/#respond</comments>
+		<link>https://1947project.com/2006/06/30/whats-that-on-your-shirt-phelan/</link>
+					<comments>https://1947project.com/2006/06/30/whats-that-on-your-shirt-phelan/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 30 Jun 2006 15:01:47 +0000</pubDate>
@@ -298,28 +298,28 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>June 29, 1907 Los Angeles Through the jail cell</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/30/whats-that-on-your-shirt-phelan/">What&#8217;s That on Your Shirt, Phelan?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/30/whats-that-on-your-shirt-phelan/">What&#8217;s That on Your Shirt, Phelan?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1553_e_52_phelan.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1553_e_52_phelan.jpg" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0629.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 234px; height: 251px;" src="//www.lmharnisch.com/images/1907_0629.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1553_e_52_phelan.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1553_e_52_phelan.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0629.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 234px; height: 251px;" src="//www.lmharnisch.com/images/1907_0629.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">June 29, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Through the jail cell</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/30/whats-that-on-your-shirt-phelan/">What&#8217;s That on Your Shirt, Phelan?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/30/whats-that-on-your-shirt-phelan/">What&#8217;s That on Your Shirt, Phelan?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/30/whats-that-on-your-shirt-phelan/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/30/whats-that-on-your-shirt-phelan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>To the Moon, Alice!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/17/to-the-moon-alice/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/17/to-the-moon-alice/#respond</comments>
+		<link>https://1947project.com/2006/05/17/to-the-moon-alice/</link>
+					<comments>https://1947project.com/2006/05/17/to-the-moon-alice/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 17 May 2006 14:16:06 +0000</pubDate>
@@ -330,7 +330,7 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>May 17, 1907 Los Angeles The Le Canns continued their spat in court after Mrs. Le Cann showed Judge Chambers a piece of skin she said was torn from her lip when her husband, Fred (also listed as Ferdinand), shoved her as she was calling the police.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/17/to-the-moon-alice/">To the Moon, Alice!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/17/to-the-moon-alice/">To the Moon, Alice!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-weight: bold;font-size:130%;" >May 17, 1907<br />
@@ -340,18 +340,18 @@ Los Angeles</p>
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/17/to-the-moon-alice/">To the Moon, Alice!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/17/to-the-moon-alice/">To the Moon, Alice!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/17/to-the-moon-alice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/17/to-the-moon-alice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Attacked by Mule</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/#respond</comments>
+		<link>https://1947project.com/2006/04/28/attacked-by-mule/</link>
+					<comments>https://1947project.com/2006/04/28/attacked-by-mule/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2006 00:20:58 +0000</pubDate>
@@ -366,24 +366,24 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>W.S. Stanton of N. 117</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0427_mule.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 252px; height: 575px;" src="//lmharnisch.com/images/1907_0427_mule.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0427_mule.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 252px; height: 575px;" src="//lmharnisch.com/images/1907_0427_mule.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;"><strong></strong><strong></strong></span><span style="font-size:100%;">W.S. Stanton of N. 117</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/28/attacked-by-mule/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pigs&#8217; Feet</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/#respond</comments>
+		<link>https://1947project.com/2006/04/26/pigs-feet/</link>
+					<comments>https://1947project.com/2006/04/26/pigs-feet/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 26 Apr 2006 01:09:18 +0000</pubDate>
@@ -397,15 +397,15 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Anthony Kallan likes pigs</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">Anthony Kallan likes pigs</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/26/pigs-feet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/26/pigs-feet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

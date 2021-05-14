@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>prospectors &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/prospectors/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/prospectors/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:55:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>prospectors &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8216;This is the kind of a horse&#8217;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/#respond</comments>
+		<link>https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/</link>
+					<comments>https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 27 May 2006 16:24:33 +0000</pubDate>
@@ -44,22 +44,22 @@
 		<category><![CDATA[prospectors]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 27, 1907 Death Valley, Calif. George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a Pierce-Arrow along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse. The&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/">Continue reading <span class="screen-reader-text">&#8216;This is the kind of a horse&#8217;</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 27, 1907 Death Valley, Calif. George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a Pierce-Arrow along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse. The&#8230; <a class="more-link" href="https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/">Continue reading <span class="screen-reader-text">&#8216;This is the kind of a horse&#8217;</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0527_mccabe.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0527_mccabe.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0527_mccabe.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0527_mccabe.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">May 27, 1907<br />
 </span><span style="font-size:100%;">Death Valley, Calif.<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a <a href="https://www.pierce-arrow.org/">Pierce-Arrow</a></span><span style="font-size:100%;"> along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse.<br />
+</span><span style="font-size:100%;">George Freeman and his wife of Pasadena, accompanied by Charles Fuller Gates of Los Angeles, were motoring out to Death Valley in a <a href="http://www.pierce-arrow.org/">Pierce-Arrow</a></span><span style="font-size:100%;"> along the old road carved by the twenty-mule teams from the borax mines when they approached a driverless wagon hitched to a skittish horse.<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">The auto party <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;amp;amp;q=ballarat,+ca&#038;t=h&amp;om=0">had taken the route</a></span><span style="font-size:100%;"> from Johannesburg to <a href="https://www.desertusa.com/mag99/apr/stories/ballarat.html">Ballarat</a></span><span style="font-size:100%;"> slowly, stopping to clear the road of large rocks in their path and pausing whenever they encountered a freight wagon to keep from frightening the horses and mules. Because there were only two watering holes on the road, the party had taken an ample supply of water for themselves and the car</div>
+</span><span style="font-size:100%;">The auto party <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;amp;amp;q=ballarat,+ca&#038;t=h&amp;om=0">had taken the route</a></span><span style="font-size:100%;"> from Johannesburg to <a href="http://www.desertusa.com/mag99/apr/stories/ballarat.html">Ballarat</a></span><span style="font-size:100%;"> slowly, stopping to clear the road of large rocks in their path and pausing whenever they encountered a freight wagon to keep from frightening the horses and mules. Because there were only two watering holes on the road, the party had taken an ample supply of water for themselves and the car</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/">&#8216;This is the kind of a horse&#8217;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/27/this-is-the-kind-of-a-horse/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/27/this-is-the-kind-of-a-horse/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

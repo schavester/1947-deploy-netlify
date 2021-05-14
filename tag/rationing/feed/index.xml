@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>rationing &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/rationing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/rationing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:50:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>rationing &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Cold Dose of Reality</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/08/a-cold-dose-of-reality/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/08/a-cold-dose-of-reality/#respond</comments>
+		<link>https://1947project.com/2007/01/08/a-cold-dose-of-reality/</link>
+					<comments>https://1947project.com/2007/01/08/a-cold-dose-of-reality/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 08 Jan 2007 17:08:55 +0000</pubDate>
@@ -44,19 +44,19 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Jan. 8, 1907 Los Angeles Perhaps Mayor Arthur C. Harper and the incoming slate of officials are focused on how they will divide the spoils of the city and assign patronage jobs, although the mayor says the</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/08/a-cold-dose-of-reality/">A Cold Dose of Reality</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/08/a-cold-dose-of-reality/">A Cold Dose of Reality</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0108.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 398px; height: 62px;" src="//www.lmharnisch.com/images/1907_0108.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0108.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 398px; height: 62px;" src="//www.lmharnisch.com/images/1907_0108.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Jan. 8, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Perhaps Mayor Arthur C. Harper and the incoming slate of officials are focused on how they will divide the spoils of the city and assign patronage jobs, although the mayor says the </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/08/a-cold-dose-of-reality/">A Cold Dose of Reality</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/08/a-cold-dose-of-reality/">A Cold Dose of Reality</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/08/a-cold-dose-of-reality/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/08/a-cold-dose-of-reality/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

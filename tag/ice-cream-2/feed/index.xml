@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>ice cream &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/ice-cream-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/ice-cream-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:39:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>ice cream &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/17/ice-cream-its-whats-for-dinner/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/17/ice-cream-its-whats-for-dinner/#respond</comments>
+		<link>https://1947project.com/2007/07/17/ice-cream-its-whats-for-dinner/</link>
+					<comments>https://1947project.com/2007/07/17/ice-cream-its-whats-for-dinner/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 17 Jul 2007 21:11:34 +0000</pubDate>
@@ -44,31 +44,31 @@
 		<category><![CDATA[ice cream]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 17, 1927 In an effort to redeem a luscious dairy treatÃ¢â‚¬â„¢s good name after being caught in a bootlegging scandal last weekÃ¢â‚¬â€-or perhaps because it was a slow news dayÃ¢â‚¬â€-Dr. Frank McCoy today announced that Ã¢â‚¬Å“ICE CREAM IS A REAL FOOD.Ã¢â‚¬Â This is the good news weÃ¢â‚¬â„¢ve been waiting for, folks. According to Dr.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/17/ice-cream-its-whats-for-dinner/">Continue reading <span class="screen-reader-text">Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/17/ice-cream-its-whats-for-dinner/">Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 17, 1927 In an effort to redeem a luscious dairy treatÃ¢â‚¬â„¢s good name after being caught in a bootlegging scandal last weekÃ¢â‚¬â€-or perhaps because it was a slow news dayÃ¢â‚¬â€-Dr. Frank McCoy today announced that Ã¢â‚¬Å“ICE CREAM IS A REAL FOOD.Ã¢â‚¬Â This is the good news weÃ¢â‚¬â„¢ve been waiting for, folks. According to Dr.&#8230; <a class="more-link" href="https://1947project.com/2007/07/17/ice-cream-its-whats-for-dinner/">Continue reading <span class="screen-reader-text">Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/17/ice-cream-its-whats-for-dinner/">Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>July 17, 1927</p>
-<p><a href="https://www.flickr.com/photos/lperil/840501796/" title="Photo Sharing"><img loading="lazy" src="//farm2.static.flickr.com/1162/840501796_f83ccc38bc_o.jpg" width="360" height="113" alt="Health and Diet Advice" /></a></p>
-<p>In an effort to redeem a luscious dairy treatÃ¢â‚¬â„¢s good name after being caught in a <a href="https://pensive-torvalds-020d34.netlify.app/icecream">bootlegging scandal</a> last weekÃ¢â‚¬â€-or perhaps because it was a slow news dayÃ¢â‚¬â€-Dr. Frank McCoy today announced that Ã¢â‚¬Å“ICE CREAM IS A REAL FOOD.Ã¢â‚¬Â </p>
+<p><a href="http://www.flickr.com/photos/lperil/840501796/" title="Photo Sharing"><img loading="lazy" src="//farm2.static.flickr.com/1162/840501796_f83ccc38bc_o.jpg" width="360" height="113" alt="Health and Diet Advice" /></a></p>
+<p>In an effort to redeem a luscious dairy treatÃ¢â‚¬â„¢s good name after being caught in a <a href="https://1947project.com/icecream">bootlegging scandal</a> last weekÃ¢â‚¬â€-or perhaps because it was a slow news dayÃ¢â‚¬â€-Dr. Frank McCoy today announced that Ã¢â‚¬Å“ICE CREAM IS A REAL FOOD.Ã¢â‚¬Â </p>
 <p>This is the good news weÃ¢â‚¬â„¢ve been waiting for, folks. According to Dr. McCoy (author of the <i>Los Angeles Times</i>Ã¢â‚¬â„¢s Ã¢â‚¬Å“Health and Diet AdviceÃ¢â‚¬Â column), ice cream Ã¢â‚¬Å“should at all times be considered a real food and not a delicacy.Ã¢â‚¬Â Besides being rich in vitamin A and calcium, a half-pint of ice cream has as much lime as a half-pound of butter, four pounds of meat, or three-and-a-half pounds of potatoes. Never heard about the importance of lime in your diet? Me eitherÃ¢â‚¬â€-but if we eat enough ice cream, weÃ¢â‚¬â„¢ll never have to worry about it again. </p>
 <p>Dr. McCoy also has a word or two for those who criticize manufacturers for adding gelatin to their ice creams. Ã¢â‚¬Å“Ã¢â‚¬Â¦ I would suggest that the laws be changed to admit the use of even more gelatin, as this is an excellent food product which makes the ice cream still more palatable and delicious.Ã¢â‚¬Â </p>
 <p>Packed with all that lime and gelatin, ice cream is a veritable superfood. Dr. McCoy Ã¢â‚¬Å“suggest[s] that you try some summer lunches with ice cream as the principal part of the meal, using with it any one kind of the acid fruits Ã¢â‚¬Â¦ or Ã¢â‚¬Â¦ cooked and raw nonstarchy vegetables.Ã¢â‚¬Â Ice cream salad, anyone? </p>
 <p>Should you find your pants getting a little tight after all that healthfulness, you might want to take a look at Dr. McCoyÃ¢â‚¬â„¢s book, <i>The Fast Way to Health</i>.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/17/ice-cream-its-whats-for-dinner/">Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/17/ice-cream-its-whats-for-dinner/">Ice Cream:  ItÃ¢â‚¬â„¢s WhatÃ¢â‚¬â„¢s For Dinner.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/17/ice-cream-its-whats-for-dinner/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/17/ice-cream-its-whats-for-dinner/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Is Nothing Sacred?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/10/is-nothing-sacred/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/10/is-nothing-sacred/#respond</comments>
+		<link>https://1947project.com/2007/07/10/is-nothing-sacred/</link>
+					<comments>https://1947project.com/2007/07/10/is-nothing-sacred/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 10 Jul 2007 18:05:14 +0000</pubDate>
@@ -80,23 +80,23 @@
 		<category><![CDATA[ice cream]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 10, 1927Los Angeles First peanuts and now the All-American ice cream cone. Is there no treat safe from the bootlegger&#8217;s evil maw? Assistant Federal prohibition administrator Frank E. Benedict today announced the discovery of what was called &#34;one of the most completely equipped distilleries&#34; ever found in Los Angeles, hidden in the innocent guise&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/10/is-nothing-sacred/">Continue reading <span class="screen-reader-text">Is Nothing Sacred?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/10/is-nothing-sacred/">Is Nothing Sacred?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 10, 1927Los Angeles First peanuts and now the All-American ice cream cone. Is there no treat safe from the bootlegger&#8217;s evil maw? Assistant Federal prohibition administrator Frank E. Benedict today announced the discovery of what was called &#34;one of the most completely equipped distilleries&#34; ever found in Los Angeles, hidden in the innocent guise&#8230; <a class="more-link" href="https://1947project.com/2007/07/10/is-nothing-sacred/">Continue reading <span class="screen-reader-text">Is Nothing Sacred?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/10/is-nothing-sacred/">Is Nothing Sacred?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>July 10, 1927<br />Los Angeles</p>
-<p>  <a href="https://www.flickr.com/photos/lperil/767858461/" title="Photo Sharing"><img loading="lazy" width="252" height="368" border="0" src="//farm2.static.flickr.com/1416/767858461_c2d9733283_o.jpg" alt="Is nothing sacred?" /></a>  </p>
-<p>First <a href="https://pensive-torvalds-020d34.netlify.app/?p=1989">peanuts</a> and now the All-American ice cream cone. Is there no treat safe from the bootlegger&#8217;s evil maw? Assistant Federal prohibition administrator Frank E. Benedict today announced the discovery of  what was called &quot;one of the most completely equipped distilleries&quot; ever found in Los Angeles, hidden in the innocent guise of an ice cream cone factory.   </p>
-<p>A curious fact brought the plant (located at <a title="Location of distillery." target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=354-1%2F2+West+Manchester+Avenue,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=25.761936,57.744141&#038;ie=UTF8&#038;ll=33.961586,-118.279066&#038;spn=0.006567,0.014098&#038;z=16&#038;om=1">354-1/2 West Manchester Avenue</a>) to the attention of eagle-eyed prohibition agents: business appeared to be flourishing, yet no deliveries were seen leaving the building. Further investigation ensued. When proprietor James Kanich was informed that the interior measurements of the shop matched those he previously provided to agents, his response was &quot;a flippant remark&quot; that led Benedict to measure the building&#8217;s exterior as well. A twenty-three foot discrepancy was thus discovered. Benedict returned inside, sounded the wall with a hammer, found a weak spot, and chopped into the wallboard. Behind it stood a 500-gallon still in full operation. Four thousand gallons of mash were ready for use at the top of a nearby stairway, and forty five-gallon cans of grain alcohol were packed in heavy paper cartons ostensibly used for freshly baked ice cream cones. The distilling room was accessible only through a narrow closet door which, when closed, appeared to be a solid wall. Meanwhile, a thorough check of the main building yielded stale ice cream cones and cone-making machinery filled with cobwebs.   </p>
+<p>  <a href="http://www.flickr.com/photos/lperil/767858461/" title="Photo Sharing"><img loading="lazy" width="252" height="368" border="0" src="//farm2.static.flickr.com/1416/767858461_c2d9733283_o.jpg" alt="Is nothing sacred?" /></a>  </p>
+<p>First <a href="https://1947project.com/?p=1989">peanuts</a> and now the All-American ice cream cone. Is there no treat safe from the bootlegger&#8217;s evil maw? Assistant Federal prohibition administrator Frank E. Benedict today announced the discovery of  what was called &quot;one of the most completely equipped distilleries&quot; ever found in Los Angeles, hidden in the innocent guise of an ice cream cone factory.   </p>
+<p>A curious fact brought the plant (located at <a title="Location of distillery." target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=354-1%2F2+West+Manchester+Avenue,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=25.761936,57.744141&#038;ie=UTF8&#038;ll=33.961586,-118.279066&#038;spn=0.006567,0.014098&#038;z=16&#038;om=1">354-1/2 West Manchester Avenue</a>) to the attention of eagle-eyed prohibition agents: business appeared to be flourishing, yet no deliveries were seen leaving the building. Further investigation ensued. When proprietor James Kanich was informed that the interior measurements of the shop matched those he previously provided to agents, his response was &quot;a flippant remark&quot; that led Benedict to measure the building&#8217;s exterior as well. A twenty-three foot discrepancy was thus discovered. Benedict returned inside, sounded the wall with a hammer, found a weak spot, and chopped into the wallboard. Behind it stood a 500-gallon still in full operation. Four thousand gallons of mash were ready for use at the top of a nearby stairway, and forty five-gallon cans of grain alcohol were packed in heavy paper cartons ostensibly used for freshly baked ice cream cones. The distilling room was accessible only through a narrow closet door which, when closed, appeared to be a solid wall. Meanwhile, a thorough check of the main building yielded stale ice cream cones and cone-making machinery filled with cobwebs.   </p>
 <p>Both Kanich and his wife, Mary, denied knowledge of the still. Mrs. Kanich told agents that she and her husband were the innocent victims of a group who financed the cone factory, led by a man she could identify only as &quot;Harry.&quot;   </p>
 <p>The Kaniches were arrested for violation of the Volstead Act. Benedict promised further arrests would be made.  </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/10/is-nothing-sacred/">Is Nothing Sacred?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/10/is-nothing-sacred/">Is Nothing Sacred?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/10/is-nothing-sacred/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/10/is-nothing-sacred/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

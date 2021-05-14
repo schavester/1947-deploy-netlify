@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Germany &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/germany/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/germany/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Germany &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Kneel Before Me&#8230; Peasant!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/#respond</comments>
+		<link>https://1947project.com/2007/08/06/kneel-before-me-peasant/</link>
+					<comments>https://1947project.com/2007/08/06/kneel-before-me-peasant/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 06 Aug 2007 00:34:29 +0000</pubDate>
@@ -49,22 +49,22 @@
 		<category><![CDATA[Vladimir Lenin]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 6, 1927La-La Land &#34;A lie told often enough becomes truth.&#34; &#8211;Vladimir Lenin On July 17, 1918, Bolshevik authorities, led by Yakov Yurovsky, shot Nicholas II and his immediate family in the cellar of the Ipatiev House in Ekaterinburg, Russia. Since then&#160;rumors have circulated that one of the Romanovs, Grand Duchess Anastasia, had miraculously survived&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/">Continue reading <span class="screen-reader-text">Kneel Before Me&#8230; Peasant!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 6, 1927La-La Land &#34;A lie told often enough becomes truth.&#34; &#8211;Vladimir Lenin On July 17, 1918, Bolshevik authorities, led by Yakov Yurovsky, shot Nicholas II and his immediate family in the cellar of the Ipatiev House in Ekaterinburg, Russia. Since then&#160;rumors have circulated that one of the Romanovs, Grand Duchess Anastasia, had miraculously survived&#8230; <a class="more-link" href="https://1947project.com/2007/08/06/kneel-before-me-peasant/">Continue reading <span class="screen-reader-text">Kneel Before Me&#8230; Peasant!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="500" height="493" border="0" src="//farm2.static.flickr.com/1393/1022195763_c231fe32dc.jpg" alt="Anna Anderson" title="Anna Anderson" /></p>
 <p>August 6, 1927<br />La-La Land</p>
-<p>&quot;A lie told often enough becomes truth.&quot; &ndash;<a target="_blank" href="https://en.wikipedia.org/wiki/Vladimir_Lenin" title="Lenin">Vladimir Lenin</a> </p>
-<p>On July 17, 1918, <a target="_blank" href="https://en.wikipedia.org/wiki/Bolshevik" title="Bolshevik">Bolshevik</a> authorities, led by <a target="_blank" href="https://en.wikipedia.org/wiki/Yakov_Yurovsky" title="Yakov Yurovsky">Yakov Yurovsky</a>, shot <a target="_blank" href="https://en.wikipedia.org/wiki/Nicholas_II" title="Nicholas II">Nicholas II</a> and his immediate family in the cellar of the <a target="_blank" href="https://en.wikipedia.org/wiki/Ipatiev_House" title="Ipatiev House">Ipatiev House</a> in <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Ekaterinburg,+Russia&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" title="Ekaterinburg, Russia">Ekaterinburg, Russia</a>. Since then&nbsp;rumors have circulated that one of the Romanovs, <a target="_blank" href="https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia" title="Grand Duchess Anastasia">Grand Duchess Anastasia</a>, had miraculously survived assassination. </p>
-<p>The woman in the photograph on the right is Anastasia Manahan aka <a target="_blank" href="https://en.wikipedia.org/wiki/Anna_Anderson" title="Anna Anderson">Anna Anderson</a>. Anna was a patient in a mental hospital in <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Dalldorf,+Germany&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" title="Dalldorf, Germany">Dalldorf, Germany</a> until another patient said that she recognized her as royalty. Anna would spend the next 57 years of her life claiming to be Anastasia. Neither her supporters nor her detractors would be able to substantiate Anna&rsquo;s claim during her lifetime. Several years following her death, <a target="_blank" href="https://en.wikipedia.org/wiki/DNA" title="DNA">DNA</a> tests would finally prove that she was not a <a target="_blank" href="https://en.wikipedia.org/wiki/Romanov" title="Romanov">Romanov</a>. </p>
+<p>&quot;A lie told often enough becomes truth.&quot; &ndash;<a target="_blank" href="http://en.wikipedia.org/wiki/Vladimir_Lenin" title="Lenin">Vladimir Lenin</a> </p>
+<p>On July 17, 1918, <a target="_blank" href="http://en.wikipedia.org/wiki/Bolshevik" title="Bolshevik">Bolshevik</a> authorities, led by <a target="_blank" href="http://en.wikipedia.org/wiki/Yakov_Yurovsky" title="Yakov Yurovsky">Yakov Yurovsky</a>, shot <a target="_blank" href="http://en.wikipedia.org/wiki/Nicholas_II" title="Nicholas II">Nicholas II</a> and his immediate family in the cellar of the <a target="_blank" href="http://en.wikipedia.org/wiki/Ipatiev_House" title="Ipatiev House">Ipatiev House</a> in <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Ekaterinburg,+Russia&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" title="Ekaterinburg, Russia">Ekaterinburg, Russia</a>. Since then&nbsp;rumors have circulated that one of the Romanovs, <a target="_blank" href="http://en.wikipedia.org/wiki/Grand_Duchess_Anastasia" title="Grand Duchess Anastasia">Grand Duchess Anastasia</a>, had miraculously survived assassination. </p>
+<p>The woman in the photograph on the right is Anastasia Manahan aka <a target="_blank" href="http://en.wikipedia.org/wiki/Anna_Anderson" title="Anna Anderson">Anna Anderson</a>. Anna was a patient in a mental hospital in <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Dalldorf,+Germany&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" title="Dalldorf, Germany">Dalldorf, Germany</a> until another patient said that she recognized her as royalty. Anna would spend the next 57 years of her life claiming to be Anastasia. Neither her supporters nor her detractors would be able to substantiate Anna&rsquo;s claim during her lifetime. Several years following her death, <a target="_blank" href="http://en.wikipedia.org/wiki/DNA" title="DNA">DNA</a> tests would finally prove that she was not a <a target="_blank" href="http://en.wikipedia.org/wiki/Romanov" title="Romanov">Romanov</a>. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/06/kneel-before-me-peasant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

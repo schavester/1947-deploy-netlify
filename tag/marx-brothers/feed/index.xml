@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Marx Brothers &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/marx-brothers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/marx-brothers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Marx Brothers &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hot Toddy</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/26/hot-toddy/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/26/hot-toddy/#respond</comments>
+		<link>https://1947project.com/2007/08/26/hot-toddy/</link>
+					<comments>https://1947project.com/2007/08/26/hot-toddy/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 26 Aug 2007 18:11:23 +0000</pubDate>
@@ -47,16 +47,16 @@
 		<category><![CDATA[Thelma Todd]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; August 25, 1927Hollywood It was announced today that a plucky schoolmarm from Back East is cast as female lead in Paramount&#8217;s big western outing this year, &#8220;The Gay Defender.&#8221;&#160; She&#8217;ll be working with Richard Dix, who&#8217;s portraying Joaquin Murrietta in this colorful Gold Rush saga of &#8217;48, filmed in our own Central California! Well,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/26/hot-toddy/">Continue reading <span class="screen-reader-text">Hot Toddy</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/26/hot-toddy/">Hot Toddy</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; August 25, 1927Hollywood It was announced today that a plucky schoolmarm from Back East is cast as female lead in Paramount&#8217;s big western outing this year, &#8220;The Gay Defender.&#8221;&#160; She&#8217;ll be working with Richard Dix, who&#8217;s portraying Joaquin Murrietta in this colorful Gold Rush saga of &#8217;48, filmed in our own Central California! Well,&#8230; <a class="more-link" href="https://1947project.com/2007/08/26/hot-toddy/">Continue reading <span class="screen-reader-text">Hot Toddy</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/26/hot-toddy/">Hot Toddy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="499" height="143" border="0" src="//farm2.static.flickr.com/1287/1241146041_bfffeb7054_o.gif" alt="schoolmarm" title="schoolmarm" />&nbsp;</p>
 <p>August 25, 1927<img loading="lazy" width="251" height="154" border="0" align="right" src="//farm2.static.flickr.com/1317/1241146075_7d40681d31_o.gif" alt="schoolteaching" title="schoolteaching" /><br />Hollywood</p>
-<p>It was announced today that a plucky schoolmarm from Back East is cast as female lead in Paramount&rsquo;s big western outing this year, &ldquo;<a href="https://www.richarddix.org/gaydefenderpageone.htm" target="_blank" title="gaydefender">The Gay Defender</a>.&rdquo;&nbsp; She&rsquo;ll be working with Richard Dix, who&rsquo;s portraying Joaquin Murrietta in this colorful Gold Rush saga of &rsquo;48, filmed in our own Central California!</p>
+<p>It was announced today that a plucky schoolmarm from Back East is cast as female lead in Paramount&rsquo;s big western outing this year, &ldquo;<a href="http://www.richarddix.org/gaydefenderpageone.htm" target="_blank" title="gaydefender">The Gay Defender</a>.&rdquo;&nbsp; She&rsquo;ll be working with Richard Dix, who&rsquo;s portraying Joaquin Murrietta in this colorful Gold Rush saga of &rsquo;48, filmed in our own Central California!</p>
 <p>Well, <em>that&rsquo;s</em> an exciting story, you say.&nbsp; But so began the acting career&hellip;of doom!</p>
-<p>I was seven years old when I found my purpose in life&mdash;to chase braless, acid-tongued women.&nbsp; And what set me on this career path?&nbsp; I&rsquo;d just seen <a title="mbpressbook" target="_blank" href="https://web.telia.com/~u66005454/monkey.htm"><em>Monkey Business</em></a>, where I witnessed Lucille Briggs&hellip;as portrayed by Thelma Todd.</p>
+<p>I was seven years old when I found my purpose in life&mdash;to chase braless, acid-tongued women.&nbsp; And what set me on this career path?&nbsp; I&rsquo;d just seen <a title="mbpressbook" target="_blank" href="http://web.telia.com/~u66005454/monkey.htm"><em>Monkey Business</em></a>, where I witnessed Lucille Briggs&hellip;as portrayed by Thelma Todd.</p>
 <p><img loading="lazy" width="350" height="277" border="0" align="left" src="//farm2.static.flickr.com/1205/1241146115_e9c47e4fe3_o.gif" alt="thelmaandI" title="thelmaandI" /></p>
 <p>&nbsp;</p>
 <p>Thelma and me, 1931.&nbsp;</p>
@@ -69,16 +69,16 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Thelma, you two-fisted, drunken, nymphomaniacal brainiac Yankee; the pinups portray her as syrupy kute, but those of us with Thelma in our blood know you as the sexier, smarmier Dorothy Parker.&nbsp; And whomever may have a penchant for Hollywood&rsquo;s Babylonian side couldn&rsquo;t do better than delve deep into the mysteries of Ms. Todd&mdash;did Roland West lock her in the garage, the Lincoln&rsquo;s motor running?&nbsp; Was she whacked by Lucky Luciano over sex and gambling interests at her Thelma Todd Caf&eacute; on PCH?&nbsp; Was she killed by her ex-husband, notorious womanbeating, bootlegging pimp Pat DiCicco?&nbsp; For all the grime and gore you can shake a stick at, go <a href="https://www.findadeath.com/Deceased/t/Thelma%20Todd/thelma_todd.htm" target="_blank" title="todd">here</a>. </p>
+<p>Thelma, you two-fisted, drunken, nymphomaniacal brainiac Yankee; the pinups portray her as syrupy kute, but those of us with Thelma in our blood know you as the sexier, smarmier Dorothy Parker.&nbsp; And whomever may have a penchant for Hollywood&rsquo;s Babylonian side couldn&rsquo;t do better than delve deep into the mysteries of Ms. Todd&mdash;did Roland West lock her in the garage, the Lincoln&rsquo;s motor running?&nbsp; Was she whacked by Lucky Luciano over sex and gambling interests at her Thelma Todd Caf&eacute; on PCH?&nbsp; Was she killed by her ex-husband, notorious womanbeating, bootlegging pimp Pat DiCicco?&nbsp; For all the grime and gore you can shake a stick at, go <a href="http://www.findadeath.com/Deceased/t/Thelma%20Todd/thelma_todd.htm" target="_blank" title="todd">here</a>. </p>
 <p>Though don&rsquo;t believe everything you read there&mdash;like the repetition of that fictitious Luciano business from Hollywood Babylon&mdash;and while they mention Thelma&rsquo;s funeral at Forest Lawn, true, her 3:30pm December 19 private service was at Wee Kirk o&rsquo; the Heather, remember, when you see images of her casketed, they&rsquo;re from when she lay in state at the (recently closed) Pierce Brothers mortuary on West Washington that day from 8am til 1pm (the window behind Thelma is the window on the left).</p>
 <p><img loading="lazy" width="300" height="228" border="0" align="left" src="//farm2.static.flickr.com/1092/1242107508_e14eda2d57_o.gif" alt="casketed" title="casketed" /><img loading="lazy" width="300" height="233" border="0" align="right" src="//farm2.static.flickr.com/1208/1242107524_f7c9340258_o.gif" alt="piercebrothersmort" title="piercebrothersmort" />&nbsp; </p>
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/26/hot-toddy/">Hot Toddy</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/26/hot-toddy/">Hot Toddy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/26/hot-toddy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/26/hot-toddy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

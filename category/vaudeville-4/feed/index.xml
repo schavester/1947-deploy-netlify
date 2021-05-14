@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Vaudeville &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/vaudeville-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/vaudeville-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:56:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Vaudeville &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Fascinating Widow</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/09/26/the-fascinating-widow/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/09/26/the-fascinating-widow/#respond</comments>
+		<link>https://1947project.com/2007/09/26/the-fascinating-widow/</link>
+					<comments>https://1947project.com/2007/09/26/the-fascinating-widow/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 26 Sep 2007 17:23:48 +0000</pubDate>
@@ -43,8 +43,8 @@
 		<category><![CDATA[Vaudeville]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Famed vaudeville cross-dressing act Julian Eltinge performed today at the Orpheum, though the Times reported him to be &#34;a trifle too old and portly to exactly suggest the flapper &#8212; his impersonation is limited to the more matronly of the species.&#34;&#160; Eltinge was approximately 46 (reported birthdates vary), and had been doing female impersonations in&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/09/26/the-fascinating-widow/">Continue reading <span class="screen-reader-text">The Fascinating Widow</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/26/the-fascinating-widow/">The Fascinating Widow</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Famed vaudeville cross-dressing act Julian Eltinge performed today at the Orpheum, though the Times reported him to be &#34;a trifle too old and portly to exactly suggest the flapper &#8212; his impersonation is limited to the more matronly of the species.&#34;&#160; Eltinge was approximately 46 (reported birthdates vary), and had been doing female impersonations in&#8230; <a class="more-link" href="https://1947project.com/2007/09/26/the-fascinating-widow/">Continue reading <span class="screen-reader-text">The Fascinating Widow</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/26/the-fascinating-widow/">The Fascinating Widow</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -52,21 +52,21 @@
 <p>At the turn of the century. Eltinge became well known for his parodies of iconic female figures like the Gibson Girl (his was the &quot;Simpson Girl&quot;), and was lauded as &quot;the most fascinating woman on the American stage.&quot;&nbsp; In 1910, he opened <em><img loading="lazy" width="222" height="300" border="0" align="right" src="//farm2.static.flickr.com/1239/1442772795_f20585441f_o.jpg" alt="eltinge2" title="eltinge2" />The Fascinating Widow</em>, a musical comedy where he played both male and female roles, the latter of which would become his signature role.&nbsp; Eltinge was a hit, marketing his own line of magazines featuring beauty tips, as well as a line of cosmetics.&nbsp; Ads for his cold cream read, &quot;See what the Julian Eltinge cold cream does for a man.&nbsp; Imagine what it will do for a woman.&quot;</p>
 <p>Eltinge enjoyed a fairly successful career in silent film, though his weight, age, and reported alcohol abuse made it difficult for him to continue to play an ingenue.&nbsp; Additionally, Hollywood laws that made it illegal for a man to perform in women&#8217;s clothing reduced his act to singing in a tuxedo while pointing at a rack of dresses.</p>
 <p>Throughout his life, he vehemently denied rumors that he was a homosexual, saying, &quot;I am not gay.&nbsp; I just like pearls.&quot;</p>
-<p>More information on his fascinating life can be found at <a href="https://www.thejulianeltingeproject.com/" target="_blank" title="julianetingeproject">The Julian Eltinge Project</a>.</div>
+<p>More information on his fascinating life can be found at <a href="http://www.thejulianeltingeproject.com/" target="_blank" title="julianetingeproject">The Julian Eltinge Project</a>.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/26/the-fascinating-widow/">The Fascinating Widow</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/26/the-fascinating-widow/">The Fascinating Widow</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/09/26/the-fascinating-widow/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/09/26/the-fascinating-widow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The minute my back was turned, you drank all the hair tonic.</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/#respond</comments>
+		<link>https://1947project.com/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/</link>
+					<comments>https://1947project.com/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 02 Aug 2007 12:36:16 +0000</pubDate>
@@ -77,30 +77,30 @@
 		<category><![CDATA[blackface]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 2, 1927Hollywood&#160; A line stretched halfway down the block from the lobby of the Pantages Theater as eager fans waited their chance to be amused by Moran and Mack, popular blackface performers better known as Two Black Crows. Once they got inside, the audience enjoyed such trifles as a man who played Liszt on&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/">Continue reading <span class="screen-reader-text">The minute my back was turned, you drank all the hair tonic.</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/">The minute my back was turned, you drank all the hair tonic.</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 2, 1927Hollywood&#160; A line stretched halfway down the block from the lobby of the Pantages Theater as eager fans waited their chance to be amused by Moran and Mack, popular blackface performers better known as Two Black Crows. Once they got inside, the audience enjoyed such trifles as a man who played Liszt on&#8230; <a class="more-link" href="https://1947project.com/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/">Continue reading <span class="screen-reader-text">The minute my back was turned, you drank all the hair tonic.</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/">The minute my back was turned, you drank all the hair tonic.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/984908843/"><img loading="lazy" width="460" height="303" border="0" alt="Two Black Crows" src="//farm2.static.flickr.com/1075/984908843_09df2d9c78_o.png" /></a></p>
+<div><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/984908843/"><img loading="lazy" width="460" height="303" border="0" alt="Two Black Crows" src="//farm2.static.flickr.com/1075/984908843_09df2d9c78_o.png" /></a></p>
 <p>August 2, 1927<br />Hollywood&nbsp;</p>
 <p>A line stretched halfway down the block from the lobby of the Pantages Theater as eager fans waited their chance to be amused by Moran and Mack, popular blackface performers better known as Two Black Crows. Once they got inside, the audience enjoyed such trifles as a man who played Liszt on the banjo, a tap dancing sister act and the great Van Cello, who balances barrels on his feet. </p>
 <p>Moran and Mack were a great hit, and indulged the cheering crowd with two skits, a comic boxing match and Mack&#8217;s signature &quot;lazy shuffle.&quot; The evening closed with a screening of <em>Colleen</em> starring Madge Bellamy, in which Irish people were painted with a brush nearly as broad as the tar-dipped one that coats Two Black Crows. Just another night of fun and frolic in Movietown USA! &nbsp;</p>
-<p>Hear Two Black Crows in action <a target="_blank" href="https://ia300133.us.archive.org/3/items/MoranMackTwoBlackCrows/MoranMackTwoBlackCrows-EsauBuck.mp3">here</a>.</p>
+<p>Hear Two Black Crows in action <a target="_blank" href="http://ia300133.us.archive.org/3/items/MoranMackTwoBlackCrows/MoranMackTwoBlackCrows-EsauBuck.mp3">here</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/">The minute my back was turned, you drank all the hair tonic.</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/">The minute my back was turned, you drank all the hair tonic.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/02/the-minute-my-back-was-turned-you-drank-all-the-hair-tonic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://ia300133.us.archive.org/3/items/MoranMackTwoBlackCrows/MoranMackTwoBlackCrows-EsauBuck.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="http://ia300133.us.archive.org/3/items/MoranMackTwoBlackCrows/MoranMackTwoBlackCrows-EsauBuck.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 		<item>
 		<title>The Other Hilton Sisters</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/03/the-other-hilton-sisters/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/03/the-other-hilton-sisters/#respond</comments>
+		<link>https://1947project.com/2007/07/03/the-other-hilton-sisters/</link>
+					<comments>https://1947project.com/2007/07/03/the-other-hilton-sisters/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2007 00:51:43 +0000</pubDate>
@@ -112,37 +112,37 @@
 		<category><![CDATA[freaks]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 3, 1927Los Angeles Violet and Daisy Hilton are not hotel heiresses. They must work for a living, which is why you will find them at the Pantages theater this week. Nor do they resort to flashing their lady parts for attention. In fact, it may be physically difficult for them to do so: this&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/03/the-other-hilton-sisters/">Continue reading <span class="screen-reader-text">The Other Hilton Sisters</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/03/the-other-hilton-sisters/">The Other Hilton Sisters</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 3, 1927Los Angeles Violet and Daisy Hilton are not hotel heiresses. They must work for a living, which is why you will find them at the Pantages theater this week. Nor do they resort to flashing their lady parts for attention. In fact, it may be physically difficult for them to do so: this&#8230; <a class="more-link" href="https://1947project.com/2007/07/03/the-other-hilton-sisters/">Continue reading <span class="screen-reader-text">The Other Hilton Sisters</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/03/the-other-hilton-sisters/">The Other Hilton Sisters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>July 3, 1927<br />Los Angeles  </p>
-<p><a href="https://www.flickr.com/photos/lperil/698370240/" title="Photo Sharing"><img loading="lazy" width="213" height="432" border="0" src="//farm2.static.flickr.com/1367/698370240_b214b99b24_o.jpg" alt="The other Hilton sisters" /></a>  <a href="https://phreeque.tripod.com/hilton_sisters.html" /></p>
-<p><a href="https://phreeque.tripod.com/hilton_sisters.html">Violet and Daisy Hilton</a> are not hotel heiresses. They must work for a living, which is why you will find them at the Pantages theater this week. Nor do they resort to flashing their lady parts for attention. In fact, it may be physically difficult for them to do so:  this set of Hilton sisters has been joined at the hips and buttocks since their birth nineteen years ago.  </p>
-<p>Armed with the latest novels and a Pekinese dog named Boy, Violet and Daisy arrived in Los Angeles tonight from San Antonio, Texas. The twins were accompanied by their aunt, Mrs. Myer Myers, who noted that their conjoined condition does not hinder their performance of the <a href=" https://www.streetswing.com/histmain/z3blkbtm.htm">Black Bottom</a>. When not thus engaged onstage, she told reporters, the girls study with a private tutor.  </p>
+<p><a href="http://www.flickr.com/photos/lperil/698370240/" title="Photo Sharing"><img loading="lazy" width="213" height="432" border="0" src="//farm2.static.flickr.com/1367/698370240_b214b99b24_o.jpg" alt="The other Hilton sisters" /></a>  <a href="http://phreeque.tripod.com/hilton_sisters.html" /></p>
+<p><a href="http://phreeque.tripod.com/hilton_sisters.html">Violet and Daisy Hilton</a> are not hotel heiresses. They must work for a living, which is why you will find them at the Pantages theater this week. Nor do they resort to flashing their lady parts for attention. In fact, it may be physically difficult for them to do so:  this set of Hilton sisters has been joined at the hips and buttocks since their birth nineteen years ago.  </p>
+<p>Armed with the latest novels and a Pekinese dog named Boy, Violet and Daisy arrived in Los Angeles tonight from San Antonio, Texas. The twins were accompanied by their aunt, Mrs. Myer Myers, who noted that their conjoined condition does not hinder their performance of the <a href=" http://www.streetswing.com/histmain/z3blkbtm.htm">Black Bottom</a>. When not thus engaged onstage, she told reporters, the girls study with a private tutor.  </p>
 <p>The twins profess to be a happy pair. &quot;We never quarrel,&quot; Violet told reporters waiting at the train station. &quot;What&rsquo;s the use?&quot;  </p>
 <p align="center">* * * * *  </p>
 <p>What was the use, indeed? Especially when reality was so much harsher than the Hilton twins let on to reporters in 1927. Myers, for example, was not their aunt. Two weeks after their birth in Brighton, England, in 1908, Violet and Daisy were &quot;adopted&quot; by their unwed mother&#8217;s landlady, Mary Hilton, who immediately put them on display. When Hilton died, the twins were &quot;willed&quot; to Edith Myers, the wife of a carnival balloon salesman. Myers and her husband physically abused Violet and Daisy at the same time they exploited them on stage&mdash;and kept their earnings.  </p>
 <p>In 1915, Violet, Daisy, and the Myerses moved to the United States. By the 1920s, the pretty pair of conjoined twins were a sensation on the vaudeville circuit, where they danced, sang, and played the clarinet and saxophone. They were also implicated in their advance man&#8217;s divorce action. Dean Jensen&#8217;s recent biography suggests that both Violet and Daisy had in fact slept with William Oliver at the time his wife sued to dissolve their marriage.  </p>
 <p>By 1931, Violet and Daisy had had enough of the Myerses. They found an attorney who helped them break their contract, and took their career into their own hands. They appeared in Tod Browning&#8217;s classic movie, <em>Freaks</em>, in 1932.  </p>
 <p>The following year,  twenty-one states refused to issue a wedding license to Violet and her fianc&eacute;. That relationship collapsed, but Violet eventually married her dance partner in 1936 (on the 50-yard line at the Cotton Bowl during the Texas Centennial Exposition, no less). Daisy wed in 1941, but the marriage lasted only two weeks.   </p>
-<p>After the failure of their second film, <em><a href=" https://www.youtube.com/watch?v=i6W5aFdr4zQ">Chained for Life </a></em>(1950), in which they played vaudeville performers Dorothy and Vivian Hamilton, Daisy and Violet opened The Hilton Twins&#8217; Snack Bar in Miami. The venture was not a success. An attempt to cash in on the revival of <em>Freaks</em> in 1962 ended when an unscrupulous agent absconded with their money.  </p>
+<p>After the failure of their second film, <em><a href=" http://www.youtube.com/watch?v=i6W5aFdr4zQ">Chained for Life </a></em>(1950), in which they played vaudeville performers Dorothy and Vivian Hamilton, Daisy and Violet opened The Hilton Twins&#8217; Snack Bar in Miami. The venture was not a success. An attempt to cash in on the revival of <em>Freaks</em> in 1962 ended when an unscrupulous agent absconded with their money.  </p>
 <p>At the end, Violet and Daisy Hilton worked in a Charlotte, North Carolina supermarket. When they didn&#8217;t show up for work one day in 1969, the police found them dead of the &quot;Hong Kong flu&quot; in the small trailer they called home. Penniless and in debt at the time of their demise, they were buried in a donated cemetery plot. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/03/the-other-hilton-sisters/">The Other Hilton Sisters</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/03/the-other-hilton-sisters/">The Other Hilton Sisters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/03/the-other-hilton-sisters/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/03/the-other-hilton-sisters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fades</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/12/fades/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/12/fades/#respond</comments>
+		<link>https://1947project.com/2006/04/12/fades/</link>
+					<comments>https://1947project.com/2006/04/12/fades/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 12 Apr 2006 06:19:52 +0000</pubDate>
@@ -154,16 +154,16 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Pity the blind</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/12/fades/">Fades</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/12/fades/">Fades</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <span style="font-weight: bold;">Pity the blind</span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/12/fades/">Fades</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/12/fades/">Fades</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/12/fades/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/12/fades/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Mt. Vernon Junior High &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/mt-vernon-junior-high/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/mt-vernon-junior-high/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:33:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Mt. Vernon Junior High &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/19/i-never-would-have-let-marion-go/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/19/i-never-would-have-let-marion-go/#respond</comments>
+		<link>https://1947project.com/2007/12/19/i-never-would-have-let-marion-go/</link>
+					<comments>https://1947project.com/2007/12/19/i-never-would-have-let-marion-go/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 19 Dec 2007 22:01:09 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[mutilation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 19, 1927&#160; &#160; Superintendent of Schools Susan Dorsey spoke out on behalf of Mary Holt, registrar at the Mt. Vernon Junior High, saying, &#34;I spoke with Mrs Holt, and am satisfied that I would have acted as she did if I were confronted with the same circumstances.&#34; Holt excused Marion Parker from school on&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/19/i-never-would-have-let-marion-go/">Continue reading <span class="screen-reader-text">&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/19/i-never-would-have-let-marion-go/">&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 19, 1927&#160; &#160; Superintendent of Schools Susan Dorsey spoke out on behalf of Mary Holt, registrar at the Mt. Vernon Junior High, saying, &#34;I spoke with Mrs Holt, and am satisfied that I would have acted as she did if I were confronted with the same circumstances.&#34; Holt excused Marion Parker from school on&#8230; <a class="more-link" href="https://1947project.com/2007/12/19/i-never-would-have-let-marion-go/">Continue reading <span class="screen-reader-text">&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/19/i-never-would-have-let-marion-go/">&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <div align="left"><img loading="lazy" width="464" height="327" border="0" title="thefox" alt="thefox" src="//farm3.static.flickr.com/2019/2121504473_68db91f809_o.jpg" />&nbsp;</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/19/i-never-would-have-let-marion-go/">&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/19/i-never-would-have-let-marion-go/">&#8220;I Never Would Have Let Marion Go&#8230;&#8221;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/19/i-never-would-have-let-marion-go/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/19/i-never-would-have-let-marion-go/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

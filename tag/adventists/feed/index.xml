@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Adventists &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/adventists/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/adventists/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:35:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Adventists &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Physician, Kill Thyself</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/18/physician-kill-thyself/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/18/physician-kill-thyself/#respond</comments>
+		<link>https://1947project.com/2008/02/18/physician-kill-thyself/</link>
+					<comments>https://1947project.com/2008/02/18/physician-kill-thyself/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 18 Feb 2008 02:45:48 +0000</pubDate>
@@ -48,20 +48,20 @@
 		<category><![CDATA[x-rays]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 17, 1927Santa Ana The widow Alice Hanmore has a bone to pick with Evangelists, or, more specifically, the College of Medical Evangelists.&#160; Truth be told, evangelists should be, oh, evangelical, and leave the application of R&#246;ntgen rays to the professionals. &#160; In March of 1926 Alice&#8217;s husband M. J. Hanmore, a Fullerton oil worker,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/18/physician-kill-thyself/">Continue reading <span class="screen-reader-text">Physician, Kill Thyself</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 17, 1927Santa Ana The widow Alice Hanmore has a bone to pick with Evangelists, or, more specifically, the College of Medical Evangelists.&#160; Truth be told, evangelists should be, oh, evangelical, and leave the application of R&#246;ntgen rays to the professionals. &#160; In March of 1926 Alice&#8217;s husband M. J. Hanmore, a Fullerton oil worker,&#8230; <a class="more-link" href="https://1947project.com/2008/02/18/physician-kill-thyself/">Continue reading <span class="screen-reader-text">Physician, Kill Thyself</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 17, 1927<br />Santa Ana</p>
-<p><img loading="lazy" width="257" height="212" border="0" align="left" title="zapped" alt="zapped" src="//farm3.static.flickr.com/2049/2272568811_ca06e1a0a7_o.jpg" />The widow Alice Hanmore has a bone to pick with <a title="trustinfaithandviceversa" target="_blank" href="https://www.whiteestate.org/books/agp/AGPc32.html">Evangelists</a>, or, more specifically, the <a title="whitememorialtoo" target="_blank" href="https://en.wikipedia.org/wiki/Loma_Linda_University">College of Medical Evangelists</a>.&nbsp; Truth be told, evangelists should be, oh, evangelical, and leave the application of R&ouml;ntgen rays to the professionals. &nbsp;</p>
-<p>In March of 1926 Alice&#8217;s husband M. J. Hanmore, a Fullerton oil worker, began experiencing stomach pains and loss of appetite; Drs. Claude E. Steen, Emerald J. Steen and John A. Whalen of the CME/<a title="WMH" target="_blank" href="https://www.whitememorial.com/content/about/history/index.asp">White Memorial Hospital</a> decided that an intensive course of that ever-beneficial ionizing radiation would do the trick.&nbsp; Today, Alice is charging in court that &ldquo;negligent and unskillful&rdquo; employment of X-rays resulted in severe fatal burns&mdash;she&rsquo;s asking for $30,000 ($348,669 USD2007).</p>
+<p><img loading="lazy" width="257" height="212" border="0" align="left" title="zapped" alt="zapped" src="//farm3.static.flickr.com/2049/2272568811_ca06e1a0a7_o.jpg" />The widow Alice Hanmore has a bone to pick with <a title="trustinfaithandviceversa" target="_blank" href="http://www.whiteestate.org/books/agp/AGPc32.html">Evangelists</a>, or, more specifically, the <a title="whitememorialtoo" target="_blank" href="http://en.wikipedia.org/wiki/Loma_Linda_University">College of Medical Evangelists</a>.&nbsp; Truth be told, evangelists should be, oh, evangelical, and leave the application of R&ouml;ntgen rays to the professionals. &nbsp;</p>
+<p>In March of 1926 Alice&#8217;s husband M. J. Hanmore, a Fullerton oil worker, began experiencing stomach pains and loss of appetite; Drs. Claude E. Steen, Emerald J. Steen and John A. Whalen of the CME/<a title="WMH" target="_blank" href="http://www.whitememorial.com/content/about/history/index.asp">White Memorial Hospital</a> decided that an intensive course of that ever-beneficial ionizing radiation would do the trick.&nbsp; Today, Alice is charging in court that &ldquo;negligent and unskillful&rdquo; employment of X-rays resulted in severe fatal burns&mdash;she&rsquo;s asking for $30,000 ($348,669 USD2007).</p>
 <p>(Our evangelical docs Steen &amp; Steen will make the papers again in March, charged of malpractice by one Mary A. Greene of Fullerton&mdash;she goes in for an ingrown toenail, so they take that portion of the nail.&nbsp; So far so good.&nbsp; Steen &amp; Steen subsequently amputate her big toe.&nbsp; <em>Then</em> they amputate much of her leg.&nbsp; Further operations result in anthropy of Mary&#8217;s thigh muscles.&nbsp; She&rsquo;ll ask for $25,000.)</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/18/physician-kill-thyself/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/18/physician-kill-thyself/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

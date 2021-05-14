@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>ducommon street &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/ducommon-street/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/ducommon-street/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:50:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>ducommon street &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Virtue Stolen, Innocence Lost</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/21/virtue-stolen-innocence-lost/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/21/virtue-stolen-innocence-lost/#respond</comments>
+		<link>https://1947project.com/2006/03/21/virtue-stolen-innocence-lost/</link>
+					<comments>https://1947project.com/2006/03/21/virtue-stolen-innocence-lost/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 21 Mar 2006 04:27:37 +0000</pubDate>
@@ -53,8 +53,8 @@
 		<category><![CDATA[fallen woman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 20, 1907 Los Angeles&#160; Revealed today, with the arrest of M.M. Martinez, proprietor of the Esmeralda Club at Amelia and Ducommon Streets, is a terrible tale of innocence stolen. Several young girls are willing to testify that their virtue was taken from them by Martinez and club regulars following the introduction of drugged champagne&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/21/virtue-stolen-innocence-lost/">Continue reading <span class="screen-reader-text">Virtue Stolen, Innocence Lost</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/21/virtue-stolen-innocence-lost/">Virtue Stolen, Innocence Lost</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 20, 1907 Los Angeles&#160; Revealed today, with the arrest of M.M. Martinez, proprietor of the Esmeralda Club at Amelia and Ducommon Streets, is a terrible tale of innocence stolen. Several young girls are willing to testify that their virtue was taken from them by Martinez and club regulars following the introduction of drugged champagne&#8230; <a class="more-link" href="https://1947project.com/2006/03/21/virtue-stolen-innocence-lost/">Continue reading <span class="screen-reader-text">Virtue Stolen, Innocence Lost</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/21/virtue-stolen-innocence-lost/">Virtue Stolen, Innocence Lost</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -64,13 +64,13 @@
 <p>Inside the walls of this vile palace of sin unfolded the debauchery of Miss Nellie McCarthy, 668 Date Street, and Miss Julia Wood, 812 South Wall Street. Both girls are just 17 years old, and are telling their stories to Proscecuting Attorney Adcock, and are willing to repeat these horrors for a jury. The girls are being &quot;sent to Whittier&quot; because their parents do not know what to do with them.</p>
 <p>Martinez&#8217; arrest came about at the insistence of the mothers of the broken blossoms, who declared their children were pure and lovely in character before they began attending social events at the noisome venue. &nbsp;</p>
 <p><img border="0" src="//static.flickr.com/54/116202461_29ab0a9ee9_o.jpg" />&nbsp;</p>
-<p><em>Editrix&#8217; note: &quot;sent to Whittier&quot; is a euphemism that was apparently familiar enough to the readers of the 1907 newspapers to require no further elaboration. By reading numerous c. 1900 stories that included the phrase, most dealing with delinquent and sexually promiscuous youths, I discovered that Whittier was the location of the State Reformatory (above), opened in 1891; it operated as the Fred C. Nelles School through 2004, and is currently being <a href="https://www.whittiergreenleaf.com/" target="_blank">redeveloped</a> as a residential/commercial project. Henceforth I will threaten Nathan that he will be &quot;sent to Whittier&quot; should he misbehave.</em> </p>
+<p><em>Editrix&#8217; note: &quot;sent to Whittier&quot; is a euphemism that was apparently familiar enough to the readers of the 1907 newspapers to require no further elaboration. By reading numerous c. 1900 stories that included the phrase, most dealing with delinquent and sexually promiscuous youths, I discovered that Whittier was the location of the State Reformatory (above), opened in 1891; it operated as the Fred C. Nelles School through 2004, and is currently being <a href="http://www.whittiergreenleaf.com/" target="_blank">redeveloped</a> as a residential/commercial project. Henceforth I will threaten Nathan that he will be &quot;sent to Whittier&quot; should he misbehave.</em> </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/21/virtue-stolen-innocence-lost/">Virtue Stolen, Innocence Lost</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/21/virtue-stolen-innocence-lost/">Virtue Stolen, Innocence Lost</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/21/virtue-stolen-innocence-lost/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/21/virtue-stolen-innocence-lost/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

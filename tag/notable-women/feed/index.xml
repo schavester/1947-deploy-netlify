@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>notable women &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/notable-women/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/notable-women/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:34:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>notable women &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Celebrated Portia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/15/the-celebrated-portia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/15/the-celebrated-portia/#respond</comments>
+		<link>https://1947project.com/2007/08/15/the-celebrated-portia/</link>
+					<comments>https://1947project.com/2007/08/15/the-celebrated-portia/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 15 Aug 2007 15:48:31 +0000</pubDate>
@@ -43,8 +43,8 @@
 		<category><![CDATA[notable women]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 15, 1927 Los Angeles When you&#8217;re the first female jurist to serve in the state of California, celebrity finds you, whether you want it or not.&#160; Today, police began investigating a series of death threats sent to Municipal Judge Georgia Bullock.&#160; The letters had been arriving steadily for six weeks, but Bullock hadn&#8217;t taken&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/15/the-celebrated-portia/">Continue reading <span class="screen-reader-text">The Celebrated Portia</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/15/the-celebrated-portia/">The Celebrated Portia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 15, 1927 Los Angeles When you&#8217;re the first female jurist to serve in the state of California, celebrity finds you, whether you want it or not.&#160; Today, police began investigating a series of death threats sent to Municipal Judge Georgia Bullock.&#160; The letters had been arriving steadily for six weeks, but Bullock hadn&#8217;t taken&#8230; <a class="more-link" href="https://1947project.com/2007/08/15/the-celebrated-portia/">Continue reading <span class="screen-reader-text">The Celebrated Portia</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/15/the-celebrated-portia/">The Celebrated Portia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -56,10 +56,10 @@
 <p>Bullock died April 29, 1957, leaving two children, five grandchildren, and two great-grandchildren.</p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/15/the-celebrated-portia/">The Celebrated Portia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/15/the-celebrated-portia/">The Celebrated Portia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/15/the-celebrated-portia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/15/the-celebrated-portia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

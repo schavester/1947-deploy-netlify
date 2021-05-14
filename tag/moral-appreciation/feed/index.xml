@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>moral appreciation &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/moral-appreciation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/moral-appreciation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:38:34 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>moral appreciation &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Paper Hanging with the Stauber Sisters</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/#respond</comments>
+		<link>https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/</link>
+					<comments>https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 12 Feb 2008 23:47:49 +0000</pubDate>
@@ -47,11 +47,11 @@
 		<category><![CDATA[spinsters]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Los Angeles February 12, 1927 The sad story of Blanche and Grace Stauber was revealed today when the sisters, ages 44 and 51, respectively, landed in the poky after a trip to Judge Baird&#8217;s court. It seems the college-educated spinsters fell on financially hard times after they moved to California in 1910 from their native&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/">Continue reading <span class="screen-reader-text">Paper Hanging with the Stauber Sisters</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Los Angeles February 12, 1927 The sad story of Blanche and Grace Stauber was revealed today when the sisters, ages 44 and 51, respectively, landed in the poky after a trip to Judge Baird&#8217;s court. It seems the college-educated spinsters fell on financially hard times after they moved to California in 1910 from their native&#8230; <a class="more-link" href="https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/">Continue reading <span class="screen-reader-text">Paper Hanging with the Stauber Sisters</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2258953847/" title="The Stauber Sisters by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2004/2258953847_1e069ca5b6_o.jpg" width="244" height="361" alt="The Stauber Sisters" align="left"/></a>Los Angeles<br />
+<div><a href="http://www.flickr.com/photos/lperil/2258953847/" title="The Stauber Sisters by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2004/2258953847_1e069ca5b6_o.jpg" width="244" height="361" alt="The Stauber Sisters" align="left"/></a>Los Angeles<br />
 February 12, 1927</p>
 <p>The sad story of Blanche and Grace Stauber was revealed today when the sisters, ages 44 and 51, respectively, landed in the poky after a trip to Judge Baird&#8217;s court. It seems the college-educated spinsters fell on financially hard times after they moved to California in 1910 from their native Kansas. After their pleas to friends and family for monetary assistance went unheeded, Grace started forging checks. She did her best to keep knowledge of her wrongdoing from younger sisterÃ¢â‚¬â€they were daughters of a Methodist minister after all. But when Blanche inevitably discovered her sister&#8217;s malfeasance, she made a pragmatic decision:  they would &#8220;join forces in an effort to keep themselves above poverty&#8221; and, above all, avoid being separated from one another. </p>
 <p>It worked like this. Blanche and Grace would move into a small town somewhere in southern California. They&#8217;d rent a house, and Blanche would write a check in the amount of $300 to $600 (roughly $3,600 to $7,200 in today&#8217;s currency), drawn on a bank in another city. Grace would take the check to a bank in their new town, where she would open both savings and checking accounts, depositing half the check in each. Thus funded, the sisters went on a shopping spree, buying merchandise and often receiving change on their purchases. They&#8217;d be gone before the bank opened the following day. </p>
@@ -59,10 +59,10 @@ February 12, 1927</p>
 <p>Judge Baird remanded the &#8220;elderly&#8221; sisters to General Hospital, where it was determined they were sane, though lacking in &#8220;moral appreciation.&#8221; Blanche and Grace faced possible sentences of from two to twenty-eight years in San Quentin, but it was said their greatest fear remained being separated.</p>
 <p><i>Update:</i> Blanche and Grace Stauber were each sentenced to serve one year in County Jail for forgery and issuing checks without sufficient funds. They were also sentenced to five years&#8217; probation on a separate forgery charge. The sisters didn&#8217;t go quietly:  they &#8220;told probation officers they felt the church owed them a living&#8221; and only started passing paper when it didn&#8217;t come through.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

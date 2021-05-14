@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>mental hospital &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/mental-hospital/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/mental-hospital/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:36:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>mental hospital &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>God Granted Him the Serenity</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/09/god-granted-him-the-serenity/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/09/god-granted-him-the-serenity/#respond</comments>
+		<link>https://1947project.com/2007/12/09/god-granted-him-the-serenity/</link>
+					<comments>https://1947project.com/2007/12/09/god-granted-him-the-serenity/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 09 Dec 2007 10:01:31 +0000</pubDate>
@@ -49,14 +49,14 @@
 		<category><![CDATA[mental hospital]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; December 8, 1927Pasadena&#160; The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&#8217;d dementia praecox, do yourself a favor and head on over to Las Encinas. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&#160;&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/09/god-granted-him-the-serenity/">Continue reading <span class="screen-reader-text">God Granted Him the Serenity</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/09/god-granted-him-the-serenity/">God Granted Him the Serenity</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; December 8, 1927Pasadena&#160; The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&#8217;d dementia praecox, do yourself a favor and head on over to Las Encinas. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&#160;&#8230; <a class="more-link" href="https://1947project.com/2007/12/09/god-granted-him-the-serenity/">Continue reading <span class="screen-reader-text">God Granted Him the Serenity</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/09/god-granted-him-the-serenity/">God Granted Him the Serenity</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="493" height="225" border="0" title="killsself" alt="killsself" src="//farm3.static.flickr.com/2100/2096315075_f39974bb25_o.gif" /></p>
 <p><img loading="lazy" width="253" height="567" border="0" align="right" title="francis" alt="francis" src="//farm3.static.flickr.com/2283/2096315069_0cee80f5f5_o.gif" />December 8, 1927<br />Pasadena&nbsp;</p>
-<p>The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&rsquo;d dementia praecox, do yourself a favor and head on over to <a href="https://www.lasencinashospital.com/about%20our%20facility/index.php" target="_blank" title="LasEncinas">Las Encinas</a>. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&nbsp; Watch as Dr. Drew administers kindly words to one or more Osbournes, and perhaps they&rsquo;ll put you in the bungalow where W. C. Fields drank and breathed his last.&nbsp; Then tell us if you happened upon the ghosts of Francis Stevens and his sons Georgie and Francis Jr. &nbsp;</p>
+<p>The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&rsquo;d dementia praecox, do yourself a favor and head on over to <a href="http://www.lasencinashospital.com/about%20our%20facility/index.php" target="_blank" title="LasEncinas">Las Encinas</a>. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&nbsp; Watch as Dr. Drew administers kindly words to one or more Osbournes, and perhaps they&rsquo;ll put you in the bungalow where W. C. Fields drank and breathed his last.&nbsp; Then tell us if you happened upon the ghosts of Francis Stevens and his sons Georgie and Francis Jr. &nbsp;</p>
 <p>Francis E. Stevens was a Prominent Pasadenan&mdash;Vice-President of the First Trust and Savings Bank of Pasadena <em>and</em> the First National Bank of Pasadena, member of Pasadena&rsquo;s War Finance Committee, a man with a newly built home and a&hellip;lovely family. &nbsp;</p>
 <p>Lovely enough, but not entirely.&nbsp; His wife Elizabeth was prominent socially, certainly, and of his 16 year-old daughter Carol&rsquo;s charms there can be no doubt.&nbsp; But his sons&hellip;little George, 14, has been almost an invalid since birth, and &ldquo;backward&rdquo;.&nbsp; And as such the entirety of Francis&rsquo; hopes and expectations for the future rode on his namesake, Francis E. Jr., 20.&nbsp; Unfortunately, the star pupil at Univeristy of Michigan, where Francis Sr. had attended school, Francis Jr. crashed his car into a telephone pole near Ann Arbor and suffered a basal fracture that affected his mind, landing him what looked to be a permanent place back in Pasadena&#8230;at Las Encinas Sanitarium.</p>
 <p>And so Francis Sr. did what any concerned, dutiful father would do.&nbsp; He went to work at eight a.m., made light and cheery conversation the cashiers, and made certain all was in order; then went home to fetch George to take him off to James A. Garfield Grammar School (once at the NE corner of S. Pasadena and California Street).&nbsp; This he did, and the two sat outside the school, talking in the car, until about 9:15, according to witnesses.&nbsp; Then they drove off, to where, we&rsquo;ll never know.&nbsp; All we know is that Francis Sr. shot George in the head.&nbsp; And then arrived at Las Encinas at 10:15.</p>
@@ -68,10 +68,10 @@
 <p>The funeral for the Stevens men was held shortly thereafter, though in spirit, the trio were still, of course, at Las Encinas. &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/09/god-granted-him-the-serenity/">God Granted Him the Serenity</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/09/god-granted-him-the-serenity/">God Granted Him the Serenity</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/09/god-granted-him-the-serenity/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/09/god-granted-him-the-serenity/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

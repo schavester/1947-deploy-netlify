@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>killer &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/killer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/killer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:38:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>killer &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Second Time&#8217;s the Harm</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/#respond</comments>
+		<link>https://1947project.com/2008/02/02/second-times-the-harm/</link>
+					<comments>https://1947project.com/2008/02/02/second-times-the-harm/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 02 Feb 2008 06:38:03 +0000</pubDate>
@@ -51,19 +51,19 @@
 		<category><![CDATA[texas]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 1, 1927Whittier Family annihilator George Hassell was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/">Continue reading <span class="screen-reader-text">Second Time&#8217;s the Harm</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 1, 1927Whittier Family annihilator George Hassell was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their&#8230; <a class="more-link" href="https://1947project.com/2008/02/02/second-times-the-harm/">Continue reading <span class="screen-reader-text">Second Time&#8217;s the Harm</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 1, 1927<br />Whittier</p>
-<p>Family annihilator <a href="https://laurajames.typepad.com/clews/2005/08/if_ever_a_man_d.html" target="_blank">George Hassell</a> was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their little home at 236 South Whittier Avenue. There seemed no reason not to confess this, so today, with some direction from long-suspicious neighbor Myrtle Lark and a little more from the agreeable killer, Constable Bob Way crawled under the house and unearthed the body of an infant. Its mother and siblings soon followed, thus explaining the wretched odors that had long plagued the spot.</p>
+<p>Family annihilator <a href="http://laurajames.typepad.com/clews/2005/08/if_ever_a_man_d.html" target="_blank">George Hassell</a> was convicted of killing his wife and her eight children by his late brother, and has an appointment with the Texas executioner shortly. While awaiting his last date, George recalled the wife he killed in Whittier in 1917 and the three children he buried with her beneath their little home at 236 South Whittier Avenue. There seemed no reason not to confess this, so today, with some direction from long-suspicious neighbor Myrtle Lark and a little more from the agreeable killer, Constable Bob Way crawled under the house and unearthed the body of an infant. Its mother and siblings soon followed, thus explaining the wretched odors that had long plagued the spot.</p>
 <p>In slightly gayer news, the grand new Mayfair Hotel has opened in the Crown Hill district of Los Angeles, providing the ideal vantage point for a drunken oil company exec named Ray Chandler to hole up for days with his secretary while threatening suicide to all who&#8217;ll listen.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/02/second-times-the-harm/">Second Time&#8217;s the Harm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/02/second-times-the-harm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/02/second-times-the-harm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

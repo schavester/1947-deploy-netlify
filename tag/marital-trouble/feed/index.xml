@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>marital trouble &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/marital-trouble/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/marital-trouble/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:41:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>marital trouble &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Not So Meek</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/22/not-so-meek/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/22/not-so-meek/#respond</comments>
+		<link>https://1947project.com/2007/06/22/not-so-meek/</link>
+					<comments>https://1947project.com/2007/06/22/not-so-meek/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 22 Jun 2007 01:58:01 +0000</pubDate>
@@ -46,24 +46,24 @@
 		<category><![CDATA[marital trouble]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 21, 1927Pasadena&#160; &#34;Meek little wives feel the edge of the carving knife and study their husbands&#8217; necks. Anything can happen.&#34; -Raymond Chandler Subject to what was described as &#34;a subtle malady,&#34; Mrs. Katherine Dwyer, 50, stocky, determined, crept up behind husband George, Pacific Electric Railway gateman, as he stood at the kitchen sink eating&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/22/not-so-meek/">Continue reading <span class="screen-reader-text">Not So Meek</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/22/not-so-meek/">Not So Meek</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 21, 1927Pasadena&#160; &#34;Meek little wives feel the edge of the carving knife and study their husbands&#8217; necks. Anything can happen.&#34; -Raymond Chandler Subject to what was described as &#34;a subtle malady,&#34; Mrs. Katherine Dwyer, 50, stocky, determined, crept up behind husband George, Pacific Electric Railway gateman, as he stood at the kitchen sink eating&#8230; <a class="more-link" href="https://1947project.com/2007/06/22/not-so-meek/">Continue reading <span class="screen-reader-text">Not So Meek</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/22/not-so-meek/">Not So Meek</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>June 21, 1927<br />Pasadena&nbsp;</p>
 <p>&quot;Meek little wives feel the edge of the carving knife and study their husbands&#8217; necks. Anything can happen.&quot; -Raymond Chandler</p>
 <div class="postcontents">
-<p>Subject to what was described as &quot;a subtle malady,&quot; Mrs. Katherine Dwyer, 50, stocky, determined, crept up behind husband George, Pacific Electric Railway gateman, as he stood at the kitchen sink eating his lunch at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=184+carlton,+pasadena,+ca&#038;sll=34.157627,-118.15405&#038;sspn=0.008132,0.012832&#038;ie=UTF8&#038;ll=34.158711,-118.154054&#038;spn=0.008132,0.012832&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">184 Carlton Street</a>, and neatly drew a razor &#8217;round his throat. </p>
+<p>Subject to what was described as &quot;a subtle malady,&quot; Mrs. Katherine Dwyer, 50, stocky, determined, crept up behind husband George, Pacific Electric Railway gateman, as he stood at the kitchen sink eating his lunch at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=184+carlton,+pasadena,+ca&#038;sll=34.157627,-118.15405&#038;sspn=0.008132,0.012832&#038;ie=UTF8&#038;ll=34.158711,-118.154054&#038;spn=0.008132,0.012832&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">184 Carlton Street</a>, and neatly drew a razor &#8217;round his throat. </p>
 <p>Dwyer&#8217;s gurgling drew the attention of housekeeper Miss Slade, who called George Spiegel of #146 for aid. Together they wrestled the blade away from Mrs. Dwyer, Miss Slade gaining a slash to the scalp for her trouble. Policeman A.O. Boyd arrived as the second victim was attacked, and promptly signed an insanity complaint, sending the lady the psychopathic ward of General Hospital.</p>
 <p>George Dwyer may die. The couple had quarreled about their daughter, and Mrs. Dwyer, while never previously violent, had been treated for mental problems in the past. &nbsp;</p>
 </div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/22/not-so-meek/">Not So Meek</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/22/not-so-meek/">Not So Meek</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/22/not-so-meek/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/22/not-so-meek/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

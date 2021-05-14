@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Mexico &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/out-of-state/mexico-7/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/out-of-state/mexico-7/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:51:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Mexico &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vultures Circle Over Los Angeles</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/29/vultures-circle-over-los-angeles/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/29/vultures-circle-over-los-angeles/#respond</comments>
+		<link>https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/</link>
+					<comments>https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Wed, 29 Aug 2007 04:24:32 +0000</pubDate>
@@ -48,11 +48,11 @@
 		<category><![CDATA[will contest]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Los Angeles August 28, 1927 Five days ago, twenty Mexican Ã¢â‚¬Å“rebelsÃ¢â‚¬Â descended on a train carrying among its passengers a group of American schoolteachers headed back to Los Angeles after a summer session at the University of Mexico. Eyewitnesses said about 40 shots were fired into the cars, one of which hit 27-year-old Florence M.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/29/vultures-circle-over-los-angeles/">Continue reading <span class="screen-reader-text">Vultures Circle Over Los Angeles</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Los Angeles August 28, 1927 Five days ago, twenty Mexican Ã¢â‚¬Å“rebelsÃ¢â‚¬Â descended on a train carrying among its passengers a group of American schoolteachers headed back to Los Angeles after a summer session at the University of Mexico. Eyewitnesses said about 40 shots were fired into the cars, one of which hit 27-year-old Florence M.&#8230; <a class="more-link" href="https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/">Continue reading <span class="screen-reader-text">Vultures Circle Over Los Angeles</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/1263014457/" title="Photo Sharing"><img loading="lazy" src="//farm2.static.flickr.com/1388/1263014457_1653ec4fd3_o.jpg" width="367" height="250" alt="Ill-fated Tour Group" /></a></p>
+<div><a href="http://www.flickr.com/photos/lperil/1263014457/" title="Photo Sharing"><img loading="lazy" src="//farm2.static.flickr.com/1388/1263014457_1653ec4fd3_o.jpg" width="367" height="250" alt="Ill-fated Tour Group" /></a></p>
 <p>Los Angeles<br />
 August 28, 1927</p>
 <p>Five days ago, twenty Mexican Ã¢â‚¬Å“rebelsÃ¢â‚¬Â descended on a train carrying among its passengers a group of American schoolteachers headed back to Los Angeles after a summer session at the University of Mexico. Eyewitnesses said about 40 shots were fired into the cars, one of which hit 27-year-old Florence M. Anderson of 3414 Third Avenue, Los Angeles, in the left hip. Anderson, a popular member of the travel party, was taken to a hospital in Maztalan. Doctors operated on the stricken high-school Spanish teacher, but peritonitis set in and she died later the same day, the only passenger injured in the melee. </p>
@@ -64,18 +64,18 @@ August 28, 1927</p>
 <p><i>Postscript</i>. Charles Anderson gave it one more shot. On September 1, 1927, the <i>Times</i> reported that he had retained counsel and asked for a photographic copy of his daughterÃ¢â‚¬â„¢s will, which left the bulk of her $10,000 estate (about $118,000 in 2007) for the education of two young cousins, Claire and Arthur Strong (ages 13 and 11, respectively). Perhaps he thought better of it; the <i>Times</i> makes no further mention of this sordid mess.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/29/vultures-circle-over-los-angeles/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nancy Drew in Venice</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/06/nancy-drew-in-venice/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/06/nancy-drew-in-venice/#respond</comments>
+		<link>https://1947project.com/2007/07/06/nancy-drew-in-venice/</link>
+					<comments>https://1947project.com/2007/07/06/nancy-drew-in-venice/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 06 Jul 2007 02:00:14 +0000</pubDate>
@@ -90,31 +90,31 @@ August 28, 1927</p>
 		<category><![CDATA[vengeance]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 5, 1927Venice&#160; It was April 12, 1924, south of the border down Mehico way, when two brigands confronted Fedosis Alvarado on his ranch near Monte Escobeda, stole $2400 and shot him dead when he tried to defend his property. Arrested for the crime, Santiago Figueroa used the victim&#8217;s money to avoid prison time. Fedosis&#8217;&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/06/nancy-drew-in-venice/">Continue reading <span class="screen-reader-text">Nancy Drew in Venice</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/06/nancy-drew-in-venice/">Nancy Drew in Venice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 5, 1927Venice&#160; It was April 12, 1924, south of the border down Mehico way, when two brigands confronted Fedosis Alvarado on his ranch near Monte Escobeda, stole $2400 and shot him dead when he tried to defend his property. Arrested for the crime, Santiago Figueroa used the victim&#8217;s money to avoid prison time. Fedosis&#8217;&#8230; <a class="more-link" href="https://1947project.com/2007/07/06/nancy-drew-in-venice/">Continue reading <span class="screen-reader-text">Nancy Drew in Venice</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/06/nancy-drew-in-venice/">Nancy Drew in Venice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>July 5, 1927<br />Venice&nbsp;</p>
 <p>It was April 12, 1924, south of the border down Mehico way, when two brigands confronted Fedosis Alvarado on his ranch near Monte Escobeda, stole $2400 and shot him dead when he tried to defend his property. Arrested for the crime, Santiago Figueroa used the victim&#8217;s money to avoid prison time.</p>
-<p>Fedosis&#8217; daughter, Maria Alvarado Gomez, was not satified with the verdict, and when she heard her father&#8217;s killer had moved to the beach at Los Angeles, she followed, taking a home at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1508+Pennsylvania+Avenue,+Santa+Monica,+ca&#038;sll=37.0625,-95.677068&#038;sspn=63.215425,105.117188&#038;ie=UTF8&#038;ll=34.032034,-118.469524&#038;spn=0.016467,0.025663&#038;z=15&#038;iwloc=cent&#038;om=1" target="_blank">1508 Pennsylvania Avenue, Santa Monica</a>. She haunted the public spaces along the shore, not in a spirit of seaside pleasure seeking, but in single-minded pursuit of the man whose face was burned into her brain.</p>
+<p>Fedosis&#8217; daughter, Maria Alvarado Gomez, was not satified with the verdict, and when she heard her father&#8217;s killer had moved to the beach at Los Angeles, she followed, taking a home at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=1508+Pennsylvania+Avenue,+Santa+Monica,+ca&#038;sll=37.0625,-95.677068&#038;sspn=63.215425,105.117188&#038;ie=UTF8&#038;ll=34.032034,-118.469524&#038;spn=0.016467,0.025663&#038;z=15&#038;iwloc=cent&#038;om=1" target="_blank">1508 Pennsylvania Avenue, Santa Monica</a>. She haunted the public spaces along the shore, not in a spirit of seaside pleasure seeking, but in single-minded pursuit of the man whose face was burned into her brain.</p>
 <p>Last night, as crowds packed the streets of Venice for Fourth of July revelry, she finally saw him and cried out to her friends, &quot;There he is, the murderer of my father, hold him, don&#8217;t let him get away!&quot;&nbsp; But in Spanish, because, you know, everyone involved spoke Spanish.</p>
 <p>Traffic Officer Carter happened on the scene and took the players into custody, calling in auto camp manager Howard Wesson to translate. Once the story was explained, an envoy was dispatched to the Mexican Consulate, to determine if Figueroa was wanted in his homeland.</p>
 <p>Obviously not, since there was no follow up story on the incident. Poor Maria. Should there be a next time, may we suggest she be prepared to exact her own swift justice on her prey, and not make the mistake of trusting law or nations to supply a daughter&#8217;s long overdue justice.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/06/nancy-drew-in-venice/">Nancy Drew in Venice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/06/nancy-drew-in-venice/">Nancy Drew in Venice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/06/nancy-drew-in-venice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/06/nancy-drew-in-venice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In the Days Before Polonium</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/30/in-the-days-before-polonium/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/30/in-the-days-before-polonium/#respond</comments>
+		<link>https://1947project.com/2006/11/30/in-the-days-before-polonium/</link>
+					<comments>https://1947project.com/2006/11/30/in-the-days-before-polonium/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 30 Nov 2006 15:13:13 +0000</pubDate>
@@ -126,27 +126,27 @@ August 28, 1927</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 30, 1907 Los Angeles A secret witness in the trial of the Mexican revolutionaries</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/30/in-the-days-before-polonium/">In the Days Before Polonium</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/30/in-the-days-before-polonium/">In the Days Before Polonium</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1130A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 90px;" src="//www.lmharnisch.com/images/1907_1130A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1130A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 90px;" src="//www.lmharnisch.com/images/1907_1130A.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 30, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">A secret witness in the trial of the <a href="https://pensive-torvalds-020d34.netlify.app/tags/mexico">Mexican revolutionaries</a></span><span style="font-size:100%;"></div>
+</span><span style="font-size:100%;">A secret witness in the trial of the <a href="https://1947project.com/tags/mexico">Mexican revolutionaries</a></span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/30/in-the-days-before-polonium/">In the Days Before Polonium</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/30/in-the-days-before-polonium/">In the Days Before Polonium</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/30/in-the-days-before-polonium/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/30/in-the-days-before-polonium/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Who Are Those Guys?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/27/who-are-those-guys/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/27/who-are-those-guys/#respond</comments>
+		<link>https://1947project.com/2006/11/27/who-are-those-guys/</link>
+					<comments>https://1947project.com/2006/11/27/who-are-those-guys/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 27 Nov 2006 15:55:16 +0000</pubDate>
@@ -159,28 +159,28 @@ August 28, 1927</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 27, 1907 Los Angeles A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries Ricardo Flores Magon, Antonio Villareal and Librado Rivera in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 345px; height: 195px;" src="//www.lmharnisch.com/images/1907_1127A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 345px; height: 195px;" src="//www.lmharnisch.com/images/1907_1127A.jpg" alt="" border="0" /></a><br />
 Nov. 27, 1907<br />
 Los Angeles    </p>
-<p class="MsoNormal">A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries <a href="https://pensive-torvalds-020d34.netlify.app/we-are-revolutionists">Ricardo Flores Magon, Antonio Villareal and Librado Rivera</a> in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.</p>
+<p class="MsoNormal">A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries <a href="https://1947project.com/we-are-revolutionists">Ricardo Flores Magon, Antonio Villareal and Librado Rivera</a> in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/27/who-are-those-guys/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/27/who-are-those-guys/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Deadlier Than Male</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/14/deadlier-than-male/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/14/deadlier-than-male/#respond</comments>
+		<link>https://1947project.com/2006/11/14/deadlier-than-male/</link>
+					<comments>https://1947project.com/2006/11/14/deadlier-than-male/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 14 Nov 2006 15:43:03 +0000</pubDate>
@@ -190,29 +190,29 @@ Los Angeles    </p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Sept. 19, 1907 Los Angeles</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/14/deadlier-than-male/">Deadlier Than Male</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/14/deadlier-than-male/">Deadlier Than Male</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/talivera.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/talivera.jpg" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0919.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 411px; height: 106px;" src="//lmharnisch.com/images/1907_0919.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/talivera.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/talivera.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0919.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 411px; height: 106px;" src="//lmharnisch.com/images/1907_0919.jpg" alt="" border="0" /></a></p>
 <p><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Sept. 19, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/14/deadlier-than-male/">Deadlier Than Male</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/14/deadlier-than-male/">Deadlier Than Male</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/14/deadlier-than-male/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/14/deadlier-than-male/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Revolutionary Defense Fund</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/13/the-revolutionary-defense-fund/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/13/the-revolutionary-defense-fund/#respond</comments>
+		<link>https://1947project.com/2006/11/13/the-revolutionary-defense-fund/</link>
+					<comments>https://1947project.com/2006/11/13/the-revolutionary-defense-fund/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 13 Nov 2006 16:20:25 +0000</pubDate>
@@ -226,26 +226,26 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 13, 1907 Los Angeles An uproarious meeting was held last night at Simpson Auditorium to raise money for the four Mexican revolutionaries being held in the Los Angeles County Jail. The hall was packed with</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1113B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 320px;" src="//www.lmharnisch.com/images/1907_1113B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1113B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 320px;" src="//www.lmharnisch.com/images/1907_1113B.jpg" alt="" border="0" /></a><br />
 Nov. 13, 1907<br />
 Los Angeles    </p>
-<p class="MsoNormal">An uproarious meeting was held last night at Simpson Auditorium to raise money for the <a href="https://pensive-torvalds-020d34.netlify.app/we-are-revolutionists">four Mexican revolutionaries</a> being held in the Los Angeles County Jail. The hall was packed with </div>
+<p class="MsoNormal">An uproarious meeting was held last night at Simpson Auditorium to raise money for the <a href="https://1947project.com/we-are-revolutionists">four Mexican revolutionaries</a> being held in the Los Angeles County Jail. The hall was packed with </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/13/the-revolutionary-defense-fund/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/13/the-revolutionary-defense-fund/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Are Revolutionists!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/09/we-are-revolutionists/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/09/we-are-revolutionists/#respond</comments>
+		<link>https://1947project.com/2006/11/09/we-are-revolutionists/</link>
+					<comments>https://1947project.com/2006/11/09/we-are-revolutionists/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 09 Nov 2006 16:24:52 +0000</pubDate>
@@ -254,24 +254,24 @@ Los Angeles    </p>
 		<category><![CDATA[revolution]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 9, 1907 Los Angeles Local sympathizers, anarchists and Socialists are organizing a mass meeting to protest the imprisonment of Ricardo Flores Magon, Librado Rivera, Antonio Villareal and L. Gutierrez De Lara, who are being held on charges of trying to overthrow the Mexican government. After years of avoiding capture, Magon, Rivera and Villareal were&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/09/we-are-revolutionists/">Continue reading <span class="screen-reader-text">We Are Revolutionists!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/09/we-are-revolutionists/">We Are Revolutionists!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 9, 1907 Los Angeles Local sympathizers, anarchists and Socialists are organizing a mass meeting to protest the imprisonment of Ricardo Flores Magon, Librado Rivera, Antonio Villareal and L. Gutierrez De Lara, who are being held on charges of trying to overthrow the Mexican government. After years of avoiding capture, Magon, Rivera and Villareal were&#8230; <a class="more-link" href="https://1947project.com/2006/11/09/we-are-revolutionists/">Continue reading <span class="screen-reader-text">We Are Revolutionists!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/09/we-are-revolutionists/">We Are Revolutionists!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1109A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 359px; height: 240px;" src="//www.lmharnisch.com/images/1907_1109A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1109A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 359px; height: 240px;" src="//www.lmharnisch.com/images/1907_1109A.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 9, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
-</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1109_magon.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 167px; height: 235px;" src="//www.lmharnisch.com/images/1907_1109_magon.jpg" alt="" border="0" /></a><br />
+</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1109_magon.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 167px; height: 235px;" src="//www.lmharnisch.com/images/1907_1109_magon.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Local sympathizers, anarchists and Socialists are organizing a mass meeting to protest the imprisonment of Ricardo Flores Magon, Librado Rivera, Antonio Villareal and L. Gutierrez De Lara, who are being held on charges of trying to overthrow the Mexican government.<br />
 </span><br />
 <span style="font-size:100%;">After years of avoiding capture, Magon, Rivera and Villareal were arrested Aug. 23 at 111 E. Pico St. after a brawl with Thomas Furlong of the Furlong Secret Service Bureau of St. Louis, along with Los Angeles Police Detectives Felipe Talamantes, Thomas F. Rico and two deputies. De Lara was arrested by U.S. marshals at 420 W. 4th St.  on Sept. 27.<br />
-</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1109_villareal.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 155px; height: 169px;" src="//www.lmharnisch.com/images/1907_1109_villareal.jpg" alt="" border="0" /></a><br />
+</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1109_villareal.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 155px; height: 169px;" src="//www.lmharnisch.com/images/1907_1109_villareal.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">The Times said of the August incident: </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/09/we-are-revolutionists/">We Are Revolutionists!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/09/we-are-revolutionists/">We Are Revolutionists!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/09/we-are-revolutionists/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/09/we-are-revolutionists/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

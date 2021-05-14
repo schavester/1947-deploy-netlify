@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>San Quentin &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/justice/san-quentin-9/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/justice/san-quentin-9/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:08:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>San Quentin &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Local Man Sets Record</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/21/local-man-sets-record/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/21/local-man-sets-record/#respond</comments>
+		<link>https://1947project.com/2008/01/21/local-man-sets-record/</link>
+					<comments>https://1947project.com/2008/01/21/local-man-sets-record/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 21 Jan 2008 01:35:45 +0000</pubDate>
@@ -50,31 +50,31 @@
 		<category><![CDATA[Scott Stone]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 20, 1927Los Angeles A short notice in the paper today about Sidney (or Sydney) Adams who, on August 2, 1925 (most likely) mortally shot his wife Annie in their home at 1234 East Twenty-First Street. Despite there being a chance for a difference&#8212;Adams steadily asserted that the woman committed suicide&#8212;on October 12, 1925 it&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/21/local-man-sets-record/">Continue reading <span class="screen-reader-text">Local Man Sets Record</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/21/local-man-sets-record/">Local Man Sets Record</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 20, 1927Los Angeles A short notice in the paper today about Sidney (or Sydney) Adams who, on August 2, 1925 (most likely) mortally shot his wife Annie in their home at 1234 East Twenty-First Street. Despite there being a chance for a difference&#8212;Adams steadily asserted that the woman committed suicide&#8212;on October 12, 1925 it&#8230; <a class="more-link" href="https://1947project.com/2008/01/21/local-man-sets-record/">Continue reading <span class="screen-reader-text">Local Man Sets Record</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/21/local-man-sets-record/">Local Man Sets Record</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>January 20, 1927<br />Los Angeles</p>
-<p>A short notice in the paper today about Sidney (or Sydney) Adams who, on August 2, 1925 (most likely) mortally shot his wife Annie in their home at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1234+e+21st+st,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=66.711008,114.257813&#038;ie=UTF8&#038;ll=34.023358,-118.252923&#038;spn=0.001089,0.001743&#038;t=h&#038;z=19&#038;om=0" target="_blank" title="adamsfamily">1234 East Twenty-First Street</a>.</p>
-<p><img loading="lazy" width="250" height="132" border="0" align="right" title="august25" alt="august25" src="//farm3.static.flickr.com/2230/2207992374_7235e3b9f2_o.jpg" />Despite there being a chance for a difference&mdash;Adams steadily asserted that the woman <a title="itcouldhappen" target="_blank" href="https://defamer.com/hollywood/spectorwatch/defense-maintains-lana-clarkson-used-phil-spector-for-his-great-suicide-connections-279424.php">committed suicide</a>&mdash;on October 12, 1925 it took a Los Angeles jury a record twenty-five minutes to send him to the gallows.&nbsp; (This being in part or wholly dependent on Adams&rsquo; race seems obvious&mdash;writ large as he&rsquo;s routinely described as the &ldquo;giant negro,&rdquo; a term of which Times seems unusually <a href="https://pensive-torvalds-020d34.netlify.app/?p=2039" target="_blank" title="samewriter?">fond</a>.)</p>
-<p>Hangings were on the mind of all Californians as executions ushered in <a href="https://en.wikipedia.org/wiki/C._C._Young" target="_blank" title="CandCMusicFactory">C. C. Young</a>&rsquo;s gubernatorial regime. The previous four years of <a href="https://en.wikipedia.org/wiki/Friend_Richardson" target="_blank" title="yourfriendandmine">Friend Richardson</a>&rsquo;s governorship were marked by constant rejections of eleventh-hour appeals for executive clemency; in a show of consistency <a href="https://www.imdb.com/title/tt0247384/" target="_blank" title="thegreateststoryevertold">Young</a> had five executions in the first five weeks of his stewardship and saw that each one went through unchallenged. &nbsp;</p>
+<p>A short notice in the paper today about Sidney (or Sydney) Adams who, on August 2, 1925 (most likely) mortally shot his wife Annie in their home at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1234+e+21st+st,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=66.711008,114.257813&#038;ie=UTF8&#038;ll=34.023358,-118.252923&#038;spn=0.001089,0.001743&#038;t=h&#038;z=19&#038;om=0" target="_blank" title="adamsfamily">1234 East Twenty-First Street</a>.</p>
+<p><img loading="lazy" width="250" height="132" border="0" align="right" title="august25" alt="august25" src="//farm3.static.flickr.com/2230/2207992374_7235e3b9f2_o.jpg" />Despite there being a chance for a difference&mdash;Adams steadily asserted that the woman <a title="itcouldhappen" target="_blank" href="http://defamer.com/hollywood/spectorwatch/defense-maintains-lana-clarkson-used-phil-spector-for-his-great-suicide-connections-279424.php">committed suicide</a>&mdash;on October 12, 1925 it took a Los Angeles jury a record twenty-five minutes to send him to the gallows.&nbsp; (This being in part or wholly dependent on Adams&rsquo; race seems obvious&mdash;writ large as he&rsquo;s routinely described as the &ldquo;giant negro,&rdquo; a term of which Times seems unusually <a href="https://1947project.com/?p=2039" target="_blank" title="samewriter?">fond</a>.)</p>
+<p>Hangings were on the mind of all Californians as executions ushered in <a href="http://en.wikipedia.org/wiki/C._C._Young" target="_blank" title="CandCMusicFactory">C. C. Young</a>&rsquo;s gubernatorial regime. The previous four years of <a href="http://en.wikipedia.org/wiki/Friend_Richardson" target="_blank" title="yourfriendandmine">Friend Richardson</a>&rsquo;s governorship were marked by constant rejections of eleventh-hour appeals for executive clemency; in a show of consistency <a href="http://www.imdb.com/title/tt0247384/" target="_blank" title="thegreateststoryevertold">Young</a> had five executions in the first five weeks of his stewardship and saw that each one went through unchallenged. &nbsp;</p>
 <p><img loading="lazy" width="271" height="66" border="0" title="payspenalty" alt="payspenalty" src="//farm3.static.flickr.com/2036/2207992376_e17a08d858_o.jpg" /></p>
-<p>There were six sitting in San Quentin&rsquo;s death row when <a href="https://pensive-torvalds-020d34.netlify.app/?p=1902" target="_blank" title="stoneletter">S. C. Stone</a>&nbsp; joined the bunch on January 6, 1927&mdash;making it lucky number seven.&nbsp; Adams&rsquo; departure today took it back down to six.</p>
+<p>There were six sitting in San Quentin&rsquo;s death row when <a href="https://1947project.com/?p=1902" target="_blank" title="stoneletter">S. C. Stone</a>&nbsp; joined the bunch on January 6, 1927&mdash;making it lucky number seven.&nbsp; Adams&rsquo; departure today took it back down to six.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/21/local-man-sets-record/">Local Man Sets Record</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/21/local-man-sets-record/">Local Man Sets Record</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/21/local-man-sets-record/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/21/local-man-sets-record/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Weird Tale of the Wig Lady</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/#respond</comments>
+		<link>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/</link>
+					<comments>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 30 Nov 2007 19:18:09 +0000</pubDate>
@@ -90,16 +90,16 @@
 		<category><![CDATA[wig]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 30, 1927Alhambra Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">Continue reading <span class="screen-reader-text">The Weird Tale of the Wig Lady</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 30, 1927Alhambra Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room&#8230; <a class="more-link" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">Continue reading <span class="screen-reader-text">The Weird Tale of the Wig Lady</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a title="Nona Lesher, the wig lady by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785111/"><img loading="lazy" width="390" height="508" border="0" alt="Nona Lesher, the wig lady" src="//farm3.static.flickr.com/2270/2075785111_c65923f8a5_o.png" /></a></p>
+<div><a title="Nona Lesher, the wig lady by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785111/"><img loading="lazy" width="390" height="508" border="0" alt="Nona Lesher, the wig lady" src="//farm3.static.flickr.com/2270/2075785111_c65923f8a5_o.png" /></a></p>
 <p>November 30, 1927<br />Alhambra</p>
 <p>Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. </p>
 <p>But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room shared by Nona, hubby Harvey (or Harry), half-brother Phil Rohan and pal Mike Garvey at 2048 West Twentieth Street were an unheard of 61 pairs of shoes and twenty hats, plus Harry, Phil and the aforementioned wigs.</p>
-<p><a title="Harrt Lesher, wig lady's accomplice by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785107/"><img loading="lazy" width="98" height="175" border="0" alt="Harrt Lesher, wig lady's accomplice" src="//farm3.static.flickr.com/2414/2075785107_e2bb414821_o.png" /></a></p>
-<p><a title="Phil Rohan, wig lady's accomplice by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785105/"><img loading="lazy" width="100" height="177" border="0" alt="Phil Rohan, wig lady's accomplice" src="//farm3.static.flickr.com/2051/2075785105_ceedc63b28_o.png" /></a></p>
+<p><a title="Harrt Lesher, wig lady's accomplice by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785107/"><img loading="lazy" width="98" height="175" border="0" alt="Harrt Lesher, wig lady's accomplice" src="//farm3.static.flickr.com/2414/2075785107_e2bb414821_o.png" /></a></p>
+<p><a title="Phil Rohan, wig lady's accomplice by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785105/"><img loading="lazy" width="100" height="177" border="0" alt="Phil Rohan, wig lady's accomplice" src="//farm3.static.flickr.com/2051/2075785105_ceedc63b28_o.png" /></a></p>
 <p> The men soon became suspects in the November 1 drug store beating death of proprietor A.R. Miles (or A.M. Miller) at 2329 West Jefferson after Lesher allegedly confessed to friend H.S. Walton, &quot;I pulled that West Jefferson job&mdash;I hit Miles over the head and when he came to and called me &#8216;Heinie&#8217; I finished him with my feet.&quot; However, Walton later said he had been so drunk that night, he might have imagined the whole thing, had only spoken out because he&#8217;d been told charges against him would be dropped if he did, and anyway, he believed the trio was innocent.</p>
 <p>Still, 10-year-old witness Eddie Yates ID&#8217;d Phil Rohan as the youth in a snazzy blue and white sweater who he&#8217;d seen dashing from the crime scene. Lesher and Garvey also looked familiar to the boy. Roberta Scriver, sitting in a car outside the drug store, also identified the trio. Simple robbery-murder case with eyewitnesses, eh?</p>
 <p>But then a cop&#8217;s badge was found in Mike Garvey&#8217;s possession, leading to the arrest of 77th Street Division policeman George H. Foster, the Wig Gang&#8217;s next door neighbor, on charges that he&#8217;d used the badge to shake down bootlegger John Sykes for $57 in exchange for not noticing a quantity of liquor stored in a vacant house; Rohan and Garvey supposedly served as muscle on the robbery, and somehow Garvey ended up with the badge.</p>
@@ -108,18 +108,18 @@
 <p>Once freed, the trio sought $5000 each in payment from the state for their ordeal, while Lesher and Rohan&#8217;s mother Carrie testified she&#8217;d spent $6000 on their defense and appeals. During this hearing, which was ultimately unsuccessful, an Alhambra Detective offered the hitherto unknown information that their arrest had resulted from a tip from the Wig Lady herself, Nona Lesher. It was unclear if she had remained true to Harvey during his incarceration, but one assumes the marriage didn&#8217;t survive this revelation. At least their mother still loved &#8217;em!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/#respond</comments>
+		<link>https://1947project.com/2007/08/13/this-aint-no-party/</link>
+					<comments>https://1947project.com/2007/08/13/this-aint-no-party/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 13 Aug 2007 14:49:17 +0000</pubDate>
@@ -136,34 +136,34 @@
 		<category><![CDATA[Eleanor Roosevelt]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 13, 1927Los Angeles These days a petting party can be dangerous in more ways than one&#8230;just ask Dagmar Carlson.&#160;Dagmar Carlson, 324 South Rimpau Street, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/">Continue reading <span class="screen-reader-text">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 13, 1927Los Angeles These days a petting party can be dangerous in more ways than one&#8230;just ask Dagmar Carlson.&#160;Dagmar Carlson, 324 South Rimpau Street, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and&#8230; <a class="more-link" href="https://1947project.com/2007/08/13/this-aint-no-party/">Continue reading <span class="screen-reader-text">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="Petting Party Headline" height="173" alt="Petting Party Headline" src="//farm2.static.flickr.com/1435/1105016936_3c25ba6054_o.jpg" width="212" border="0" /></p>
 <p>August 13, 1927<br />Los Angeles</p>
-<p>These days a petting party can be dangerous in more ways than one&hellip;just ask Dagmar Carlson.<br />&nbsp;<img loading="lazy" title="Dagmar Carlson" height="240" alt="Dagmar Carlson" src="//farm2.static.flickr.com/1141/1105017012_178a73cf4d_m.jpg" width="112" align="left" border="0" /><br />Dagmar Carlson, <a title="324 South Rimpau" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=324+South+Rimpau+Street,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=43.393645,80.595703&#038;ie=UTF8&#038;ll=34.067343,-118.329449&#038;spn=0.011127,0.019677&#038;z=16&#038;om=1" target="_blank">324 South Rimpau Street</a>, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and a notebook.</p>
+<p>These days a petting party can be dangerous in more ways than one&hellip;just ask Dagmar Carlson.<br />&nbsp;<img loading="lazy" title="Dagmar Carlson" height="240" alt="Dagmar Carlson" src="//farm2.static.flickr.com/1141/1105017012_178a73cf4d_m.jpg" width="112" align="left" border="0" /><br />Dagmar Carlson, <a title="324 South Rimpau" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=324+South+Rimpau+Street,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=43.393645,80.595703&#038;ie=UTF8&#038;ll=34.067343,-118.329449&#038;spn=0.011127,0.019677&#038;z=16&#038;om=1" target="_blank">324 South Rimpau Street</a>, and her escort, William Wade were necking in his car when a trio of bandits appeared and held them at gun point, relieving William of his wrist watch, billfold and a notebook.</p>
 <p>As a witness for the prosecution Dagmar told Judge Baird, &ldquo;When they stuck that gun in my face and told me to stick up my hands, that&rsquo;s just what I did.&rdquo;</p>
 <p>Five men have been implicated in a series of petting party hold-ups, but only three have been charged with robbing Dagmar and William. The three men are: Jack Olympus, Clyde Thomas and Elmer Smith.&nbsp; The remaining members of the gang, Orville Kindig and Maurice Schott, were ordered to be held on two other counts of robbery. Deputy DA Crail said that seventeen more counts of robbery will be filed against the men within the next few days.&nbsp; Each of the crooks is being held on $10,000 bail ($119,742.53 USD 2007).</p>
-<p>Petting party bandits continued to be the scourge of dark side streets and remote lover&rsquo;s lanes all over the country. One of the most famous criminal cases in the history of Los Angeles would be that of notorious &ldquo;Red Light Bandit&rdquo;, <a title="Caryl Chessman" href="https://en.wikipedia.org/wiki/Caryl_Chessman" target="_blank">Caryl Chessman</a>. Chessman, reform school alum and former prison escapee, would be paroled in December 1947. On January 23, 1948 he would be arrested on seventeen counts of robbery, kidnapping and rape. </p>
-<p>Legal maneuvering and numerous appeals, particularly regarding the application of California&rsquo;s <a title="Little Lindbergh Law" href="https://en.wikipedia.org/wiki/Federal_Kidnapping_Act" target="_blank">&ldquo;Little Lindbergh&rdquo;</a> law, would keep his case in the courts for twelve years. He wrote four books while on death row, all became bestsellers. His case achieved so much notoriety that many famous people including Aldous Huxley, Ray Bradbury, Eleanor Roosevelt and Billy Graham, petitioned Governor Edmund G. Brown (an opponent of the death penalty) for clemency on the death row inmate&rsquo;s behalf. </p>
+<p>Petting party bandits continued to be the scourge of dark side streets and remote lover&rsquo;s lanes all over the country. One of the most famous criminal cases in the history of Los Angeles would be that of notorious &ldquo;Red Light Bandit&rdquo;, <a title="Caryl Chessman" href="http://en.wikipedia.org/wiki/Caryl_Chessman" target="_blank">Caryl Chessman</a>. Chessman, reform school alum and former prison escapee, would be paroled in December 1947. On January 23, 1948 he would be arrested on seventeen counts of robbery, kidnapping and rape. </p>
+<p>Legal maneuvering and numerous appeals, particularly regarding the application of California&rsquo;s <a title="Little Lindbergh Law" href="http://en.wikipedia.org/wiki/Federal_Kidnapping_Act" target="_blank">&ldquo;Little Lindbergh&rdquo;</a> law, would keep his case in the courts for twelve years. He wrote four books while on death row, all became bestsellers. His case achieved so much notoriety that many famous people including Aldous Huxley, Ray Bradbury, Eleanor Roosevelt and Billy Graham, petitioned Governor Edmund G. Brown (an opponent of the death penalty) for clemency on the death row inmate&rsquo;s behalf. </p>
 <p><img loading="lazy" title="Caryl Chessman" height="240" alt="Caryl Chessman" src="//farm2.static.flickr.com/1132/1105016726_eff9fe00cf_m.jpg" width="182" align="right" border="0" /></p>
 <p>Over the years he was granted eight reprieves &ndash; but Chessman was finally strapped into the chair in San Quentin&rsquo;s lethal gas chamber on May 2, 1960. As the chamber filled with cyanide the emergency telephone rang, but the call came seconds too late to stop the execution. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/13/this-aint-no-party/">This AinÃ¢â‚¬â„¢t No PartyÃ¢â‚¬Â¦</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/13/this-aint-no-party/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/13/this-aint-no-party/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>If I Had a Hammer</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/16/if-i-had-a-hammer/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/16/if-i-had-a-hammer/#respond</comments>
+		<link>https://1947project.com/2007/07/16/if-i-had-a-hammer/</link>
+					<comments>https://1947project.com/2007/07/16/if-i-had-a-hammer/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 16 Jul 2007 01:53:18 +0000</pubDate>
@@ -176,32 +176,32 @@
 		<category><![CDATA[hammer]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 16, 1927 Los Angeles &#8220;If I had a hammer I&#8217;d hammer in the morning I&#8217;d hammer in the evening&#8230;&#8221; &#8212; &#8220;If I Had a Hammer&#8221;, written by Lee Hayes and Pete Seeger Jacob Goldstein, President of Rothschild Mortgage and Finance, permanently ended his business partnership with the firm&#8217;s Vice President, Joseph Stern, by bashing&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/16/if-i-had-a-hammer/">Continue reading <span class="screen-reader-text">If I Had a Hammer</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/16/if-i-had-a-hammer/">If I Had a Hammer</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 16, 1927 Los Angeles &#8220;If I had a hammer I&#8217;d hammer in the morning I&#8217;d hammer in the evening&#8230;&#8221; &#8212; &#8220;If I Had a Hammer&#8221;, written by Lee Hayes and Pete Seeger Jacob Goldstein, President of Rothschild Mortgage and Finance, permanently ended his business partnership with the firm&#8217;s Vice President, Joseph Stern, by bashing&#8230; <a class="more-link" href="https://1947project.com/2007/07/16/if-i-had-a-hammer/">Continue reading <span class="screen-reader-text">If I Had a Hammer</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/16/if-i-had-a-hammer/">If I Had a Hammer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="219" height="240" border="0" src="//farm2.static.flickr.com/1347/803978316_c8597d7985_o.jpg" alt="If I Had a Hammer headline" title="If I Had a Hammer headline" /></p>
 <p>July 16, 1927 <br />Los Angeles </p>
-<p align="right">&ldquo;If I had a hammer <br />I&#8217;d hammer in the morning <br />I&#8217;d hammer in the evening&hellip;&rdquo; <br />&#8212; &ldquo;<a target="_blank" href="https://en.wikipedia.org/wiki/If_I_Had_a_Hammer" title="If I Had a Hammer">If I Had a Hammer</a>&rdquo;, written by Lee Hayes and Pete Seeger </p>
+<p align="right">&ldquo;If I had a hammer <br />I&#8217;d hammer in the morning <br />I&#8217;d hammer in the evening&hellip;&rdquo; <br />&#8212; &ldquo;<a target="_blank" href="http://en.wikipedia.org/wiki/If_I_Had_a_Hammer" title="If I Had a Hammer">If I Had a Hammer</a>&rdquo;, written by Lee Hayes and Pete Seeger </p>
 <p>Jacob Goldstein, President of Rothschild Mortgage and Finance, permanently ended his business partnership with the firm&rsquo;s Vice President,<img loading="lazy" width="106" height="240" border="0" align="right" src="//farm2.static.flickr.com/1315/803978172_899c30089f_m.jpg" alt="Jacob Goldstein" title="Jacob Goldstein" /> Joseph Stern, by bashing him four times over the head with a hammer and firing three bullets from a revolver into his body. It would have been less messy if only Goldstein had let an attorney handle the dissolution. </p>
-<p>Goldstein denied premeditating the attack, which occurred in the company&rsquo;s elaborately furnished offices at 505 <a target="_blank" href="https://en.wikipedia.org/wiki/Farmers_and_Merchants_Bank" title="Hellman">Hellman Bank Building</a>, and swore to police that he had acted in self-defense. According to Goldstein, Stern had behaved like a lunatic and had menaced him with a hammer during a quarrel over business matters. Goldstein further stated that he was in fear of his life when he wrenched the hammer away from his future former partner, and then used the tool to crush the man&rsquo;s skull. The <a target="_blank" href="https://en.wikipedia.org/wiki/Coup_de_gr%C3%A2ce" title="coup de grace">coup de grace</a> was delivered with the revolver he had purchased the day before. </p>
+<p>Goldstein denied premeditating the attack, which occurred in the company&rsquo;s elaborately furnished offices at 505 <a target="_blank" href="http://en.wikipedia.org/wiki/Farmers_and_Merchants_Bank" title="Hellman">Hellman Bank Building</a>, and swore to police that he had acted in self-defense. According to Goldstein, Stern had behaved like a lunatic and had menaced him with a hammer during a quarrel over business matters. Goldstein further stated that he was in fear of his life when he wrenched the hammer away from his future former partner, and then used the tool to crush the man&rsquo;s skull. The <a target="_blank" href="http://en.wikipedia.org/wiki/Coup_de_gr%C3%A2ce" title="coup de grace">coup de grace</a> was delivered with the revolver he had purchased the day before. </p>
 <p>Police found Goldstein&rsquo;s explanation unbelievable and charged him with first degree murder. Goldstein entered a not guilty plea at his arraignment but was later allowed to plead guilty to manslaughter, for which he received a sentence of from one to ten years in the state pen. </p>
 <p>It&rsquo;s not easy to get kicked out of California forever, but Jacob Goldstein managed it. On the condition that he would move to Forest Hills, New York to live with friends, 63-year-old Goldstein was paroled from San Quentin on February 24, 1933. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/16/if-i-had-a-hammer/">If I Had a Hammer</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/16/if-i-had-a-hammer/">If I Had a Hammer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/16/if-i-had-a-hammer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/16/if-i-had-a-hammer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hooray for Hollywood!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/01/hooray-for-hollywood/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/01/hooray-for-hollywood/#respond</comments>
+		<link>https://1947project.com/2007/07/01/hooray-for-hollywood/</link>
+					<comments>https://1947project.com/2007/07/01/hooray-for-hollywood/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Sun, 01 Jul 2007 19:31:25 +0000</pubDate>
@@ -215,37 +215,37 @@
 		<category><![CDATA[stowaway]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 2, 1927 Hollywood &#8220;Hitch your wagon to a star.&#8221; &#8212; Ralph Waldo Emerson A blue-bound copy of Emerson&#8217;s essays, 50 cents, and the clothes on her back were all that Miss Rose Host had with her when she stowed away aboard the Panama Pacific liner &#8220;Manchuria&#8221; bound for Los Angeles. If Capt. William J.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/hooray-for-hollywood/">Continue reading <span class="screen-reader-text">Hooray for Hollywood!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/hooray-for-hollywood/">Hooray for Hollywood!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 2, 1927 Hollywood &#8220;Hitch your wagon to a star.&#8221; &#8212; Ralph Waldo Emerson A blue-bound copy of Emerson&#8217;s essays, 50 cents, and the clothes on her back were all that Miss Rose Host had with her when she stowed away aboard the Panama Pacific liner &#8220;Manchuria&#8221; bound for Los Angeles. If Capt. William J.&#8230; <a class="more-link" href="https://1947project.com/2007/07/01/hooray-for-hollywood/">Continue reading <span class="screen-reader-text">Hooray for Hollywood!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/hooray-for-hollywood/">Hooray for Hollywood!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="500" height="120" border="0" src="//farm2.static.flickr.com/1102/685461315_b0a30ced0c.jpg" alt="Rose Host Headline" title="Rose Host Headline" /></p>
 <p>July 2, 1927 <br />Hollywood </p>
-<p>&ldquo;Hitch your wagon to a star.&rdquo; &#8212; <a target="_blank" href="https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" title="Emerson">Ralph Waldo Emerson</a><img loading="lazy" width="82" height="240" border="0" align="right" src="//farm2.static.flickr.com/1406/654754990_2021a58a2d_m.jpg" alt="Rose Host" title="Rose Host" /></p>
+<p>&ldquo;Hitch your wagon to a star.&rdquo; &#8212; <a target="_blank" href="http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" title="Emerson">Ralph Waldo Emerson</a><img loading="lazy" width="82" height="240" border="0" align="right" src="//farm2.static.flickr.com/1406/654754990_2021a58a2d_m.jpg" alt="Rose Host" title="Rose Host" /></p>
 <p>A blue-bound copy of Emerson&rsquo;s essays, 50 cents, and the clothes on her back were all that Miss Rose Host had with her when she stowed away aboard the Panama Pacific liner &ldquo;Manchuria&rdquo; bound for Los Angeles. If Capt. William J. Munroe hadn&rsquo;t been so understanding and hadn&rsquo;t allowed her to earn her passage by stamping passenger forms for the ship&rsquo;s purser Leo Gallagher, she may never have made it. </p>
 <p>Rose&rsquo;s picture appeared today in the Los Angeles Times accompanied by a story about her Hollywood dreams of gold and fame. A beauty contest winner in her home state of New York, Rose believes that a successful career in tinsel town is within her grasp. </p>
-<p><em>Fast forward six months.</em> Rose landed a bit part in the film <a target="_blank" href="https://www.imdb.com/title/tt0018391/" title="Shootin Irons">&ldquo;Shootin&rsquo; Irons&rdquo;</a> with Jack <img loading="lazy" width="240" height="229" border="0" align="left" src="//farm2.static.flickr.com/1360/654754980_f76844dbc1_m.jpg" alt="Rose and Jack" title="Rose and Jack" />Luden. See &ndash; that&rsquo;s Rose in the photograph, nothing more than a silhouette. Her part was so small she wasn&rsquo;t even mentioned in the credits, and her Hollywood dreams ended with one picture. Rose Host the actress was not heard from again. </p>
-<p>Maybe she became an English professor, sharing her love of Emerson with idealistic undergraduates. Let&rsquo;s hope so, because when a Hollywood dream becomes a nightmare you have <a target="_blank" href="https://www.imdb.com/name/nm0524859/" title="Jack Luden">Jack Luden&rsquo;s</a> story. </p>
-<p>Jack and Rose were both in their 20s when they made &ldquo;Shootin&rsquo; Irons&rdquo; together. Jack was an heir to the Luden&rsquo;s cough drop fortune, but he was young and it was Hollywood so he tried his hand at acting. He was a handsome guy and <a target="_blank" href="https://en.wikipedia.org/wiki/Paramount_Studio" title="Paramount">Paramount</a> planned to feature him in westerns as they&rsquo;d done with <a target="_blank" href="https://www.imdb.com/name/nm0000011/" title="Gary Cooper">Gary Cooper</a>. Unfortunately for Jack, &ldquo;Shootin&rsquo; Irons&rdquo; wasn&rsquo;t a success and by 1930 the studio had either dropped him or he&rsquo;d walked away from his contract to pursue a life as a junkie. </p>
-<p>How he spent the years between 1930 and 1936 remains something of a mystery, but by the 1940s the thrice married Luden had a monkey on his back the size of <a target="_blank" href="https://en.wikipedia.org/wiki/Cheeta" title="Cheeta">Cheeta</a> on steroids. He drifted in and out of the movie business &ndash; and trouble, for the next decade. </p>
+<p><em>Fast forward six months.</em> Rose landed a bit part in the film <a target="_blank" href="http://www.imdb.com/title/tt0018391/" title="Shootin Irons">&ldquo;Shootin&rsquo; Irons&rdquo;</a> with Jack <img loading="lazy" width="240" height="229" border="0" align="left" src="//farm2.static.flickr.com/1360/654754980_f76844dbc1_m.jpg" alt="Rose and Jack" title="Rose and Jack" />Luden. See &ndash; that&rsquo;s Rose in the photograph, nothing more than a silhouette. Her part was so small she wasn&rsquo;t even mentioned in the credits, and her Hollywood dreams ended with one picture. Rose Host the actress was not heard from again. </p>
+<p>Maybe she became an English professor, sharing her love of Emerson with idealistic undergraduates. Let&rsquo;s hope so, because when a Hollywood dream becomes a nightmare you have <a target="_blank" href="http://www.imdb.com/name/nm0524859/" title="Jack Luden">Jack Luden&rsquo;s</a> story. </p>
+<p>Jack and Rose were both in their 20s when they made &ldquo;Shootin&rsquo; Irons&rdquo; together. Jack was an heir to the Luden&rsquo;s cough drop fortune, but he was young and it was Hollywood so he tried his hand at acting. He was a handsome guy and <a target="_blank" href="http://en.wikipedia.org/wiki/Paramount_Studio" title="Paramount">Paramount</a> planned to feature him in westerns as they&rsquo;d done with <a target="_blank" href="http://www.imdb.com/name/nm0000011/" title="Gary Cooper">Gary Cooper</a>. Unfortunately for Jack, &ldquo;Shootin&rsquo; Irons&rdquo; wasn&rsquo;t a success and by 1930 the studio had either dropped him or he&rsquo;d walked away from his contract to pursue a life as a junkie. </p>
+<p>How he spent the years between 1930 and 1936 remains something of a mystery, but by the 1940s the thrice married Luden had a monkey on his back the size of <a target="_blank" href="http://en.wikipedia.org/wiki/Cheeta" title="Cheeta">Cheeta</a> on steroids. He drifted in and out of the movie business &ndash; and trouble, for the next decade. </p>
 <p>During those six lost years&nbsp;Jack evidently&nbsp;acquired a taste for the seamy side of life. Busted several times for shoplifting to support his heroin habit, he was known to have said &quot;a crooked buck is sweeter than an honest dollar.&quot; Jack, it seems, was an unrepentant sinner. </p>
-<p>Finally in 1951 he was sent to <a target="_blank" href="https://en.wikipedia.org/wiki/San_quentin" title="San Quentin">San Quentin</a> for drug possession and passing bad checks. Nine months into his sentence Jack dropped dead of a heart attack. He was 49.</p>
-<p>&nbsp;&ldquo;Come on and try your luck <br />You could be Donald Duck <br /><a target="_blank" href="https://en.wikipedia.org/wiki/Hooray_for_Hollywood" title="Hooray for Hollywood">Hooray for Hollywood</a>!&rdquo; <br />&#8212; Johnny Mercer </p>
+<p>Finally in 1951 he was sent to <a target="_blank" href="http://en.wikipedia.org/wiki/San_quentin" title="San Quentin">San Quentin</a> for drug possession and passing bad checks. Nine months into his sentence Jack dropped dead of a heart attack. He was 49.</p>
+<p>&nbsp;&ldquo;Come on and try your luck <br />You could be Donald Duck <br /><a target="_blank" href="http://en.wikipedia.org/wiki/Hooray_for_Hollywood" title="Hooray for Hollywood">Hooray for Hollywood</a>!&rdquo; <br />&#8212; Johnny Mercer </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/hooray-for-hollywood/">Hooray for Hollywood!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/hooray-for-hollywood/">Hooray for Hollywood!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/01/hooray-for-hollywood/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/01/hooray-for-hollywood/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>12 Angry Men and Women</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/30/12-angry-men-and-women/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/30/12-angry-men-and-women/#respond</comments>
+		<link>https://1947project.com/2007/05/30/12-angry-men-and-women/</link>
+					<comments>https://1947project.com/2007/05/30/12-angry-men-and-women/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 30 May 2007 16:25:34 +0000</pubDate>
@@ -259,8 +259,8 @@
 		<category><![CDATA[juvenile delinquency]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 30, 1927 Pomona&#160; &#160; Today, 16-year-old Durward Wittenmeyer confessed to the murder of Fannie Weigel, the wife of a Pomona confectioner.&#160; It was just a few days since his release from the Whittier State School, a reformatory.&#160; The emotionally disturbed Wittenmeyer said that on his way home from the movies on May 28, he&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/30/12-angry-men-and-women/">Continue reading <span class="screen-reader-text">12 Angry Men and Women</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/30/12-angry-men-and-women/">12 Angry Men and Women</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 30, 1927 Pomona&#160; &#160; Today, 16-year-old Durward Wittenmeyer confessed to the murder of Fannie Weigel, the wife of a Pomona confectioner.&#160; It was just a few days since his release from the Whittier State School, a reformatory.&#160; The emotionally disturbed Wittenmeyer said that on his way home from the movies on May 28, he&#8230; <a class="more-link" href="https://1947project.com/2007/05/30/12-angry-men-and-women/">Continue reading <span class="screen-reader-text">12 Angry Men and Women</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/30/12-angry-men-and-women/">12 Angry Men and Women</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -275,18 +275,18 @@
 <p>As of November 1949 (the last mention I could find of him), Wittenmeyer was still serving time in San Quentin, having been denied parole on at least four occasions.</p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/30/12-angry-men-and-women/">12 Angry Men and Women</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/30/12-angry-men-and-women/">12 Angry Men and Women</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/30/12-angry-men-and-women/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/30/12-angry-men-and-women/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Sad Story of the Red Rose Killer</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/09/the-sad-story-of-the-red-rose-killer/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/09/the-sad-story-of-the-red-rose-killer/#respond</comments>
+		<link>https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/</link>
+					<comments>https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 09 May 2007 22:30:48 +0000</pubDate>
@@ -299,8 +299,8 @@
 		<category><![CDATA[jailbreaks]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 9, 1927&#160; &#160; Convicted murderer Earl J. Clark was granted a stay of execution today as his appeal twisted its way through the State Supreme Court.&#160; There was a time when Clark&#8217;s chances to avoid the gallows seemed promising; however, following an escape from prison, things were looking grim. It all began in April&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/09/the-sad-story-of-the-red-rose-killer/">Continue reading <span class="screen-reader-text">The Sad Story of the Red Rose Killer</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 9, 1927&#160; &#160; Convicted murderer Earl J. Clark was granted a stay of execution today as his appeal twisted its way through the State Supreme Court.&#160; There was a time when Clark&#8217;s chances to avoid the gallows seemed promising; however, following an escape from prison, things were looking grim. It all began in April&#8230; <a class="more-link" href="https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/">Continue reading <span class="screen-reader-text">The Sad Story of the Red Rose Killer</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -315,18 +315,18 @@
 <p>Los Angeles police officers took up a collection for Clark&#8217;s widow so she could have the body shipped to Minot for burial.&nbsp; She accepted the money, but not Clark&#8217;s remains.&nbsp; No one else claimed them either, and he was subsequently buried in the prison cemetery. </p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/09/the-sad-story-of-the-red-rose-killer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In the Line of Duty</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/03/in-the-line-of-duty/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/03/in-the-line-of-duty/#comments</comments>
+		<link>https://1947project.com/2006/12/03/in-the-line-of-duty/</link>
+					<comments>https://1947project.com/2006/12/03/in-the-line-of-duty/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 03 Dec 2006 16:27:05 +0000</pubDate>
@@ -338,28 +338,28 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Dec. 3, 1907 Los Angeles Officer Patrick Lyons had been on the force for four months when he was shot in the head while trying to arrest two robbers a little after 11 p.m. at Central Avenue and 14th Street. There</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/03/in-the-line-of-duty/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/03/in-the-line-of-duty/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.lmharnisch.com/images/1907_1203C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 356px; height: 194px;" src="//www.lmharnisch.com/images/1907_1203C.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Dec. 3, 1907<br />
+<div><a href="http://www.lmharnisch.com/images/1907_1203C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 356px; height: 194px;" src="//www.lmharnisch.com/images/1907_1203C.jpg" alt="" border="0" /></a><span style="font-size: 100%;">Dec. 3, 1907<br />
 </span><span style="font-size: 100%;">Los Angeles<br />
 </span><span style="font-size: 100%;"><br />
 </span><span style="font-size: 100%;">Officer Patrick Lyons had been on the force for four months when he was shot in the head while trying to arrest two robbers a little after 11 p.m. at Central Avenue and 14th Street.<br />
 </span><span style="font-size: 100%;"><br />
-</span><a href="https://www.lmharnisch.com/images/1907_1203B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 364px;" src="//www.lmharnisch.com/images/1907_1203B.jpg" alt="" border="0" /></a><span style="font-size: 100%;">There</span></div>
+</span><a href="http://www.lmharnisch.com/images/1907_1203B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 228px; height: 364px;" src="//www.lmharnisch.com/images/1907_1203B.jpg" alt="" border="0" /></a><span style="font-size: 100%;">There</span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/03/in-the-line-of-duty/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/03/in-the-line-of-duty/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/03/in-the-line-of-duty/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/03/in-the-line-of-duty/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fleenor Recaptured!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/21/fleenor-recaptured/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/21/fleenor-recaptured/#respond</comments>
+		<link>https://1947project.com/2006/05/21/fleenor-recaptured/</link>
+					<comments>https://1947project.com/2006/05/21/fleenor-recaptured/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 21 May 2006 04:28:36 +0000</pubDate>
@@ -371,18 +371,18 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>May 20, 1907 Los Angeles Night jailer O.L. Gilpin thought the man in the drunk tank looked familiar</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/21/fleenor-recaptured/">Fleenor Recaptured!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/21/fleenor-recaptured/">Fleenor Recaptured!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_fleenor.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 214px; height: 363px;" src="//lmharnisch.com/images/1907_fleenor.jpg" alt="" border="0" /></a><span style="font-size:100%;">May 20, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_fleenor.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 214px; height: 363px;" src="//lmharnisch.com/images/1907_fleenor.jpg" alt="" border="0" /></a><span style="font-size:100%;">May 20, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Night jailer O.L. Gilpin thought the man in the drunk tank looked familiar</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/21/fleenor-recaptured/">Fleenor Recaptured!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/21/fleenor-recaptured/">Fleenor Recaptured!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/21/fleenor-recaptured/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/21/fleenor-recaptured/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

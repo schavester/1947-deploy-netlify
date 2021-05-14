@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Fraud &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/crimes-against-property-2/fraud-25/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/crimes-against-property-2/fraud-25/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Fraud &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Baby Farm</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/03/11/baby-farm/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/03/11/baby-farm/#respond</comments>
+		<link>https://1947project.com/2008/03/11/baby-farm/</link>
+					<comments>https://1947project.com/2008/03/11/baby-farm/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Tue, 11 Mar 2008 02:42:27 +0000</pubDate>
@@ -49,8 +49,8 @@
 		<category><![CDATA[Narcosan]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; March 10, 1927 Bellflower Police received a tip that next to the home of Ray Foss in Bellflower, several people had been observed burying something that may have been the body of an infant. Thankfully, no bodies would be found. Police had discovered however, that Ray had an outstanding felony warrant from 1925 for&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/03/11/baby-farm/">Continue reading <span class="screen-reader-text">Baby Farm</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/11/baby-farm/">Baby Farm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; March 10, 1927 Bellflower Police received a tip that next to the home of Ray Foss in Bellflower, several people had been observed burying something that may have been the body of an infant. Thankfully, no bodies would be found. Police had discovered however, that Ray had an outstanding felony warrant from 1925 for&#8230; <a class="more-link" href="https://1947project.com/2008/03/11/baby-farm/">Continue reading <span class="screen-reader-text">Baby Farm</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/11/baby-farm/">Baby Farm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -105,18 +105,18 @@ Minnie pleaded guilty to issuing a fraudulent check and was given a sentence of 
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/03/11/baby-farm/">Baby Farm</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/11/baby-farm/">Baby Farm</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/03/11/baby-farm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/03/11/baby-farm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paper Hanging with the Stauber Sisters</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/#respond</comments>
+		<link>https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/</link>
+					<comments>https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 12 Feb 2008 23:47:49 +0000</pubDate>
@@ -130,11 +130,11 @@ Minnie pleaded guilty to issuing a fraudulent check and was given a sentence of 
 		<category><![CDATA[spinsters]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Los Angeles February 12, 1927 The sad story of Blanche and Grace Stauber was revealed today when the sisters, ages 44 and 51, respectively, landed in the poky after a trip to Judge Baird&#8217;s court. It seems the college-educated spinsters fell on financially hard times after they moved to California in 1910 from their native&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/">Continue reading <span class="screen-reader-text">Paper Hanging with the Stauber Sisters</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Los Angeles February 12, 1927 The sad story of Blanche and Grace Stauber was revealed today when the sisters, ages 44 and 51, respectively, landed in the poky after a trip to Judge Baird&#8217;s court. It seems the college-educated spinsters fell on financially hard times after they moved to California in 1910 from their native&#8230; <a class="more-link" href="https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/">Continue reading <span class="screen-reader-text">Paper Hanging with the Stauber Sisters</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/2258953847/" title="The Stauber Sisters by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2004/2258953847_1e069ca5b6_o.jpg" width="244" height="361" alt="The Stauber Sisters" align="left"/></a>Los Angeles<br />
+<div><a href="http://www.flickr.com/photos/lperil/2258953847/" title="The Stauber Sisters by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2004/2258953847_1e069ca5b6_o.jpg" width="244" height="361" alt="The Stauber Sisters" align="left"/></a>Los Angeles<br />
 February 12, 1927</p>
 <p>The sad story of Blanche and Grace Stauber was revealed today when the sisters, ages 44 and 51, respectively, landed in the poky after a trip to Judge Baird&#8217;s court. It seems the college-educated spinsters fell on financially hard times after they moved to California in 1910 from their native Kansas. After their pleas to friends and family for monetary assistance went unheeded, Grace started forging checks. She did her best to keep knowledge of her wrongdoing from younger sisterÃ¢â‚¬â€they were daughters of a Methodist minister after all. But when Blanche inevitably discovered her sister&#8217;s malfeasance, she made a pragmatic decision:  they would &#8220;join forces in an effort to keep themselves above poverty&#8221; and, above all, avoid being separated from one another. </p>
 <p>It worked like this. Blanche and Grace would move into a small town somewhere in southern California. They&#8217;d rent a house, and Blanche would write a check in the amount of $300 to $600 (roughly $3,600 to $7,200 in today&#8217;s currency), drawn on a bank in another city. Grace would take the check to a bank in their new town, where she would open both savings and checking accounts, depositing half the check in each. Thus funded, the sisters went on a shopping spree, buying merchandise and often receiving change on their purchases. They&#8217;d be gone before the bank opened the following day. </p>
@@ -142,18 +142,18 @@ February 12, 1927</p>
 <p>Judge Baird remanded the &#8220;elderly&#8221; sisters to General Hospital, where it was determined they were sane, though lacking in &#8220;moral appreciation.&#8221; Blanche and Grace faced possible sentences of from two to twenty-eight years in San Quentin, but it was said their greatest fear remained being separated.</p>
 <p><i>Update:</i> Blanche and Grace Stauber were each sentenced to serve one year in County Jail for forgery and issuing checks without sufficient funds. They were also sentenced to five years&#8217; probation on a separate forgery charge. The sisters didn&#8217;t go quietly:  they &#8220;told probation officers they felt the church owed them a living&#8221; and only started passing paper when it didn&#8217;t come through.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/">Paper Hanging with the Stauber Sisters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/12/paper-hanging-with-the-stauber-sisters/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/12/paper-hanging-with-the-stauber-sisters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Great Stock &#8216;n&#8217; Roll Swindle</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-great-stock-n-roll-swindle/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-great-stock-n-roll-swindle/#respond</comments>
+		<link>https://1947project.com/2008/02/09/the-great-stock-n-roll-swindle/</link>
+					<comments>https://1947project.com/2008/02/09/the-great-stock-n-roll-swindle/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2008 23:46:22 +0000</pubDate>
@@ -166,33 +166,33 @@ February 12, 1927</p>
 		<category><![CDATA[swindle]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 9, 1927Los Angeles It&#8217;s a pretty simple scheme.&#160; You own some stock.&#160; I approach and inform you that your stock is about to hit bottom.&#160; I suggest a trade&#8212;your stock for some of mine.&#160; The stock I&#8217;m offering you is about to go up, up, up, ya see.&#160; (Honestly, that&#8217;s the long and short&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-great-stock-n-roll-swindle/">Continue reading <span class="screen-reader-text">The Great Stock &#8216;n&#8217; Roll Swindle</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-great-stock-n-roll-swindle/">The Great Stock &#8216;n&#8217; Roll Swindle</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 9, 1927Los Angeles It&#8217;s a pretty simple scheme.&#160; You own some stock.&#160; I approach and inform you that your stock is about to hit bottom.&#160; I suggest a trade&#8212;your stock for some of mine.&#160; The stock I&#8217;m offering you is about to go up, up, up, ya see.&#160; (Honestly, that&#8217;s the long and short&#8230; <a class="more-link" href="https://1947project.com/2008/02/09/the-great-stock-n-roll-swindle/">Continue reading <span class="screen-reader-text">The Great Stock &#8216;n&#8217; Roll Swindle</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/09/the-great-stock-n-roll-swindle/">The Great Stock &#8216;n&#8217; Roll Swindle</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>February 9, 1927<br />Los Angeles </p>
 <p><img loading="lazy" width="263" height="228" border="0" align="right" src="//farm3.static.flickr.com/2057/2250973941_ca049714a0_o.jpg" alt="bunko" title="bunko" />It&rsquo;s a pretty simple scheme.&nbsp; </p>
-<p>You own some stock.&nbsp; I approach and inform you that your stock is about to hit bottom.&nbsp; I suggest a trade&mdash;your stock for some of mine.&nbsp; The stock I&rsquo;m offering you is about to go up, up, up, ya see.&nbsp; (Honestly, that&rsquo;s the long and short of my <a href="https://www.oag.state.ny.us/investors/invest_5.html" target="_blank" title="swindly">plan</a>; we swap my stock worth a penny for your stock worth a dollar&mdash;your greed does all the heavy lifting.)</p>
-<p>When Mrs. Frances L. Derby of <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=502+N+Ardmore+Ave,+Los+Angeles,+CA+90004&#038;sll=34.081011,-118.301661&#038;sspn=0.008104,0.014591&#038;ie=UTF8&#038;ll=34.081011,-118.301661&#038;spn=0.008104,0.014591&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank" title="TheDerby">502 North Ardmore</a> was approached by some <em>very nice men</em>, she parted with 102 shares of John C. Frey &amp; Assoc. worth $1,020, and 124 shares of California Guarantee Assoc. worth $498, and in exchange was given 4,700 shares of Silas Frank Mining.&nbsp; The Very Nice Men &ldquo;talked down&rdquo; her crummy old stock and represented the mining company stock as being worth $1 a share&mdash;when in fact it was worth 1 cent a share, or $47.&nbsp; Mrs. Derby was no ordinary rube, though, got wise, and alerted the authorities.</p>
-<p>The aforementioned pleasant fellows being Leon F. Wessling, 36, and J. L. Johannes, 38.&nbsp; Detective Lieutenants Davis and Edwards of bunko detail say these two have, from their brokerage firm&mdash;a prestigious suite of offices in the <a href="https://blogdowntown.com/blog/2437" target="_blank" title="merrittbldng">Merritt</a> <a href="https://digarc.usc.edu/search/controller/asset/examiner-m3091/EXM-P-S-LOS-ANG-CIT-BUI-178a" target="_blank" title="Merritpic">Building</a>&mdash;similarly swindled Los Angeles residents out of $75,000 in the past week.</p>
+<p>You own some stock.&nbsp; I approach and inform you that your stock is about to hit bottom.&nbsp; I suggest a trade&mdash;your stock for some of mine.&nbsp; The stock I&rsquo;m offering you is about to go up, up, up, ya see.&nbsp; (Honestly, that&rsquo;s the long and short of my <a href="http://www.oag.state.ny.us/investors/invest_5.html" target="_blank" title="swindly">plan</a>; we swap my stock worth a penny for your stock worth a dollar&mdash;your greed does all the heavy lifting.)</p>
+<p>When Mrs. Frances L. Derby of <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=502+N+Ardmore+Ave,+Los+Angeles,+CA+90004&#038;sll=34.081011,-118.301661&#038;sspn=0.008104,0.014591&#038;ie=UTF8&#038;ll=34.081011,-118.301661&#038;spn=0.008104,0.014591&#038;z=16&#038;iwloc=addr&#038;om=0" target="_blank" title="TheDerby">502 North Ardmore</a> was approached by some <em>very nice men</em>, she parted with 102 shares of John C. Frey &amp; Assoc. worth $1,020, and 124 shares of California Guarantee Assoc. worth $498, and in exchange was given 4,700 shares of Silas Frank Mining.&nbsp; The Very Nice Men &ldquo;talked down&rdquo; her crummy old stock and represented the mining company stock as being worth $1 a share&mdash;when in fact it was worth 1 cent a share, or $47.&nbsp; Mrs. Derby was no ordinary rube, though, got wise, and alerted the authorities.</p>
+<p>The aforementioned pleasant fellows being Leon F. Wessling, 36, and J. L. Johannes, 38.&nbsp; Detective Lieutenants Davis and Edwards of bunko detail say these two have, from their brokerage firm&mdash;a prestigious suite of offices in the <a href="http://blogdowntown.com/blog/2437" target="_blank" title="merrittbldng">Merritt</a> <a href="http://digarc.usc.edu/search/controller/asset/examiner-m3091/EXM-P-S-LOS-ANG-CIT-BUI-178a" target="_blank" title="Merritpic">Building</a>&mdash;similarly swindled Los Angeles residents out of $75,000 in the past week.</p>
 <p>According to Wessling and Johannes&rsquo; records, the duo finagled $18,000 out of one poor old widow alone. </p>
 <p>Sad, true, but at least in a few years there&rsquo;ll be a lot less stock to swindle.</p>
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-great-stock-n-roll-swindle/">The Great Stock &#8216;n&#8217; Roll Swindle</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/09/the-great-stock-n-roll-swindle/">The Great Stock &#8216;n&#8217; Roll Swindle</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/09/the-great-stock-n-roll-swindle/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/09/the-great-stock-n-roll-swindle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Case of the Twisted Wrist</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/25/the-case-of-the-twisted-wrist/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/25/the-case-of-the-twisted-wrist/#respond</comments>
+		<link>https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/</link>
+					<comments>https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 25 Jan 2008 21:43:43 +0000</pubDate>
@@ -205,8 +205,8 @@ February 12, 1927</p>
 		<category><![CDATA[yellow cab]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 25, 1927Los Angeles &#34;Wanna make some easy money? Come over here. Hang on a sec, let me just fix my coat, and now&#8230; here we go, will ya look at that! Looks like my wrist&#8217;s broken, eh? Naw, I just popped it out of the joint. It&#8217;s easy if you know how, especially if&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/25/the-case-of-the-twisted-wrist/">Continue reading <span class="screen-reader-text">The Case of the Twisted Wrist</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 25, 1927Los Angeles &#34;Wanna make some easy money? Come over here. Hang on a sec, let me just fix my coat, and now&#8230; here we go, will ya look at that! Looks like my wrist&#8217;s broken, eh? Naw, I just popped it out of the joint. It&#8217;s easy if you know how, especially if&#8230; <a class="more-link" href="https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/">Continue reading <span class="screen-reader-text">The Case of the Twisted Wrist</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>January 25, 1927<br />Los Angeles</p>
@@ -215,18 +215,18 @@ February 12, 1927</p>
 <p>The charge was conspiracy to commit fraud. And while Rice would be convicted of this crime, the lady was acquitted, which gave Rice&#8217;s attorney the opportunity to appeal to the judge&mdash;how could a man conspire alone? It was a good point, and on May 9, our loose-limbed hero was turned loose to scam again.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/25/the-case-of-the-twisted-wrist/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cute Enough to Deserve Them</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/#respond</comments>
+		<link>https://1947project.com/2008/01/07/cute-enough-to-deserve-them/</link>
+					<comments>https://1947project.com/2008/01/07/cute-enough-to-deserve-them/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 07 Jan 2008 04:06:49 +0000</pubDate>
@@ -240,34 +240,34 @@ February 12, 1927</p>
 		<category><![CDATA[Maison Blanche]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; January 6, 1927Los Angeles Gladys Nolan, 22, of 5510 Lexington Avenue, had a craving for fine clothes and expensive perfumes.&#160; She needed them.&#160; Yes, there&#8217;s a difference between needs and wants.&#160; She NEEDED them. &#160; Gladys was no klepto.&#160; She paid for the items, and not with money from the handbag of some white-glove&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/">Continue reading <span class="screen-reader-text">Cute Enough to Deserve Them</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; January 6, 1927Los Angeles Gladys Nolan, 22, of 5510 Lexington Avenue, had a craving for fine clothes and expensive perfumes.&#160; She needed them.&#160; Yes, there&#8217;s a difference between needs and wants.&#160; She NEEDED them. &#160; Gladys was no klepto.&#160; She paid for the items, and not with money from the handbag of some white-glove&#8230; <a class="more-link" href="https://1947project.com/2008/01/07/cute-enough-to-deserve-them/">Continue reading <span class="screen-reader-text">Cute Enough to Deserve Them</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="288" height="400" border="0" src="//farm3.static.flickr.com/2335/2173157557_67ffde06fc_o.gif" alt="gladys" title="gladys" /></p>
 <p>January 6, 1927<br />Los Angeles</p>
-<p><img loading="lazy" width="254" height="215" border="0" align="right" src="//farm3.static.flickr.com/2221/2173157547_c7c33f4460_o.gif" alt="itsaCRAVING" title="itsaCRAVING" />Gladys Nolan, 22, of <a title="Gladys'place" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=5510+lexington+ave,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=32.252269,59.765625&#038;ie=UTF8&#038;ll=34.092833,-118.30911&#038;spn=0.001028,0.001824&#038;z=19&#038;om=1">5510 Lexington Avenue</a>, had a craving for fine clothes and expensive perfumes.&nbsp; She needed them.&nbsp; Yes, there&rsquo;s a difference between needs and wants.&nbsp; She NEEDED them. &nbsp;</p>
+<p><img loading="lazy" width="254" height="215" border="0" align="right" src="//farm3.static.flickr.com/2221/2173157547_c7c33f4460_o.gif" alt="itsaCRAVING" title="itsaCRAVING" />Gladys Nolan, 22, of <a title="Gladys'place" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=5510+lexington+ave,+los+angeles,+ca&#038;sll=37.0625,-95.677068&#038;sspn=32.252269,59.765625&#038;ie=UTF8&#038;ll=34.092833,-118.30911&#038;spn=0.001028,0.001824&#038;z=19&#038;om=1">5510 Lexington Avenue</a>, had a craving for fine clothes and expensive perfumes.&nbsp; She needed them.&nbsp; Yes, there&rsquo;s a difference between needs and wants.&nbsp; She NEEDED them. &nbsp;</p>
 <p>Gladys was no klepto.&nbsp; She paid for the items, and not with money from the handbag of some white-glove spinster she&rsquo;d clobbered and left twitching in her death throes down a urine-soaked alley.&nbsp; Gladys paid for these things with all the nicety befitting a girl of refinement, trouble being, she paid for the lovely things with forged checks.</p>
-<p>A $200 ($2,206 USD 2007) fur coat and $34 bottle of perfume, she picked up at <a title="6340Hwood" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=6340+Hollywood+Blvd,+Los+Angeles,+CA+90028&#038;sll=34.102566,-118.32799&#038;sspn=0.008226,0.014591&#038;ie=UTF8&#038;ll=34.102566,-118.32799&#038;spn=0.008226,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">I</a>. <a title="IMagninonHollywood" target="_blank" href="https://jpg2.lapl.org/pics48/00058531.jpg">Magnin&rsquo;s</a>; a check signed in a fictitious name at <a title="MaisonNoir" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=3307+Wilshire+Blvd,+Los+Angeles,+CA+90005&#038;sll=34.062268,-118.294408&#038;sspn=0.004115,0.007296&#038;ie=UTF8&#038;ll=34.062739,-118.294408&#038;spn=0.00823,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">Maison Blanche</a> allowed her a gown and hat totaling $110.&nbsp; Some killjoy by the name of &ldquo;Deputy District Attoney Frampton&rdquo; got in a twist about this, convincing some other sourpuss called &ldquo;Judge Ambrose&rdquo; to hold her to answer in Superior Court and fix bail at $2000.</p>
+<p>A $200 ($2,206 USD 2007) fur coat and $34 bottle of perfume, she picked up at <a title="6340Hwood" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=6340+Hollywood+Blvd,+Los+Angeles,+CA+90028&#038;sll=34.102566,-118.32799&#038;sspn=0.008226,0.014591&#038;ie=UTF8&#038;ll=34.102566,-118.32799&#038;spn=0.008226,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">I</a>. <a title="IMagninonHollywood" target="_blank" href="http://jpg2.lapl.org/pics48/00058531.jpg">Magnin&rsquo;s</a>; a check signed in a fictitious name at <a title="MaisonNoir" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=3307+Wilshire+Blvd,+Los+Angeles,+CA+90005&#038;sll=34.062268,-118.294408&#038;sspn=0.004115,0.007296&#038;ie=UTF8&#038;ll=34.062739,-118.294408&#038;spn=0.00823,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">Maison Blanche</a> allowed her a gown and hat totaling $110.&nbsp; Some killjoy by the name of &ldquo;Deputy District Attoney Frampton&rdquo; got in a twist about this, convincing some other sourpuss called &ldquo;Judge Ambrose&rdquo; to hold her to answer in Superior Court and fix bail at $2000.</p>
 <p>Gladys was given probation and told to keep her nose clean.&nbsp; Which she almost did.</p>
 <p><img loading="lazy" width="149" height="500" border="0" src="//farm3.static.flickr.com/2350/2173386685_5ed8f29cd6_o.gif" alt="ohgladysnotagain" title="ohgladysnotagain" /></p>
 <p>Whatever became of Gladys Nolan?&nbsp; A lady whose refinement and obvious taste sadly outdistanced her pocketbook?&nbsp; Guess we&#8217;ll never know.</p>
 <p><img loading="lazy" width="494" height="149" border="0" src="//farm3.static.flickr.com/2354/2173386689_412243793b_o.jpg" alt="November1939" title="November1939" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/07/cute-enough-to-deserve-them/">Cute Enough to Deserve Them</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/07/cute-enough-to-deserve-them/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/07/cute-enough-to-deserve-them/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Holy City Hi-Jinks</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/01/holy-city-hi-jinks/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/01/holy-city-hi-jinks/#respond</comments>
+		<link>https://1947project.com/2008/01/01/holy-city-hi-jinks/</link>
+					<comments>https://1947project.com/2008/01/01/holy-city-hi-jinks/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Tue, 01 Jan 2008 00:28:14 +0000</pubDate>
@@ -279,36 +279,36 @@ February 12, 1927</p>
 		<category><![CDATA[Holy City]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 31, 1927 Los Angeles Mrs. Evelyn Rosenkrantz has claimed in court that her dream to become the Queen of Holy City, California was reduced to ashes and bitter tears when the City&#8217;s self-anointed King, William E. Riker, retracted his marriage proposal. Evelyn is asking for $500,000 ($3.5 million USD 2007) in damages for breach&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/holy-city-hi-jinks/">Continue reading <span class="screen-reader-text">Holy City Hi-Jinks</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 31, 1927 Los Angeles Mrs. Evelyn Rosenkrantz has claimed in court that her dream to become the Queen of Holy City, California was reduced to ashes and bitter tears when the City&#8217;s self-anointed King, William E. Riker, retracted his marriage proposal. Evelyn is asking for $500,000 ($3.5 million USD 2007) in damages for breach&#8230; <a class="more-link" href="https://1947project.com/2008/01/01/holy-city-hi-jinks/">Continue reading <span class="screen-reader-text">Holy City Hi-Jinks</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="sued headline" height="97" alt="sued headline" src="//farm3.static.flickr.com/2100/2153186260_1cc3956d48_o.jpg" width="337" border="0" /></p>
 <p>December 31, 1927 <br />Los Angeles <img loading="lazy" title="Evelyn Rosenkrantz" height="240" alt="Evelyn Rosenkrantz" src="//farm3.static.flickr.com/2213/2153186084_eddc40ffc5_m.jpg" width="129" align="right" border="0" /></p>
-<p>Mrs. Evelyn Rosenkrantz has claimed in court that her dream to become the Queen of <a title="Holy City" href="https://en.wikipedia.org/wiki/Holy_City,_California" target="_blank">Holy City, California</a> was reduced to ashes and bitter tears when the City&rsquo;s self-anointed King, <a title="Riker" href="https://en.wikipedia.org/wiki/William_E._Riker" target="_blank">William E. Riker</a>, retracted his marriage proposal. Evelyn is asking for $500,000 ($3.5 million USD 2007) in damages for breach of promise. The woman who would be Queen stated that William had sweet talked her in to posing as his wife. She said that they resided at a &ldquo;love cottage&rdquo; on <a title="3679 Motor Avenue" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=3679+Motor+Ave,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=36.452734,95.800781&#038;ie=UTF8&#038;ll=34.023267,-118.405602&#038;spn=0.009319,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">3679 Motor Avenue, Palms City</a>. </p>
+<p>Mrs. Evelyn Rosenkrantz has claimed in court that her dream to become the Queen of <a title="Holy City" href="http://en.wikipedia.org/wiki/Holy_City,_California" target="_blank">Holy City, California</a> was reduced to ashes and bitter tears when the City&rsquo;s self-anointed King, <a title="Riker" href="http://en.wikipedia.org/wiki/William_E._Riker" target="_blank">William E. Riker</a>, retracted his marriage proposal. Evelyn is asking for $500,000 ($3.5 million USD 2007) in damages for breach of promise. The woman who would be Queen stated that William had sweet talked her in to posing as his wife. She said that they resided at a &ldquo;love cottage&rdquo; on <a title="3679 Motor Avenue" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=3679+Motor+Ave,+Los+Angeles,+CA&#038;sll=37.0625,-95.677068&#038;sspn=36.452734,95.800781&#038;ie=UTF8&#038;ll=34.023267,-118.405602&#038;spn=0.009319,0.023389&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">3679 Motor Avenue, Palms City</a>. </p>
 <p>Evelyn was not the first woman ever to have been disappointed by William. About 20 years ago, he fled to Canada to avoid bigamy charges. It was there that the former palm reader founded &quot;The Perfect Christian Divine Way&rdquo;. To achieve perfection, devotees adhered to a strict credo of celibacy, abstinence from alcohol, white supremacy and communal living. To make it easier for his disciples to concentrate on their spirituality, Riker required them to turn over all of their money and worldly possessions to him. </p>
 <p><img loading="lazy" title="William Riker" height="240" alt="William Riker" src="//farm3.static.flickr.com/2125/2152395297_d403b9d048_m.jpg" width="129" align="left" border="0" />William and his followers returned to California and set up his &ldquo;New Jerusalem&rdquo; near Los Gatos. Surprisingly, he never got around to building a church in Holy City, but he did manage to construct a gas station (which sold &ldquo;holy water&rdquo; for over heated autos), restaurant, and an observatory where visitors could view the moon for ten cents. Located on the Santa Cruz Highway, Holy City became a tourist destination and was eventually bringing in over $100,000 ($1.2 million 2007 USD) annually. Tourists were lured by signs with such catchy slogans as: &quot;See us if you are contemplating marriage, suicide or crime!&quot; and &quot;Holy City answers all questions and solves all problems!&quot; <img loading="lazy" title="Riker sign" height="240" alt="Riker sign" src="//farm3.static.flickr.com/2136/2153186238_2c2ea4b238_m.jpg" width="177" align="right" border="0" /></p>
 <p>Things went so well that the city incorporated. There would eventually be a Holy City Post Office, newspaper, and radio station, KFQU. The radio station would lose its license in 1931 for &ldquo;irregularities&rdquo; (maybe it was the call letters). </p>
 <p>Evelyn would lose her breach of promise suit, but she and William would tangle again in a couple of years. </p>
 <p>In the spring of 1929 Evelyn was serving a life sentence in San Quentin for being a habitual criminal (her final conviction was for passing bad checks in Oakland). She swore in an affidavit that back in 1927 she had witnessed Riker strangle a Mrs. Margaret White to death in the cottage on Motor Avenue. Evelyn told the court that Mrs. White was another of Riker&rsquo;s abandoned wives. Nothing would come of Evelyn&rsquo;s affidavit, and she likely spent the rest of her life in prison. </p>
-<p>Riker became known as &ldquo;The Comforter&rdquo; and made four failed attempts to become governor of California. He would be arrested in 1943 for his pro-German sentiments &ndash; he was writing letters of support to Adolf Hitler! Defended by well known attorney <a title="Melvin Belli" href="https://en.wikipedia.org/wiki/Melvin_Belli" target="_blank">Melvin Belli</a>, who constantly referred to his client as a &ldquo;crackpot&rdquo;, Riker managed to skate on the charges. The ungrateful crackpot would sue Belli for defamation of character, and lose. </p>
+<p>Riker became known as &ldquo;The Comforter&rdquo; and made four failed attempts to become governor of California. He would be arrested in 1943 for his pro-German sentiments &ndash; he was writing letters of support to Adolf Hitler! Defended by well known attorney <a title="Melvin Belli" href="http://en.wikipedia.org/wiki/Melvin_Belli" target="_blank">Melvin Belli</a>, who constantly referred to his client as a &ldquo;crackpot&rdquo;, Riker managed to skate on the charges. The ungrateful crackpot would sue Belli for defamation of character, and lose. </p>
 <p>Riker made it to the ripe old age of 93, when he shocked his few remaining followers by converting to Catholicism shortly before his death in 1966. </p>
 <p>If you&rsquo;re interested in owning a piece of California history, Holy City went on the market in 2006 with an asking price of $11 million. Maybe it&rsquo;s still for sale. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/01/holy-city-hi-jinks/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/01/holy-city-hi-jinks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Weird Tale of the Wig Lady</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/#respond</comments>
+		<link>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/</link>
+					<comments>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 30 Nov 2007 19:18:09 +0000</pubDate>
@@ -324,16 +324,16 @@ February 12, 1927</p>
 		<category><![CDATA[wig]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 30, 1927Alhambra Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">Continue reading <span class="screen-reader-text">The Weird Tale of the Wig Lady</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 30, 1927Alhambra Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room&#8230; <a class="more-link" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">Continue reading <span class="screen-reader-text">The Weird Tale of the Wig Lady</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a title="Nona Lesher, the wig lady by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785111/"><img loading="lazy" width="390" height="508" border="0" alt="Nona Lesher, the wig lady" src="//farm3.static.flickr.com/2270/2075785111_c65923f8a5_o.png" /></a></p>
+<div><a title="Nona Lesher, the wig lady by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785111/"><img loading="lazy" width="390" height="508" border="0" alt="Nona Lesher, the wig lady" src="//farm3.static.flickr.com/2270/2075785111_c65923f8a5_o.png" /></a></p>
 <p>November 30, 1927<br />Alhambra</p>
 <p>Meet Nona Lesher, the cool 20-something check kiter whose arsenal of multi-hued hairpieces helped disguise her during a spree of bad paper pushing, busted in a market at 305 East Valley Boulevard. </p>
 <p>But the wigs are only the tip of a hairy iceberg. For among the suspicious items discovered in the room shared by Nona, hubby Harvey (or Harry), half-brother Phil Rohan and pal Mike Garvey at 2048 West Twentieth Street were an unheard of 61 pairs of shoes and twenty hats, plus Harry, Phil and the aforementioned wigs.</p>
-<p><a title="Harrt Lesher, wig lady's accomplice by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785107/"><img loading="lazy" width="98" height="175" border="0" alt="Harrt Lesher, wig lady's accomplice" src="//farm3.static.flickr.com/2414/2075785107_e2bb414821_o.png" /></a></p>
-<p><a title="Phil Rohan, wig lady's accomplice by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/2075785105/"><img loading="lazy" width="100" height="177" border="0" alt="Phil Rohan, wig lady's accomplice" src="//farm3.static.flickr.com/2051/2075785105_ceedc63b28_o.png" /></a></p>
+<p><a title="Harrt Lesher, wig lady's accomplice by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785107/"><img loading="lazy" width="98" height="175" border="0" alt="Harrt Lesher, wig lady's accomplice" src="//farm3.static.flickr.com/2414/2075785107_e2bb414821_o.png" /></a></p>
+<p><a title="Phil Rohan, wig lady's accomplice by richardschave, on Flickr" href="http://www.flickr.com/photos/richardschave/2075785105/"><img loading="lazy" width="100" height="177" border="0" alt="Phil Rohan, wig lady's accomplice" src="//farm3.static.flickr.com/2051/2075785105_ceedc63b28_o.png" /></a></p>
 <p> The men soon became suspects in the November 1 drug store beating death of proprietor A.R. Miles (or A.M. Miller) at 2329 West Jefferson after Lesher allegedly confessed to friend H.S. Walton, &quot;I pulled that West Jefferson job&mdash;I hit Miles over the head and when he came to and called me &#8216;Heinie&#8217; I finished him with my feet.&quot; However, Walton later said he had been so drunk that night, he might have imagined the whole thing, had only spoken out because he&#8217;d been told charges against him would be dropped if he did, and anyway, he believed the trio was innocent.</p>
 <p>Still, 10-year-old witness Eddie Yates ID&#8217;d Phil Rohan as the youth in a snazzy blue and white sweater who he&#8217;d seen dashing from the crime scene. Lesher and Garvey also looked familiar to the boy. Roberta Scriver, sitting in a car outside the drug store, also identified the trio. Simple robbery-murder case with eyewitnesses, eh?</p>
 <p>But then a cop&#8217;s badge was found in Mike Garvey&#8217;s possession, leading to the arrest of 77th Street Division policeman George H. Foster, the Wig Gang&#8217;s next door neighbor, on charges that he&#8217;d used the badge to shake down bootlegger John Sykes for $57 in exchange for not noticing a quantity of liquor stored in a vacant house; Rohan and Garvey supposedly served as muscle on the robbery, and somehow Garvey ended up with the badge.</p>
@@ -342,18 +342,18 @@ February 12, 1927</p>
 <p>Once freed, the trio sought $5000 each in payment from the state for their ordeal, while Lesher and Rohan&#8217;s mother Carrie testified she&#8217;d spent $6000 on their defense and appeals. During this hearing, which was ultimately unsuccessful, an Alhambra Detective offered the hitherto unknown information that their arrest had resulted from a tip from the Wig Lady herself, Nona Lesher. It was unclear if she had remained true to Harvey during his incarceration, but one assumes the marriage didn&#8217;t survive this revelation. At least their mother still loved &#8217;em!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/">The Weird Tale of the Wig Lady</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/30/the-weird-tale-of-the-wig-lady/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/30/the-weird-tale-of-the-wig-lady/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>License to Ill</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/10/24/license-to-ill/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/10/24/license-to-ill/#respond</comments>
+		<link>https://1947project.com/2007/10/24/license-to-ill/</link>
+					<comments>https://1947project.com/2007/10/24/license-to-ill/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 24 Oct 2007 18:24:46 +0000</pubDate>
@@ -365,8 +365,8 @@ February 12, 1927</p>
 		<category><![CDATA[quackery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Rex H.W. Albrexstondare was not a doctor, but he played one in Southern California. The pseudo-scientist claimed that he&#8217;d discovered the fountain of youth through proper diet and treatment, and had been restored from a 90-year-old man to a young man with a thick head of black hair.&#160; He said he&#8217;d grown four sets of&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/10/24/license-to-ill/">Continue reading <span class="screen-reader-text">License to Ill</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Rex H.W. Albrexstondare was not a doctor, but he played one in Southern California. The pseudo-scientist claimed that he&#8217;d discovered the fountain of youth through proper diet and treatment, and had been restored from a 90-year-old man to a young man with a thick head of black hair.&#160; He said he&#8217;d grown four sets of&#8230; <a class="more-link" href="https://1947project.com/2007/10/24/license-to-ill/">Continue reading <span class="screen-reader-text">License to Ill</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -386,18 +386,18 @@ February 12, 1927</p>
 <p>And is it just my imagination, or does our own Nathan Marsak bear some small resemblance to the good doctor?&nbsp; Watch he doesn&#8217;t slip you any vegetable paste!</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/10/24/license-to-ill/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/10/24/license-to-ill/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nice try, bub</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/10/18/nice-try-bub/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/10/18/nice-try-bub/#respond</comments>
+		<link>https://1947project.com/2007/10/18/nice-try-bub/</link>
+					<comments>https://1947project.com/2007/10/18/nice-try-bub/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 18 Oct 2007 15:57:59 +0000</pubDate>
@@ -407,8 +407,8 @@ February 12, 1927</p>
 		<category><![CDATA[The wacko file]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 18, 1927Los Angeles&#160; Lewis J. Patterson married Marie Misuraca in the morning in judge&#8217;s chambers, then sent wifey off to work with plans that they would meet for lunch. We can imagine her morning, chattering gaily with colleagues, showing off her ring, perhaps passing around a photograph of her groom. Then the trip from&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/10/18/nice-try-bub/">Continue reading <span class="screen-reader-text">Nice try, bub</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/18/nice-try-bub/">Nice try, bub</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 18, 1927Los Angeles&#160; Lewis J. Patterson married Marie Misuraca in the morning in judge&#8217;s chambers, then sent wifey off to work with plans that they would meet for lunch. We can imagine her morning, chattering gaily with colleagues, showing off her ring, perhaps passing around a photograph of her groom. Then the trip from&#8230; <a class="more-link" href="https://1947project.com/2007/10/18/nice-try-bub/">Continue reading <span class="screen-reader-text">Nice try, bub</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/18/nice-try-bub/">Nice try, bub</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -419,18 +419,18 @@ February 12, 1927</p>
 <p>The Judge agreed. Annullment granted. (Marie seems to have landed on her feet: in October 1928 the Times published  announcement of her marriage to Carl J. Lawrence. We can only hope there was no first Mrs. Lawrence lurking around to complicate things.)</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/10/18/nice-try-bub/">Nice try, bub</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/18/nice-try-bub/">Nice try, bub</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/10/18/nice-try-bub/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/10/18/nice-try-bub/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kneel Before Me&#8230; Peasant!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/#respond</comments>
+		<link>https://1947project.com/2007/08/06/kneel-before-me-peasant/</link>
+					<comments>https://1947project.com/2007/08/06/kneel-before-me-peasant/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 06 Aug 2007 00:34:29 +0000</pubDate>
@@ -446,22 +446,22 @@ February 12, 1927</p>
 		<category><![CDATA[Vladimir Lenin]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 6, 1927La-La Land &#34;A lie told often enough becomes truth.&#34; &#8211;Vladimir Lenin On July 17, 1918, Bolshevik authorities, led by Yakov Yurovsky, shot Nicholas II and his immediate family in the cellar of the Ipatiev House in Ekaterinburg, Russia. Since then&#160;rumors have circulated that one of the Romanovs, Grand Duchess Anastasia, had miraculously survived&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/">Continue reading <span class="screen-reader-text">Kneel Before Me&#8230; Peasant!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 6, 1927La-La Land &#34;A lie told often enough becomes truth.&#34; &#8211;Vladimir Lenin On July 17, 1918, Bolshevik authorities, led by Yakov Yurovsky, shot Nicholas II and his immediate family in the cellar of the Ipatiev House in Ekaterinburg, Russia. Since then&#160;rumors have circulated that one of the Romanovs, Grand Duchess Anastasia, had miraculously survived&#8230; <a class="more-link" href="https://1947project.com/2007/08/06/kneel-before-me-peasant/">Continue reading <span class="screen-reader-text">Kneel Before Me&#8230; Peasant!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="500" height="493" border="0" src="//farm2.static.flickr.com/1393/1022195763_c231fe32dc.jpg" alt="Anna Anderson" title="Anna Anderson" /></p>
 <p>August 6, 1927<br />La-La Land</p>
-<p>&quot;A lie told often enough becomes truth.&quot; &ndash;<a target="_blank" href="https://en.wikipedia.org/wiki/Vladimir_Lenin" title="Lenin">Vladimir Lenin</a> </p>
-<p>On July 17, 1918, <a target="_blank" href="https://en.wikipedia.org/wiki/Bolshevik" title="Bolshevik">Bolshevik</a> authorities, led by <a target="_blank" href="https://en.wikipedia.org/wiki/Yakov_Yurovsky" title="Yakov Yurovsky">Yakov Yurovsky</a>, shot <a target="_blank" href="https://en.wikipedia.org/wiki/Nicholas_II" title="Nicholas II">Nicholas II</a> and his immediate family in the cellar of the <a target="_blank" href="https://en.wikipedia.org/wiki/Ipatiev_House" title="Ipatiev House">Ipatiev House</a> in <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Ekaterinburg,+Russia&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" title="Ekaterinburg, Russia">Ekaterinburg, Russia</a>. Since then&nbsp;rumors have circulated that one of the Romanovs, <a target="_blank" href="https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia" title="Grand Duchess Anastasia">Grand Duchess Anastasia</a>, had miraculously survived assassination. </p>
-<p>The woman in the photograph on the right is Anastasia Manahan aka <a target="_blank" href="https://en.wikipedia.org/wiki/Anna_Anderson" title="Anna Anderson">Anna Anderson</a>. Anna was a patient in a mental hospital in <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Dalldorf,+Germany&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" title="Dalldorf, Germany">Dalldorf, Germany</a> until another patient said that she recognized her as royalty. Anna would spend the next 57 years of her life claiming to be Anastasia. Neither her supporters nor her detractors would be able to substantiate Anna&rsquo;s claim during her lifetime. Several years following her death, <a target="_blank" href="https://en.wikipedia.org/wiki/DNA" title="DNA">DNA</a> tests would finally prove that she was not a <a target="_blank" href="https://en.wikipedia.org/wiki/Romanov" title="Romanov">Romanov</a>. </p>
+<p>&quot;A lie told often enough becomes truth.&quot; &ndash;<a target="_blank" href="http://en.wikipedia.org/wiki/Vladimir_Lenin" title="Lenin">Vladimir Lenin</a> </p>
+<p>On July 17, 1918, <a target="_blank" href="http://en.wikipedia.org/wiki/Bolshevik" title="Bolshevik">Bolshevik</a> authorities, led by <a target="_blank" href="http://en.wikipedia.org/wiki/Yakov_Yurovsky" title="Yakov Yurovsky">Yakov Yurovsky</a>, shot <a target="_blank" href="http://en.wikipedia.org/wiki/Nicholas_II" title="Nicholas II">Nicholas II</a> and his immediate family in the cellar of the <a target="_blank" href="http://en.wikipedia.org/wiki/Ipatiev_House" title="Ipatiev House">Ipatiev House</a> in <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Ekaterinburg,+Russia&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" title="Ekaterinburg, Russia">Ekaterinburg, Russia</a>. Since then&nbsp;rumors have circulated that one of the Romanovs, <a target="_blank" href="http://en.wikipedia.org/wiki/Grand_Duchess_Anastasia" title="Grand Duchess Anastasia">Grand Duchess Anastasia</a>, had miraculously survived assassination. </p>
+<p>The woman in the photograph on the right is Anastasia Manahan aka <a target="_blank" href="http://en.wikipedia.org/wiki/Anna_Anderson" title="Anna Anderson">Anna Anderson</a>. Anna was a patient in a mental hospital in <a target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Dalldorf,+Germany&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" title="Dalldorf, Germany">Dalldorf, Germany</a> until another patient said that she recognized her as royalty. Anna would spend the next 57 years of her life claiming to be Anastasia. Neither her supporters nor her detractors would be able to substantiate Anna&rsquo;s claim during her lifetime. Several years following her death, <a target="_blank" href="http://en.wikipedia.org/wiki/DNA" title="DNA">DNA</a> tests would finally prove that she was not a <a target="_blank" href="http://en.wikipedia.org/wiki/Romanov" title="Romanov">Romanov</a>. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/kneel-before-me-peasant/">Kneel Before Me&#8230; Peasant!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/06/kneel-before-me-peasant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/06/kneel-before-me-peasant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

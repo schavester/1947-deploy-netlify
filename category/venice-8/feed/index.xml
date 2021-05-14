@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Venice &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/venice-8/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/venice-8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 20:02:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Venice &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mysteries of the Road</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/19/mysteries-of-the-road/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/19/mysteries-of-the-road/#respond</comments>
+		<link>https://1947project.com/2008/01/19/mysteries-of-the-road/</link>
+					<comments>https://1947project.com/2008/01/19/mysteries-of-the-road/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 19 Jan 2008 07:45:55 +0000</pubDate>
@@ -48,29 +48,29 @@
 		<category><![CDATA[automobile]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 19, 1927Santa Monica, Venice A drained, shamefaced whisky bottle and wrecked car were all officers found tonight at Colorado Blvd and Twenty-Third Street. A thorough check of the hospitals and morgues revealed nothing further. In nearby Venice, at Washington and Brooks, an ambulance was summoned when excited folk in the vicinity witnessed an auto&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/19/mysteries-of-the-road/">Continue reading <span class="screen-reader-text">Mysteries of the Road</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/19/mysteries-of-the-road/">Mysteries of the Road</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 19, 1927Santa Monica, Venice A drained, shamefaced whisky bottle and wrecked car were all officers found tonight at Colorado Blvd and Twenty-Third Street. A thorough check of the hospitals and morgues revealed nothing further. In nearby Venice, at Washington and Brooks, an ambulance was summoned when excited folk in the vicinity witnessed an auto&#8230; <a class="more-link" href="https://1947project.com/2008/01/19/mysteries-of-the-road/">Continue reading <span class="screen-reader-text">Mysteries of the Road</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/19/mysteries-of-the-road/">Mysteries of the Road</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="558" height="162" border="0" title="accidents" alt="accidents" src="//farm3.static.flickr.com/2139/2202101060_03c143df0f_o.gif" /><br />January 19, 1927<br />Santa Monica, Venice</p>
-<p>A drained, shamefaced whisky bottle and wrecked car were all officers found tonight at <a title="Colorado&#038;23" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=Colorado+Ave+%26+Cloverfield+Blvd,+Santa+Monica,+CA+90404&#038;sll=34.029651,-118.473837&#038;sspn=0.008571,0.014591&#038;ie=UTF8&#038;ll=34.029651,-118.473837&#038;spn=0.008571,0.014591&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0">Colorado Blvd and Twenty-Third Street</a>.</p>
+<p>A drained, shamefaced whisky bottle and wrecked car were all officers found tonight at <a title="Colorado&#038;23" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=Colorado+Ave+%26+Cloverfield+Blvd,+Santa+Monica,+CA+90404&#038;sll=34.029651,-118.473837&#038;sspn=0.008571,0.014591&#038;ie=UTF8&#038;ll=34.029651,-118.473837&#038;spn=0.008571,0.014591&#038;t=h&#038;z=16&#038;iwloc=addr&#038;om=0">Colorado Blvd and Twenty-Third Street</a>.</p>
 <p>A thorough check of the hospitals and morgues revealed nothing further.</p>
-<p>In nearby Venice, at <a title="Wash&#038;Brooks" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=Abbot+Kinney+Blvd+%26+Brooks+Ave,+Venice,+CA+90291&#038;sll=33.993473,-118.474138&#038;sspn=0.008575,0.014591&#038;ie=UTF8&#038;ll=33.993473,-118.474138&#038;spn=0.008575,0.014591&#038;z=16&#038;iwloc=addr&#038;om=0">Washington and Brooks</a>, an ambulance was summoned when excited folk in the vicinity witnessed an auto turn turtle.&nbsp; In true 1920s fashion, the two young male occupants righted the thing and drove off, presumably in a crazy zigzag with zany piano accompaniment. &nbsp;</p>
+<p>In nearby Venice, at <a title="Wash&#038;Brooks" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=Abbot+Kinney+Blvd+%26+Brooks+Ave,+Venice,+CA+90291&#038;sll=33.993473,-118.474138&#038;sspn=0.008575,0.014591&#038;ie=UTF8&#038;ll=33.993473,-118.474138&#038;spn=0.008575,0.014591&#038;z=16&#038;iwloc=addr&#038;om=0">Washington and Brooks</a>, an ambulance was summoned when excited folk in the vicinity witnessed an auto turn turtle.&nbsp; In true 1920s fashion, the two young male occupants righted the thing and drove off, presumably in a crazy zigzag with zany piano accompaniment. &nbsp;</p>
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/19/mysteries-of-the-road/">Mysteries of the Road</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/19/mysteries-of-the-road/">Mysteries of the Road</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/19/mysteries-of-the-road/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/19/mysteries-of-the-road/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Venice Slasher</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/#respond</comments>
+		<link>https://1947project.com/2007/11/01/the-venice-slasher/</link>
+					<comments>https://1947project.com/2007/11/01/the-venice-slasher/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Thu, 01 Nov 2007 01:43:00 +0000</pubDate>
@@ -81,8 +81,8 @@
 		<category><![CDATA[Venice]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 31, 1927 Venice, CA &#160; A gory scene unfolded at the Venice Police Station today as 23-year-old Eddie Berry burst through the front door with a slit throat and passed out on the floor. &#160; An employee of the Venice Speedboat Company, Berry had been working on the Venice Pier when he was accosted&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/">Continue reading <span class="screen-reader-text">The Venice Slasher</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 31, 1927 Venice, CA &#160; A gory scene unfolded at the Venice Police Station today as 23-year-old Eddie Berry burst through the front door with a slit throat and passed out on the floor. &#160; An employee of the Venice Speedboat Company, Berry had been working on the Venice Pier when he was accosted&#8230; <a class="more-link" href="https://1947project.com/2007/11/01/the-venice-slasher/">Continue reading <span class="screen-reader-text">The Venice Slasher</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -98,18 +98,18 @@
 <div align="left">Okay, it&#8217;s not much of a Halloween story, but it was this or the story of a few rowdy teens from the Redlands being sent to a YWCA dance to keep them from vandalizing property.&nbsp; Plus, isn&#8217;t &quot;The Venice Slasher&quot; a great name for a would-be murderess?</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/01/the-venice-slasher/">The Venice Slasher</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/11/01/the-venice-slasher/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/11/01/the-venice-slasher/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Brute Jealousy</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/31/brute-jealousy/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/31/brute-jealousy/#respond</comments>
+		<link>https://1947project.com/2007/05/31/brute-jealousy/</link>
+					<comments>https://1947project.com/2007/05/31/brute-jealousy/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 31 May 2007 13:01:15 +0000</pubDate>
@@ -131,33 +131,33 @@
 		<category><![CDATA[veteran]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 31, 1927Venice If you needed proof of how the world has changed in 80 years, you need look no further than the news stories surrounding the police search for and arrest of Joe Hordeman, &#34;elderly&#34; war veteran and pipe murder suspect, and of Hordeman&#8217;s &#34;December&#34; romance with divorcee Victoria Woods, who he met at&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/31/brute-jealousy/">Continue reading <span class="screen-reader-text">Brute Jealousy</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/31/brute-jealousy/">Brute Jealousy</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 31, 1927Venice If you needed proof of how the world has changed in 80 years, you need look no further than the news stories surrounding the police search for and arrest of Joe Hordeman, &#34;elderly&#34; war veteran and pipe murder suspect, and of Hordeman&#8217;s &#34;December&#34; romance with divorcee Victoria Woods, who he met at&#8230; <a class="more-link" href="https://1947project.com/2007/05/31/brute-jealousy/">Continue reading <span class="screen-reader-text">Brute Jealousy</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/31/brute-jealousy/">Brute Jealousy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>May 31, 1927<br />Venice</p>
 <p>If you needed proof of how the world has changed in 80 years, you need look no further than the news stories surrounding the police search for and arrest of Joe Hordeman, &quot;elderly&quot; war veteran and pipe murder suspect, and of Hordeman&#8217;s &quot;December&quot; romance with divorcee Victoria Woods, who he met at an &quot;old folks dance&quot; at the Sawtelle veteran&#8217;s home in late 1925.</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/523198912/"><img loading="lazy" width="233" height="500" border="0" alt="joe hordeman the pipe slayer" src="//farm1.static.flickr.com/230/523198912_6c2da41229.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/523198912/"><img loading="lazy" width="233" height="500" border="0" alt="joe hordeman the pipe slayer" src="//farm1.static.flickr.com/230/523198912_6c2da41229.jpg" /></a></p>
 <p>Hordeman was enamored of Mrs. Woods and hoped to marry or go into business with her, but she found other men more fascinating. She enjoyed dancing, something Hordeman was not inclined to do with her, despite their initial meeting place. Recently she had befriended Emma O&#8217;Bell, who became her roommate and encouraged her friend&#8217;s active romantic life.</p>
 <p>Hordeman couldn&#8217;t stand it. He bought a lead pipe and went to Mrs. Woods&#8217; home at 109 Brooks Avenue when he thought two of her suitors would be in attendance. But he found only Mrs. Woods and Mrs. O&#8217;Bell, sitting on the porch. Incensed, he asked Mrs. Woods to go inside where they could discuss his concerns, and a raving argument erupted. Hordeman pulled out his pipe and beat her unconscious, then took a knife and neatly cut her Achilles tendons to ensure she would never dance again. He needn&#8217;t have bothered save for the symbolism; she died of her injuries. Mrs. O&#8217;Bell saw the attack through the window and rushed inside, and was herself badly beaten. Saved from injury was Mrs. Woods&#8217; daughter, who had gone to Chicago the morning of the slaying to speak with her father about her parents reuniting. </p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/523198906/"><img loading="lazy" width="187" height="500" border="0" alt="catherine franklin the dishwashing witness" src="//farm1.static.flickr.com/222/523198906_eb3527dec7.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/523198906/"><img loading="lazy" width="187" height="500" border="0" alt="catherine franklin the dishwashing witness" src="//farm1.static.flickr.com/222/523198906_eb3527dec7.jpg" /></a></p>
 <p>The whole horrible affair was witnessed by 15-year-old neighbor Catherine Franklin through her kitchen window, but the dishwashing girl was so traumatized that she did not immediately cry out, and the killer walked down the alley and escaped. He turned himself in the next day after registering at a Los Angeles hotel and mistakenly crossing the d in Ford, when he had meant to use the pseudonym Fort; he was convinced this error would lead to his quick arrest. At his trial in August, Hordeman, who had once claimed he dare not confess lest &quot;the Klan&quot; kill him for harming Mrs. Woods, suddenly changed his plea to guilty after Mrs. O&#8217;Bell testified, and was sentenced to one year to life in San Quentin.</p>
 <p>The decrepit Hordeman was variously reported as being 52, 60 or 62, old lady Mrs. Woods 55.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/31/brute-jealousy/">Brute Jealousy</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/31/brute-jealousy/">Brute Jealousy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/31/brute-jealousy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/31/brute-jealousy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>It&#8217;s all in how you tell it</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/25/its-all-in-how-you-tell-it/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/25/its-all-in-how-you-tell-it/#respond</comments>
+		<link>https://1947project.com/2007/05/25/its-all-in-how-you-tell-it/</link>
+					<comments>https://1947project.com/2007/05/25/its-all-in-how-you-tell-it/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 25 May 2007 16:30:09 +0000</pubDate>
@@ -170,28 +170,28 @@
 		<category><![CDATA[traveling salesman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 25, 1927Venice Seems a traveling sewing machine salesman dropped by Mrs. L.K. Sitton&#8217;s home at 1004 Electric Avenue and, when she complained of a slight headache, mentioned that he was an expert in Swedish massage and offered to relieve her. The Times reported that &#34;He fled&#8230; when his victim screamed and her husband returned&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/25/its-all-in-how-you-tell-it/">Continue reading <span class="screen-reader-text">It&#8217;s all in how you tell it</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/25/its-all-in-how-you-tell-it/">It&#8217;s all in how you tell it</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 25, 1927Venice Seems a traveling sewing machine salesman dropped by Mrs. L.K. Sitton&#8217;s home at 1004 Electric Avenue and, when she complained of a slight headache, mentioned that he was an expert in Swedish massage and offered to relieve her. The Times reported that &#34;He fled&#8230; when his victim screamed and her husband returned&#8230; <a class="more-link" href="https://1947project.com/2007/05/25/its-all-in-how-you-tell-it/">Continue reading <span class="screen-reader-text">It&#8217;s all in how you tell it</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/25/its-all-in-how-you-tell-it/">It&#8217;s all in how you tell it</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>May 25, 1927<br />Venice</p>
 <p>Seems a traveling sewing machine salesman dropped by Mrs. L.K. Sitton&#8217;s home at 1004 Electric Avenue and, when she complained of a slight headache, mentioned that he was an expert in Swedish massage and offered to relieve her. </p>
 <p>The Times reported that &quot;He fled&#8230; when his victim screamed and her husband returned unexpectedly.&quot; Though we wonder if perhaps things didn&#8217;t happen <em>quite</em> in that order.</p>
-<p>In any event, Robert S. Harrell, 41, was arrested at <a href="https://maps.google.com/maps?f=d&#038;hl=en&#038;saddr=1004+electric+avenue,+venice,+ca&#038;daddr=sixth+and+san+juan,+venice,+ca&#038;sll=33.994167,-118.471606&#038;sspn=0.007241,0.012381&#038;ie=UTF8&#038;z=17&#038;om=1" target="_blank">San Juan and Sixth Avenue</a> on charges of attempting an attack on the lady. </p>
+<p>In any event, Robert S. Harrell, 41, was arrested at <a href="http://maps.google.com/maps?f=d&#038;hl=en&#038;saddr=1004+electric+avenue,+venice,+ca&#038;daddr=sixth+and+san+juan,+venice,+ca&#038;sll=33.994167,-118.471606&#038;sspn=0.007241,0.012381&#038;ie=UTF8&#038;z=17&#038;om=1" target="_blank">San Juan and Sixth Avenue</a> on charges of attempting an attack on the lady. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/25/its-all-in-how-you-tell-it/">It&#8217;s all in how you tell it</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/25/its-all-in-how-you-tell-it/">It&#8217;s all in how you tell it</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/25/its-all-in-how-you-tell-it/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/25/its-all-in-how-you-tell-it/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Never Trust A Guy Called &#8220;Happy&#8221;</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/17/never-trust-a-guy-called-happy/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/17/never-trust-a-guy-called-happy/#respond</comments>
+		<link>https://1947project.com/2007/05/17/never-trust-a-guy-called-happy/</link>
+					<comments>https://1947project.com/2007/05/17/never-trust-a-guy-called-happy/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 17 May 2007 17:17:40 +0000</pubDate>
@@ -205,30 +205,30 @@
 		<category><![CDATA[employment]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 17, 1927Venice&#160; Druggist W.G. Ferrel, manager of the store at Windward and Ocean Front, was not pleased with the quality of work performed by Negro janitor Claude &#34;Happy&#34; Douglas, and so he took a moment this morning to rebuke his employee of six years for latest poor mop job. &#34;Happy&#34; must have had a&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/17/never-trust-a-guy-called-happy/">Continue reading <span class="screen-reader-text">Never Trust A Guy Called &#8220;Happy&#8221;</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/17/never-trust-a-guy-called-happy/">Never Trust A Guy Called &#8220;Happy&#8221;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 17, 1927Venice&#160; Druggist W.G. Ferrel, manager of the store at Windward and Ocean Front, was not pleased with the quality of work performed by Negro janitor Claude &#34;Happy&#34; Douglas, and so he took a moment this morning to rebuke his employee of six years for latest poor mop job. &#34;Happy&#34; must have had a&#8230; <a class="more-link" href="https://1947project.com/2007/05/17/never-trust-a-guy-called-happy/">Continue reading <span class="screen-reader-text">Never Trust A Guy Called &#8220;Happy&#8221;</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/17/never-trust-a-guy-called-happy/">Never Trust A Guy Called &#8220;Happy&#8221;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>May 17, 1927<br />Venice&nbsp;</p>
-<p>Druggist W.G. Ferrel, manager of the store at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=Windward+and+Ocean+Front,+venice,+ca&#038;sll=37.0625,-95.677068&#038;sspn=56.462693,104.414063&#038;ie=UTF8&#038;ll=33.988349,-118.473623&#038;spn=0.007312,0.012746&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">Windward and Ocean Front</a>, was not pleased with the quality of work performed by Negro janitor Claude &quot;Happy&quot; Douglas, and so he took a moment this morning to rebuke his employee of six years for latest poor mop job. </p>
+<p>Druggist W.G. Ferrel, manager of the store at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=Windward+and+Ocean+Front,+venice,+ca&#038;sll=37.0625,-95.677068&#038;sspn=56.462693,104.414063&#038;ie=UTF8&#038;ll=33.988349,-118.473623&#038;spn=0.007312,0.012746&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">Windward and Ocean Front</a>, was not pleased with the quality of work performed by Negro janitor Claude &quot;Happy&quot; Douglas, and so he took a moment this morning to rebuke his employee of six years for latest poor mop job. </p>
 <p>&quot;Happy&quot; must have had a bad night, for instead of shuffling his feet and &quot;yessir&quot;-ing the boss man in the time-honored tradition, he pulled out a huge blade and stabbed Ferrel in the back. The metal bent against bone, and &quot;Happy&quot; pulled it out again, twisted and useless. </p>
 <p>Then he made a run for the door, but he obviously hadn&#8217;t noticed Patrolman French, who was in the telephone booth. Hearing the commotion, French stepped out with revolver drawn and stopped the would-be slayer at the scene. Farrel was rushed to Loamshire Hospital, Santa Monica, in serious condition, and &quot;Happy&quot; held on charges of attempted murder.</p>
-<p>Of course, all this might have been avoided, had Farrel checked his employee&#8217;s references. For &quot;Happy&quot; is almost certainly the same Claude Douglas, then 30, who in July 1920 savagely assaulted his employer Mrs. Emma Davy, manageress of the Atlas Hotel at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1000+S.+Figueroa,+los+angeles,+ca&#038;sll=34.05332,-118.24498&#038;sspn=0.467627,0.815735&#038;ie=UTF8&#038;ll=34.046188,-118.264217&#038;spn=0.007307,0.012746&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">10th and Figueroa</a>, when she discovered him in the basement with a cache of stolen fabric from the Patsy Frock and Romper Company next door. Mrs. Davy, whose shoulder was dislocated, eye injured and arm sprained, was only saved by the intervention of her adult sons George and Allen, who held Douglas until police arrived. Later, in Douglas&#8217; rooms at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=1326+East+Fourteenth+Street,+los+angeles,+ca&#038;sll=34.046188,-118.264217&#038;sspn=0.007307,0.012746&#038;ie=UTF8&#038;ll=34.029811,-118.246601&#038;spn=0.007309,0.012746&#038;z=16&#038;iwloc=addr&#038;om=1" target="_self">1326 East Fourteenth Street</a>, they found a great quantity of good stolen from the Atlas.</p>
+<p>Of course, all this might have been avoided, had Farrel checked his employee&#8217;s references. For &quot;Happy&quot; is almost certainly the same Claude Douglas, then 30, who in July 1920 savagely assaulted his employer Mrs. Emma Davy, manageress of the Atlas Hotel at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1000+S.+Figueroa,+los+angeles,+ca&#038;sll=34.05332,-118.24498&#038;sspn=0.467627,0.815735&#038;ie=UTF8&#038;ll=34.046188,-118.264217&#038;spn=0.007307,0.012746&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">10th and Figueroa</a>, when she discovered him in the basement with a cache of stolen fabric from the Patsy Frock and Romper Company next door. Mrs. Davy, whose shoulder was dislocated, eye injured and arm sprained, was only saved by the intervention of her adult sons George and Allen, who held Douglas until police arrived. Later, in Douglas&#8217; rooms at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=1326+East+Fourteenth+Street,+los+angeles,+ca&#038;sll=34.046188,-118.264217&#038;sspn=0.007307,0.012746&#038;ie=UTF8&#038;ll=34.029811,-118.246601&#038;spn=0.007309,0.012746&#038;z=16&#038;iwloc=addr&#038;om=1" target="_self">1326 East Fourteenth Street</a>, they found a great quantity of good stolen from the Atlas.</p>
 <p>Mrs. Davy seems to have taken this as a sign, and in October leased the Atlas to the YWCA, which  transformed it into a dormatory for transient women, at which point &quot;Happy&quot; might have wished he&#8217;d controlled his temper.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/17/never-trust-a-guy-called-happy/">Never Trust A Guy Called &#8220;Happy&#8221;</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/17/never-trust-a-guy-called-happy/">Never Trust A Guy Called &#8220;Happy&#8221;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/17/never-trust-a-guy-called-happy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/17/never-trust-a-guy-called-happy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>No Mermaid She</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/04/10/no-mermaid-she/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/04/10/no-mermaid-she/#respond</comments>
+		<link>https://1947project.com/2007/04/10/no-mermaid-she/</link>
+					<comments>https://1947project.com/2007/04/10/no-mermaid-she/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 10 Apr 2007 17:34:17 +0000</pubDate>
@@ -241,29 +241,29 @@
 		<category><![CDATA[seaweed]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 10, 1927Venice&#160; It was motorist S.H. Henry who saw it first, bobbing in the Grand Canal with slow, horrible motions. He leaned in and saw a middle aged woman&#8217;s body, fully clothed save for her hat, bound round with rope. He ran for the cops. When they hauled her out, they found there were&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/04/10/no-mermaid-she/">Continue reading <span class="screen-reader-text">No Mermaid She</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/10/no-mermaid-she/">No Mermaid She</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 10, 1927Venice&#160; It was motorist S.H. Henry who saw it first, bobbing in the Grand Canal with slow, horrible motions. He leaned in and saw a middle aged woman&#8217;s body, fully clothed save for her hat, bound round with rope. He ran for the cops. When they hauled her out, they found there were&#8230; <a class="more-link" href="https://1947project.com/2007/04/10/no-mermaid-she/">Continue reading <span class="screen-reader-text">No Mermaid She</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/10/no-mermaid-she/">No Mermaid She</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><a href="https://www.flickr.com/photos/richardschave/454265577/" title="Photo Sharing"><img loading="lazy" width="404" height="255" border="0" src="//farm1.static.flickr.com/247/454265577_d7aaa9f508_o.jpg" alt="venice grand canal 1905" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/454265577/" title="Photo Sharing"><img loading="lazy" width="404" height="255" border="0" src="//farm1.static.flickr.com/247/454265577_d7aaa9f508_o.jpg" alt="venice grand canal 1905" /></a></p>
 <p>April 10, 1927<br />Venice&nbsp;</p>
 <p>It was motorist S.H. Henry who saw it first, bobbing in the Grand Canal with slow, horrible motions. He leaned in and saw a middle aged woman&#8217;s body, fully clothed save for her hat,  bound round with rope. He ran for the cops. When they hauled her out, they found there were no ropes, but long strands of seaweed that had caught round the body as it floated through the gentle waterways. </p>
 <p>A bruise on the brow suggested violence, but ultimately it was determined that the victim, Mrs. Margaret Kelly of Chicago, had killed herself after long despondency over ill health. Perhaps she vainly hoped the balmy winds and lovely vistas of Venice-by-the-Sea would sooth her worries. She had&nbsp; $207 cash when found, more than enough for her passage first to Sharp &amp; Nolan undertakers (beachside specialists in these messy water cases), thence to Chicago and the afterlife.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/10/no-mermaid-she/">No Mermaid She</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/10/no-mermaid-she/">No Mermaid She</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/04/10/no-mermaid-she/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/04/10/no-mermaid-she/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Tasty Tide</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/#respond</comments>
+		<link>https://1947project.com/2006/09/22/a-tasty-tide/</link>
+					<comments>https://1947project.com/2006/09/22/a-tasty-tide/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 22 Sep 2006 19:26:28 +0000</pubDate>
@@ -277,8 +277,8 @@
 		<category><![CDATA[ship hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>September 22, 1907Venice&#160; Someone&#8211;perhaps a drunken and disgruntled cook who was fired last night&#8211;snuck into the larder of the Ship Hotel around midnight and brought forth a great quantity of luxury foodstuffs, which were cast into the surf. It was no easy job. Three whole loins of beef, 200 pounds in weight, 250 pounds of&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/">Continue reading <span class="screen-reader-text">A Tasty Tide</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>September 22, 1907Venice&#160; Someone&#8211;perhaps a drunken and disgruntled cook who was fired last night&#8211;snuck into the larder of the Ship Hotel around midnight and brought forth a great quantity of luxury foodstuffs, which were cast into the surf. It was no easy job. Three whole loins of beef, 200 pounds in weight, 250 pounds of&#8230; <a class="more-link" href="https://1947project.com/2006/09/22/a-tasty-tide/">Continue reading <span class="screen-reader-text">A Tasty Tide</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -286,18 +286,18 @@
 <p>Someone&#8211;perhaps a drunken and disgruntled cook who was fired last night&#8211;snuck into the larder of the Ship Hotel around midnight and brought forth a great quantity of luxury foodstuffs, which were cast into the surf. It was no easy job. Three whole loins of beef, 200 pounds in weight, 250 pounds of clams and a number of oysters from eastern climes were among the waste found on the sand with dawn&#8217;s light. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/22/a-tasty-tide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vice in Venice</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/#respond</comments>
+		<link>https://1947project.com/2006/08/30/vice-in-venice/</link>
+					<comments>https://1947project.com/2006/08/30/vice-in-venice/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Wed, 30 Aug 2006 07:18:27 +0000</pubDate>
@@ -310,8 +310,8 @@
 		<category><![CDATA[fraud]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 30, 1907Venice Get talked up by a booster&#8230;wend your way through the hall&#8230;step on the special stair which emits a loud buzz, warning those you approach.&#160; You&#8217;re one your way into the Venice Club, Windward Avenue, Venice, California. The windows are covered in black oilcloth to keep out light and sound and prying eyes.&#160;&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/">Continue reading <span class="screen-reader-text">Vice in Venice</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 30, 1907Venice Get talked up by a booster&#8230;wend your way through the hall&#8230;step on the special stair which emits a loud buzz, warning those you approach.&#160; You&#8217;re one your way into the Venice Club, Windward Avenue, Venice, California. The windows are covered in black oilcloth to keep out light and sound and prying eyes.&#160;&#8230; <a class="more-link" href="https://1947project.com/2006/08/30/vice-in-venice/">Continue reading <span class="screen-reader-text">Vice in Venice</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -327,10 +327,10 @@
 <p>The corruption scandal lingered long and luscious&#8230;September 11, 1907:&nbsp; <br /><img loading="lazy" width="400" height="250" border="0" align="bottom" src="//static.flickr.com/76/228951196_f03e2fcbba_o.gif" alt="knifehilt" title="knifehilt" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/30/vice-in-venice/">Vice in Venice</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/30/vice-in-venice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/30/vice-in-venice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

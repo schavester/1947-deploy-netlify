@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Legislature &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/justice/legislature-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/justice/legislature-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:49:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Legislature &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>On the Frontiers of Medicine</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/#respond</comments>
+		<link>https://1947project.com/2007/01/31/on-the-frontiers-of-medicine/</link>
+					<comments>https://1947project.com/2007/01/31/on-the-frontiers-of-medicine/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 31 Jan 2007 16:51:09 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[smallpox]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 31, 1907 Los Angeles Showing once again that Los Angeles is out of touch with Sacramento, local health officials are fighting an education bill that would lift mandatory smallpox vaccinations for schoolchildren. Vaccinations were opposed for several reasons in the Legislature. Assemblyman Sackett said the law unfairly placed the burden of enforcement on schools.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/">Continue reading <span class="screen-reader-text">On the Frontiers of Medicine</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/">On the Frontiers of Medicine</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 31, 1907 Los Angeles Showing once again that Los Angeles is out of touch with Sacramento, local health officials are fighting an education bill that would lift mandatory smallpox vaccinations for schoolchildren. Vaccinations were opposed for several reasons in the Legislature. Assemblyman Sackett said the law unfairly placed the burden of enforcement on schools.&#8230; <a class="more-link" href="https://1947project.com/2007/01/31/on-the-frontiers-of-medicine/">Continue reading <span class="screen-reader-text">On the Frontiers of Medicine</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/31/on-the-frontiers-of-medicine/">On the Frontiers of Medicine</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0131.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 204px; height: 196px;" src="//www.lmharnisch.com/images/1907_0131.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0131.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 204px; height: 196px;" src="//www.lmharnisch.com/images/1907_0131.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]-->Jan. 31, 1907<br />
 Los Angeles  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -62,9 +62,9 @@ Los Angeles  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">The Times notes that Powers and his aides are watching trains and hotels for visitors from Chicago, which has been suffering epidemics of diphtheria and scarlet fever. The anti-vaccination bill was defeated in February 1907.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">Read more about <a href="https://pensive-torvalds-020d34.netlify.app/arent-we-healthy">smallpox in Los Angeles</a> here.</p>
+<p class="MsoNormal">Read more about <a href="https://1947project.com/arent-we-healthy">smallpox in Los Angeles</a> here.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -74,22 +74,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/">On the Frontiers of Medicine</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/31/on-the-frontiers-of-medicine/">On the Frontiers of Medicine</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/31/on-the-frontiers-of-medicine/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/31/on-the-frontiers-of-medicine/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>An Unfortunate Loophole</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/#respond</comments>
+		<link>https://1947project.com/2007/01/18/an-unfortunate-loophole/</link>
+					<comments>https://1947project.com/2007/01/18/an-unfortunate-loophole/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 18 Jan 2007 14:25:57 +0000</pubDate>
@@ -100,11 +100,11 @@ var sc_security="77307670";
 		<category><![CDATA[exclusion laws]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 18, 1907 San Francisco In what is surely an embarrassing and awkward oversight, the California Constitution only prevents Ã¢â‚¬Å“MongolianÃ¢â‚¬Â children from attending white public schools when separate campuses have been created. The problem, legislators have discovered, is that the Japanese arenÃ¢â‚¬â„¢t Mongolians and feel they somehow have the right to go to school with&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/">Continue reading <span class="screen-reader-text">An Unfortunate Loophole</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 18, 1907 San Francisco In what is surely an embarrassing and awkward oversight, the California Constitution only prevents Ã¢â‚¬Å“MongolianÃ¢â‚¬Â children from attending white public schools when separate campuses have been created. The problem, legislators have discovered, is that the Japanese arenÃ¢â‚¬â„¢t Mongolians and feel they somehow have the right to go to school with&#8230; <a class="more-link" href="https://1947project.com/2007/01/18/an-unfortunate-loophole/">Continue reading <span class="screen-reader-text">An Unfortunate Loophole</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0118.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 239px; height: 327px;" src="//www.lmharnisch.com/images/1907_0118.jpg" alt="" border="0" /></a><!--[endif]--><o:p></o:p>    </p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0118.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 239px; height: 327px;" src="//www.lmharnisch.com/images/1907_0118.jpg" alt="" border="0" /></a><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 18, 1907<br />
 San Francisco</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -122,15 +122,15 @@ San Francisco</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Remind me again about how the past was a kinder, simpler time, please. I keep forgetting. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/18/an-unfortunate-loophole/">An Unfortunate Loophole</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/18/an-unfortunate-loophole/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/18/an-unfortunate-loophole/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

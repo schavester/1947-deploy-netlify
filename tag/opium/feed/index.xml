@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>opium &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/opium/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/opium/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:40:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>opium &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Heroine, Old Story</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/01/new-heroine-old-story/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/01/new-heroine-old-story/#respond</comments>
+		<link>https://1947project.com/2006/05/01/new-heroine-old-story/</link>
+					<comments>https://1947project.com/2006/05/01/new-heroine-old-story/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 01 May 2006 06:17:09 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[opium]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 1, 1907 Los Angeles &#8220;I love him, judge, and I just can&#8217;t keep away from him,&#8221; said winsome Grace Evans as tears coursed down her cheek. But she promised Justice Austin never to go near him again. She was a simple country girl, caught in the swirl of gay city life, when she was&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/05/01/new-heroine-old-story/">Continue reading <span class="screen-reader-text">New Heroine, Old Story</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/01/new-heroine-old-story/">New Heroine, Old Story</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 1, 1907 Los Angeles &#8220;I love him, judge, and I just can&#8217;t keep away from him,&#8221; said winsome Grace Evans as tears coursed down her cheek. But she promised Justice Austin never to go near him again. She was a simple country girl, caught in the swirl of gay city life, when she was&#8230; <a class="more-link" href="https://1947project.com/2006/05/01/new-heroine-old-story/">Continue reading <span class="screen-reader-text">New Heroine, Old Story</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/01/new-heroine-old-story/">New Heroine, Old Story</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>May 1, 1907<br />
@@ -58,10 +58,10 @@ Los Angeles</p>
 <p>In other Court news, Jesus &#8220;Bar Wielder&#8221; Suega was convicted of disturbing the peace and sentenced to twenty-five days in the City Jail.  Suega had run amok in the Llewellyn Iron Works earlier in the week, attacking the workmen with a heavy piece of iron and driving all employees en masse from the establishment.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/01/new-heroine-old-story/">New Heroine, Old Story</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/01/new-heroine-old-story/">New Heroine, Old Story</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/01/new-heroine-old-story/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/01/new-heroine-old-story/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

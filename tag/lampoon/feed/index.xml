@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>lampoon &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/lampoon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/lampoon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:35:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>lampoon &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Internet of Yesteryear</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/#respond</comments>
+		<link>https://1947project.com/2008/02/10/the-internet-of-yesteryear/</link>
+					<comments>https://1947project.com/2008/02/10/the-internet-of-yesteryear/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 10 Feb 2008 18:35:51 +0000</pubDate>
@@ -45,22 +45,22 @@
 		<category><![CDATA[Razzberry]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 10, 1927Los Angeles Ho!&#160; Wuxtry! Those mockery-making purveyors of pasquinade Pi Delta Epsilon are at it again&#8212;it&#8217;s the new issue of the Razzberry!&#160; Not to be confused with a Bruinite&#8217;s Hell&#8217;s Bells, the Razzberry is the Trojaninny&#8217;s main road to mirth, and boulevard to bellylaughs! &#160; Yes, the new ish of USC lampoon rag&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/">Continue reading <span class="screen-reader-text">The Internet of Yesteryear</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 10, 1927Los Angeles Ho!&#160; Wuxtry! Those mockery-making purveyors of pasquinade Pi Delta Epsilon are at it again&#8212;it&#8217;s the new issue of the Razzberry!&#160; Not to be confused with a Bruinite&#8217;s Hell&#8217;s Bells, the Razzberry is the Trojaninny&#8217;s main road to mirth, and boulevard to bellylaughs! &#160; Yes, the new ish of USC lampoon rag&#8230; <a class="more-link" href="https://1947project.com/2008/02/10/the-internet-of-yesteryear/">Continue reading <span class="screen-reader-text">The Internet of Yesteryear</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><img loading="lazy" width="304" height="500" border="0" align="left" src="//farm3.static.flickr.com/2050/2250027068_80833548c1_o.gif" alt="readallaboutit" title="readallaboutit" />February 10, 1927<br />Los Angeles</p>
 <p>Ho!&nbsp; Wuxtry!</p>
-<p>Those mockery-making purveyors of pasquinade <a href="https://en.wikipedia.org/wiki/Society_of_Collegiate_Journalists" target="_blank" title="deliciousPi">Pi Delta Epsilon</a> are at it again&mdash;it&rsquo;s the new issue of the Razzberry!&nbsp; Not to be confused with a Bruinite&rsquo;s <a href="https://www.ulwaf.com/Daily-Bruin-History/04_Humor.html" target="_blank" title="HellsBells">Hell&rsquo;s Bells</a>, the Razzberry is the Trojaninny&rsquo;s main road to mirth, and boulevard to bellylaughs! &nbsp;</p>
+<p>Those mockery-making purveyors of pasquinade <a href="http://en.wikipedia.org/wiki/Society_of_Collegiate_Journalists" target="_blank" title="deliciousPi">Pi Delta Epsilon</a> are at it again&mdash;it&rsquo;s the new issue of the Razzberry!&nbsp; Not to be confused with a Bruinite&rsquo;s <a href="http://www.ulwaf.com/Daily-Bruin-History/04_Humor.html" target="_blank" title="HellsBells">Hell&rsquo;s Bells</a>, the Razzberry is the Trojaninny&rsquo;s main road to mirth, and boulevard to bellylaughs! &nbsp;</p>
 <p>Yes, the new ish of USC lampoon rag The Razzberry is out, and you should pick one up.&nbsp; You&rsquo;ll know the rag by its scent of scandal and journalistic tinge of yellow.&nbsp; <em>And</em> by those gents dressed as prison inmates hawking &#8217;em!&nbsp; (As jailbirds stand, you see, in direct opposition of all that college and higher education hold dear, these lettered loons gave gab garbed as hostages&hellip;of hilarity!)</p>
 <p>But be stout of heart&hellip;&rdquo;Stories range from an expos&eacute; of supposed corruption to accounts of wild orgies staged in fraternity houses.&rdquo;&nbsp; </p>
-<p>I&rsquo;m sure those stories were just somethin&rsquo;.&nbsp; Of course reference to the fraternal <em>wild orgy</em> failed to carry the same import eighty years ago as it does to-day.&nbsp; And the cub reporter of USC&#8217;s 1927 scandal sheet could only conjecture that in the future, there&#8217;d <a href="https://www.bruinsnation.com/story/2006/6/26/113925/426" target="_blank" title="dontgetmestartedonthehousingscandal">be</a> <a href="https://blogging.la/archives/2006/05/post_4.phtml" target="_blank" title="goodtimes">no</a> <a href="https://boifromtroy.com/?p=3797" target="_blank" title="buthisminorwashomeec">lack</a> <a href="https://boifromtroy.com/?p=5387" target="_blank" title="kaykyserskollegeofnonconsensualknowledge">of</a> <a href="https://boifromtroy.com/?p=2800" target="_blank" title="highereducation">diverting</a> <a href="https://ndchoochoo.blogspot.com/2007/03/racism-scandal-rocks-pee-wee-peet.html" target="_blank" title="scandalaugogo">folly</a> to make with the waggery over!</p>
+<p>I&rsquo;m sure those stories were just somethin&rsquo;.&nbsp; Of course reference to the fraternal <em>wild orgy</em> failed to carry the same import eighty years ago as it does to-day.&nbsp; And the cub reporter of USC&#8217;s 1927 scandal sheet could only conjecture that in the future, there&#8217;d <a href="http://www.bruinsnation.com/story/2006/6/26/113925/426" target="_blank" title="dontgetmestartedonthehousingscandal">be</a> <a href="http://blogging.la/archives/2006/05/post_4.phtml" target="_blank" title="goodtimes">no</a> <a href="http://boifromtroy.com/?p=3797" target="_blank" title="buthisminorwashomeec">lack</a> <a href="http://boifromtroy.com/?p=5387" target="_blank" title="kaykyserskollegeofnonconsensualknowledge">of</a> <a href="http://boifromtroy.com/?p=2800" target="_blank" title="highereducation">diverting</a> <a href="http://ndchoochoo.blogspot.com/2007/03/racism-scandal-rocks-pee-wee-peet.html" target="_blank" title="scandalaugogo">folly</a> to make with the waggery over!</p>
 <p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/10/the-internet-of-yesteryear/">The Internet of Yesteryear</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/02/10/the-internet-of-yesteryear/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/02/10/the-internet-of-yesteryear/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

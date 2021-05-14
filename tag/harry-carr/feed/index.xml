@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Harry Carr &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/harry-carr/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/harry-carr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:49:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Harry Carr &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Most Remarkable Man</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/#respond</comments>
+		<link>https://1947project.com/2007/01/28/a-most-remarkable-man/</link>
+					<comments>https://1947project.com/2007/01/28/a-most-remarkable-man/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 28 Jan 2007 17:08:25 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[Stanford]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan 28, 1907 Los Angeles Ã¢â‚¬Å“If my career seems strange to you, it seems stranger and more incredible to me,Ã¢â‚¬Â Gen. Homer Lea once said. And indeed it was, for LeaÃ¢â‚¬â„¢s life was the tale of a badly handicapped boyÃ¢â‚¬â„¢s adventures as a leader in an exotic foreign land. His 1912 obituary in The Times&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/">Continue reading <span class="screen-reader-text">A Most Remarkable Man</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan 28, 1907 Los Angeles Ã¢â‚¬Å“If my career seems strange to you, it seems stranger and more incredible to me,Ã¢â‚¬Â Gen. Homer Lea once said. And indeed it was, for LeaÃ¢â‚¬â„¢s life was the tale of a badly handicapped boyÃ¢â‚¬â„¢s adventures as a leader in an exotic foreign land. His 1912 obituary in The Times&#8230; <a class="more-link" href="https://1947project.com/2007/01/28/a-most-remarkable-man/">Continue reading <span class="screen-reader-text">A Most Remarkable Man</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0128B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0128B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128B.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan 28, 1907<br />
 Los Angeles</p>
@@ -65,7 +65,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“So much rot and twaddle has been written about him that I want to set down the simple facts as I know them and as he told them to me,Ã¢â‚¬Â Carr said in LeaÃ¢â‚¬â„¢s obituary.
 </p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0128A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0128A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128A.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">LeaÃ¢â‚¬â„¢s disabilities kept him from taking part in athletics, but he had a keen mind, Carr says, and took part in the debating societies at Los Angeles High School. Upon graduating in the Class of 1897, Lea went to Stanford with the intention of becoming a lawyer. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -92,7 +92,7 @@ Los Angeles</p>
 <p class="MsoNormal">Ã¢â‚¬Å“In the course of newspaper life one gets to know many men of many manners,Ã¢â‚¬Â Carr says, Ã¢â‚¬Å“but I have never known a more lovable, kindly, simple-hearted gentleman than Homer Lea.Ã¢â‚¬Â</p>
 <p>And as you can tell from the photo, he wasn&#8217;t Chinese.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -103,14 +103,14 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/28/a-most-remarkable-man/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/28/a-most-remarkable-man/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

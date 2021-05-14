@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>jacob adelman &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/jacob-adelman-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/jacob-adelman-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:46:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>jacob adelman &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>AP feature: Crime tours take passengers through LA&#8217;s criminal past</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/#respond</comments>
+		<link>https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/</link>
+					<comments>https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 07 May 2007 04:00:37 +0000</pubDate>
@@ -45,12 +45,12 @@
 		<category><![CDATA[jacob adelman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>by Jacob Adelman for the Associated Press (AP Photo/Damian Dovarganes) Above: Kelly Kuvo, the Blonde Dahlia &#160; LOS ANGELES &#8212; A dismembered wannabe starlet. A girl buried under her family&#8217;s home. A rattlesnake used as a weapon. The scenes of those crimes are stops on a series of Southern California bus tours that eschew the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">Continue reading <span class="screen-reader-text">AP feature: Crime tours take passengers through LA&#8217;s criminal past</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>by Jacob Adelman for the Associated Press (AP Photo/Damian Dovarganes) Above: Kelly Kuvo, the Blonde Dahlia &#160; LOS ANGELES &#8212; A dismembered wannabe starlet. A girl buried under her family&#8217;s home. A rattlesnake used as a weapon. The scenes of those crimes are stops on a series of Southern California bus tours that eschew the&#8230; <a class="more-link" href="https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">Continue reading <span class="screen-reader-text">AP feature: Crime tours take passengers through LA&#8217;s criminal past</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>by Jacob Adelman for the Associated Press (AP Photo/Damian Dovarganes)</p>
-<p><a href="https://www.flickr.com/photos/richardschave/487586327/" title="Photo Sharing"><img loading="lazy" width="500" height="375" border="0" src="//farm1.static.flickr.com/170/487586327_8fd5644edb.jpg" alt="Kelly at Marlowe's Office Building" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/487586327/" title="Photo Sharing"><img loading="lazy" width="500" height="375" border="0" src="//farm1.static.flickr.com/170/487586327_8fd5644edb.jpg" alt="Kelly at Marlowe's Office Building" /></a></p>
 <p align="right"><strong>Above: Kelly Kuvo, the Blonde Dahlia</strong> &nbsp;</p>
 <p>LOS ANGELES &#8212; A dismembered wannabe starlet. A girl buried under her family&#8217;s home. A rattlesnake used as a weapon.</p>
 <p>The scenes of those crimes are stops on a series of Southern California bus tours that eschew the usual stars&#8217; homes and theme parks to offer passengers a peak at the region&#8217;s dark side.</p>
@@ -74,22 +74,22 @@
 <p>&quot;It&#8217;s just very interesting to drive around the area and to see things I may have passed by many times and maybe not known what happened there,&quot; said Nickum, who, like most passengers, lives in Southern California.</p>
 <p>&quot;It makes things a little more interesting &ndash; vivid &ndash; to know about something that intense that took place in a calm, peaceful neighborhood,&quot; he said.</p>
 <p>&nbsp;</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/487557160/"><img loading="lazy" width="500" height="375" border="0" alt="Nathan Heather and Kelly" src="//farm1.static.flickr.com/168/487557160_02588d149e.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/487557160/"><img loading="lazy" width="500" height="375" border="0" alt="Nathan Heather and Kelly" src="//farm1.static.flickr.com/168/487557160_02588d149e.jpg" /></a></p>
 <p align="right"><strong>Nathan Marsak, chess shark Heather and Kelly at the Hotel Barclay<br /></strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blood &#038; Dumplings Crime Bus Podcast</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/#respond</comments>
+		<link>https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/</link>
+					<comments>https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 28 Mar 2007 06:15:12 +0000</pubDate>
@@ -102,16 +102,16 @@
 		<category><![CDATA[phil spector]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jacob Adelman of the venerable AP rode along with the gang on the Blood &#38; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings Crime Bus Podcast</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jacob Adelman of the venerable AP rode along with the gang on the Blood &#38; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews&#8230; <a class="more-link" href="https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings Crime Bus Podcast</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>Jacob Adelman of the venerable AP rode along with the gang on the Blood &amp; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews with a few of the delightful passengers. Why would otherwise normal people choose to spend their Saturday hearing tales of mayhem and horror? <a href="https://asap.ap.org/stories/1330755.s" target="_blank">Click slowly</a> and see&#8230;.</div>
+<div>Jacob Adelman of the venerable AP rode along with the gang on the Blood &amp; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews with a few of the delightful passengers. Why would otherwise normal people choose to spend their Saturday hearing tales of mayhem and horror? <a href="http://asap.ap.org/stories/1330755.s" target="_blank">Click slowly</a> and see&#8230;.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

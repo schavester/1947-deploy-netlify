@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>chloroform &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/chloroform-5/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/chloroform-5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:49:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>chloroform &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Bell/CHCI3 Stradivarius Colligation</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/12/31/the-bellchci3-stradivarius-colligation/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/12/31/the-bellchci3-stradivarius-colligation/#respond</comments>
+		<link>https://1947project.com/2007/12/31/the-bellchci3-stradivarius-colligation/</link>
+					<comments>https://1947project.com/2007/12/31/the-bellchci3-stradivarius-colligation/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 31 Dec 2007 03:15:43 +0000</pubDate>
@@ -47,28 +47,28 @@
 		<category><![CDATA[Stradivari]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 30, 1927Redlands Well-known automobile distributor Lawrence S. Ferguson, 20 San Gorgonio Drive, was called to the telephone today.&#160; A hoarse-voiced &#8220;Mr. Morris&#8221; declared that his auto had broken down five miles outside of town and that Lawrence&#8217;d better come quick.&#160; Apparently Lawrence always does as he&#8217;s told, because he hot-footed it out of town.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/12/31/the-bellchci3-stradivarius-colligation/">Continue reading <span class="screen-reader-text">The Bell/CHCI3 Stradivarius Colligation</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/31/the-bellchci3-stradivarius-colligation/">The Bell/CHCI3 Stradivarius Colligation</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 30, 1927Redlands Well-known automobile distributor Lawrence S. Ferguson, 20 San Gorgonio Drive, was called to the telephone today.&#160; A hoarse-voiced &#8220;Mr. Morris&#8221; declared that his auto had broken down five miles outside of town and that Lawrence&#8217;d better come quick.&#160; Apparently Lawrence always does as he&#8217;s told, because he hot-footed it out of town.&#8230; <a class="more-link" href="https://1947project.com/2007/12/31/the-bellchci3-stradivarius-colligation/">Continue reading <span class="screen-reader-text">The Bell/CHCI3 Stradivarius Colligation</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/31/the-bellchci3-stradivarius-colligation/">The Bell/CHCI3 Stradivarius Colligation</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>December 30, 1927<br />Redlands</p>
-<p><img loading="lazy" width="267" height="283" border="0" align="left" title="kloro-form" alt="kloro-form" src="//farm3.static.flickr.com/2194/2144767213_4a8f2aba71_o.jpg" />Well-known automobile distributor Lawrence S. Ferguson, <a title="larryshouse" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=20+San+Gorgonio+Dr,+Redlands,+CA+92373&#038;sll=37.0625,-95.677068&#038;sspn=32.527387,60.46875&#038;ie=UTF8&#038;ll=34.055575,-117.18863&#038;spn=0.008302,0.014763&#038;z=16&#038;iwloc=addr&#038;om=1">20 San Gorgonio Drive</a>, was called to the telephone today.&nbsp; A hoarse-voiced &ldquo;Mr. Morris&rdquo; declared that his auto had broken down five miles outside of town and that Lawrence&rsquo;d better come quick.&nbsp; Apparently Lawrence always does as he&rsquo;s told, because he hot-footed it out of town.</p>
+<p><img loading="lazy" width="267" height="283" border="0" align="left" title="kloro-form" alt="kloro-form" src="//farm3.static.flickr.com/2194/2144767213_4a8f2aba71_o.jpg" />Well-known automobile distributor Lawrence S. Ferguson, <a title="larryshouse" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=20+San+Gorgonio+Dr,+Redlands,+CA+92373&#038;sll=37.0625,-95.677068&#038;sspn=32.527387,60.46875&#038;ie=UTF8&#038;ll=34.055575,-117.18863&#038;spn=0.008302,0.014763&#038;z=16&#038;iwloc=addr&#038;om=1">20 San Gorgonio Drive</a>, was called to the telephone today.&nbsp; A hoarse-voiced &ldquo;Mr. Morris&rdquo; declared that his auto had broken down five miles outside of town and that Lawrence&rsquo;d better come quick.&nbsp; Apparently Lawrence always does as he&rsquo;s told, because he hot-footed it out of town.</p>
 <p>But the hoarse-voice chap wasn&rsquo;t five miles outside of town; he had instead hightailed it over to Lawrence Ferguson&rsquo;s home.&nbsp; Hoarsey and a buddy paid a visit to the abandoned <em>Mrs</em>. Ferguson, where they stuffed a large wad of chloroform-soaked cotton in her mouth and nostrils, knocking her out and, according to authorities, did so nearly permanently, which would have added murder on top of robbery, and making prank phone calls.</p>
-<p>The robbery part, incidentally, netted the robbers three diamond rings worth $1,800 ($19,854 USD 2006) plus a silver saxophone, some jeweled wristwatches, overcoats, the money hidden in the mattress (how many times do we have to tell you people?) (and not in the Bible, either) and Mr. Ferguson&rsquo;s revolver.&nbsp; And his <a title="atanyprice" target="_blank" href="https://www.forbes.com/2006/04/10/expensive-musical-instruments_cx_mr_0411musicinst.html">Stradivarius</a>, <a title="illtaketwo" target="_blank" href="https://jscms.jrn.columbia.edu/cns/2007-04-24/meierdierkslehman-violinappraisialflaws">valued</a> at $<a title="cheapasfree" target="_blank" href="https://www.nytimes.com/2007/04/03/nyregion/03violin.html">400</a> ($<a title="whatabouthisovercoat" target="_blank" href="https://news.bbc.co.uk/2/low/entertainment/4988838.stm">4,411</a> USD 2006).</p>
+<p>The robbery part, incidentally, netted the robbers three diamond rings worth $1,800 ($19,854 USD 2006) plus a silver saxophone, some jeweled wristwatches, overcoats, the money hidden in the mattress (how many times do we have to tell you people?) (and not in the Bible, either) and Mr. Ferguson&rsquo;s revolver.&nbsp; And his <a title="atanyprice" target="_blank" href="http://www.forbes.com/2006/04/10/expensive-musical-instruments_cx_mr_0411musicinst.html">Stradivarius</a>, <a title="illtaketwo" target="_blank" href="http://jscms.jrn.columbia.edu/cns/2007-04-24/meierdierkslehman-violinappraisialflaws">valued</a> at $<a title="cheapasfree" target="_blank" href="http://www.nytimes.com/2007/04/03/nyregion/03violin.html">400</a> ($<a title="whatabouthisovercoat" target="_blank" href="http://news.bbc.co.uk/2/low/entertainment/4988838.stm">4,411</a> USD 2006).</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/12/31/the-bellchci3-stradivarius-colligation/">The Bell/CHCI3 Stradivarius Colligation</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/31/the-bellchci3-stradivarius-colligation/">The Bell/CHCI3 Stradivarius Colligation</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/12/31/the-bellchci3-stradivarius-colligation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/12/31/the-bellchci3-stradivarius-colligation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Mad Gasser of Fullerton Strikes Again!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/#respond</comments>
+		<link>https://1947project.com/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/</link>
+					<comments>https://1947project.com/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 01 Jul 2007 07:49:12 +0000</pubDate>
@@ -84,8 +84,8 @@
 		<category><![CDATA[Ralph Ince]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; June 30, 1927 Fullerton Two members of the Ralph Ince Film Company returned to the California Hotel in Fullerton &#8217;round midnight tonight to find their fearless leader, Ralph Ince, semiconscious and supine upon the floor.Â  Nipping the olâ€™ Hollywood joy juice down in Valenciaville, eh, Ralphie? Why, no!Â  Heâ€™s been the victim of the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/">Continue reading <span class="screen-reader-text">The Mad Gasser of Fullerton Strikes Again!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/">The Mad Gasser of Fullerton Strikes Again!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; June 30, 1927 Fullerton Two members of the Ralph Ince Film Company returned to the California Hotel in Fullerton &#8217;round midnight tonight to find their fearless leader, Ralph Ince, semiconscious and supine upon the floor.Â  Nipping the olâ€™ Hollywood joy juice down in Valenciaville, eh, Ralphie? Why, no!Â  Heâ€™s been the victim of the&#8230; <a class="more-link" href="https://1947project.com/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/">Continue reading <span class="screen-reader-text">The Mad Gasser of Fullerton Strikes Again!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/">The Mad Gasser of Fullerton Strikes Again!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -93,25 +93,25 @@
 <p><img loading="lazy" title="inceheadline" src="//farm2.static.flickr.com/1180/679611299_5a5daaebf8_o.gif" alt="inceheadline" width="498" height="130" border="0" /></p>
 <p>June 30, 1927<br />
 Fullerton</p>
-<p>Two members of the <a title="RIFC" href="https://www.imdb.com/company/co0068491/" target="_blank">Ralph Ince Film Company</a> returned to the <a title="califhotel" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=305+North+Harbor,+Fullerton,+Calif.&amp;sll=33.876687,-117.928963&amp;sspn=0.132543,0.222816&amp;ie=UTF8&amp;ll=33.872529,-117.9244&amp;spn=0.001036,0.001741&amp;t=h&amp;z=19&amp;iwloc=addr&amp;om=1" target="_blank">California Hotel</a> in Fullerton &#8217;round midnight tonight to find their fearless leader, <a title="RInce" href="https://www.imdb.com/name/nm0408433/" target="_blank">Ralph Ince</a>, semiconscious and supine upon the floor.Â  Nipping the olâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Hollywood joy juice down in Valenciaville, eh, Ralphie?</p>
-<p><img loading="lazy" title="califhotelpic" src="//farm2.static.flickr.com/1307/681375164_8acb359bd3_o.gif" alt="califhotelpic" width="350" height="263" align="left" border="0" />Why, no!Â  Heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s been the victim of the <a title="madgasser47" href="https://pensive-torvalds-020d34.netlify.app/?p=2010" target="_self">Mad Gasser of Fullerton</a>!Â  Hotel resident Carl Breusch said he&#8217;d seen a man skulking about the corridor, carrying a can, and that said can-carrier leapt out of a window when approached.Â  Guests Charles Scott and Charles McMaster were awakened in their respective bedrooms by the odor of the anesthetic solvent and then espied through their windows a shadowy figure running down the street.</p>
+<p>Two members of the <a title="RIFC" href="http://www.imdb.com/company/co0068491/" target="_blank">Ralph Ince Film Company</a> returned to the <a title="califhotel" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=305+North+Harbor,+Fullerton,+Calif.&amp;sll=33.876687,-117.928963&amp;sspn=0.132543,0.222816&amp;ie=UTF8&amp;ll=33.872529,-117.9244&amp;spn=0.001036,0.001741&amp;t=h&amp;z=19&amp;iwloc=addr&amp;om=1" target="_blank">California Hotel</a> in Fullerton &#8217;round midnight tonight to find their fearless leader, <a title="RInce" href="http://www.imdb.com/name/nm0408433/" target="_blank">Ralph Ince</a>, semiconscious and supine upon the floor.Â  Nipping the olâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Hollywood joy juice down in Valenciaville, eh, Ralphie?</p>
+<p><img loading="lazy" title="califhotelpic" src="//farm2.static.flickr.com/1307/681375164_8acb359bd3_o.gif" alt="califhotelpic" width="350" height="263" align="left" border="0" />Why, no!Â  Heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s been the victim of the <a title="madgasser47" href="https://1947project.com/?p=2010" target="_self">Mad Gasser of Fullerton</a>!Â  Hotel resident Carl Breusch said he&#8217;d seen a man skulking about the corridor, carrying a can, and that said can-carrier leapt out of a window when approached.Â  Guests Charles Scott and Charles McMaster were awakened in their respective bedrooms by the odor of the anesthetic solvent and then espied through their windows a shadowy figure running down the street.</p>
 <p>Though the papers reported Alois Sabinski&#8217;s recent battle with chloroform in his Nicholas Street home, California Hotel lessee Ellen Lincoln declared she&#8217;d heard nothing about any â€œchloroform burglar;â€ Fullerton Chief of Police T. K. Winter said, ahem, reports regarding any such character have been greatly exaggerated.</p>
 <p>In any event, Ince has departed for his companyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s location in Santa Ana Canyon, and can not be reached for comment.</p>
 <p><img loading="lazy" title="ince" src="//farm2.static.flickr.com/1027/679611283_a4c99f4476_o.gif" alt="ince" width="378" height="400" border="0" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/">The Mad Gasser of Fullerton Strikes Again!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/">The Mad Gasser of Fullerton Strikes Again!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/07/01/the-mad-gasser-of-fullerton-strikes-again/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Mad Gasser of&#8230; Fullerton?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/28/the-mad-gasser-of-fullerton/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/28/the-mad-gasser-of-fullerton/#respond</comments>
+		<link>https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/</link>
+					<comments>https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 28 Jun 2007 18:23:56 +0000</pubDate>
@@ -123,27 +123,27 @@ Fullerton</p>
 		<category><![CDATA[chloroform]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 28, 1927Fullerton Scholars of the unexplained in America will be familiar with the legend of the Mad Gasser of Mattoon, a possibly imaginary figure who gassed his way across two communities over a decade and thence into the spooky books. But we&#8217;ve found a precedent in the Los Angeles area that beats the first&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/28/the-mad-gasser-of-fullerton/">Continue reading <span class="screen-reader-text">The Mad Gasser of&#8230; Fullerton?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 28, 1927Fullerton Scholars of the unexplained in America will be familiar with the legend of the Mad Gasser of Mattoon, a possibly imaginary figure who gassed his way across two communities over a decade and thence into the spooky books. But we&#8217;ve found a precedent in the Los Angeles area that beats the first&#8230; <a class="more-link" href="https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/">Continue reading <span class="screen-reader-text">The Mad Gasser of&#8230; Fullerton?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>June 28, 1927<br /><a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=fullerton,+ca&#038;ie=UTF8&#038;ll=33.876687,-117.928963&#038;spn=0.131973,0.205307&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Fullerton</a> </p>
-<p>Scholars of the unexplained in America will be familiar with the legend of the <a href="https://www.prairieghosts.com/gasser.html" target="_blank">Mad Gasser of Mattoon</a>, a possibly imaginary figure who gassed his way across two communities over a decade and thence into the spooky books.</p>
+<div>June 28, 1927<br /><a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=fullerton,+ca&#038;ie=UTF8&#038;ll=33.876687,-117.928963&#038;spn=0.131973,0.205307&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Fullerton</a> </p>
+<p>Scholars of the unexplained in America will be familiar with the legend of the <a href="http://www.prairieghosts.com/gasser.html" target="_blank">Mad Gasser of Mattoon</a>, a possibly imaginary figure who gassed his way across two communities over a decade and thence into the spooky books.</p>
 <p>But we&#8217;ve found a precedent in the Los Angeles area that beats the first Mad Gasser attacks by six years! This very evening, garage operator Alois Sabinski was asleep in his home at 111 North Nicholas Street when his wife was roused by the distinctive odor of chloroform, and discovered her husband in a swoon. The clever lady threw open all the windows to disperse the poison before she too was rendered insensible, and peeked outside to see a man running away carrying what looked like a bicycle pump. A bicycle pump of doom!</p>
 <p>Officer Roy Mills, called to the scene, found footprints under the window and on the porch, and evidence that the gasser had launched his fumes through the open transom. So close those transoms, kids, and beware strange men bearing pumps.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/28/the-mad-gasser-of-fullerton/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Fiend in Human Form</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/14/the-fiend-in-human-form/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/14/the-fiend-in-human-form/#respond</comments>
+		<link>https://1947project.com/2007/05/14/the-fiend-in-human-form/</link>
+					<comments>https://1947project.com/2007/05/14/the-fiend-in-human-form/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 14 May 2007 17:55:01 +0000</pubDate>
@@ -153,36 +153,36 @@ Fullerton</p>
 		<category><![CDATA[chloroform]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 14, 1927 Long Beach Miss Madeline Lindsley was on her way home from a party when shortly before midnight, the pretty 19 year old encountered a man who abruptly grabbed her by the neck, and threw her violently to the pavement. The attack occurred in front of 434 Pacific Avenue, one block from the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/14/the-fiend-in-human-form/">Continue reading <span class="screen-reader-text">The Fiend in Human Form</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/14/the-fiend-in-human-form/">The Fiend in Human Form</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 14, 1927 Long Beach Miss Madeline Lindsley was on her way home from a party when shortly before midnight, the pretty 19 year old encountered a man who abruptly grabbed her by the neck, and threw her violently to the pavement. The attack occurred in front of 434 Pacific Avenue, one block from the&#8230; <a class="more-link" href="https://1947project.com/2007/05/14/the-fiend-in-human-form/">Continue reading <span class="screen-reader-text">The Fiend in Human Form</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/14/the-fiend-in-human-form/">The Fiend in Human Form</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="fiend" src="//farm1.static.flickr.com/201/496510859_0facd6b8bb_o.jpg" alt="fiend" width="212" height="234" align="middle" border="0" /></p>
 <p>May 14, 1927<br />
 Long Beach</p>
-<p>Miss Madeline Lindsley was on her way home from a party when shortly before midnight, the pretty 19 year old encountered a man who abruptly grabbed her by the neck, and threw her violently to the pavement. The attack occurred in front of <a title="111 West Fifth Street" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=434+Pacific+Avenue,+Long+Beach,+CA&amp;sll=33.769337,-118.161156&amp;sspn=0.011113,0.018239&amp;ie=UTF8&amp;ll=33.772352,-118.193729&amp;spn=0.011112,0.018239&amp;z=16&amp;iwloc=addr&amp;om=1" target="_blank">434 Pacific Avenue</a>, one block from the victimâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s home and two blocks from police headquarters.</p>
-<p>Summoned by Madelineâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s screams, four local men: H.K. Klingraef, <a title="111 West Fifth" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=111+West+Fifth+Street,+Long+Beach,+CA&amp;sll=37.0625,-95.677068&amp;sspn=43.172547,74.707031&amp;ie=UTF8&amp;ll=33.773137,-118.192677&amp;spn=0.011112,0.018239&amp;z=16&amp;iwloc=addr&amp;om=1" target="_blank">111 West Fifth Street</a>; E.E. Peterson, <a title="634 Cedar Avenue" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=634+Cedar+Avenue,+Long+Beach,+CA&amp;sll=33.773137,-118.192677&amp;sspn=0.011112,0.018239&amp;ie=UTF8&amp;ll=33.774956,-118.193128&amp;spn=0.011112,0.018239&amp;z=16&amp;iwloc=addr&amp;om=1" target="_blank">634 Cedar Avenue</a>; Larry Moore, a Kress Store employee, and M.R. Hodges of <a title="3117 Wilton Street" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=3117+Wilton+Street,+Long+Beach,+CA&amp;sll=33.774956,-118.193128&amp;sspn=0.011112,0.018239&amp;ie=UTF8&amp;ll=33.788136,-118.148088&amp;spn=0.01111,0.018239&amp;z=16&amp;iwloc=cent&amp;om=1" target="_blank">3117 Wilton Street</a> rushed to her aid. The girlâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s cowardly assailant fled when he heard her rescuers approach.</p>
+<p>Miss Madeline Lindsley was on her way home from a party when shortly before midnight, the pretty 19 year old encountered a man who abruptly grabbed her by the neck, and threw her violently to the pavement. The attack occurred in front of <a title="111 West Fifth Street" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=434+Pacific+Avenue,+Long+Beach,+CA&amp;sll=33.769337,-118.161156&amp;sspn=0.011113,0.018239&amp;ie=UTF8&amp;ll=33.772352,-118.193729&amp;spn=0.011112,0.018239&amp;z=16&amp;iwloc=addr&amp;om=1" target="_blank">434 Pacific Avenue</a>, one block from the victimâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s home and two blocks from police headquarters.</p>
+<p>Summoned by Madelineâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s screams, four local men: H.K. Klingraef, <a title="111 West Fifth" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=111+West+Fifth+Street,+Long+Beach,+CA&amp;sll=37.0625,-95.677068&amp;sspn=43.172547,74.707031&amp;ie=UTF8&amp;ll=33.773137,-118.192677&amp;spn=0.011112,0.018239&amp;z=16&amp;iwloc=addr&amp;om=1" target="_blank">111 West Fifth Street</a>; E.E. Peterson, <a title="634 Cedar Avenue" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=634+Cedar+Avenue,+Long+Beach,+CA&amp;sll=33.773137,-118.192677&amp;sspn=0.011112,0.018239&amp;ie=UTF8&amp;ll=33.774956,-118.193128&amp;spn=0.011112,0.018239&amp;z=16&amp;iwloc=addr&amp;om=1" target="_blank">634 Cedar Avenue</a>; Larry Moore, a Kress Store employee, and M.R. Hodges of <a title="3117 Wilton Street" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=3117+Wilton+Street,+Long+Beach,+CA&amp;sll=33.774956,-118.193128&amp;sspn=0.011112,0.018239&amp;ie=UTF8&amp;ll=33.788136,-118.148088&amp;spn=0.01111,0.018239&amp;z=16&amp;iwloc=cent&amp;om=1" target="_blank">3117 Wilton Street</a> rushed to her aid. The girlâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s cowardly assailant fled when he heard her rescuers approach.</p>
 <p>The posse gave chase through several streets and unlit alleyways until they nabbed their man. Neighbors telephoned police and the suspect was taken into custody by two detective sergeants, Wright and Dixon.</p>
 <p>â€œHe acted like an insane manâ€, Miss Lindsley told police, following the ferocious assault.</p>
-<p>The accused, Mr. Walter S. Pawling, lives with his wife and two children. He confessed to police that he is employed as a professional rum runner, and told them that he had just completed a trip delivering illegal hooch from <a title="Catalina Island" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=Santa+Catalina+Island,+CA&amp;sll=33.38884,-118.45442&amp;sspn=0.357175,0.583649&amp;ie=UTF8&amp;z=11&amp;iwloc=addr&amp;om=1" target="_blank">Catalina Island</a> to <a title="San Pedro" href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=San+Pedro,+CA&amp;ie=UTF8&amp;ll=33.745182,-118.302841&amp;spn=0.088926,0.145912&amp;z=13&amp;iwloc=addr&amp;om=1" target="_blank">San Pedro</a>.</p>
+<p>The accused, Mr. Walter S. Pawling, lives with his wife and two children. He confessed to police that he is employed as a professional rum runner, and told them that he had just completed a trip delivering illegal hooch from <a title="Catalina Island" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=Santa+Catalina+Island,+CA&amp;sll=33.38884,-118.45442&amp;sspn=0.357175,0.583649&amp;ie=UTF8&amp;z=11&amp;iwloc=addr&amp;om=1" target="_blank">Catalina Island</a> to <a title="San Pedro" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=San+Pedro,+CA&amp;ie=UTF8&amp;ll=33.745182,-118.302841&amp;spn=0.088926,0.145912&amp;z=13&amp;iwloc=addr&amp;om=1" target="_blank">San Pedro</a>.</p>
 <p>Police discovered two ounces of chloroform and two eighteen inch lengths of rope concealed in Mr. Pawlingâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s pocket. Accustomed as they are to the various tools of illicit trades, even police were bewildered by his peculiar choice of equipment. Without missing a beat, Pawling glibly explained that he uses the chloroform and rope to defend himself against hijackers while on his late night coastal runs. Police were evidentlyÂ so stunned by his story that they failed to request a demonstration of the weapons.</p>
 <p>Fleeing an angry mob or thwarting an attack by hijackers is a dangerous business, so Mr. Pawling may wish to reconsider the effectiveness of his arsenal. Packing a concealed bottle of chloroform and two flaccid lengths of rope is no way for a grown man to defend himself.</p>
 <p>In the future he might consider hurling a snappy <em>bon mot</em>, wielding a rapier-like wit, or brandishing a snub-nosed .38.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/14/the-fiend-in-human-form/">The Fiend in Human Form</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/14/the-fiend-in-human-form/">The Fiend in Human Form</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/14/the-fiend-in-human-form/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/14/the-fiend-in-human-form/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dramatic Disclosures Come After Girl Cashier&#8217;s Death</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/#respond</comments>
+		<link>https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/</link>
+					<comments>https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 20 Apr 2006 18:24:22 +0000</pubDate>
@@ -199,24 +199,24 @@ Long Beach</p>
 		<category><![CDATA[chloroform]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 20, 1907 Los Angeles&#160; Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in New Calvary. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety. Alice was a longtime&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Continue reading <span class="screen-reader-text">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 20, 1907 Los Angeles&#160; Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in New Calvary. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety. Alice was a longtime&#8230; <a class="more-link" href="https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Continue reading <span class="screen-reader-text">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img border="0" src="//static.flickr.com/55/132477617_eb662b03cb.jpg" /></p>
 <p>April 20, 1907<br /> Los Angeles&nbsp;</p>
-<p>Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=whittier+blvd.+and+s.+downey+road,+Los+Angeles,+CA&#038;ll=34.025134,-118.180103&#038;spn=0.014334,0.040298&#038;om=1" target="_blank">New Calvary</a>. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety.</p>
-<p>Alice was a longtime cashier at the <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=221+S+Broadway,+Los+Angeles,+CA+90012&#038;ll=34.053406,-118.247094&#038;spn=0.014329,0.040298&#038;om=1" target="_blank">Ville de Paris</a> dry goods emporium on Broadway, between 2nd and 3rd Streets. At some stage in her career, she developed a system by which she could bring home with her a portion of the day&#8217;s receipts. In recent months, it is believed this was as much as $300 a day. A clever girl, she invested her takings in real estate, and built a handsome portfolio.</p>
+<p>Pity Miss Alice Chevallier, native of this city, who took too powerful a sleeping potion a few evenings past, and now lays rotting in her grave in <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=whittier+blvd.+and+s.+downey+road,+Los+Angeles,+CA&#038;ll=34.025134,-118.180103&#038;spn=0.014334,0.040298&#038;om=1" target="_blank">New Calvary</a>. She follows her mother and her brother, but unlike them, her death brings with it unwelcome notoriety.</p>
+<p>Alice was a longtime cashier at the <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=221+S+Broadway,+Los+Angeles,+CA+90012&#038;ll=34.053406,-118.247094&#038;spn=0.014329,0.040298&#038;om=1" target="_blank">Ville de Paris</a> dry goods emporium on Broadway, between 2nd and 3rd Streets. At some stage in her career, she developed a system by which she could bring home with her a portion of the day&#8217;s receipts. In recent months, it is believed this was as much as $300 a day. A clever girl, she invested her takings in real estate, and built a handsome portfolio.</p>
 <p>But her ingrained nervousness and peculiar disposition&#8211;she did not care for men, and perhaps not coincidentally suffered ovarian tumors, neuralgia and insomnia&#8211;proved the thief&#8217;s undoing. She found it necessary to escape to Catalina to rest following an operation, although she must have realized that her absense from the place of her crimes would make discovery likely. And that is precisely what happened.</p>
-<p>Alice returned to her home at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=226+W+Jefferson+Blvd,+Los+Angeles,+CA+90007&#038;ll=34.020973,-118.275332&#038;spn=0.014335,0.040298&#038;om=1" target="_blank">226 West Jefferson</a>, distraught from a sustained bout of sleeplessness and the anxiety of meeting the Ville de Paris&#8217; lawyers. Although her real estate holdings were now sufficiently valuable to cover any restitution required and more, she languished in a state of abject horror.</p>
+<p>Alice returned to her home at <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=226+W+Jefferson+Blvd,+Los+Angeles,+CA+90007&#038;ll=34.020973,-118.275332&#038;spn=0.014335,0.040298&#038;om=1" target="_blank">226 West Jefferson</a>, distraught from a sustained bout of sleeplessness and the anxiety of meeting the Ville de Paris&#8217; lawyers. Although her real estate holdings were now sufficiently valuable to cover any restitution required and more, she languished in a state of abject horror.</p>
 <p>On Sunday evening, Alice told her sister-in-law that she intended to take a sleeping powder, but in fact she took laudanum and chloroform, two drugs with which she had significant past experience. This time, the dose was too much for her weakened system, and the girl lingered until Wednesday before expiring. Her doctors stress that although it might look like a suicide, the true cause was congestion of the brain&#8211;the same organic disorder that lead her to steal in the first place. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/">Dramatic Disclosures Come After Girl Cashier&#8217;s Death</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/20/dramatic-disclosures-come-after-girl-cashiers-death/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>architecture &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/architecture-9/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/architecture-9/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:18:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>architecture &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Wrightwatch &#8217;27</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/08/27/wrightwatch-27/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/08/27/wrightwatch-27/#respond</comments>
+		<link>https://1947project.com/2007/08/27/wrightwatch-27/</link>
+					<comments>https://1947project.com/2007/08/27/wrightwatch-27/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 27 Aug 2007 08:31:58 +0000</pubDate>
@@ -49,14 +49,14 @@
 		<category><![CDATA[Wisconsin]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 26, 1927Madison, Wisc. Frank Lloyd Wright was a favorite son of Los Angeles, where he threw off the Prairie mantle and began creating his kooky indigenous-flavored block houses (e.g., Storer, Millard, Ennis, Freeman) in contrast to the Spanish Colonial (or, say, Egyptoid Tudor Chateauxesque) prevalent in the Southland&#8217;s early 20s, before he said to&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/08/27/wrightwatch-27/">Continue reading <span class="screen-reader-text">Wrightwatch &#8217;27</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/27/wrightwatch-27/">Wrightwatch &#8217;27</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 26, 1927Madison, Wisc. Frank Lloyd Wright was a favorite son of Los Angeles, where he threw off the Prairie mantle and began creating his kooky indigenous-flavored block houses (e.g., Storer, Millard, Ennis, Freeman) in contrast to the Spanish Colonial (or, say, Egyptoid Tudor Chateauxesque) prevalent in the Southland&#8217;s early 20s, before he said to&#8230; <a class="more-link" href="https://1947project.com/2007/08/27/wrightwatch-27/">Continue reading <span class="screen-reader-text">Wrightwatch &#8217;27</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/27/wrightwatch-27/">Wrightwatch &#8217;27</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="205" height="300" border="0" align="left" title="flw" alt="flw" src="//farm2.static.flickr.com/1269/1246437393_8d714c93d6_o.gif" />August 26, 1927<br />Madison, Wisc.</p>
 <p>Frank Lloyd Wright was a favorite son of Los Angeles, where he threw off the Prairie mantle and began creating his kooky indigenous-flavored block houses (e.g., Storer, Millard, Ennis, Freeman) in contrast to the Spanish Colonial (or, say, Egyptoid Tudor Chateauxesque) prevalent in the Southland&rsquo;s early 20s, before he said to hell with LA and lit out for his cursed home, Taliesin. &nbsp;</p>
-<p>There was much architectural buzz about Mr. Wright in 1927, as he&rsquo;d already designed a theater model for Aline Barnsdall, who announced in January that she&rsquo;d build the structure as part of her eight-acre &ldquo;city cultural center&rdquo; gift to Los Angeles of her own FLW <a href="https://www.hollyhockhouse.net/" target="_blank" title="hollyhock">Hollyhock House</a> and property. </p>
+<p>There was much architectural buzz about Mr. Wright in 1927, as he&rsquo;d already designed a theater model for Aline Barnsdall, who announced in January that she&rsquo;d build the structure as part of her eight-acre &ldquo;city cultural center&rdquo; gift to Los Angeles of her own FLW <a href="http://www.hollyhockhouse.net/" target="_blank" title="hollyhock">Hollyhock House</a> and property. </p>
 <p><img loading="lazy" width="400" height="176" border="0" title="barnsdall" alt="barnsdall" src="//farm2.static.flickr.com/1341/1246550016_e0a60d670f_o.gif" /></p>
 <p>When the Smart People of to-day tour FLW&#8217;s block houses and consider his play of light over form, and gauge its relationship between the zig of Meiji woodblock prints and the zag of Walter Burley Griffin&rsquo;s green thumb, they probably aren&rsquo;t informed that ol&rsquo; FLW had a lurid past fit for any tabloid-worthy favorite son of Los Angeles.</p>
 <p>For example, while married to Catherine Wright, he fell in love with another woman, one Mamah Borthwick.&nbsp; Catherine wouldn&rsquo;t divorce him, so Wright abandoned her and the six kids and went galavanting around Europe with Mamah.&nbsp; On his return, Catherine still wouldn&rsquo;t divorce him, so Wright brought scandal to Spring Green, Wisc. by shacking up with Mamah.&nbsp; This was sorted out in short order when one of his domestics decided to utilize a Wrightian architectural principal&mdash;one door for all purposes&mdash;which made it easy to axe-murder seven people trying to flee a Taliesin you&rsquo;d just set on fire.&nbsp; And Mamah was one of those so axed.&nbsp; &nbsp;</p>
@@ -69,18 +69,18 @@
 <p>I&#8217;d keep an eye on that Schindler character if I were you.&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/08/27/wrightwatch-27/">Wrightwatch &#8217;27</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/27/wrightwatch-27/">Wrightwatch &#8217;27</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/08/27/wrightwatch-27/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/08/27/wrightwatch-27/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bid Goodbye to All You Know</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/04/29/bid-goodbye-to-all-you-know/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/04/29/bid-goodbye-to-all-you-know/#respond</comments>
+		<link>https://1947project.com/2007/04/29/bid-goodbye-to-all-you-know/</link>
+					<comments>https://1947project.com/2007/04/29/bid-goodbye-to-all-you-know/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 29 Apr 2007 08:58:44 +0000</pubDate>
@@ -92,8 +92,8 @@
 		<category><![CDATA[pornography]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>1927.Â  Transatlantic telephone calls and transatlantic flight.Â  The Model T gives way to Model A which shoot through the Holland Tunnel.Â  Stalin takes control of Russian and Bavaria lifts its ban on Hitlerâ€™s speeches.Â  Itâ€™s a new world. And here in Hollywood, while the pictures begin to talk at you, the old world crumbles away.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/04/29/bid-goodbye-to-all-you-know/">Continue reading <span class="screen-reader-text">Bid Goodbye to All You Know</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/29/bid-goodbye-to-all-you-know/">Bid Goodbye to All You Know</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>1927.Â  Transatlantic telephone calls and transatlantic flight.Â  The Model T gives way to Model A which shoot through the Holland Tunnel.Â  Stalin takes control of Russian and Bavaria lifts its ban on Hitlerâ€™s speeches.Â  Itâ€™s a new world. And here in Hollywood, while the pictures begin to talk at you, the old world crumbles away.&#8230; <a class="more-link" href="https://1947project.com/2007/04/29/bid-goodbye-to-all-you-know/">Continue reading <span class="screen-reader-text">Bid Goodbye to All You Know</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/29/bid-goodbye-to-all-you-know/">Bid Goodbye to All You Know</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -134,21 +134,21 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;<br />
-And <a title="lettsjr" href="https://www.playboy.com/worldofplayboy/hmh/mansion/" target="_blank">proudly</a>.</p>
+And <a title="lettsjr" href="http://www.playboy.com/worldofplayboy/hmh/mansion/" target="_blank">proudly</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/04/29/bid-goodbye-to-all-you-know/">Bid Goodbye to All You Know</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/29/bid-goodbye-to-all-you-know/">Bid Goodbye to All You Know</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/04/29/bid-goodbye-to-all-you-know/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/04/29/bid-goodbye-to-all-you-know/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Architectural Ramblings</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/#respond</comments>
+		<link>https://1947project.com/2007/02/24/architectural-ramblings-7/</link>
+					<comments>https://1947project.com/2007/02/24/architectural-ramblings-7/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 24 Feb 2007 15:15:25 +0000</pubDate>
@@ -158,15 +158,15 @@ And <a title="lettsjr" href="https://www.playboy.com/worldofplayboy/hmh/mansion/
 		<category><![CDATA[Wilshire Temple]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 24, 1907 Eagle Rock Architect Samuel Tilden Norton has designed a bank building for Townsend Avenue and Colorado Boulevard in Eagle Rock, The Times says. Just to make research interesting, The Times misspelled his name as S. Tilton Norton. According to his 1959 obituary, his mother was the first Jewish child born in Los&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/">Continue reading <span class="screen-reader-text">Architectural Ramblings</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 24, 1907 Eagle Rock Architect Samuel Tilden Norton has designed a bank building for Townsend Avenue and Colorado Boulevard in Eagle Rock, The Times says. Just to make research interesting, The Times misspelled his name as S. Tilton Norton. According to his 1959 obituary, his mother was the first Jewish child born in Los&#8230; <a class="more-link" href="https://1947project.com/2007/02/24/architectural-ramblings-7/">Continue reading <span class="screen-reader-text">Architectural Ramblings</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/24/architectural-ramblings-7/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0224.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 364px; height: 278px;" src="//www.lmharnisch.com/images/1907_0224.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0224.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 364px; height: 278px;" src="//www.lmharnisch.com/images/1907_0224.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">Feb. 24, 1907<br />
 Eagle Rock</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">Architect Samuel Tilden Norton has designed a bank building for <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=colorado+and+townsend,+eagle+rock,+ca&#038;sll=37.0625,-95.677068&amp;sspn=150.49252,84.375&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.139199,-118.201505&amp;spn=0.000575,0.002103&#038;t=h&amp;om=0">Townsend Avenue and Colorado Boulevard</a> in Eagle Rock, The Times says. </p>
+<p class="MsoNormal">Architect Samuel Tilden Norton has designed a bank building for <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=colorado+and+townsend,+eagle+rock,+ca&#038;sll=37.0625,-95.677068&amp;sspn=150.49252,84.375&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.139199,-118.201505&amp;spn=0.000575,0.002103&#038;t=h&amp;om=0">Townsend Avenue and Colorado Boulevard</a> in Eagle Rock, The Times says. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Just to make research interesting, The Times misspelled his name as S. Tilton Norton. According to his 1959 obituary, his mother was the first Jewish child born in Los Angeles. After studying architecture in Los Angeles and New York, he designed the Wilshire Fox Building and Sinai Temple. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -174,7 +174,7 @@ Eagle Rock</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Norton was lifelong friends with Rabbi Edgar F. Magnin, who presided over the funeral. Norton was a member of many professional, religious and social organizations, including Hillcrest Country Club, Nathan Strauss Israel Society, Jewish Federation, the Friends of the Hebrew University and the Zionist Organization of America. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]-->
@@ -186,22 +186,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/24/architectural-ramblings-7/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/24/architectural-ramblings-7/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/24/architectural-ramblings-7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Incendiary Ramblings</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/06/incendiary-ramblings/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/06/incendiary-ramblings/#comments</comments>
+		<link>https://1947project.com/2007/02/06/incendiary-ramblings/</link>
+					<comments>https://1947project.com/2007/02/06/incendiary-ramblings/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 06 Feb 2007 14:34:35 +0000</pubDate>
@@ -212,24 +212,24 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Feb. 5, 2007 Los Angeles HereÃ¢â‚¬â„¢s an architectural drawing of the O.T. Johnson Building, which burned in yesterdayÃ¢â‚¬â„¢s fire. Looking north on Broadway at 4th Street. The burned structures are at the right. And here are some snaps of the damaged structures: Lmharnisch.com Lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/06/incendiary-ramblings/">Incendiary Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/06/incendiary-ramblings/">Incendiary Ramblings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><!-- [if !supportEmptyParas]--><!--[endif]-->Feb. 5, 2007<br />
 Los Angeles</p>
 <p class="MsoNormal"><!-- [if !supportEmptyParas]--></p>
 <p class="MsoNormal">HereÃ¢â‚¬â„¢s an architectural drawing of the O.T. Johnson Building, which burned in yesterdayÃ¢â‚¬â„¢s fire.</p>
-<p><a href="https://www.lmharnisch.com/images/1907_otjohnson.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_otjohnson.jpg" alt="" border="0" /></a><br />
-<a href="https://www.lmharnisch.com/images/1907_bwy_pcard.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_bwy_pcard.jpg" alt="" border="0" /></a></p>
+<p><a href="http://www.lmharnisch.com/images/1907_otjohnson.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_otjohnson.jpg" alt="" border="0" /></a><br />
+<a href="http://www.lmharnisch.com/images/1907_bwy_pcard.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_bwy_pcard.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal" style="text-align: center;"><span style="font-weight: bold;">Looking north on Broadway at 4th Street. The burned structures are at the right. </span></p>
 <p class="MsoNormal"><!-- [if !supportEmptyParas]--></p>
 <p class="MsoNormal">And here are some snaps of the damaged structures:</p>
-<p><a href="https://www.lmharnisch.com/images/bway_fire01.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/bway_fire01.jpg" alt="" border="0" /></a><br />
-<a href="https://www.lmharnisch.com/images/bway_fire02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/bway_fire02.jpg" alt="" border="0" /></a></p>
-<p class="MsoNormal"><a href="https://www.lmharnisch.com/images/bway_fire03.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/bway_fire03.jpg" alt="" border="0" /></a></p>
+<p><a href="http://www.lmharnisch.com/images/bway_fire01.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/bway_fire01.jpg" alt="" border="0" /></a><br />
+<a href="http://www.lmharnisch.com/images/bway_fire02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/bway_fire02.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a href="http://www.lmharnisch.com/images/bway_fire03.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/bway_fire03.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"><!-- [if !supportEmptyParas]--></p>
 <p class="MsoNormal"><!-- [if !supportEmptyParas]--> <!--[endif]--></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -239,22 +239,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 // ]]&gt;</script><br />
-<script src="//www.statcounter.com/counter/counter.js" type="text/javascript"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script src="//www.statcounter.com/counter/counter.js" type="text/javascript"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/06/incendiary-ramblings/">Incendiary Ramblings</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/06/incendiary-ramblings/">Incendiary Ramblings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/06/incendiary-ramblings/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/06/incendiary-ramblings/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/#respond</comments>
+		<link>https://1947project.com/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/</link>
+					<comments>https://1947project.com/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 28 Dec 2006 18:24:05 +0000</pubDate>
@@ -270,8 +270,8 @@ var sc_security="77307670";
 		<category><![CDATA[vice is nice]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle rider, We&#8217;ll be crossing state lines and violating the Mann Act next month, when the Crime Bus rolls from downtown Los Angeles to Las Vegas on Friday January 26 to take a luxury coach full of party people to the first ever Mondo Lounge Atomic Frolic weekend at the Aruba Hotel. The price is&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/">Continue reading <span class="screen-reader-text">Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/">Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle rider, We&#8217;ll be crossing state lines and violating the Mann Act next month, when the Crime Bus rolls from downtown Los Angeles to Las Vegas on Friday January 26 to take a luxury coach full of party people to the first ever Mondo Lounge Atomic Frolic weekend at the Aruba Hotel. The price is&#8230; <a class="more-link" href="https://1947project.com/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/">Continue reading <span class="screen-reader-text">Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/">Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -283,18 +283,18 @@ var sc_security="77307670";
 <p>The Atomic Frolic is a benefit for the support of protecting modernism in Las Vegas, something that&#8217;s long overdue. And tickets are just $30. We hope to see many of our Crime Bus friends in Las Vegas during the last weekend of January. For more info on the Atomic Frolic, please visit <br />Want a spot on the bus?  me to reserve. Again, it&#8217;s $130 R/T for the bus and the event.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/">Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/">Crime Bus to the Atomic Frolic, Las Vegas weekender Jan. 26-28</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/28/crime-bus-to-the-atomic-frolic-las-vegas-weekender-jan-26-28/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>L.A. Rising</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/15/l-a-rising/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/15/l-a-rising/#respond</comments>
+		<link>https://1947project.com/2006/12/15/l-a-rising/</link>
+					<comments>https://1947project.com/2006/12/15/l-a-rising/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 15 Dec 2006 16:30:35 +0000</pubDate>
@@ -306,27 +306,27 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Dec. 15, 1905 Los Angeles Anybody who sets out to study the development of the city</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/15/l-a-rising/">L.A. Rising</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/15/l-a-rising/">L.A. Rising</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1215.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 372px; height: 265px;" src="//www.lmharnisch.com/images/1907_1215.jpg" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/imaegs/1907_1215.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/imaegs/1907_1215.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 15, 1905<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1215.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 372px; height: 265px;" src="//www.lmharnisch.com/images/1907_1215.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/imaegs/1907_1215.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/imaegs/1907_1215.jpg" alt="" border="0" /></a><span style="font-size:100%;">Dec. 15, 1905<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Anybody who sets out to study the development of the city</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/15/l-a-rising/">L.A. Rising</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/15/l-a-rising/">L.A. Rising</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/15/l-a-rising/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/15/l-a-rising/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Where Children Played</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/12/where-children-played/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/12/where-children-played/#respond</comments>
+		<link>https://1947project.com/2006/12/12/where-children-played/</link>
+					<comments>https://1947project.com/2006/12/12/where-children-played/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 12 Dec 2006 16:15:50 +0000</pubDate>
@@ -336,27 +336,27 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Dec.12, 1907 Los Angeles In the gritty, industrial heart of the 8th Ward at Holly Street and St. John, officials are planning a large recreation facility</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/12/where-children-played/">Where Children Played</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/12/where-children-played/">Where Children Played</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1212.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 385px; height: 191px;" src="//www.lmharnisch.com/images/1907_1212.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1212.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 385px; height: 191px;" src="//www.lmharnisch.com/images/1907_1212.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Dec.12, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">In the gritty, industrial heart of the 8th Ward at <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=1450+magdalena,+los+angeles,+ca&#038;ie=UTF8&amp;amp;amp;z=18&#038;ll=34.064792,-118.228555&amp;spn=0.001151,0.004206&#038;t=h&amp;om=0">Holly Street and St. John</a></span><span style="font-size:100%;">, officials are planning a large recreation facility </div>
+</span><span style="font-size:100%;">In the gritty, industrial heart of the 8th Ward at <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=1450+magdalena,+los+angeles,+ca&#038;ie=UTF8&amp;amp;amp;z=18&#038;ll=34.064792,-118.228555&amp;spn=0.001151,0.004206&#038;t=h&amp;om=0">Holly Street and St. John</a></span><span style="font-size:100%;">, officials are planning a large recreation facility </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/12/where-children-played/">Where Children Played</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/12/where-children-played/">Where Children Played</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/12/where-children-played/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/12/where-children-played/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Roving to Monrovia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/#respond</comments>
+		<link>https://1947project.com/2006/11/25/roving-to-monrovia/</link>
+					<comments>https://1947project.com/2006/11/25/roving-to-monrovia/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 25 Nov 2006 16:25:05 +0000</pubDate>
@@ -367,33 +367,33 @@ var sc_security="77307670";
 		<category><![CDATA[John C. Rupp]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the&#8230; <a class="more-link" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1124.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 353px; height: 280px;" src="//www.lmharnisch.com/images/1907_1124.jpg" alt="" border="0" /></a>Nov. 24, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1124.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 353px; height: 280px;" src="//www.lmharnisch.com/images/1907_1124.jpg" alt="" border="0" /></a>Nov. 24, 1907<br />
 Monrovia    </p>
-<p class="MsoNormal">The Times real estate section takes a look at what was then the distant suburb of Monrovia, <a href="https://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=202+W+1st+St,+Los+Angeles,+CA+90012&#038;daddr=269+N+Ivy+Ave,+Monrovia,+CA+91016&amp;sll=37.0625,-95.677068&#038;sspn=36.042042,87.1875&amp;amp;amp;amp;amp;amp;amp;amp;amp;ie=UTF8&#038;z=11&amp;t=h&#038;om=0">22 miles from downtown Los Angeles</a>. The writer notes the increasing use of concrete and stone, explai<img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 205px;" src="//www.lmharnisch.com/images/1907_1124B.jpg" alt="" border="0" />ning that the cost of lumber is forcing builders to use other materials. The writer also notes the broad, shaded verandas of three featured homes as well as the outlines of their roofs.</p>
+<p class="MsoNormal">The Times real estate section takes a look at what was then the distant suburb of Monrovia, <a href="http://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=202+W+1st+St,+Los+Angeles,+CA+90012&#038;daddr=269+N+Ivy+Ave,+Monrovia,+CA+91016&amp;sll=37.0625,-95.677068&#038;sspn=36.042042,87.1875&amp;amp;amp;amp;amp;amp;amp;amp;amp;ie=UTF8&#038;z=11&amp;t=h&#038;om=0">22 miles from downtown Los Angeles</a>. The writer notes the increasing use of concrete and stone, explai<img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 205px;" src="//www.lmharnisch.com/images/1907_1124B.jpg" alt="" border="0" />ning that the cost of lumber is forcing builders to use other materials. The writer also notes the broad, shaded verandas of three featured homes as well as the outlines of their roofs.</p>
 <p class="MsoNormal">The story highlights the home of B.R. Davisson on East Orange Avenue, H.M. Slemmons (or Slemon) on North Myrtle Avenue and the home of John C. Rupp at Ivy and Greystone, built for $6,500 ($133,403.21 USD 2005). </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Without exact addresses, it would be difficult for me to locate the Davisson and Slemmons homes, but I took a pleasant drive out to Monrovia recently to look for the Rupp house and was happy to find<br />
-that it is still standing and in beautiful condition. In fact, it was nice to discover that the neighborhood has quite a few well-maintained historic homes; a contrast to the condition of the houses I located in Pico Heights.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_rupp_obit.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 402px;" src="//www.lmharnisch.com/images/1907_rupp_obit.jpg" alt="" border="0" /></a></p>
+that it is still standing and in beautiful condition. In fact, it was nice to discover that the neighborhood has quite a few well-maintained historic homes; a contrast to the condition of the houses I located in Pico Heights.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_rupp_obit.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 402px;" src="//www.lmharnisch.com/images/1907_rupp_obit.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">I had a brief chat with the homeowner who gave me a tour of the grounds. He said that Rupp, a financier, built the home for his wife, but that she decided it was too far from Los Angeles and wouldn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Curb Appeal</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/#respond</comments>
+		<link>https://1947project.com/2006/11/03/curb-appeal/</link>
+					<comments>https://1947project.com/2006/11/03/curb-appeal/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 03 Nov 2006 14:59:41 +0000</pubDate>
@@ -403,15 +403,15 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 		<category><![CDATA[real estate]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 3, 1907 Los Angeles Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on Van Ness just south of Pico. According to The Times, the two-story house (with basement) has a first floor divided into a reception hall with an oak staircase leading upstairs. The living room features built-in bookcases and a&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/">Continue reading <span class="screen-reader-text">Curb Appeal</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 3, 1907 Los Angeles Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on Van Ness just south of Pico. According to The Times, the two-story house (with basement) has a first floor divided into a reception hall with an oak staircase leading upstairs. The living room features built-in bookcases and a&#8230; <a class="more-link" href="https://1947project.com/2006/11/03/curb-appeal/">Continue reading <span class="screen-reader-text">Curb Appeal</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1103.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1103.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1103.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1103.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 3, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
-</span><span style="font-size:100%;">Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=W+Pico+Blvd+%26+S+Van+Ness+Ave,+Los+Angeles,+CA+90019&#038;ie=UTF8&amp;amp;amp;om=0&#038;z=18&amp;ll=34.046926,-118.315485&#038;spn=0.001253,0.004206&amp;t=h&#038;iwloc=addr">Van Ness just south of Pico</a></span><span style="font-size:100%;">.<br />
+</span><span style="font-size:100%;">Mrs. E.N. Eskey is building this 10-room house in Pico Heights, on <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=W+Pico+Blvd+%26+S+Van+Ness+Ave,+Los+Angeles,+CA+90019&#038;ie=UTF8&amp;amp;amp;om=0&#038;z=18&amp;ll=34.046926,-118.315485&#038;spn=0.001253,0.004206&amp;t=h&#038;iwloc=addr">Van Ness just south of Pico</a></span><span style="font-size:100%;">.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">According to The Times, the two-story house (with basement) has a first floor divided into a reception hall with an oak staircase leading upstairs. The living room features built-in bookcases and a massive brick mantel. </span><span style="font-size:100%;">The dining room has a built-in buffet and china closet, with a pantry and kitchen.<br />
 </span><span style="font-size:100%;"><br />
@@ -421,18 +421,18 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The cost? $5,000 ($102,617.85 USD 2005) a bargain by today</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/03/curb-appeal/">Curb Appeal</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/03/curb-appeal/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/03/curb-appeal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Salvation in the Round</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/#respond</comments>
+		<link>https://1947project.com/2006/10/22/salvation-in-the-round/</link>
+					<comments>https://1947project.com/2006/10/22/salvation-in-the-round/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 22 Oct 2006 06:21:34 +0000</pubDate>
@@ -442,8 +442,8 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 		<category><![CDATA[Olivet Presbyterian]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 21, 1907Highland Park First there was Dr. Widney&#8217;s Bethel, built into the notch of a hill in the form of a letter &#8220;A,&#8221; and now the tony downtown suburb of Highland Park is up for another piece of religious architectural eccentricity. The seceders from the First Presbyterian Church of Highland Park, under the leadership&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/">Continue reading <span class="screen-reader-text">Salvation in the Round</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 21, 1907Highland Park First there was Dr. Widney&#8217;s Bethel, built into the notch of a hill in the form of a letter &#8220;A,&#8221; and now the tony downtown suburb of Highland Park is up for another piece of religious architectural eccentricity. The seceders from the First Presbyterian Church of Highland Park, under the leadership&#8230; <a class="more-link" href="https://1947project.com/2006/10/22/salvation-in-the-round/">Continue reading <span class="screen-reader-text">Salvation in the Round</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>October 21, 1907<img loading="lazy" width="233" height="223" border="0" align="right" src="//static.flickr.com/95/275910976_7b50c15cc2_o.gif" alt="odd2" title="odd2" /><br />Highland Park</p>
@@ -451,10 +451,10 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 <p>The seceders from the First Presbyterian Church of Highland Park, under the leadership of Dr. F. P. Berry, have purchased an unusually triangular piece of ground, 134 by 135 feet at the corner of Avenue 56 and Ash.&nbsp; Architect George Howard was given the task of designing a new church, and his solution to this awkward parcel problem for the good people of the newly formed Olivet Presbyterian Church?&nbsp; Build in the form of a complete circle, fifty-eight feet in diameter, with a circular auditorium that seats 650.</p>
 <p>Don&rsquo;t know as to whether this unique structure was ever built, but do know that it isn&rsquo;t there now.<br /><img loading="lazy" width="400" height="261" border="0" align="bottom" src="//static.flickr.com/120/275907201_5695b684c3_o.gif" alt="odd" title="odd" /></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/22/salvation-in-the-round/">Salvation in the Round</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/22/salvation-in-the-round/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/22/salvation-in-the-round/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

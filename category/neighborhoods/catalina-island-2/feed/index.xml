@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>catalina island &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/neighborhoods/catalina-island-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/neighborhoods/catalina-island-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:33:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>catalina island &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>William Wrigley&#8217;s Ocean Marathon</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2008/01/16/william-wrigleys-ocean-marathon/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2008/01/16/william-wrigleys-ocean-marathon/#respond</comments>
+		<link>https://1947project.com/2008/01/16/william-wrigleys-ocean-marathon/</link>
+					<comments>https://1947project.com/2008/01/16/william-wrigleys-ocean-marathon/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2008 19:45:12 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[George Young]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 16, 1927 Palos Verdes Peninsula, CA &#160; In 1919, the heavily insured William Wrigley Jr. bought a controlling interest in the Santa Catalina Island Co., and sought to promote his lovely little island getaway.&#160; And what better publicity stunt for the Roaring 20s than a contest of endurance?&#160; Yes, a winter swim from Catalina&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2008/01/16/william-wrigleys-ocean-marathon/">Continue reading <span class="screen-reader-text">William Wrigley&#8217;s Ocean Marathon</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/16/william-wrigleys-ocean-marathon/">William Wrigley&#8217;s Ocean Marathon</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 16, 1927 Palos Verdes Peninsula, CA &#160; In 1919, the heavily insured William Wrigley Jr. bought a controlling interest in the Santa Catalina Island Co., and sought to promote his lovely little island getaway.&#160; And what better publicity stunt for the Roaring 20s than a contest of endurance?&#160; Yes, a winter swim from Catalina&#8230; <a class="more-link" href="https://1947project.com/2008/01/16/william-wrigleys-ocean-marathon/">Continue reading <span class="screen-reader-text">William Wrigley&#8217;s Ocean Marathon</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/16/william-wrigleys-ocean-marathon/">William Wrigley&#8217;s Ocean Marathon</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -53,7 +53,7 @@
 <div align="left">Palos Verdes Peninsula, CA</div>
 <div align="left">&nbsp;</div>
 <div align="left"><img loading="lazy" width="268" height="398" border="0" align="left" src="//farm3.static.flickr.com/2127/2197430661_8d68b0bc23_o.jpg" alt="georgeyoung" title="georgeyoung" /> </div>
-<div align="left">In 1919, the <a href="https://pensive-torvalds-020d34.netlify.app/?p=2222" target="_blank" title="williamwrigley">heavily insured</a> William Wrigley Jr. bought a controlling interest in the Santa Catalina Island Co., and sought to promote his lovely little island getaway.&nbsp; And what better publicity stunt for the Roaring 20s than a contest of endurance?&nbsp; Yes, a winter swim from Catalina to Point Vicente would be just the thing for those flagpole-sitting, dance marathoning types.</div>
+<div align="left">In 1919, the <a href="https://1947project.com/?p=2222" target="_blank" title="williamwrigley">heavily insured</a> William Wrigley Jr. bought a controlling interest in the Santa Catalina Island Co., and sought to promote his lovely little island getaway.&nbsp; And what better publicity stunt for the Roaring 20s than a contest of endurance?&nbsp; Yes, a winter swim from Catalina to Point Vicente would be just the thing for those flagpole-sitting, dance marathoning types.</div>
 <div align="left">&nbsp;</div>
 <div align="left">Wrigley offered a prize of $25,000 to the first man to finish the January 15 channel swim, and $15,000 to the first woman.&nbsp;</div>
 <div align="left">&nbsp;</div>
@@ -67,21 +67,21 @@
 <div align="left">&nbsp;</div>
 <div align="left">Sadly, Young&#8217;s career fell apart soon after the race.&nbsp; His manager turned down a $250,000 movie offer, believing he could get more money.&nbsp; But there weren&#8217;t any other offers, and Young never again recaptured his glory he enjoyed as &quot;The Catalina Kid.&quot;</div>
 <div align="left">&nbsp;</div>
-<div align="left">Those interested in the endurance contests of the era may also enjoy Geoff Williams&#8217;s new book, <a href="https://www.amazon.com/C-C-Pyles-Amazing-Coast-Coast/dp/1594863199/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1200515941&#038;sr=8-1" target="_blank" title="ccpyle">C.C. Pyle&#8217;s Amazing Foot Race</a>, which recounts the misadventures of the 199 men who ran from Los Angeles to New York City in 1928.</div>
+<div align="left">Those interested in the endurance contests of the era may also enjoy Geoff Williams&#8217;s new book, <a href="http://www.amazon.com/C-C-Pyles-Amazing-Coast-Coast/dp/1594863199/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1200515941&#038;sr=8-1" target="_blank" title="ccpyle">C.C. Pyle&#8217;s Amazing Foot Race</a>, which recounts the misadventures of the 199 men who ran from Los Angeles to New York City in 1928.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2008/01/16/william-wrigleys-ocean-marathon/">William Wrigley&#8217;s Ocean Marathon</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/16/william-wrigleys-ocean-marathon/">William Wrigley&#8217;s Ocean Marathon</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2008/01/16/william-wrigleys-ocean-marathon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2008/01/16/william-wrigleys-ocean-marathon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Death at Sea</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/26/death-at-sea/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/26/death-at-sea/#respond</comments>
+		<link>https://1947project.com/2006/09/26/death-at-sea/</link>
+					<comments>https://1947project.com/2006/09/26/death-at-sea/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 26 Sep 2006 19:51:51 +0000</pubDate>
@@ -90,21 +90,21 @@
 		<category><![CDATA[Suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>September 26, 1907Avalon Dan Bulkeley was a Pasadena man, well educated and of financial means, living with his cousins Lucy and Jennie Bulkeley at 58 North Pasadena Avenue.&#160; Every summer since &#8217;95 they&#8217;ve passed the season in a tent house on Sumner Avenue in the city of Avalon, on the Banning Brother&#8217;s Isle of Santa&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/26/death-at-sea/">Continue reading <span class="screen-reader-text">Death at Sea</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/26/death-at-sea/">Death at Sea</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>September 26, 1907Avalon Dan Bulkeley was a Pasadena man, well educated and of financial means, living with his cousins Lucy and Jennie Bulkeley at 58 North Pasadena Avenue.&#160; Every summer since &#8217;95 they&#8217;ve passed the season in a tent house on Sumner Avenue in the city of Avalon, on the Banning Brother&#8217;s Isle of Santa&#8230; <a class="more-link" href="https://1947project.com/2006/09/26/death-at-sea/">Continue reading <span class="screen-reader-text">Death at Sea</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/26/death-at-sea/">Death at Sea</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>September 26, 1907<img loading="lazy" width="444" height="129" border="0" align="right" src="//static.flickr.com/93/253514290_c661c01555_o.gif" alt="deathinsea" title="deathinsea" /><br />Avalon</p>
 <p>Dan Bulkeley was a Pasadena man, well educated and of financial means, living with his cousins Lucy and Jennie Bulkeley at 58 North Pasadena Avenue.&nbsp; Every summer since &rsquo;95 they&rsquo;ve passed the season in a tent house on Sumner Avenue in the city of Avalon, on the Banning Brother&rsquo;s Isle of Santa Catalina, off the Los Angeles coast.</p>
 <p>Lucy and Jennie departed for Pasadena today and Dan, despondent at being left alone, engaged the launch Adelade to take him on a fishing trip.&nbsp; Near the Seal Rocks, Dan stood up and told the boatman that there were letters to be found under the seat, and that his pockets were filled with rocks.&nbsp; With that, Dan Bulkeley stepped from the boat and into the Pacific, his final home.</p>
 <p>There was one letter to Lucy, one to the boatman containing five dollars, and another to a J. L. Wegman containing fifteen dollars, and instructions regarding taking down his tent.</p>
-<p>Speaking of the briny deep, what was the biggest story of September, 1907?&nbsp; Why, that honor would go to the maiden voyage of the mighty <a href="https://en.wikipedia.org/wiki/RMS_Lusitania" target="_blank" title="lusitania">Lusitania</a>, wherein supremacy over the sea was regained by Cunard over the Hamburg-American line.</p>
+<p>Speaking of the briny deep, what was the biggest story of September, 1907?&nbsp; Why, that honor would go to the maiden voyage of the mighty <a href="http://en.wikipedia.org/wiki/RMS_Lusitania" target="_blank" title="lusitania">Lusitania</a>, wherein supremacy over the sea was regained by Cunard over the Hamburg-American line.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/26/death-at-sea/">Death at Sea</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/26/death-at-sea/">Death at Sea</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/26/death-at-sea/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/26/death-at-sea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>gary leonard &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/gary-leonard/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/gary-leonard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>gary leonard &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>1947project Crime Bus in the Downtown News</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/#respond</comments>
+		<link>https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/</link>
+					<comments>https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 17:08:07 +0000</pubDate>
@@ -47,13 +47,13 @@
 		<category><![CDATA[lea lion]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Lea Lion of the Los Angeles Downtown News rode along on the first Nightmares of Bunker Hill tour, and wrote a cool and moody piece about it in this week&#8217;s paper. Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold).&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/">Continue reading <span class="screen-reader-text">1947project Crime Bus in the Downtown News</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Lea Lion of the Los Angeles Downtown News rode along on the first Nightmares of Bunker Hill tour, and wrote a cool and moody piece about it in this week&#8217;s paper. Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold).&#8230; <a class="more-link" href="https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/">Continue reading <span class="screen-reader-text">1947project Crime Bus in the Downtown News</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Lea Lion of the Los Angeles Downtown News rode along on the first Nightmares of Bunker Hill tour, and wrote a cool and moody piece about it in this week&#8217;s paper.</p>
-<p> Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold). You can pick up a copy most anywhere in the middle of LA, or <a href="https://downtownnews.com/articles/2006/04/24/entertainment/entertainment01.txt" target="_blank">read it online.</a></p>
+<p> Nathan and I were appropriately thrilled when the legendary Gary Leonard took our picture, and we even made the front page (under the fold). You can pick up a copy most anywhere in the middle of LA, or <a href="http://downtownnews.com/articles/2006/04/24/entertainment/entertainment01.txt" target="_blank">read it online.</a></p>
 <p>Thanks, Lea!&nbsp;</p>
 <p>                *****<br />
 <em>Murder, an Acid Attack and More Downtown Fun &#8216;Nightmares of Bunker Hill&#8217; Bus Tour Finds an Audience by Lea Lion</em></p>
@@ -77,10 +77,10 @@
 <p>During the five-hour tour, we do in fact learn that Downtown has an often gruesome past. Surprisingly, a whole slew of sometimes horrific, sometimes humorous acts took place in the early 1900s around New High Street in what is now Chinatown. According to our tour guides, the area was a hotspot for bar brawls, gambling houses and opium dens. It was also the site of at least one gypsy kidnapping and an out-of-control goat (in separate incidents).</p>
 <p>Countless brutal murders, fake s</p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/">1947project Crime Bus in the Downtown News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/27/1947project-crime-bus-in-the-downtown-news/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/27/1947project-crime-bus-in-the-downtown-news/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

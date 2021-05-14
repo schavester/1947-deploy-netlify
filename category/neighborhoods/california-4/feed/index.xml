@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>california &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/neighborhoods/california-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/neighborhoods/california-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:07:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>california &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Tasty Tide</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/#respond</comments>
+		<link>https://1947project.com/2006/09/22/a-tasty-tide/</link>
+					<comments>https://1947project.com/2006/09/22/a-tasty-tide/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 22 Sep 2006 19:26:28 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[ship hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>September 22, 1907Venice&#160; Someone&#8211;perhaps a drunken and disgruntled cook who was fired last night&#8211;snuck into the larder of the Ship Hotel around midnight and brought forth a great quantity of luxury foodstuffs, which were cast into the surf. It was no easy job. Three whole loins of beef, 200 pounds in weight, 250 pounds of&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/">Continue reading <span class="screen-reader-text">A Tasty Tide</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>September 22, 1907Venice&#160; Someone&#8211;perhaps a drunken and disgruntled cook who was fired last night&#8211;snuck into the larder of the Ship Hotel around midnight and brought forth a great quantity of luxury foodstuffs, which were cast into the surf. It was no easy job. Three whole loins of beef, 200 pounds in weight, 250 pounds of&#8230; <a class="more-link" href="https://1947project.com/2006/09/22/a-tasty-tide/">Continue reading <span class="screen-reader-text">A Tasty Tide</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -56,18 +56,18 @@
 <p>Someone&#8211;perhaps a drunken and disgruntled cook who was fired last night&#8211;snuck into the larder of the Ship Hotel around midnight and brought forth a great quantity of luxury foodstuffs, which were cast into the surf. It was no easy job. Three whole loins of beef, 200 pounds in weight, 250 pounds of clams and a number of oysters from eastern climes were among the waste found on the sand with dawn&#8217;s light. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/22/a-tasty-tide/">A Tasty Tide</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/22/a-tasty-tide/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/22/a-tasty-tide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Catalina Landings Complicated</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/30/catalina-landings-complicated/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/30/catalina-landings-complicated/#respond</comments>
+		<link>https://1947project.com/2006/07/30/catalina-landings-complicated/</link>
+					<comments>https://1947project.com/2006/07/30/catalina-landings-complicated/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 30 Jul 2006 20:06:21 +0000</pubDate>
@@ -85,8 +85,8 @@
 		<category><![CDATA[wharf]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 30, 1907 Avalon, Catalina Island&#160; Who owns the sea, the islands and their calm coves? Is it god, or man who lays claim upon places of value in the world? On Santa Catalina Island, a consortium run by the Banning family has seized control of most of the landable sections of the Avalon cove,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/07/30/catalina-landings-complicated/">Continue reading <span class="screen-reader-text">Catalina Landings Complicated</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/30/catalina-landings-complicated/">Catalina Landings Complicated</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 30, 1907 Avalon, Catalina Island&#160; Who owns the sea, the islands and their calm coves? Is it god, or man who lays claim upon places of value in the world? On Santa Catalina Island, a consortium run by the Banning family has seized control of most of the landable sections of the Avalon cove,&#8230; <a class="more-link" href="https://1947project.com/2006/07/30/catalina-landings-complicated/">Continue reading <span class="screen-reader-text">Catalina Landings Complicated</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/30/catalina-landings-complicated/">Catalina Landings Complicated</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -97,18 +97,18 @@
 <p>The lady was allowed to disembark onto the wharf, where is was discovered she had suffered a nasty wound straight through the web of her hand, from someone&#8217;s swinging blade unseen. The punchy &quot;Chappie&quot; meanwhile put his male passengers ashore along the beach, a most ignoble end to a day&#8217;s sport fishing. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/30/catalina-landings-complicated/">Catalina Landings Complicated</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/30/catalina-landings-complicated/">Catalina Landings Complicated</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/30/catalina-landings-complicated/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/30/catalina-landings-complicated/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Highwayman in Pasadena</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/16/highwayman-in-pasadena/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/16/highwayman-in-pasadena/#respond</comments>
+		<link>https://1947project.com/2006/04/16/highwayman-in-pasadena/</link>
+					<comments>https://1947project.com/2006/04/16/highwayman-in-pasadena/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sun, 16 Apr 2006 06:01:01 +0000</pubDate>
@@ -120,29 +120,29 @@
 		<category><![CDATA[1907]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 15, 1907 Pasadena As criminality reaches epidemic proportions in sleepy Pasadena, the citizenry grumbles about Chief Pinkham&#8217;s skills as police head, and makes noises about replacing him. The latest outrage was visited upon George Syer, a public carriage driver who was called out to 876 Lincoln Avenue this evening, ostensibly to take some women&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/16/highwayman-in-pasadena/">Continue reading <span class="screen-reader-text">Highwayman in Pasadena</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/16/highwayman-in-pasadena/">Highwayman in Pasadena</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 15, 1907 Pasadena As criminality reaches epidemic proportions in sleepy Pasadena, the citizenry grumbles about Chief Pinkham&#8217;s skills as police head, and makes noises about replacing him. The latest outrage was visited upon George Syer, a public carriage driver who was called out to 876 Lincoln Avenue this evening, ostensibly to take some women&#8230; <a class="more-link" href="https://1947project.com/2006/04/16/highwayman-in-pasadena/">Continue reading <span class="screen-reader-text">Highwayman in Pasadena</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/16/highwayman-in-pasadena/">Highwayman in Pasadena</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>April 15, 1907<br />
 Pasadena</p>
 <p>As criminality reaches epidemic proportions in sleepy Pasadena, the citizenry grumbles about Chief Pinkham&#8217;s skills as police head, and makes noises about replacing him.</p>
-<p>The latest outrage was visited upon George Syer, a public carriage driver who was called out to <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=876+lincoln+ave.,+pasadena,+CA&amp;ll=34.152727,-118.157487&amp;spn=0.014987,0.040383" target="_blank">876 Lincoln Avenue</a> this evening, ostensibly to take some women to a train. The address should have been found north of Mountain, in an unlit area. He did not find the house, but while looking was acosted by a man with a thick Irish brogue who demanded his money. Syer parted with a dollar in change, but kept the contents of his other pocket. No mention was made of a weapon being brandished, but it is well known that one can&#8217;t be too careful with Irishmen!</p>
+<p>The latest outrage was visited upon George Syer, a public carriage driver who was called out to <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=876+lincoln+ave.,+pasadena,+CA&amp;ll=34.152727,-118.157487&amp;spn=0.014987,0.040383" target="_blank">876 Lincoln Avenue</a> this evening, ostensibly to take some women to a train. The address should have been found north of Mountain, in an unlit area. He did not find the house, but while looking was acosted by a man with a thick Irish brogue who demanded his money. Syer parted with a dollar in change, but kept the contents of his other pocket. No mention was made of a weapon being brandished, but it is well known that one can&#8217;t be too careful with Irishmen!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/16/highwayman-in-pasadena/">Highwayman in Pasadena</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/16/highwayman-in-pasadena/">Highwayman in Pasadena</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/16/highwayman-in-pasadena/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/16/highwayman-in-pasadena/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Trolley vs Ruminant</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/#respond</comments>
+		<link>https://1947project.com/2006/03/22/trolley-vs-ruminant/</link>
+					<comments>https://1947project.com/2006/03/22/trolley-vs-ruminant/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2006 02:41:04 +0000</pubDate>
@@ -161,19 +161,19 @@ Pasadena</p>
 		<category><![CDATA[travel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 22, 1907 Pasadena&#160; A special correspondent follows up on the distressing report of a cow gravely injured when struck by an electric car near Lamanda Park. Bossy was found happily chewing her cud with no sign of injury. As near as can be figured, the trolley ran over the cow&#8217;s tether, pulling it taut&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/">Continue reading <span class="screen-reader-text">Trolley vs Ruminant</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/">Trolley vs Ruminant</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 22, 1907 Pasadena&#160; A special correspondent follows up on the distressing report of a cow gravely injured when struck by an electric car near Lamanda Park. Bossy was found happily chewing her cud with no sign of injury. As near as can be figured, the trolley ran over the cow&#8217;s tether, pulling it taut&#8230; <a class="more-link" href="https://1947project.com/2006/03/22/trolley-vs-ruminant/">Continue reading <span class="screen-reader-text">Trolley vs Ruminant</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/22/trolley-vs-ruminant/">Trolley vs Ruminant</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="240" height="167" border="0" align="left" src="//static.flickr.com/53/117013401_4104489ab7_m.jpg" />March 22, 1907<br /> Pasadena&nbsp;</p>
-<p>A special correspondent follows up on the distressing report of a cow gravely injured when struck by an electric car near <a href="https://www.wemweb.com/railroad-stations/ref30.html" target="_blank">Lamanda Park</a>. Bossy was found happily chewing her cud with no sign of injury. As near as can be figured, the trolley ran over the cow&#8217;s tether, pulling it taut and forcing the reluctant acrobat to turn a dramatic aerial flip. She seems to have landed safely and forgotten all about her wild adventure, until the cries of do-gooders to the Humane Society roused an interest in her case. </p>
+<p>A special correspondent follows up on the distressing report of a cow gravely injured when struck by an electric car near <a href="http://www.wemweb.com/railroad-stations/ref30.html" target="_blank">Lamanda Park</a>. Bossy was found happily chewing her cud with no sign of injury. As near as can be figured, the trolley ran over the cow&#8217;s tether, pulling it taut and forcing the reluctant acrobat to turn a dramatic aerial flip. She seems to have landed safely and forgotten all about her wild adventure, until the cries of do-gooders to the Humane Society roused an interest in her case. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/">Trolley vs Ruminant</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/22/trolley-vs-ruminant/">Trolley vs Ruminant</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/22/trolley-vs-ruminant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/22/trolley-vs-ruminant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

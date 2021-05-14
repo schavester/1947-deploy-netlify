@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>verbal abuse &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/verbal-abuse/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/verbal-abuse/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:39:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>verbal abuse &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/#respond</comments>
+		<link>https://1947project.com/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/</link>
+					<comments>https://1947project.com/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2006 08:02:56 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[verbal abuse]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 26, 1907 Los Angeles John Richie, contractor of East Fourteenth Street, has an unsavory record.&#160; Richie used to, daily, beat his son with a rake handle, until such time as the boy became an idiot.&#160; This finally drove Richie&#8217;s wife insane, and she died in an asylum, whereafter Richie got drunk and danced about&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/">Continue reading <span class="screen-reader-text">I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/">I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 26, 1907 Los Angeles John Richie, contractor of East Fourteenth Street, has an unsavory record.&#160; Richie used to, daily, beat his son with a rake handle, until such time as the boy became an idiot.&#160; This finally drove Richie&#8217;s wife insane, and she died in an asylum, whereafter Richie got drunk and danced about&#8230; <a class="more-link" href="https://1947project.com/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/">Continue reading <span class="screen-reader-text">I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/">I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>June 26, 1907<br />
@@ -58,10 +58,10 @@ Los Angeles</p>
 <p>Richie was convicted of a misdemeanor.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/">I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/">I TOLD Bell the Electro-Dynamic Transmitter-Receiver Would Be Nothing But Trouble</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/27/i-told-bell-the-electro-dynamic-transmitter-receiver-would-be-nothing-but-trouble/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

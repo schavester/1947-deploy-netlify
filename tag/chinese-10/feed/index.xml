@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>chinese &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/chinese-10/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/chinese-10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:56:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>chinese &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>An Independent Life</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/05/an-independent-life/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/05/an-independent-life/#respond</comments>
+		<link>https://1947project.com/2007/03/05/an-independent-life/</link>
+					<comments>https://1947project.com/2007/03/05/an-independent-life/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 05 Mar 2007 13:34:48 +0000</pubDate>
@@ -44,11 +44,11 @@
 		<category><![CDATA[Hong Kong]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 5, 1907 Los Angeles What shall we do with Emma? SheÃ¢â‚¬â„¢s gone off to New Mexico and married a Chinaman. Her horrified mother hopes to get the marriage annulled, but Emma is an independent-minded young lady. EmmaÃ¢â‚¬â„¢s mother, Mary Culver of Monrovia, says she will do everything she can to undo her daughterÃ¢â‚¬â„¢s marriage&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/05/an-independent-life/">Continue reading <span class="screen-reader-text">An Independent Life</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/05/an-independent-life/">An Independent Life</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 5, 1907 Los Angeles What shall we do with Emma? SheÃ¢â‚¬â„¢s gone off to New Mexico and married a Chinaman. Her horrified mother hopes to get the marriage annulled, but Emma is an independent-minded young lady. EmmaÃ¢â‚¬â„¢s mother, Mary Culver of Monrovia, says she will do everything she can to undo her daughterÃ¢â‚¬â„¢s marriage&#8230; <a class="more-link" href="https://1947project.com/2007/03/05/an-independent-life/">Continue reading <span class="screen-reader-text">An Independent Life</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/05/an-independent-life/">An Independent Life</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0305.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 351px; height: 314px;" src="//www.lmharnisch.com/images/1907_0305.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0305.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 351px; height: 314px;" src="//www.lmharnisch.com/images/1907_0305.jpg" alt="" border="0" /></a><br />
 March 5, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">What shall we do with Emma? SheÃ¢â‚¬â„¢s gone off to New Mexico and married a Chinaman. Her horrified mother hopes to get the marriage annulled, but Emma is an independent-minded young lady.</p>
@@ -69,7 +69,7 @@ Los Angeles    </p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“Every family in Hong Kong seems anxious to have its children learn English and the pupils themselves study the language eagerly.Ã¢â‚¬Â</p>
 <p class="MsoNormal"><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnsich (AT) gmail.com</p>
 <p class="MsoNormal"><!--[endif]--><o:p></o:p></p>
@@ -83,22 +83,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/05/an-independent-life/">An Independent Life</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/05/an-independent-life/">An Independent Life</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/05/an-independent-life/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/05/an-independent-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Born in the U.S.A.</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/26/born-in-the-u-s-a/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/26/born-in-the-u-s-a/#respond</comments>
+		<link>https://1947project.com/2007/01/26/born-in-the-u-s-a/</link>
+					<comments>https://1947project.com/2007/01/26/born-in-the-u-s-a/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 26 Jan 2007 15:18:57 +0000</pubDate>
@@ -108,25 +108,25 @@ var sc_security="77307670";
 		<category><![CDATA[chinese]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 26, 1907 Los Angeles Chin Man Can (or Kan) is in jail on charges of being an illegal immigrant. The young man says he is nothing of the sort, but unable to prove that he was born in San Francisco because all of his belongings were destroyed in the 1906 earthquake. Can says that&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/26/born-in-the-u-s-a/">Continue reading <span class="screen-reader-text">Born in the U.S.A.</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/26/born-in-the-u-s-a/">Born in the U.S.A.</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 26, 1907 Los Angeles Chin Man Can (or Kan) is in jail on charges of being an illegal immigrant. The young man says he is nothing of the sort, but unable to prove that he was born in San Francisco because all of his belongings were destroyed in the 1906 earthquake. Can says that&#8230; <a class="more-link" href="https://1947project.com/2007/01/26/born-in-the-u-s-a/">Continue reading <span class="screen-reader-text">Born in the U.S.A.</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/26/born-in-the-u-s-a/">Born in the U.S.A.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0126A.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 195px; height: 251px;" src="//www.lmharnisch.com/images/1907_0126A.jpg" alt="" border="0" /></a><!--[if !supportEmptyParas]--><!--[endif]-->Jan. 26, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0126A.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 195px; height: 251px;" src="//www.lmharnisch.com/images/1907_0126A.jpg" alt="" border="0" /></a><!--[if !supportEmptyParas]--><!--[endif]-->Jan. 26, 1907<br />
 Los Angeles<!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>  </p>
 <p class="MsoNormal">Chin Man Can (or Kan) is in jail on charges of being an illegal immigrant. The young man says he is nothing of the sort, but unable to prove that he was born in San Francisco because all of his belongings were destroyed in the 1906 earthquake. </p>
 <p class="MsoNormal">Can says that when he was 13, the rest of his family left San Francisco to return to China, but that he stayed behind, attending Chinese school and learning English. After the earthquake, he came to Los Angeles, where he was arrested while working at an Ocean Park restaurant. </p>
 <p class="MsoNormal">The Times defended Can, noting that his uncle was a wealthy San Francisco businessman, Ching Wing.</p>
 <p class="MsoNormal">Ã¢â‚¬Å“Ching Wing has always been so enthusiastic an American that he has arranged to bring up his baby as an American boy, forsaking the language of his fathers, wearing American clothes, reading American books. It seems like a joke that one of his relatives should be arrested,Ã¢â‚¬Â The Times says.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0126B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 211px; height: 358px;" src="//www.lmharnisch.com/images/1907_0126B.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0126B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 211px; height: 358px;" src="//www.lmharnisch.com/images/1907_0126B.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">
 <p class="MsoNormal">The Times wrote in an editorial: Ã¢â‚¬Å“Every right-minded American will resent the disagreeable experiences which have befallen Chin Man Can, who appears to be our fellow countryman.<span style="">  </span>Let us hope that all will end well for him and that his heart will not become embittered because of his rough treatment. We trust he will live long and prosper in the land of his birth, which has the same regard for him that she has for all her children, of whatever race, color or creed.Ã¢â‚¬Â</p>
 <p class="MsoNormal">An anonymous headline writer was not so kind, nor was a reporter who wrote: Ã¢â‚¬Å“ Ã¢â‚¬ËœMe velly flond this country,Ã¢â‚¬â„¢ Chin Man stated on the witness stand. Ã¢â‚¬ËœFamily all go back to China. Me hide in wood yard in Flisco till they all gone. I likee mission school, likee Ã¢â‚¬ËœMelican ways, alle slame Ã¢â‚¬ËœMelican myself.Ã¢â‚¬â„¢ Ã¢â‚¬Â </p>
 <p class="MsoNormal">Although an inspector bolstered claims that Can had been smuggled into the country, testifying that he had frequently seen Can in Ensenada, a benefactor charged that the Ã¢â‚¬Å“Mexican rangerÃ¢â‚¬Â was railroading Can to get the $300 bounty for turning in an illegal immigrant. </p>
 <p class="MsoNormal">In 1913, while out on bail as his case was being appealed, Can was charged with belonging to a ring smuggling Chinese across the border. By then he was manager of the Quang Hing Lung Co. at 305 Marchessault St., and attending the University of Southern California.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0126C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 216px; height: 225px;" src="//www.lmharnisch.com/images/1907_0126C.jpg" alt="" border="0" /></a>    </p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0126C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 216px; height: 225px;" src="//www.lmharnisch.com/images/1907_0126C.jpg" alt="" border="0" /></a>    </p>
 <p class="MsoNormal">His trial lasted into 1914 and testimony revealed that Can had adopted the names Frank Chan and W.H. Chan. He was convicted of trying to smuggle a boxcar of immigrants into the U.S. and although he appealed his case, no further information can be found in The Times.</p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -136,22 +136,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code --></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/26/born-in-the-u-s-a/">Born in the U.S.A.</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/26/born-in-the-u-s-a/">Born in the U.S.A.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/26/born-in-the-u-s-a/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/26/born-in-the-u-s-a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ambush in Arcadia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/12/04/ambush-in-arcadia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/12/04/ambush-in-arcadia/#respond</comments>
+		<link>https://1947project.com/2006/12/04/ambush-in-arcadia/</link>
+					<comments>https://1947project.com/2006/12/04/ambush-in-arcadia/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 04 Dec 2006 14:33:01 +0000</pubDate>
@@ -164,11 +164,11 @@ var sc_security="77307670";
 		<category><![CDATA[Mexicans]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Dec. 4, 1907 Arcadia Charley Chew, the water superintendent on the Lucky Baldwin ranch, had fired two Mexican workers several months ago and one dark night near the Unruh residence, they ambushed him, shooting him in the back. Chew drew his pistol and shot Francisco Ramirez and Miguel Palamoratz in the stomach, then fled. Badly&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/12/04/ambush-in-arcadia/">Continue reading <span class="screen-reader-text">Ambush in Arcadia</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/04/ambush-in-arcadia/">Ambush in Arcadia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Dec. 4, 1907 Arcadia Charley Chew, the water superintendent on the Lucky Baldwin ranch, had fired two Mexican workers several months ago and one dark night near the Unruh residence, they ambushed him, shooting him in the back. Chew drew his pistol and shot Francisco Ramirez and Miguel Palamoratz in the stomach, then fled. Badly&#8230; <a class="more-link" href="https://1947project.com/2006/12/04/ambush-in-arcadia/">Continue reading <span class="screen-reader-text">Ambush in Arcadia</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/04/ambush-in-arcadia/">Ambush in Arcadia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1204.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 240px;" src="//www.lmharnisch.com/images/1907_1204.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1204.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 240px;" src="//www.lmharnisch.com/images/1907_1204.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Dec. 4, 1907<br />
 </span><span style="font-size:100%;">Arcadia<br />
 </span><span style="font-size:100%;"><br />
@@ -176,18 +176,18 @@ var sc_security="77307670";
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Badly wounded, Ramirez and Palamoratz struggled to walk about a mile to a friend</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/12/04/ambush-in-arcadia/">Ambush in Arcadia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/12/04/ambush-in-arcadia/">Ambush in Arcadia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/12/04/ambush-in-arcadia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/12/04/ambush-in-arcadia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Two Die in Tong War</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/10/13/two-die-in-tong-war/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/10/13/two-die-in-tong-war/#respond</comments>
+		<link>https://1947project.com/2006/10/13/two-die-in-tong-war/</link>
+					<comments>https://1947project.com/2006/10/13/two-die-in-tong-war/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 13 Oct 2006 15:47:28 +0000</pubDate>
@@ -198,28 +198,28 @@ var sc_security="77307670";
 		<category><![CDATA[tong wars]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Oct. 13, 1907 Los Angeles Gunmen imported from out of town by the Hop Sing Tong entered the tailor shop of Lem Sing at 806 Juan St. in Chinatown and under the pretense of having some clothing made, wounded him when he turned to reach for some material. The men also killed Wong Goon Kor,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/10/13/two-die-in-tong-war/">Continue reading <span class="screen-reader-text">Two Die in Tong War</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/13/two-die-in-tong-war/">Two Die in Tong War</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Oct. 13, 1907 Los Angeles Gunmen imported from out of town by the Hop Sing Tong entered the tailor shop of Lem Sing at 806 Juan St. in Chinatown and under the pretense of having some clothing made, wounded him when he turned to reach for some material. The men also killed Wong Goon Kor,&#8230; <a class="more-link" href="https://1947project.com/2006/10/13/two-die-in-tong-war/">Continue reading <span class="screen-reader-text">Two Die in Tong War</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/13/two-die-in-tong-war/">Two Die in Tong War</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1013.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 259px; height: 341px;" src="//www.lmharnisch.com/images/1907_1013.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1013.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 259px; height: 341px;" src="//www.lmharnisch.com/images/1907_1013.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Oct. 13, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Gunmen imported from out of town by the Hop Sing Tong entered the tailor shop of Lem Sing at 806 Juan St. in Chinatown and under the pretense of having some clothing made, wounded him when he turned to reach for some material. The men also killed Wong Goon Kor, who was, according to The Times, </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/10/13/two-die-in-tong-war/">Two Die in Tong War</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/13/two-die-in-tong-war/">Two Die in Tong War</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/10/13/two-die-in-tong-war/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/10/13/two-die-in-tong-war/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Not a Pretty Moment</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/21/not-a-pretty-moment/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/21/not-a-pretty-moment/#respond</comments>
+		<link>https://1947project.com/2006/09/21/not-a-pretty-moment/</link>
+					<comments>https://1947project.com/2006/09/21/not-a-pretty-moment/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 21 Sep 2006 14:15:52 +0000</pubDate>
@@ -230,12 +230,12 @@ var sc_security="77307670";
 		<category><![CDATA[tong wars]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Sept. 21, 1907 Los Angeles It is one thing to know in the abstract about racial intolerance at the turn of the 20th century and quite another to have to read it in the daily paper. I will spare you the long quotes in pidgin Chinese dialect, but trust me, they make the Charlie Chan&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/21/not-a-pretty-moment/">Continue reading <span class="screen-reader-text">Not a Pretty Moment</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/21/not-a-pretty-moment/">Not a Pretty Moment</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Sept. 21, 1907 Los Angeles It is one thing to know in the abstract about racial intolerance at the turn of the 20th century and quite another to have to read it in the daily paper. I will spare you the long quotes in pidgin Chinese dialect, but trust me, they make the Charlie Chan&#8230; <a class="more-link" href="https://1947project.com/2006/09/21/not-a-pretty-moment/">Continue reading <span class="screen-reader-text">Not a Pretty Moment</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/21/not-a-pretty-moment/">Not a Pretty Moment</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0921.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 234px; height: 225px;" src="//www.lmharnisch.com/images/1907_0921.jpg" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/1907_0921.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/1907_0921.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0921.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 234px; height: 225px;" src="//www.lmharnisch.com/images/1907_0921.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://1947project.com/wp-content/uploads/1907_0921.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/1907_0921.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Sept. 21, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -247,18 +247,18 @@ var sc_security="77307670";
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Immigration official A.C. Ridgway said that for some reason, most Chinese men in Los Angeles have the proper paperwork to be in the United States. </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/21/not-a-pretty-moment/">Not a Pretty Moment</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/21/not-a-pretty-moment/">Not a Pretty Moment</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/21/not-a-pretty-moment/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/21/not-a-pretty-moment/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Our Annoying Civic Duty</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/20/our-annoying-civic-duty/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/20/our-annoying-civic-duty/#respond</comments>
+		<link>https://1947project.com/2006/07/20/our-annoying-civic-duty/</link>
+					<comments>https://1947project.com/2006/07/20/our-annoying-civic-duty/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 20 Jul 2006 13:29:29 +0000</pubDate>
@@ -270,10 +270,10 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>July 20, 1907 Los Angeles The court summoned 80 prospective jurors to decide the case of Dr. Chan, who was accused of practicing medicine without a license, but more than half asked Judge Rose to be excused from service.</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/20/our-annoying-civic-duty/">Our Annoying Civic Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/20/our-annoying-civic-duty/">Our Annoying Civic Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0720.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 222px; height: 264px;" src="//www.lmharnisch.com/images/1907_0720.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0720.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 222px; height: 264px;" src="//www.lmharnisch.com/images/1907_0720.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">July 20, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -281,18 +281,18 @@ var sc_security="77307670";
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/20/our-annoying-civic-duty/">Our Annoying Civic Duty</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/20/our-annoying-civic-duty/">Our Annoying Civic Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/20/our-annoying-civic-duty/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/20/our-annoying-civic-duty/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Tough Case</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/06/04/a-tough-case/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/06/04/a-tough-case/#respond</comments>
+		<link>https://1947project.com/2006/06/04/a-tough-case/</link>
+					<comments>https://1947project.com/2006/06/04/a-tough-case/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 04 Jun 2006 15:29:33 +0000</pubDate>
@@ -302,28 +302,28 @@ var sc_security="77307670";
 		<category><![CDATA[herbalists]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 4, 1907 Los Angeles After months of inquiries that involved undercover investigators posing as patients, the State Board of Medical Examiners has taken action against Chinese herbalists in Los Angeles. In addition to arresting the doctors in question, authorities charged everyone involved as investors in the companies, issuing warrants for some of the most&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/06/04/a-tough-case/">Continue reading <span class="screen-reader-text">A Tough Case</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/04/a-tough-case/">A Tough Case</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 4, 1907 Los Angeles After months of inquiries that involved undercover investigators posing as patients, the State Board of Medical Examiners has taken action against Chinese herbalists in Los Angeles. In addition to arresting the doctors in question, authorities charged everyone involved as investors in the companies, issuing warrants for some of the most&#8230; <a class="more-link" href="https://1947project.com/2006/06/04/a-tough-case/">Continue reading <span class="screen-reader-text">A Tough Case</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/04/a-tough-case/">A Tough Case</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0604_hed.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 213px; height: 275px;" src="//lmharnisch.com/images/1907_0604_hed.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0604_hed.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 213px; height: 275px;" src="//lmharnisch.com/images/1907_0604_hed.jpg" alt="" border="0" /></a><br />
 June 4, 1907<br />
 Los Angeles</p>
 <p>After months of inquiries that involved undercover investigators posing as patients, the State Board of Medical Examiners has taken action against Chinese herbalists in Los Angeles. In addition to arresting the doctors in question, authorities charged everyone involved as investors in the companies, issuing warrants for some of the most prominent members of the Chinese community.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/06/04/a-tough-case/">A Tough Case</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/04/a-tough-case/">A Tough Case</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/06/04/a-tough-case/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/06/04/a-tough-case/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hop Chung&#8211;In Trouble Again</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/05/30/hop-chung-in-trouble-again/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/05/30/hop-chung-in-trouble-again/#respond</comments>
+		<link>https://1947project.com/2006/05/30/hop-chung-in-trouble-again/</link>
+					<comments>https://1947project.com/2006/05/30/hop-chung-in-trouble-again/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 30 May 2006 15:18:46 +0000</pubDate>
@@ -336,28 +336,28 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>May 30, 1907 Los Angeles Hop Chung is in trouble again. Chung, it seems, is no stranger to the legal system, with a police record going back to 1883. Ten years later, he and customer D.E. Dorsey were arrested at Chung</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/30/hop-chung-in-trouble-again/">Hop Chung&#8211;In Trouble Again</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/30/hop-chung-in-trouble-again/">Hop Chung&#8211;In Trouble Again</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0530.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 224px; height: 230px;" src="//lmharnisch.com/images/1907_0530.jpg" alt="" border="0" /></a><span style="font-size:100%;">May 30, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0530.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 224px; height: 230px;" src="//lmharnisch.com/images/1907_0530.jpg" alt="" border="0" /></a><span style="font-size:100%;">May 30, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Hop Chung is in trouble again.<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Chung, it seems, is no stranger to the legal system, with a police record going back to 1883. Ten years later, he and customer D.E. Dorsey were arrested at Chung</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/05/30/hop-chung-in-trouble-again/">Hop Chung&#8211;In Trouble Again</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/30/hop-chung-in-trouble-again/">Hop Chung&#8211;In Trouble Again</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/05/30/hop-chung-in-trouble-again/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/05/30/hop-chung-in-trouble-again/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Attacked by Mule</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/#respond</comments>
+		<link>https://1947project.com/2006/04/28/attacked-by-mule/</link>
+					<comments>https://1947project.com/2006/04/28/attacked-by-mule/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 28 Apr 2006 00:20:58 +0000</pubDate>
@@ -372,24 +372,24 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>W.S. Stanton of N. 117</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0427_mule.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 252px; height: 575px;" src="//lmharnisch.com/images/1907_0427_mule.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0427_mule.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 252px; height: 575px;" src="//lmharnisch.com/images/1907_0427_mule.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;"><strong></strong><strong></strong></span><span style="font-size:100%;">W.S. Stanton of N. 117</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/28/attacked-by-mule/">Attacked by Mule</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/28/attacked-by-mule/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/28/attacked-by-mule/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>White Wife of Celestial Deports Self</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/30/white-wife-of-celestial-deports-self/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/30/white-wife-of-celestial-deports-self/#respond</comments>
+		<link>https://1947project.com/2006/03/30/white-wife-of-celestial-deports-self/</link>
+					<comments>https://1947project.com/2006/03/30/white-wife-of-celestial-deports-self/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 30 Mar 2006 06:28:05 +0000</pubDate>
@@ -406,8 +406,8 @@ Los Angeles</p>
 		<category><![CDATA[yee lung]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 27, 1907 Los Angeles&#160; After visiting her Chinese husband in the County Jail, Mrs. Yee Lung (also called Mrs. Frank Chew) spoke of her intention to join her beloved as he was deported, and to travel with him in the train car packed with forty other Chinese deportees for the trip up to San&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/30/white-wife-of-celestial-deports-self/">Continue reading <span class="screen-reader-text">White Wife of Celestial Deports Self</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/30/white-wife-of-celestial-deports-self/">White Wife of Celestial Deports Self</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 27, 1907 Los Angeles&#160; After visiting her Chinese husband in the County Jail, Mrs. Yee Lung (also called Mrs. Frank Chew) spoke of her intention to join her beloved as he was deported, and to travel with him in the train car packed with forty other Chinese deportees for the trip up to San&#8230; <a class="more-link" href="https://1947project.com/2006/03/30/white-wife-of-celestial-deports-self/">Continue reading <span class="screen-reader-text">White Wife of Celestial Deports Self</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/30/white-wife-of-celestial-deports-self/">White Wife of Celestial Deports Self</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -417,10 +417,10 @@ Los Angeles</p>
 <p>Mrs. Lung&#8217;s friends have pleaded with her to reconsider, but she insists &quot;I trust my husband implicitly&#8230; he wouldn&#8217;t go without me, and I wouldn&#8217;t be so cruel as to ask him to.&quot; </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/30/white-wife-of-celestial-deports-self/">White Wife of Celestial Deports Self</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/30/white-wife-of-celestial-deports-self/">White Wife of Celestial Deports Self</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/30/white-wife-of-celestial-deports-self/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/30/white-wife-of-celestial-deports-self/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

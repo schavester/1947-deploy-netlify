@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>san gabriel valley &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/category/cities/san-gabriel-valley-19/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/category/cities/san-gabriel-valley-19/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>san gabriel valley &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/#respond</comments>
+		<link>https://1947project.com/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/</link>
+					<comments>https://1947project.com/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 26 Sep 2007 13:41:05 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[phil spector]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle reader, What are you doing Saturday afternoon? Will you be among the lucky citizens exploring the strange secrets of the San Gabriel Valley and feasting on juicy dumplings on a concrete sea monster, or will you bored and kicking yourself for not getting on the Crime Bus? Read on for all you need to&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/">Continue reading <span class="screen-reader-text">Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/">Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle reader, What are you doing Saturday afternoon? Will you be among the lucky citizens exploring the strange secrets of the San Gabriel Valley and feasting on juicy dumplings on a concrete sea monster, or will you bored and kicking yourself for not getting on the Crime Bus? Read on for all you need to&#8230; <a class="more-link" href="https://1947project.com/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/">Continue reading <span class="screen-reader-text">Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/">Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -57,21 +57,21 @@
 <p>All this, plus stunning mid-century trailer parks, subterranean Black Panther hideouts, wild shootouts, dope-dealing druggists, missing Salvador Dali paintings, the original&nbsp; &quot;little girl down a well&quot; television sensation, and a very strange story about ducks.</p>
 <p>This tour is my personal favorite of all our tours, packed with more offbeat history, horror, roadside architecture and fabulous Route 66 vistas than any other. We don&#8217;t offer it very often, and I highly recommend it to anyone who has been thinking about getting on the Crime Bus.</p>
 <p>And don&#8217;t forget, we offer 15% discounts for KCRW members, gift certificates, and Season Pass deals ($30 off four tours for one person) that can be applied retroactively for recent passengers. </p>
-<p>For more info on Esotouric, or to reserve your seat, visit<br /><a href="https://www.esotouric.com/" target="_blank">https://www.esotouric.com/</a> <br />&nbsp;<br />Upcoming Esotouric bus tour schedule:<br />Sat Sept 29 &ndash; Blood &amp; Dumplings (San Gabriel Valley true crime tour)<br />Sun Oct 7&ndash; Reyner Banham Loves Los Angeles (architecture/urbanism tour)<br />Sat Oct 20&ndash; The Real Black Dahlia tour<br />Sun Oct 21 &ndash; Where the Action Was (rock history tour)<br />Sat Oct 27 &ndash; Haunts of a Dirty Old Man: Charles Bukowski&#8217;s LA<br />Sun Oct 28 &ndash; Hallowe&#8217;en Horrors featuring Crimebo the Clown</p>
+<p>For more info on Esotouric, or to reserve your seat, visit<br /><a href="http://www.esotouric.com/" target="_blank">http://www.esotouric.com/</a> <br />&nbsp;<br />Upcoming Esotouric bus tour schedule:<br />Sat Sept 29 &ndash; Blood &amp; Dumplings (San Gabriel Valley true crime tour)<br />Sun Oct 7&ndash; Reyner Banham Loves Los Angeles (architecture/urbanism tour)<br />Sat Oct 20&ndash; The Real Black Dahlia tour<br />Sun Oct 21 &ndash; Where the Action Was (rock history tour)<br />Sat Oct 27 &ndash; Haunts of a Dirty Old Man: Charles Bukowski&#8217;s LA<br />Sun Oct 28 &ndash; Hallowe&#8217;en Horrors featuring Crimebo the Clown</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/">Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/">Saturday 9/29 &#8211; Explore the San Gabriel Valley&#8217;s legacy of weird crimes, sea monsters and great eats</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/09/26/saturday-929-explore-the-san-gabriel-valleys-legacy-of-weird-crimes-sea-monsters-and-great-eats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Headless Chicken Hitchhikes in Monterey Park!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/#respond</comments>
+		<link>https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</link>
+					<comments>https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Sun, 24 Jun 2007 19:09:40 +0000</pubDate>
@@ -80,34 +80,34 @@
 		<category><![CDATA[san gabriel valley]]></category>
 		<category><![CDATA[chicken theft]]></category>
 		<category><![CDATA[wacko file]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/</guid>
 
-					<description><![CDATA[<p>June 25, 1927Monterey Park The latest version of the old riddle, &#8220;Why did the chicken cross the road&#8221;, debuted today in Judge P.F. Guaiano&#8217;s courtroom. It fell flat. While cruising his regular beat in the hills south of Monterey Park, Officer T.J. Neal eyeballed&#160;some shady looking characters in an automobile. The lawman resolved to have&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Continue reading <span class="screen-reader-text">Headless Chicken Hitchhikes in Monterey Park!</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 25, 1927Monterey Park The latest version of the old riddle, &#8220;Why did the chicken cross the road&#8221;, debuted today in Judge P.F. Guaiano&#8217;s courtroom. It fell flat. While cruising his regular beat in the hills south of Monterey Park, Officer T.J. Neal eyeballed&#160;some shady looking characters in an automobile. The lawman resolved to have&#8230; <a class="more-link" href="https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Continue reading <span class="screen-reader-text">Headless Chicken Hitchhikes in Monterey Park!</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" title="headless chicken headline" height="87" alt="headless chicken headline" src="//farm2.static.flickr.com/1062/614176362_ee6e55d8ca.jpg" width="500" border="0" /></p>
 <p>June 25, 1927<br />Monterey Park</p>
-<p>The latest version of the old riddle, <a title="Chicken Crosses Road" href="https://en.wikipedia.org/wiki/Why_did_the_chicken_cross_the_road?" target="_blank">&ldquo;Why did the chicken cross the road&rdquo;</a>, debuted today in Judge P.F. Guaiano&rsquo;s courtroom. It fell flat. </p>
-<p>While cruising his regular beat in the hills south of <a title="Monterey Park" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=monterey+park,+ca&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" target="_blank">Monterey Park</a>, Officer T.J. Neal eyeballed&nbsp;some shady looking characters in an automobile. The lawman resolved to have a look, and after further investigation he discovered three men, a decapitated chicken and three empty sacks with feathers stuck to them.&nbsp; Arriving at the obvious conclusion that the poultry had been pinched, Neal demanded an explanation for the beheaded bird. The suspects related a story so improbable it left the cop scratching his head in disbelief. </p>
-<p>According to the men, Yeacio Tavary of <a title="Downey" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=downey,+ca&#038;ie=UTF8&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Downey</a>, Isa Magana of <a title="Belvedere Gardens" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=belvedere+park+los+angeles&#038;sll=37.0625,-95.677071&#038;sspn=34.587666,86.396484&#038;ie=UTF8&#038;ll=34.039165,-118.161864&#038;spn=0.008837,0.021093&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">Belvedere</a>, and Daniel Garcia of <a title="Los Angeles" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=los+angeles,+ca&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" target="_blank">Los Angeles</a>, they had been out for a drive when they spied a headless chicken running amok through the countryside. Imagine their surprise when, without warning, the frenzied fowl dashed up to their car and jumped in!</p>
+<p>The latest version of the old riddle, <a title="Chicken Crosses Road" href="http://en.wikipedia.org/wiki/Why_did_the_chicken_cross_the_road?" target="_blank">&ldquo;Why did the chicken cross the road&rdquo;</a>, debuted today in Judge P.F. Guaiano&rsquo;s courtroom. It fell flat. </p>
+<p>While cruising his regular beat in the hills south of <a title="Monterey Park" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=monterey+park,+ca&#038;ie=UTF8&#038;z=13&#038;iwloc=addr&#038;om=1" target="_blank">Monterey Park</a>, Officer T.J. Neal eyeballed&nbsp;some shady looking characters in an automobile. The lawman resolved to have a look, and after further investigation he discovered three men, a decapitated chicken and three empty sacks with feathers stuck to them.&nbsp; Arriving at the obvious conclusion that the poultry had been pinched, Neal demanded an explanation for the beheaded bird. The suspects related a story so improbable it left the cop scratching his head in disbelief. </p>
+<p>According to the men, Yeacio Tavary of <a title="Downey" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=downey,+ca&#038;ie=UTF8&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Downey</a>, Isa Magana of <a title="Belvedere Gardens" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=belvedere+park+los+angeles&#038;sll=37.0625,-95.677071&#038;sspn=34.587666,86.396484&#038;ie=UTF8&#038;ll=34.039165,-118.161864&#038;spn=0.008837,0.021093&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">Belvedere</a>, and Daniel Garcia of <a title="Los Angeles" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=los+angeles,+ca&#038;ie=UTF8&#038;z=9&#038;iwloc=addr&#038;om=1" target="_blank">Los Angeles</a>, they had been out for a drive when they spied a headless chicken running amok through the countryside. Imagine their surprise when, without warning, the frenzied fowl dashed up to their car and jumped in!</p>
 <p>What were they to do? The bird possessed no identification, which ruled out returning it to its rightful owner. After a brief confab, the trio had decided to keep the bird and had been on their way to cook the obliging entree when they were rousted.</p>
 <p>Officer Neal hadn&rsquo;t believed the fantastic tale of the hitchhiking chicken, and apparently neither had Judge Guaiano who mused &ldquo;Chickens are not that foolish&rdquo;, and ordered the defendants to spend ten days in the slammer.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/">Headless Chicken Hitchhikes in Monterey Park!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/06/24/headless-chicken-hitchhikes-in-monterey-park/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>AP feature: Crime tours take passengers through LA&#8217;s criminal past</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/#respond</comments>
+		<link>https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/</link>
+					<comments>https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 07 May 2007 04:00:37 +0000</pubDate>
@@ -119,12 +119,12 @@
 		<category><![CDATA[jacob adelman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>by Jacob Adelman for the Associated Press (AP Photo/Damian Dovarganes) Above: Kelly Kuvo, the Blonde Dahlia &#160; LOS ANGELES &#8212; A dismembered wannabe starlet. A girl buried under her family&#8217;s home. A rattlesnake used as a weapon. The scenes of those crimes are stops on a series of Southern California bus tours that eschew the&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">Continue reading <span class="screen-reader-text">AP feature: Crime tours take passengers through LA&#8217;s criminal past</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>by Jacob Adelman for the Associated Press (AP Photo/Damian Dovarganes) Above: Kelly Kuvo, the Blonde Dahlia &#160; LOS ANGELES &#8212; A dismembered wannabe starlet. A girl buried under her family&#8217;s home. A rattlesnake used as a weapon. The scenes of those crimes are stops on a series of Southern California bus tours that eschew the&#8230; <a class="more-link" href="https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">Continue reading <span class="screen-reader-text">AP feature: Crime tours take passengers through LA&#8217;s criminal past</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>by Jacob Adelman for the Associated Press (AP Photo/Damian Dovarganes)</p>
-<p><a href="https://www.flickr.com/photos/richardschave/487586327/" title="Photo Sharing"><img loading="lazy" width="500" height="375" border="0" src="//farm1.static.flickr.com/170/487586327_8fd5644edb.jpg" alt="Kelly at Marlowe's Office Building" /></a></p>
+<p><a href="http://www.flickr.com/photos/richardschave/487586327/" title="Photo Sharing"><img loading="lazy" width="500" height="375" border="0" src="//farm1.static.flickr.com/170/487586327_8fd5644edb.jpg" alt="Kelly at Marlowe's Office Building" /></a></p>
 <p align="right"><strong>Above: Kelly Kuvo, the Blonde Dahlia</strong> &nbsp;</p>
 <p>LOS ANGELES &#8212; A dismembered wannabe starlet. A girl buried under her family&#8217;s home. A rattlesnake used as a weapon.</p>
 <p>The scenes of those crimes are stops on a series of Southern California bus tours that eschew the usual stars&#8217; homes and theme parks to offer passengers a peak at the region&#8217;s dark side.</p>
@@ -148,22 +148,22 @@
 <p>&quot;It&#8217;s just very interesting to drive around the area and to see things I may have passed by many times and maybe not known what happened there,&quot; said Nickum, who, like most passengers, lives in Southern California.</p>
 <p>&quot;It makes things a little more interesting &ndash; vivid &ndash; to know about something that intense that took place in a calm, peaceful neighborhood,&quot; he said.</p>
 <p>&nbsp;</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/487557160/"><img loading="lazy" width="500" height="375" border="0" alt="Nathan Heather and Kelly" src="//farm1.static.flickr.com/168/487557160_02588d149e.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/487557160/"><img loading="lazy" width="500" height="375" border="0" alt="Nathan Heather and Kelly" src="//farm1.static.flickr.com/168/487557160_02588d149e.jpg" /></a></p>
 <p align="right"><strong>Nathan Marsak, chess shark Heather and Kelly at the Hotel Barclay<br /></strong></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/">AP feature: Crime tours take passengers through LA&#8217;s criminal past</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/07/ap-feature-crime-tours-take-passengers-through-las-criminal-past/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blood &#038; Dumplings Crime Bus Podcast</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/#respond</comments>
+		<link>https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/</link>
+					<comments>https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 28 Mar 2007 06:15:12 +0000</pubDate>
@@ -176,24 +176,24 @@
 		<category><![CDATA[phil spector]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jacob Adelman of the venerable AP rode along with the gang on the Blood &#38; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings Crime Bus Podcast</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jacob Adelman of the venerable AP rode along with the gang on the Blood &#38; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews&#8230; <a class="more-link" href="https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings Crime Bus Podcast</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>Jacob Adelman of the venerable AP rode along with the gang on the Blood &amp; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews with a few of the delightful passengers. Why would otherwise normal people choose to spend their Saturday hearing tales of mayhem and horror? <a href="https://asap.ap.org/stories/1330755.s" target="_blank">Click slowly</a> and see&#8230;.</div>
+<div>Jacob Adelman of the venerable AP rode along with the gang on the Blood &amp; Dumplings Crime Bus Tour on St. Patrick&#8217;s Day, and produced a delightful little audio document of the day for the AP&#8217;s youth-oriented asap section. It includes an overview of the tour, some excerpted crime stories from the tour, and interviews with a few of the delightful passengers. Why would otherwise normal people choose to spend their Saturday hearing tales of mayhem and horror? <a href="http://asap.ap.org/stories/1330755.s" target="_blank">Click slowly</a> and see&#8230;.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/">Blood &#038; Dumplings Crime Bus Podcast</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/28/blood-dumplings-crime-bus-podcast/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/28/blood-dumplings-crime-bus-podcast/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blood &#038; Dumplings in the Pasadena Star-News</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/03/19/blood-dumplings-in-the-pasadena-star-news/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/03/19/blood-dumplings-in-the-pasadena-star-news/#respond</comments>
+		<link>https://1947project.com/2007/03/19/blood-dumplings-in-the-pasadena-star-news/</link>
+					<comments>https://1947project.com/2007/03/19/blood-dumplings-in-the-pasadena-star-news/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 19 Mar 2007 02:23:10 +0000</pubDate>
@@ -208,27 +208,27 @@
 		<category><![CDATA[pasadena star-news]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Why yes, Pasadenans, that was our own Nathan Marsak glowering out at you from page three of the Sunday paper, doing his little AH impression on the former site of the American Nazi Party Headquarters in deepest El Monte, as part of the Blood and Dumplings Crime Bus Tour. To read Molly R. Okean&#8217;s story,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/03/19/blood-dumplings-in-the-pasadena-star-news/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings in the Pasadena Star-News</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/19/blood-dumplings-in-the-pasadena-star-news/">Blood &#038; Dumplings in the Pasadena Star-News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Why yes, Pasadenans, that was our own Nathan Marsak glowering out at you from page three of the Sunday paper, doing his little AH impression on the former site of the American Nazi Party Headquarters in deepest El Monte, as part of the Blood and Dumplings Crime Bus Tour. To read Molly R. Okean&#8217;s story,&#8230; <a class="more-link" href="https://1947project.com/2007/03/19/blood-dumplings-in-the-pasadena-star-news/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings in the Pasadena Star-News</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/19/blood-dumplings-in-the-pasadena-star-news/">Blood &#038; Dumplings in the Pasadena Star-News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/426125566/"><img loading="lazy" width="458" height="500" border="0" alt="Nathan Marsak as Hitler on the 1947project Crime Bus Tour" src="//farm1.static.flickr.com/153/426125566_e00cd048c1.jpg" /></a></p>
-<p>Why yes, Pasadenans, that <em>was</em> our own Nathan Marsak glowering out at you from page three of the Sunday paper, doing his little AH impression on the former site of the American Nazi Party Headquarters in deepest El Monte, as part of the Blood and Dumplings Crime Bus Tour. To read Molly R. Okean&#8217;s story, which oddly enough in the web version doesn&#8217;t feature Sarah Reingewirtz&#8217; striking photograph, just <a href="https://www.pasadenastarnews.com/news/ci_5464230" target="_blank">click here</a>.</p>
+<div><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/426125566/"><img loading="lazy" width="458" height="500" border="0" alt="Nathan Marsak as Hitler on the 1947project Crime Bus Tour" src="//farm1.static.flickr.com/153/426125566_e00cd048c1.jpg" /></a></p>
+<p>Why yes, Pasadenans, that <em>was</em> our own Nathan Marsak glowering out at you from page three of the Sunday paper, doing his little AH impression on the former site of the American Nazi Party Headquarters in deepest El Monte, as part of the Blood and Dumplings Crime Bus Tour. To read Molly R. Okean&#8217;s story, which oddly enough in the web version doesn&#8217;t feature Sarah Reingewirtz&#8217; striking photograph, just <a href="http://www.pasadenastarnews.com/news/ci_5464230" target="_blank">click here</a>.</p>
 <p>We had a great day exploring the San Gabriel Valley with a bus full of charming passengers, including a stop for dumplings at Monster Park (sorry about the soy sauce shortage!), turn-of-the-century bungalow poetry from co-host Richard Schave, black cats crossing our paths and some truly chilling tales of forgotten crimes and misfortunes. Thanks to everyone who joined us, especially Sister Kelly and Brother Nathan, and watch this space for announcements of upcoming tours, criminal and otherwise.&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/03/19/blood-dumplings-in-the-pasadena-star-news/">Blood &#038; Dumplings in the Pasadena Star-News</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/19/blood-dumplings-in-the-pasadena-star-news/">Blood &#038; Dumplings in the Pasadena Star-News</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/03/19/blood-dumplings-in-the-pasadena-star-news/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/03/19/blood-dumplings-in-the-pasadena-star-news/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/#comments</comments>
+		<link>https://1947project.com/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/</link>
+					<comments>https://1947project.com/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 24 Feb 2007 04:22:54 +0000</pubDate>
@@ -243,23 +243,23 @@
 		<category><![CDATA[phil spector]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>If there&#8217;s one thing we at 1947project love even more than uncovering evidence of an incredibly weird forgotten crime, it&#8217;s Chinese food&#8211;especially dumplings! Whether fried or boiled, stuffed with shrimp, pork, pumpkin, fish, scallions or sometimes a little dollop of soup, nothing is more comforting and delicious. With Blood &#38; Dumplings, we&#8217;re combining our favorite&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/">Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>If there&#8217;s one thing we at 1947project love even more than uncovering evidence of an incredibly weird forgotten crime, it&#8217;s Chinese food&#8211;especially dumplings! Whether fried or boiled, stuffed with shrimp, pork, pumpkin, fish, scallions or sometimes a little dollop of soup, nothing is more comforting and delicious. With Blood &#38; Dumplings, we&#8217;re combining our favorite&#8230; <a class="more-link" href="https://1947project.com/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/">Continue reading <span class="screen-reader-text">Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/">Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>If there&#8217;s one thing we at 1947project love even more than uncovering<br />  evidence of an incredibly weird forgotten crime, it&#8217;s Chinese<br />  food&#8211;especially dumplings! Whether fried or boiled, stuffed with<br />  shrimp, pork, pumpkin, fish, scallions or sometimes a little dollop of<br />  soup, nothing is more comforting and delicious.</p>
 <p>  With <strong>Blood &amp; Dumplings</strong>, we&#8217;re combining our favorite things to bring<br />  you the first new Crime Bus tour of 2007, a a grim and gleeful descent<br />  into the criminal history of the San Gabriel Valley, including the battling Nazis of El Monte, the chilling (and probably incestuous) Case of the Buried Bride, missing Salvador Dali paintings, the dark history of the Lions Club&#8217;s lion meat BBQs held in eye- and nose-range of hundreds of the lovely beasts, the Man from Mars Bandit (his mystery revealed!), plus Phil Spector, neglected Manson victim Steve Parent, Geneva Ellroy and a peculiar East L.A. link to the JFK assassination, concealed Black Panthers and the coolest trailer parks in the Southland.</p>
 <p>Included in the $55 ticket price is a special stop for Chinese comfort food at one of the best dumpling joints in Monterey Park&nbsp; and an afternoon picnic surrounded by real sea monsters.</p>
-<p>  Click <a href="https://crimebus.dumplingjoint.com/" target="_blank">here</a> to buy your ticket by paypal, or <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_self">email</a> to reserve a seat that you will purchase with a money order or check.</p>
+<p>  Click <a href="http://crimebus.dumplingjoint.com/" target="_blank">here</a> to buy your ticket by paypal, or <a href="http://www.47upgradepath7.richardschave.com//feedback" target="_self">email</a> to reserve a seat that you will purchase with a money order or check.</p>
 <p>We hope to see YOU on the Crime Bus!</p>
 <p>your hosts,<br />Kim Cooper &amp; Richard Schave </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/">Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/">Blood &#038; Dumplings Crime Bus Tour (March 17, 1pm-6pm)</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/24/blood-dumplings-crime-bus-tour-march-17-1pm-6pm/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

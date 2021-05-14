@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>1947 &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/1947-8/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/1947-8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:40:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>1947 &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/#respond</comments>
+		<link>https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/</link>
+					<comments>https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 29 May 2007 18:11:42 +0000</pubDate>
@@ -53,28 +53,28 @@
 		<category><![CDATA[tim coyne]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Tim Coyne of The Hollywood Podcast rode along on The Real Black Dahlia crime bus tour and prepared a cool little piece for BBC 5&#8217;s Pods and Blogs program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">Continue reading <span class="screen-reader-text">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Tim Coyne of The Hollywood Podcast rode along on The Real Black Dahlia crime bus tour and prepared a cool little piece for BBC 5&#8217;s Pods and Blogs program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t&#8230; <a class="more-link" href="https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">Continue reading <span class="screen-reader-text">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Tim Coyne of <a href="https://hollywoodpodcast.com/" target="_blank">The Hollywood Podcast</a> rode along on <a href="https://esotouric.com/blackdahlia" target="_blank">The Real Black Dahlia</a> crime bus tour and prepared a cool little piece for BBC 5&#8217;s <a href="https://www.bbc.co.uk/blogs/podsandblogs/?focuswin" target="_blank">Pods and Blogs</a> program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t know the case. </p>
-<p>Here&#8217;s a <a href="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" target="_blank">link</a> to the MP3 of Tim&#8217;s interview with Nathan and me.&nbsp;</p>
+<p>Tim Coyne of <a href="http://hollywoodpodcast.com/" target="_blank">The Hollywood Podcast</a> rode along on <a href="http://esotouric.com/blackdahlia" target="_blank">The Real Black Dahlia</a> crime bus tour and prepared a cool little piece for BBC 5&#8217;s <a href="http://www.bbc.co.uk/blogs/podsandblogs/?focuswin" target="_blank">Pods and Blogs</a> program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t know the case. </p>
+<p>Here&#8217;s a <a href="http://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" target="_blank">link</a> to the MP3 of Tim&#8217;s interview with Nathan and me.&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="http://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 		<item>
 		<title>Why Doesn&#8217;t L.A. Do Something About Traffic?</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/#respond</comments>
+		<link>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/</link>
+					<comments>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 27 Jan 2007 15:20:31 +0000</pubDate>
@@ -87,11 +87,11 @@
 		<category><![CDATA[urban planning]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 27, 1907 Los Angeles One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Continue reading <span class="screen-reader-text">Why Doesn&#8217;t L.A. Do Something About Traffic?</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 27, 1907 Los Angeles One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it&#8230; <a class="more-link" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Continue reading <span class="screen-reader-text">Why Doesn&#8217;t L.A. Do Something About Traffic?</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127C.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 467px; height: 48px;" src="//www.lmharnisch.com/images/1907_0127C.jpg" alt="" border="0" /></a></p>
 <p><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan. 27, 1907<br />
 Los Angeles</p>
@@ -99,7 +99,7 @@ Los Angeles</p>
 <p class="MsoNormal">One thing you can say about Angelenos: We love to talk about traffic. The only thing we love more is to commission studies and draft plans to deal with the problem, and then ignore them. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“With the wonderful growth of Los Angeles as a great city has come to it many problems to be solved. The Owens River and the system of storm drains underway are the solutions of two important ones,Ã¢â‚¬Â The Times says.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 344px; height: 212px;" src="//www.lmharnisch.com/images/1907_0127B.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">A traffic jam in 1907</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -108,7 +108,7 @@ Los Angeles</p>
 <p class="MsoNormal">Now this is painful reading:</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p style="font-weight: bold;" class="MsoNormal">Ã¢â‚¬Å“This problem of transportation will grow in importance every year during which it is neglected. Swift as has been the extension and shifting of lines of the great electric railway system in and about Los Angeles, the city has grown with still greater rapidity.Ã¢â‚¬Â</p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 350px; height: 346px;" src="//www.lmharnisch.com/images/1907_0127A.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-size:130%;"><span style="font-weight: bold;">The elevated train proposed for Los Angeles and never built.</span></span>
 </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -132,7 +132,7 @@ Los Angeles</p>
 <p>But it is gratifying when wondering what became of the 1947 plan to remember that the new Gold Line tracks run between lanes of the Foothill Freeway. Some things just take time.</p>
 <p>Bonus factoid: The Harbor Freeway was realigned to spare the Auto Club headquarters on South Figueroa and USCÃ¢â‚¬â„¢s Fraternity Row.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -142,22 +142,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/">Why Doesn&#8217;t L.A. Do Something About Traffic?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/27/why-doesnt-l-a-do-something-about-traffic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/27/why-doesnt-l-a-do-something-about-traffic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wheels of misfortune: Bus tours Dahlia haunts</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/#respond</comments>
+		<link>https://1947project.com/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/</link>
+					<comments>https://1947project.com/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 16 Sep 2006 05:31:17 +0000</pubDate>
@@ -170,8 +170,8 @@ var sc_security="77307670";
 		<category><![CDATA[norma meyer]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>By Norma Meyer COPLEY NEWS SERVICE September 15, 2006 LOS ANGELES &#8211; The most notorious body dumpsite in L.A. history is now the manicured front lawn of a post-World War II home on a quiet street lined with similar one-story stucco houses. There&#8217;s no memorial plaque or hint this is it &#8211; the macabre magnet&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/">Continue reading <span class="screen-reader-text">Wheels of misfortune: Bus tours Dahlia haunts</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/">Wheels of misfortune: Bus tours Dahlia haunts</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>By Norma Meyer COPLEY NEWS SERVICE September 15, 2006 LOS ANGELES &#8211; The most notorious body dumpsite in L.A. history is now the manicured front lawn of a post-World War II home on a quiet street lined with similar one-story stucco houses. There&#8217;s no memorial plaque or hint this is it &#8211; the macabre magnet&#8230; <a class="more-link" href="https://1947project.com/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/">Continue reading <span class="screen-reader-text">Wheels of misfortune: Bus tours Dahlia haunts</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/">Wheels of misfortune: Bus tours Dahlia haunts</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -205,21 +205,21 @@ var sc_security="77307670";
 <p> Gilmore says Wilson provided details to him only the killer would know shortly before he died in a 1982 hotel room fire. But now the true-crime writer isn&#8217;t convinced the case is solved.</p>
 <p> &ldquo;It will always be one of L.A.&#8217;s darkest mysteries,&rdquo; Gilmore says. Then he compares the Dahlia&#8217;s haunting legacy to the movie-star handprints and footprints she surely ogled on Hollywood Boulevard.</p>
 <p> &ldquo;It&#8217;s like Grauman&#8217;s Chinese. Her name is carved in the concrete of L.A.&rdquo; </p>
-<p><a href="https://www.signonsandiego.com/news/features/20060915-9999-1c15tour.html" target="_blank">Link</a>&nbsp;</p>
+<p><a href="http://www.signonsandiego.com/news/features/20060915-9999-1c15tour.html" target="_blank">Link</a>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/">Wheels of misfortune: Bus tours Dahlia haunts</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/">Wheels of misfortune: Bus tours Dahlia haunts</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/16/wheels-of-misfortune-bus-tours-dahlia-haunts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Seats now available on The Halloween Horrors Crime Bus Tour</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/#respond</comments>
+		<link>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</link>
+					<comments>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 28 Aug 2006 17:46:48 +0000</pubDate>
@@ -234,31 +234,31 @@ var sc_security="77307670";
 		<category><![CDATA[weird]]></category>
 		<category><![CDATA[1947]]></category>
 		<category><![CDATA[halloween]]></category>
-		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</guid>
+		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/</guid>
 
-					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! NEW TOUR: Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Continue reading <span class="screen-reader-text">Seats now available on The Halloween Horrors Crime Bus Tour</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Join us, gentle rider, on the Crime Bus! NEW TOUR: Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More&#8230; <a class="more-link" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Continue reading <span class="screen-reader-text">Seats now available on The Halloween Horrors Crime Bus Tour</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Join us, gentle rider, on the Crime Bus!  </p>
-<p><strong>NEW TOUR:</strong> Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More info <a target="_self" href="https://pensive-torvalds-020d34.netlify.app/?p=1706">here</a>. </p>
-<p><strong>UPDATE: </strong>The October 21 tour has nearly sold out, so we have added a second bus on Sunday October 22, 1pm-6pm. If interested in tickets for Sunday or Saturday , please <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_self">contact us</a> to reserve, then you may either send a check or pay with Paypal <a href="https://www.dumplinglab.com/crimebus/" target="_blank">here</a>. Seats are $47/person, which includes Halloween-flavored Scoops gelato. Departure location &#8211; a metro station near downtown LA, provided to all passengers close to tour time.</p>
+<p><strong>NEW TOUR:</strong> Saturday 10/21, 1pm-6pm, Hallowe&#8217;en Horrors, a five hour guided luxury coach tour to the most grisly, weird, horrific and unintentionally hilarious crime scenes of old Los Angeles. This tour is not recommended for children, and we suggest you BYOBB (bring your own barf bag). More info <a target="_self" href="https://1947project.com/?p=1706">here</a>. </p>
+<p><strong>UPDATE: </strong>The October 21 tour has nearly sold out, so we have added a second bus on Sunday October 22, 1pm-6pm. If interested in tickets for Sunday or Saturday , please <a href="http://www.47upgradepath7.richardschave.com//feedback" target="_self">contact us</a> to reserve, then you may either send a check or pay with Paypal <a href="http://www.dumplinglab.com/crimebus/" target="_blank">here</a>. Seats are $47/person, which includes Halloween-flavored Scoops gelato. Departure location &#8211; a metro station near downtown LA, provided to all passengers close to tour time.</p>
 <p><strong>AND YES:</strong> Passengers are welcome to wear costumes!&nbsp; &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/">Seats now available on The Halloween Horrors Crime Bus Tour</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/08/28/seats-now-available-on-the-halloween-horrors-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lovely Mount Kalmia</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/27/lovely-mount-kalmia/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/27/lovely-mount-kalmia/#respond</comments>
+		<link>https://1947project.com/2006/04/27/lovely-mount-kalmia/</link>
+					<comments>https://1947project.com/2006/04/27/lovely-mount-kalmia/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 05:55:26 +0000</pubDate>
@@ -274,26 +274,26 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>A little bird sent us the above holiday card, issued from the magical Mount Kalmia seven years before the estate, overlooking the Sunset Strip, was the site of an especially seedy real estate scam. Somehow we doubt Johnny Depp has managed to preserve the landscaping&#8230;</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img border="0" src="//static.flickr.com/49/135770920_c2633475c0.jpg" /></p>
-<p>A little bird sent us the above holiday card, issued from the magical Mount Kalmia seven years before the estate, overlooking the Sunset Strip, was the site of an <a href="https://www.47upgradepath7.richardschave.com//tags/mount-kalmia-castle" target="_blank">especially seedy</a> real estate scam. Somehow we doubt Johnny Depp has managed to preserve the landscaping&#8230; </p>
+<p>A little bird sent us the above holiday card, issued from the magical Mount Kalmia seven years before the estate, overlooking the Sunset Strip, was the site of an <a href="http://www.47upgradepath7.richardschave.com//tags/mount-kalmia-castle" target="_blank">especially seedy</a> real estate scam. Somehow we doubt Johnny Depp has managed to preserve the landscaping&#8230; </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/27/lovely-mount-kalmia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/27/lovely-mount-kalmia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Visitor from 1947</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/04/10/a-visitor-from-1947/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/04/10/a-visitor-from-1947/#comments</comments>
+		<link>https://1947project.com/2006/04/10/a-visitor-from-1947/</link>
+					<comments>https://1947project.com/2006/04/10/a-visitor-from-1947/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2006 06:51:18 +0000</pubDate>
@@ -308,14 +308,14 @@ var sc_security="77307670";
 		<category><![CDATA[thomas housos]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; April 29, 1947 Hollywood&#160; We interrupt our regularly scheduled turn of the century to follow up on one of the more striking cases from the first year of the 1947project, the attempted carjack and kidnapping of Ginevra (note corrected spelling, though she prefered to be known as Ginger) Knight, an 18-year-old war widow who&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/04/10/a-visitor-from-1947/">Continue reading <span class="screen-reader-text">A Visitor from 1947</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/10/a-visitor-from-1947/">A Visitor from 1947</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; April 29, 1947 Hollywood&#160; We interrupt our regularly scheduled turn of the century to follow up on one of the more striking cases from the first year of the 1947project, the attempted carjack and kidnapping of Ginevra (note corrected spelling, though she prefered to be known as Ginger) Knight, an 18-year-old war widow who&#8230; <a class="more-link" href="https://1947project.com/2006/04/10/a-visitor-from-1947/">Continue reading <span class="screen-reader-text">A Visitor from 1947</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/10/a-visitor-from-1947/">A Visitor from 1947</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="450" height="435" border="0" src="//static.flickr.com/56/124498157_d30949033a.jpg" />&nbsp;</p>
 <p>April 29, 1947 Hollywood&nbsp;</p>
-<p>We interrupt our regularly scheduled turn of the century to follow up on one of the more <a target="_blank" href="https://1947project.blogspot.com/2005/04/young-widow-slays-prowler-in-self.html">striking cases</a> from the first year of the 1947project, the attempted carjack and kidnapping of Ginevra (note corrected spelling, though she prefered to be known as Ginger) Knight, an 18-year-old war widow who surprised her would-be kidnapper Thomas Housos by having a gun of her own that she wasn&#8217;t at all shy about using. &nbsp;</p>
+<p>We interrupt our regularly scheduled turn of the century to follow up on one of the more <a target="_blank" href="http://1947project.blogspot.com/2005/04/young-widow-slays-prowler-in-self.html">striking cases</a> from the first year of the 1947project, the attempted carjack and kidnapping of Ginevra (note corrected spelling, though she prefered to be known as Ginger) Knight, an 18-year-old war widow who surprised her would-be kidnapper Thomas Housos by having a gun of her own that she wasn&#8217;t at all shy about using. &nbsp;</p>
 <p>We were recently contacted by Ms. Knight&#8217;s son Ian, who was a toddler in the house on Courtney Avenue at the time of the fatal incident, and who wanted to share with our readers some images of his brave mama. </p>
 <p>It&#8217;s always interesting to hear from the family members of people featured in our stories, and we&#8217;ve been fortunate that everyone we&#8217;ve heard from has recognized that our aims are not exploitative. In this particular case, we were startled to hear not only from the children of the victim, but from the son of the attempted kidnapper who she killed, as well. Just a little reminder from the universe that these shocking incidents leave ripples that flow outward for many decades, leaving wounds and curiosity in those who come after.</p>
 <p>Thank you, Ian Knight, for the photo gallery that follows. And here&#8217;s to Ginger Knight, who courageously faced her would-be kidnapper&#8217;s brother in court, and made quite a life for herself in the years that followed. RIP, brave lady.</p>
@@ -336,18 +336,18 @@ var sc_security="77307670";
 <p><img border="0" src="//static.flickr.com/45/126229550_afd69a1cd0.jpg" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/04/10/a-visitor-from-1947/">A Visitor from 1947</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/10/a-visitor-from-1947/">A Visitor from 1947</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/04/10/a-visitor-from-1947/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/04/10/a-visitor-from-1947/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Police Grill Pin Boy in Winters Whack</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/13/police-grill-pin-boy-in-winters-whack/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/13/police-grill-pin-boy-in-winters-whack/#respond</comments>
+		<link>https://1947project.com/2006/03/13/police-grill-pin-boy-in-winters-whack/</link>
+					<comments>https://1947project.com/2006/03/13/police-grill-pin-boy-in-winters-whack/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 13 Mar 2006 19:17:53 +0000</pubDate>
@@ -368,30 +368,30 @@ var sc_security="77307670";
 		<category><![CDATA[bowling]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 13, 1947 Los Angeles Detectives questioned James Joseph Tiernan Jr., 30, tonight about his movements Monday night, both before and after the time he claimed that Evelyn Winters, 42, left his hotel room at 912 W. Sixth Street. Winters turned up dead just after midnight Tuesday in the railyard at Ducommun Street, her clothes&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/13/police-grill-pin-boy-in-winters-whack/">Continue reading <span class="screen-reader-text">Police Grill Pin Boy in Winters Whack</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/13/police-grill-pin-boy-in-winters-whack/">Police Grill Pin Boy in Winters Whack</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 13, 1947 Los Angeles Detectives questioned James Joseph Tiernan Jr., 30, tonight about his movements Monday night, both before and after the time he claimed that Evelyn Winters, 42, left his hotel room at 912 W. Sixth Street. Winters turned up dead just after midnight Tuesday in the railyard at Ducommun Street, her clothes&#8230; <a class="more-link" href="https://1947project.com/2006/03/13/police-grill-pin-boy-in-winters-whack/">Continue reading <span class="screen-reader-text">Police Grill Pin Boy in Winters Whack</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/13/police-grill-pin-boy-in-winters-whack/">Police Grill Pin Boy in Winters Whack</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>March 13, 1947 Los Angeles Detectives questioned James Joseph Tiernan Jr., 30, tonight about his movements Monday night, both before and after the time he claimed that Evelyn Winters, 42, left his hotel room at 912 W. Sixth Street. Winters turned up dead just after midnight Tuesday in the railyard at <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=Ducommun+St+%26+Center+St,+Los+Angeles,+CA+90012&amp;ll=34.052339,-118.23143&amp;spn=0.01568,0.041757">Ducommun Street</a>, her clothes in disarray, with a blood alcohol level of .28, a nearly fatal proportion. According to Dr. Frederick Newbarr of the Coroner&#8217;s Office, cause of death was blows to the head, exacerbated by the extent of her drunkenness. Tiernan was arrested the next day at the bowling alley at 924 S. Olive Street where he was formerly employed.</p>
+<p>March 13, 1947 Los Angeles Detectives questioned James Joseph Tiernan Jr., 30, tonight about his movements Monday night, both before and after the time he claimed that Evelyn Winters, 42, left his hotel room at 912 W. Sixth Street. Winters turned up dead just after midnight Tuesday in the railyard at <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=Ducommun+St+%26+Center+St,+Los+Angeles,+CA+90012&amp;ll=34.052339,-118.23143&amp;spn=0.01568,0.041757">Ducommun Street</a>, her clothes in disarray, with a blood alcohol level of .28, a nearly fatal proportion. According to Dr. Frederick Newbarr of the Coroner&#8217;s Office, cause of death was blows to the head, exacerbated by the extent of her drunkenness. Tiernan was arrested the next day at the bowling alley at 924 S. Olive Street where he was formerly employed.</p>
 <p>Captain Jack Donahoe is following up on Tiernan&#8217;s story. Tiernan admits to knowing Winters&#8211;a former movie industry legal secretary fallen on hard times&#8211;for about two years. He says he met her on Sunday at the public library, then took her to his hotel room. They both liked reading, and alcohol. On Monday night, they were drinking together in the Sixth Street room. Winters left alone between 7:30 and 8 pm. Tiernan stayed in, and that was the last time he saw his<br />
 friend Evelyn.</p>
-<p>Nathan&#8217;s take on the case is <a href="https://pensive-torvalds-020d34.netlify.app/?p=1445" target="_blank">here</a>.</p>
-<p>Confidential to 1947project readers: 1947 has been an incredible year, and we hope to see you over at our <a href="../../../../undefined/https://pensive-torvalds-020d34.netlify.app/">new digs</a> real soon, where the subject is 1907.</p>
+<p>Nathan&#8217;s take on the case is <a href="https://1947project.com/?p=1445" target="_blank">here</a>.</p>
+<p>Confidential to 1947project readers: 1947 has been an incredible year, and we hope to see you over at our <a href="../../../../undefined/https://1947project.com/">new digs</a> real soon, where the subject is 1907.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/13/police-grill-pin-boy-in-winters-whack/">Police Grill Pin Boy in Winters Whack</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/13/police-grill-pin-boy-in-winters-whack/">Police Grill Pin Boy in Winters Whack</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/13/police-grill-pin-boy-in-winters-whack/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/13/police-grill-pin-boy-in-winters-whack/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Winters of Our Discontent</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/03/13/the-winters-of-our-discontent/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/03/13/the-winters-of-our-discontent/#respond</comments>
+		<link>https://1947project.com/2006/03/13/the-winters-of-our-discontent/</link>
+					<comments>https://1947project.com/2006/03/13/the-winters-of-our-discontent/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 13 Mar 2006 19:10:06 +0000</pubDate>
@@ -412,20 +412,20 @@ friend Evelyn.</p>
 		<category><![CDATA[bowling]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Note: Kim&#8217;s take on this case is here. 1947:Â  a lot of women-killing, a lot of booze. It&#8217;s enough to turn one into a teetotaling sub. Almost. And here, a woman killing herself. With booze. Nowadays, her family would call up A&#38;E and sheÃ¯Â¿Â½d be on Intervention. Perfect fodder for the show&#8211;someone: somewhere once, nowhere&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/03/13/the-winters-of-our-discontent/">Continue reading <span class="screen-reader-text">The Winters of Our Discontent</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/13/the-winters-of-our-discontent/">The Winters of Our Discontent</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Note: Kim&#8217;s take on this case is here. 1947:Â  a lot of women-killing, a lot of booze. It&#8217;s enough to turn one into a teetotaling sub. Almost. And here, a woman killing herself. With booze. Nowadays, her family would call up A&#38;E and sheÃ¯Â¿Â½d be on Intervention. Perfect fodder for the show&#8211;someone: somewhere once, nowhere&#8230; <a class="more-link" href="https://1947project.com/2006/03/13/the-winters-of-our-discontent/">Continue reading <span class="screen-reader-text">The Winters of Our Discontent</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/13/the-winters-of-our-discontent/">The Winters of Our Discontent</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Note: Kim&#8217;s take on this case is <a href="https://pensive-torvalds-020d34.netlify.app/?p=1443" target="_blank">here</a>.</p>
-<p>1947:Â  a lot of women-killing, a lot of booze. It&#8217;s enough to turn one into a teetotaling sub. Almost. And here, a woman killing herself. With booze. Nowadays, her family would call up A&amp;E and sheÃ¯Â¿Â½d be on Intervention. Perfect fodder for the show&#8211;someone: somewhere once, nowhere now. Our identified family member has hit bottom. Get them into treatment. God, give me the strength to blame those who did this to me, to accuse those who didn&#8217;t, and the wisdom to know the difference&#8230;a lifetime of coffee, cigarettes and forced clapping after each and every utterance. Evelyn Winters was described as &#8220;brilliant&#8221; by those who knew her, a legal eagle for the studio system since she was 23, til her alcholism caught up with her and she was shitcanned from the film colony at 37. Was there sensitivity training in the workplace for those who still suffer? This is 1947. The only place you&#8217;ll be happy, joyous and free is in the afterlife. For more information about alcohol, ask a parent or teacher! Or go <a href="https://1947project.blogspot.com/2005/05/diana-goddess-of-highball.html">here</a>. The elephant in the copy room went to the elephant graveyard: skid row. Where does a homeless 800-lb. gorilla sleep? Anywhere it can. And so forth. Evelyn&#8217;s last known address&#8211;September, 1946&#8211;was here, at 2822 Rowena: <img src="//static.flickr.com/50/112348083_fb2f2cd034_o.jpg" alt="" border="0" /></p>
-<p>But in the months prior to her assault and murder she had been living in the beer parlors on Hill and Figueroa, keeping what was left of her belongings in a liquor store. <img src="//static.flickr.com/54/111145990_02afade9c8_o.gif" alt="" border="0" /> She was out carousing, divorced, jobless, though with, I&#8217;d wager, a mind still keen and ticking, before she was found nearly nude, beaten, and dragged for some way, near the Ducommun Street railroad right-of-way, here: <img src="//static.flickr.com/54/112350056_fd75398267_o.jpg" alt="" border="0" /> Evelyn, homeless, now has a homeless encampment on her site. So, then there&#8217;s this Tiernan character. <img src="//static.flickr.com/56/111145553_0ee5a3d687_o.gif" alt="" border="0" /> He&#8217;s twelve years Evelyn&#8217;s junior. A former employee of the Angelus Bowling and Billiard Recreation Center, <img src="//static.flickr.com/19/111062128_6ea3aec4cd_o.jpg" alt="" border="0" /> which is now a parking lot: <img src="//static.flickr.com/40/112357566_2e01b1afb9_o.jpg" alt="" border="0" /> (for more on prewar bowling alleys, go <a href="https://1947project.blogspot.com/2005/06/sunset-center-et-al.html">here</a>) &#8212; he takes Evelyn to the Albany Hotel at 912 W. Sixth. He drinks with her there for a day and change and, if he is to be believed, she departs between 7:30 and 8pm. She is found at 12:10am. The Albany, where she may have had her last drink, or did not, is gone: <img src="//static.flickr.com/56/112342750_6fd9c0bf5d_o.jpg" alt="" border="0" /> (Sanwa Bank Plaza, AC Martin, 1990) Never did find a vintage image of the Albany; some flavor of the wiped-out neighborhood&#8211;one block west: <img src="//static.flickr.com/39/111137989_fc7d808fde_o.jpg" alt="" border="0" /> And one block east: <img src="//static.flickr.com/52/111137927_4da48a1552_o.jpg" alt="" border="0" /> But why the hotel room? We don&#8217;t know. Tiernan didn&#8217;t live at the Albany. He lived at the Armondale, at 728 South Flower. <img src="//static.flickr.com/39/111137834_8728ca620a_o.jpg" alt="" border="0" /> Its site today: <img src="//static.flickr.com/48/112340422_60faea0966_o.jpg" alt="" border="0" /> First off, what, already, is up with the Armondale Hotel? It has that &#8220;built on Indian burial ground&#8221; cachet that money can&#8217;t buy. Perhaps it was simply built over one of those giant magnets. The kind that attract ne&#8217;er-do-wells. The place had trouble attached from the get-go. Dale Carleton, developer and proprietor of the spanking-new 1914 Armondale, is sued by wifey Marie for a sizable share of his $250,000 net worth. Mrs. Carleton names a Ms. Helen Williams&#8211;Armondale telephone girl whose duties apparently went above and beyond the working of switchboard&#8211;as correspondent. 1919. Wilbert Garrison, 28, son of a wealthy publisher in New York, drove across country with a buddy and they holed up in the Armondale. A week later Wilbert left in his room his money, valuables, and a note indicating that he did not want to be a burden on others, and as such was ending his life. Despite the best efforts of the Nick Harris detective agency (who calls the cops in 1919), Wilbert is never found. 1930. Mrs. Louis Valenzuella, 40, ex-wife of Deputy Sheriff Valenzuella, is found dead in the Armondale of a suspected drug overdose. 1939. Washed-up boxer Louis Menney, 22, Armondale resident, is tackled by a priest after he sexually assaulted a 62 year-old woman in a church at 9th (now James M. Woods) and Green. Turns out he&#8217;d&#8211;moletsed? raped?&#8211;the papers will only mention &#8220;morals offenses&#8221;&#8211;a nine year-old in the church as well. Moreover, he&#8217;d done his business with a six year-old girl on the corner of 11th (now Chick Hearn) and Georgia, and also kidnapped and robbed an Agnes M&#8212;&#8211; and sexually assaulted a Margaret L&#8212;&#8211; in a church on West Adams; since the kidnapping charge is death penalty territory, we can only hope the Armondale&#8217;s most famous resident ended up in the proper hands. <img src="//static.flickr.com/47/111137863_f0f8b99b55_o.jpg" alt="" border="0" /> 1948. Francis Sylvester, of the Armondale, works across the street at the Western Union at 741 South Flower. Sylvester wires untold sums in care of himself to small outlying towns, where there are no Western Union offices, and destroys the records of the transactions. And 1965. Percy Hatch, 65, who had been in the hotel since 1957, started talking crazy-talk. As in, a loggorhea of obscenities for two straight weeks. Behind the Armondale registration desk was manager Nancy Furlow, 62, who, finally fed up with her repeated warnings, reached for the phone, and was shot dead by Hatch with one bullet. Hatch therewith turned the gun on himself. Shortly thereafter the Armondale was felled and a rather ill-advised Broadway was built on the site. Now a Macy&#8217;s, it resembles a Dawn mall on a slow day. For more on this exercise in brown, please go <a href="https://1947project.blogspot.com/2005/09/723-west-eighth-to-day.html">here</a>. Tiernan had been reading with Evelyn at Central Library for a couple years. They would read, or shack up and drink, and maybe he&#8217;d talk bowling and maybe she&#8217;d talk law, but probably not. Neither he nor anyone else was ever charged. And so goes the final post of 1947. Soon there will be <a href="https://1947project.blogspot.com/2005/05/locust-avenue-to-day.html">another</a> liquor-infused ladykilling, and <a href="https://1947project.blogspot.com/2005/07/elmyra-north-main.html">another</a>, and Evelyn will be forgotten by all but her mother and best barfly pals and her killer, and God willing, she will become part of us.</p>
+<p>Note: Kim&#8217;s take on this case is <a href="https://1947project.com/?p=1443" target="_blank">here</a>.</p>
+<p>1947:Â  a lot of women-killing, a lot of booze. It&#8217;s enough to turn one into a teetotaling sub. Almost. And here, a woman killing herself. With booze. Nowadays, her family would call up A&amp;E and sheÃ¯Â¿Â½d be on Intervention. Perfect fodder for the show&#8211;someone: somewhere once, nowhere now. Our identified family member has hit bottom. Get them into treatment. God, give me the strength to blame those who did this to me, to accuse those who didn&#8217;t, and the wisdom to know the difference&#8230;a lifetime of coffee, cigarettes and forced clapping after each and every utterance. Evelyn Winters was described as &#8220;brilliant&#8221; by those who knew her, a legal eagle for the studio system since she was 23, til her alcholism caught up with her and she was shitcanned from the film colony at 37. Was there sensitivity training in the workplace for those who still suffer? This is 1947. The only place you&#8217;ll be happy, joyous and free is in the afterlife. For more information about alcohol, ask a parent or teacher! Or go <a href="http://1947project.blogspot.com/2005/05/diana-goddess-of-highball.html">here</a>. The elephant in the copy room went to the elephant graveyard: skid row. Where does a homeless 800-lb. gorilla sleep? Anywhere it can. And so forth. Evelyn&#8217;s last known address&#8211;September, 1946&#8211;was here, at 2822 Rowena: <img src="//static.flickr.com/50/112348083_fb2f2cd034_o.jpg" alt="" border="0" /></p>
+<p>But in the months prior to her assault and murder she had been living in the beer parlors on Hill and Figueroa, keeping what was left of her belongings in a liquor store. <img src="//static.flickr.com/54/111145990_02afade9c8_o.gif" alt="" border="0" /> She was out carousing, divorced, jobless, though with, I&#8217;d wager, a mind still keen and ticking, before she was found nearly nude, beaten, and dragged for some way, near the Ducommun Street railroad right-of-way, here: <img src="//static.flickr.com/54/112350056_fd75398267_o.jpg" alt="" border="0" /> Evelyn, homeless, now has a homeless encampment on her site. So, then there&#8217;s this Tiernan character. <img src="//static.flickr.com/56/111145553_0ee5a3d687_o.gif" alt="" border="0" /> He&#8217;s twelve years Evelyn&#8217;s junior. A former employee of the Angelus Bowling and Billiard Recreation Center, <img src="//static.flickr.com/19/111062128_6ea3aec4cd_o.jpg" alt="" border="0" /> which is now a parking lot: <img src="//static.flickr.com/40/112357566_2e01b1afb9_o.jpg" alt="" border="0" /> (for more on prewar bowling alleys, go <a href="http://1947project.blogspot.com/2005/06/sunset-center-et-al.html">here</a>) &#8212; he takes Evelyn to the Albany Hotel at 912 W. Sixth. He drinks with her there for a day and change and, if he is to be believed, she departs between 7:30 and 8pm. She is found at 12:10am. The Albany, where she may have had her last drink, or did not, is gone: <img src="//static.flickr.com/56/112342750_6fd9c0bf5d_o.jpg" alt="" border="0" /> (Sanwa Bank Plaza, AC Martin, 1990) Never did find a vintage image of the Albany; some flavor of the wiped-out neighborhood&#8211;one block west: <img src="//static.flickr.com/39/111137989_fc7d808fde_o.jpg" alt="" border="0" /> And one block east: <img src="//static.flickr.com/52/111137927_4da48a1552_o.jpg" alt="" border="0" /> But why the hotel room? We don&#8217;t know. Tiernan didn&#8217;t live at the Albany. He lived at the Armondale, at 728 South Flower. <img src="//static.flickr.com/39/111137834_8728ca620a_o.jpg" alt="" border="0" /> Its site today: <img src="//static.flickr.com/48/112340422_60faea0966_o.jpg" alt="" border="0" /> First off, what, already, is up with the Armondale Hotel? It has that &#8220;built on Indian burial ground&#8221; cachet that money can&#8217;t buy. Perhaps it was simply built over one of those giant magnets. The kind that attract ne&#8217;er-do-wells. The place had trouble attached from the get-go. Dale Carleton, developer and proprietor of the spanking-new 1914 Armondale, is sued by wifey Marie for a sizable share of his $250,000 net worth. Mrs. Carleton names a Ms. Helen Williams&#8211;Armondale telephone girl whose duties apparently went above and beyond the working of switchboard&#8211;as correspondent. 1919. Wilbert Garrison, 28, son of a wealthy publisher in New York, drove across country with a buddy and they holed up in the Armondale. A week later Wilbert left in his room his money, valuables, and a note indicating that he did not want to be a burden on others, and as such was ending his life. Despite the best efforts of the Nick Harris detective agency (who calls the cops in 1919), Wilbert is never found. 1930. Mrs. Louis Valenzuella, 40, ex-wife of Deputy Sheriff Valenzuella, is found dead in the Armondale of a suspected drug overdose. 1939. Washed-up boxer Louis Menney, 22, Armondale resident, is tackled by a priest after he sexually assaulted a 62 year-old woman in a church at 9th (now James M. Woods) and Green. Turns out he&#8217;d&#8211;moletsed? raped?&#8211;the papers will only mention &#8220;morals offenses&#8221;&#8211;a nine year-old in the church as well. Moreover, he&#8217;d done his business with a six year-old girl on the corner of 11th (now Chick Hearn) and Georgia, and also kidnapped and robbed an Agnes M&#8212;&#8211; and sexually assaulted a Margaret L&#8212;&#8211; in a church on West Adams; since the kidnapping charge is death penalty territory, we can only hope the Armondale&#8217;s most famous resident ended up in the proper hands. <img src="//static.flickr.com/47/111137863_f0f8b99b55_o.jpg" alt="" border="0" /> 1948. Francis Sylvester, of the Armondale, works across the street at the Western Union at 741 South Flower. Sylvester wires untold sums in care of himself to small outlying towns, where there are no Western Union offices, and destroys the records of the transactions. And 1965. Percy Hatch, 65, who had been in the hotel since 1957, started talking crazy-talk. As in, a loggorhea of obscenities for two straight weeks. Behind the Armondale registration desk was manager Nancy Furlow, 62, who, finally fed up with her repeated warnings, reached for the phone, and was shot dead by Hatch with one bullet. Hatch therewith turned the gun on himself. Shortly thereafter the Armondale was felled and a rather ill-advised Broadway was built on the site. Now a Macy&#8217;s, it resembles a Dawn mall on a slow day. For more on this exercise in brown, please go <a href="http://1947project.blogspot.com/2005/09/723-west-eighth-to-day.html">here</a>. Tiernan had been reading with Evelyn at Central Library for a couple years. They would read, or shack up and drink, and maybe he&#8217;d talk bowling and maybe she&#8217;d talk law, but probably not. Neither he nor anyone else was ever charged. And so goes the final post of 1947. Soon there will be <a href="http://1947project.blogspot.com/2005/05/locust-avenue-to-day.html">another</a> liquor-infused ladykilling, and <a href="http://1947project.blogspot.com/2005/07/elmyra-north-main.html">another</a>, and Evelyn will be forgotten by all but her mother and best barfly pals and her killer, and God willing, she will become part of us.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/03/13/the-winters-of-our-discontent/">The Winters of Our Discontent</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/13/the-winters-of-our-discontent/">The Winters of Our Discontent</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/03/13/the-winters-of-our-discontent/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/03/13/the-winters-of-our-discontent/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

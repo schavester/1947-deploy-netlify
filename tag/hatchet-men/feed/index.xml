@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>hatchet-men &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/hatchet-men/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/hatchet-men/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:39:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>hatchet-men &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tong War Continues</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/07/18/tong-war-continues/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/07/18/tong-war-continues/#respond</comments>
+		<link>https://1947project.com/2006/07/18/tong-war-continues/</link>
+					<comments>https://1947project.com/2006/07/18/tong-war-continues/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 18 Jul 2006 22:46:19 +0000</pubDate>
@@ -50,8 +50,8 @@
 		<category><![CDATA[tong wars]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; July 18, 1907 Anaheim&#160; One more tong war post, and then I&#8217;ll return to our regularly scheduled horrors committed by, I don&#8217;t know, Dutch people. Anaheim, California: best known for Disneyland and the Pond, or, at least, known for the winemaking prowess of Victorian Bavarians, and having been run by the Klan in 1924.&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2006/07/18/tong-war-continues/">Continue reading <span class="screen-reader-text">Tong War Continues</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/18/tong-war-continues/">Tong War Continues</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; July 18, 1907 Anaheim&#160; One more tong war post, and then I&#8217;ll return to our regularly scheduled horrors committed by, I don&#8217;t know, Dutch people. Anaheim, California: best known for Disneyland and the Pond, or, at least, known for the winemaking prowess of Victorian Bavarians, and having been run by the Klan in 1924.&#8230; <a class="more-link" href="https://1947project.com/2006/07/18/tong-war-continues/">Continue reading <span class="screen-reader-text">Tong War Continues</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/18/tong-war-continues/">Tong War Continues</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -66,10 +66,10 @@
 <p>As usual, the police have been dispatched to the train stations.  While imported highbinders are escaping detection by hiding out in downtown Japanese rooming houses, cops have nevertheless managed to nap Visalians Tai Choy and Lin Poon, implicated in the killing.   </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/07/18/tong-war-continues/">Tong War Continues</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/18/tong-war-continues/">Tong War Continues</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/07/18/tong-war-continues/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/07/18/tong-war-continues/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

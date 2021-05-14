@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>Ebay &#8211; 1947 Project</title>
-	<atom:link href="https://pensive-torvalds-020d34.netlify.app/tag/ebay-7/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<atom:link href="https://1947project.com/tag/ebay-7/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1947project.com/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:53:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Ebay &#8211; 1947 Project</title>
-	<link>https://pensive-torvalds-020d34.netlify.app/</link>
+	<link>https://1947project.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>In-Cred-I-Ble</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/02/13/in-cred-i-ble/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/02/13/in-cred-i-ble/#respond</comments>
+		<link>https://1947project.com/2007/02/13/in-cred-i-ble/</link>
+					<comments>https://1947project.com/2007/02/13/in-cred-i-ble/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2007 13:19:49 +0000</pubDate>
@@ -43,15 +43,15 @@
 		<category><![CDATA[Ebay]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>A large (20&#215;30) reproduction of Elizabeth ShortÃ¢â‚¬â„¢s mug shot has appeared on EBay at a starting price of $250, or $400 under Ã¢â‚¬Å“buy it nowÃ¢â‚¬Â in an auction by mermaidfx. The word Ã¢â‚¬Å“rareÃ¢â‚¬Â is ridiculously common on EBay, surpassed only by Ã¢â‚¬Å“MIBÃ¢â‚¬Â and Ã¢â‚¬Å“L@@K.Ã¢â‚¬Â This is not a rare image, but is widely copied. And&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/02/13/in-cred-i-ble/">Continue reading <span class="screen-reader-text">In-Cred-I-Ble</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/13/in-cred-i-ble/">In-Cred-I-Ble</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>A large (20&#215;30) reproduction of Elizabeth ShortÃ¢â‚¬â„¢s mug shot has appeared on EBay at a starting price of $250, or $400 under Ã¢â‚¬Å“buy it nowÃ¢â‚¬Â in an auction by mermaidfx. The word Ã¢â‚¬Å“rareÃ¢â‚¬Â is ridiculously common on EBay, surpassed only by Ã¢â‚¬Å“MIBÃ¢â‚¬Â and Ã¢â‚¬Å“L@@K.Ã¢â‚¬Â This is not a rare image, but is widely copied. And&#8230; <a class="more-link" href="https://1947project.com/2007/02/13/in-cred-i-ble/">Continue reading <span class="screen-reader-text">In-Cred-I-Ble</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/13/in-cred-i-ble/">In-Cred-I-Ble</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/mug_shot_ebay.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/mug_shot_ebay.JPG" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/mug_shot_ebay.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/mug_shot_ebay.JPG" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>  </p>
-<p class="MsoNormal">A large (20&#215;30) reproduction of Elizabeth ShortÃ¢â‚¬â„¢s mug shot has appeared on EBay at a <a href="https://cgi.ebay.com/Elizabeth-Short-BLACK-DAHLIA-20x30-photo-print-RARE_W0QQitemZ120086548150QQihZ002QQcategoryZ60315QQtcZphotoQQrdZ1QQcmdZViewItem">starting price of $250, or $400</a> under Ã¢â‚¬Å“buy it nowÃ¢â‚¬Â in an auction by <a href="https://myworld.ebay.com/mermaidfx/">mermaidfx</a>. The word Ã¢â‚¬Å“rareÃ¢â‚¬Â is ridiculously common on EBay, surpassed only by Ã¢â‚¬Å“MIBÃ¢â‚¬Â and Ã¢â‚¬Å“L@@K.Ã¢â‚¬Â This is not a rare image, but is widely copied. And folks, the asking price is absurd. <!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600" spt="75" preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">  <v:stroke joinstyle="miter">  <v:formulas>   <v:f eqn="if lineDrawn pixelLineWidth 0">   <v:f eqn="sum @0 1 0">   <v:f eqn="sum 0 0 @1">   <v:f eqn="prod @2 1 2">   <v:f eqn="prod @3 21600 pixelWidth">   <v:f eqn="prod @3 21600 pixelHeight">   <v:f eqn="sum @0 0 1">   <v:f eqn="prod @6 1 2">   <v:f eqn="prod @7 21600 pixelWidth">   <v:f eqn="sum @8 21600 0">   <v:f eqn="prod @7 21600 pixelHeight">   <v:f eqn="sum @10 21600 0">  </v:formulas>  <v:path extrusionok="f" gradientshapeok="t" connecttype="rect">  <o:lock ext="edit" aspectratio="t"> </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="" style="'width:3pt;">  <v:imagedata src="file:///C:/DOCUME~1/LARRYH~1/LOCALS~1/Temp/msoclip1/01/clip_image001.gif" href="https://pics.ebaystatic.com/aw/pics/s.gif"> </v:shape><![endif]--><!--[if !vml]--><img loading="lazy" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/clip_image002.gif" shapes="_x0000_i1025" border="0" height="4" width="4" /><!--[endif]--><span style=""> </span></p>
+<p class="MsoNormal">A large (20&#215;30) reproduction of Elizabeth ShortÃ¢â‚¬â„¢s mug shot has appeared on EBay at a <a href="http://cgi.ebay.com/Elizabeth-Short-BLACK-DAHLIA-20x30-photo-print-RARE_W0QQitemZ120086548150QQihZ002QQcategoryZ60315QQtcZphotoQQrdZ1QQcmdZViewItem">starting price of $250, or $400</a> under Ã¢â‚¬Å“buy it nowÃ¢â‚¬Â in an auction by <a href="http://myworld.ebay.com/mermaidfx/">mermaidfx</a>. The word Ã¢â‚¬Å“rareÃ¢â‚¬Â is ridiculously common on EBay, surpassed only by Ã¢â‚¬Å“MIBÃ¢â‚¬Â and Ã¢â‚¬Å“L@@K.Ã¢â‚¬Â This is not a rare image, but is widely copied. And folks, the asking price is absurd. <!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600" spt="75" preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">  <v:stroke joinstyle="miter">  <v:formulas>   <v:f eqn="if lineDrawn pixelLineWidth 0">   <v:f eqn="sum @0 1 0">   <v:f eqn="sum 0 0 @1">   <v:f eqn="prod @2 1 2">   <v:f eqn="prod @3 21600 pixelWidth">   <v:f eqn="prod @3 21600 pixelHeight">   <v:f eqn="sum @0 0 1">   <v:f eqn="prod @6 1 2">   <v:f eqn="prod @7 21600 pixelWidth">   <v:f eqn="sum @8 21600 0">   <v:f eqn="prod @7 21600 pixelHeight">   <v:f eqn="sum @10 21600 0">  </v:formulas>  <v:path extrusionok="f" gradientshapeok="t" connecttype="rect">  <o:lock ext="edit" aspectratio="t"> </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="" style="'width:3pt;">  <v:imagedata src="file:///C:/DOCUME~1/LARRYH~1/LOCALS~1/Temp/msoclip1/01/clip_image001.gif" href="http://pics.ebaystatic.com/aw/pics/s.gif"> </v:shape><![endif]--><!--[if !vml]--><img loading="lazy" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/clip_image002.gif" shapes="_x0000_i1025" border="0" height="4" width="4" /><!--[endif]--><span style=""> </span></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -61,22 +61,22 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/02/13/in-cred-i-ble/">In-Cred-I-Ble</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/13/in-cred-i-ble/">In-Cred-I-Ble</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/02/13/in-cred-i-ble/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/02/13/in-cred-i-ble/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Also on EBay</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/16/also-on-ebay/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/16/also-on-ebay/#respond</comments>
+		<link>https://1947project.com/2007/01/16/also-on-ebay/</link>
+					<comments>https://1947project.com/2007/01/16/also-on-ebay/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 16 Jan 2007 14:36:10 +0000</pubDate>
@@ -86,34 +86,34 @@ var sc_security="77307670";
 		<category><![CDATA[photographs]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 16, 2007 Sfxarchive is selling a 4- by 5-inch negative ostensibly from the Black Dahlia case. I donÃ¢â‚¬â„¢t recognize any of these individuals, nor have I ever seen the image. It doesnÃ¢â‚¬â„¢t show any of the main suspects, nor does it show the main detectives, Harry Hansen and Finis Brown. I would say its&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/16/also-on-ebay/">Continue reading <span class="screen-reader-text">Also on EBay</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/16/also-on-ebay/">Also on EBay</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 16, 2007 Sfxarchive is selling a 4- by 5-inch negative ostensibly from the Black Dahlia case. I donÃ¢â‚¬â„¢t recognize any of these individuals, nor have I ever seen the image. It doesnÃ¢â‚¬â„¢t show any of the main suspects, nor does it show the main detectives, Harry Hansen and Finis Brown. I would say its&#8230; <a class="more-link" href="https://1947project.com/2007/01/16/also-on-ebay/">Continue reading <span class="screen-reader-text">Also on EBay</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/16/also-on-ebay/">Also on EBay</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1949_unid_cops_ebay.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 282px;" src="//www.lmharnisch.com/images/1949_unid_cops_ebay.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1949_unid_cops_ebay.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 282px;" src="//www.lmharnisch.com/images/1949_unid_cops_ebay.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>  </p>
 <p class="MsoNormal">Jan. 16, 2007</p>
-<p class="MsoNormal"><a href="https://cgi.ebay.com/1949-Black-Dahlia-Hollywood-Murder-Photo-Negative-Blue_W0QQitemZ150081723728QQihZ005QQcategoryZ48QQtcZphotoQQrdZ1QQcmdZViewItem">Sfxarchive</a> is selling a 4- by 5-inch negative ostensibly from the Black Dahlia case. I donÃ¢â‚¬â„¢t recognize any of these individuals, nor have I ever seen the image. It doesnÃ¢â‚¬â„¢t show any of the main suspects, nor does it show the main detectives, Harry Hansen and Finis Brown. </p>
+<p class="MsoNormal"><a href="http://cgi.ebay.com/1949-Black-Dahlia-Hollywood-Murder-Photo-Negative-Blue_W0QQitemZ150081723728QQihZ005QQcategoryZ48QQtcZphotoQQrdZ1QQcmdZViewItem">Sfxarchive</a> is selling a 4- by 5-inch negative ostensibly from the Black Dahlia case. I donÃ¢â‚¬â„¢t recognize any of these individuals, nor have I ever seen the image. It doesnÃ¢â‚¬â„¢t show any of the main suspects, nor does it show the main detectives, Harry Hansen and Finis Brown. </p>
 <p class="MsoNormal">I would say its importance is limited. Note that the sellerÃ¢â‚¬â„¢s date (January 1949) is contradicted by the calendar in the picture, which says December 1948.</p>
 <p class="MsoNormal">The bottom line: I would not spend any serious money on this image. </p>
-<p class="MsoNormal"><a href="https://www.lmharnisch.com/">Lmharnisch.com</a></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a></p>
+<p class="MsoNormal"><a href="http://www.lmharnisch.com/">Lmharnisch.com</a></p>
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a></p>
 <p class="MsoNormal">E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/16/also-on-ebay/">Also on EBay</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/16/also-on-ebay/">Also on EBay</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/16/also-on-ebay/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/16/also-on-ebay/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Another EBay Mystery</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/15/another-ebay-mystery/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/15/another-ebay-mystery/#respond</comments>
+		<link>https://1947project.com/2007/01/15/another-ebay-mystery/</link>
+					<comments>https://1947project.com/2007/01/15/another-ebay-mystery/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 15 Jan 2007 14:48:44 +0000</pubDate>
@@ -125,50 +125,50 @@ var sc_security="77307670";
 		<category><![CDATA[schemes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan. 15, 2007 Los Angeles While making my daily check of EBay, I found an envelope from 1907 that was an interesting sequel to the &#8220;Mystery of the Burmese Fortunetellers.&#8221; This envelope was addressed to A. Victor Segno, 701 N. Belmont. A brief check of Proquest revealsÃ¢â‚¬â€whatÃ¢â‚¬â„¢s this? A major scam artist, self-help author and&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/15/another-ebay-mystery/">Continue reading <span class="screen-reader-text">Another EBay Mystery</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/15/another-ebay-mystery/">Another EBay Mystery</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Jan. 15, 2007 Los Angeles While making my daily check of EBay, I found an envelope from 1907 that was an interesting sequel to the &#8220;Mystery of the Burmese Fortunetellers.&#8221; This envelope was addressed to A. Victor Segno, 701 N. Belmont. A brief check of Proquest revealsÃ¢â‚¬â€whatÃ¢â‚¬â„¢s this? A major scam artist, self-help author and&#8230; <a class="more-link" href="https://1947project.com/2007/01/15/another-ebay-mystery/">Continue reading <span class="screen-reader-text">Another EBay Mystery</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/15/another-ebay-mystery/">Another EBay Mystery</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/victor_segnoA.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/victor_segnoA.JPG" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/imaegs/victor_segnoA.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/imaegs/victor_segnoA.jpg" alt="" border="0" /></a><!--[if !supportEmptyParas]--> <o:p></o:p>  </p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/victor_segnoA.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/victor_segnoA.JPG" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/imaegs/victor_segnoA.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/imaegs/victor_segnoA.jpg" alt="" border="0" /></a><!--[if !supportEmptyParas]--> <o:p></o:p>  </p>
 <p class="MsoNormal">Jan. 15, 2007</p>
 <p class="MsoNormal">Los Angeles </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">While making <a href="https://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&#038;item=330075792206&amp;ssPageName=ADME:B:SS:US:1">my daily check of EBay</a>, I found an envelope from 1907 that was an interesting sequel to the &#8220;<a href="https://pensive-torvalds-020d34.netlify.app/an-ebay-mystery-worthy-of-holmes">Mystery of the Burmese Fortunetellers</a>.&#8221; This envelope was addressed to A. Victor Segno, 701 N. Belmont. </p>
+<p class="MsoNormal">While making <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&#038;item=330075792206&amp;ssPageName=ADME:B:SS:US:1">my daily check of EBay</a>, I found an envelope from 1907 that was an interesting sequel to the &#8220;<a href="https://1947project.com/an-ebay-mystery-worthy-of-holmes">Mystery of the Burmese Fortunetellers</a>.&#8221; This envelope was addressed to A. Victor Segno, 701 N. Belmont. </p>
 <p class="MsoNormal">A brief check of Proquest revealsÃ¢â‚¬â€whatÃ¢â‚¬â„¢s this? A major scam artist, self-help author and wife-stealer.</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0115A.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 311px;" src="//www.lmharnisch.com/images/1907_0115A.jpg" alt="" border="0" /></a>    </p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0115A.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 311px;" src="//www.lmharnisch.com/images/1907_0115A.jpg" alt="" border="0" /></a>    </p>
 <p class="MsoNormal">A. Victor Segno turns out to be the operator of the American Institute of Mentalism. HereÃ¢â‚¬â„¢s how it works: Members agree to send Segno $1 ($21.30 USD 2005) a month. In return he sends out a Ã¢â‚¬Å“success waveÃ¢â‚¬Â twice a day. </p>
 <p class="MsoNormal">According to SegnoÃ¢â‚¬â„¢s literature: Ã¢â‚¬Å“The vibrations which Prof. Segno is able to produce in people, through being in harmony with their mentalism, is often felt by them, though thousands of miles distant, as a sensation similar to a slight electric shock.Ã¢â‚¬Â </p>
 <p class="MsoNormal">And a testimonial: Ã¢â‚¬Å“When I commenced taking the treatments with your club I was full of doubts as to the effects, but as I was anxious to be successful and had little to lose and all to gain I continued to take them. I have been a member less than two months and the following are the results:</p>
 <p class="MsoNormal">Ã¢â‚¬Å“At the time I joined the club I was sick, but compelled to work and for very small wages. Shortly after I began to feel better. On the 7<sup>th</sup> of this month my employer sold me his stock of goods on credit. By the 21<sup>st</sup> I had paid $100 on the cost of the stock and on the 24<sup>th</sup> I sold the stock for ($300 or $800) over the cost and reserved an interest in the business.</p>
 <p class="MsoNormal">Ã¢â‚¬Å“You no doubt will be glad to learn that since joining your club I have improved in health, supported myself and little baby girl and made over $1,000, and risen from a servant to be a proprietor. I have also secured a position as traveling agent for a Chicago firm at a large salary. It is wonderful to me.Ã¢â‚¬Â </p>
-<p class="MsoNormal">Busy though he was sending out success waves, Segno was able to write two books: Ã¢â‚¬Å“How to Live 100 YearsÃ¢â‚¬Â and Ã¢â‚¬Å“How to Be Happy Though Married,Ã¢â‚¬Â available from the institute for $3 each. Later works included Ã¢â‚¬Å“Personal Magnetism,Ã¢â‚¬Â<span style="">  </span>Ã¢â‚¬Å“<a href="https://cgi.ebay.com/A-VICTOR-SEGNO-THE-LAW-OF-MENTALISM-1902-1stEd_W0QQitemZ180063442786QQihZ008QQcategoryZ29223QQrdZ1QQssPageNameZWD1VQQcmdZViewItem">The Law of Mentalism</a>Ã¢â‚¬Â and Ã¢â‚¬Å“How to Have Beautiful Hair.Ã¢â‚¬Â</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0115B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0115B.jpg" alt="" border="0" /></a>    </p>
+<p class="MsoNormal">Busy though he was sending out success waves, Segno was able to write two books: Ã¢â‚¬Å“How to Live 100 YearsÃ¢â‚¬Â and Ã¢â‚¬Å“How to Be Happy Though Married,Ã¢â‚¬Â available from the institute for $3 each. Later works included Ã¢â‚¬Å“Personal Magnetism,Ã¢â‚¬Â<span style="">  </span>Ã¢â‚¬Å“<a href="http://cgi.ebay.com/A-VICTOR-SEGNO-THE-LAW-OF-MENTALISM-1902-1stEd_W0QQitemZ180063442786QQihZ008QQcategoryZ29223QQrdZ1QQssPageNameZWD1VQQcmdZViewItem">The Law of Mentalism</a>Ã¢â‚¬Â and Ã¢â‚¬Å“How to Have Beautiful Hair.Ã¢â‚¬Â</p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0115B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0115B.jpg" alt="" border="0" /></a>    </p>
 <p class="MsoNormal">Apparently Segno did a thriving business because in a few years he was able to plan a large estate at Belmont and Kane, which was featured in The Times. The letter, addressed to 701 N. Belmont, was presumable sent to the institution on Ã¢â‚¬Å“Inspiration PointÃ¢â‚¬Â over Echo Park, although I canÃ¢â‚¬â„¢t locate it now. </p>
 <p class="MsoNormal">In 1911, however, Segno left Los Angeles, ostensibly to set up a similar school in Russia. Shortly thereafter, his longtime personal secretary, Mrs. Irene Weitzel, a recently married woman whom he had employed since she was a young girl, vanished on an alleged trip to Chicago to visit her parents. </p>
 <p class="MsoNormal">In response to reportersÃ¢â‚¬â„¢ questions about whether Segno had run off with his secretary, his wife, Annie Dell Segno,<span style="">  </span>replied: Ã¢â‚¬Å“It isnÃ¢â‚¬â„¢t true, unless my husband has lost his senses.Ã¢â‚¬Â </p>
 <p class="MsoNormal">Ã¢â‚¬Å“An official of the school admitted that Mrs. Segno is greatly perturbed and admitted that there had been talk about Segno and the girl for some months,Ã¢â‚¬Â The Times says. Ã¢â‚¬Å“She said that when such stories came to her ears she had hotly denied them because SegnoÃ¢â‚¬â„¢s teaching and life stood out in her mind as everything ideal.Ã¢â‚¬Â</p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/victor_segnoC.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 360px; height: 187px;" src="//www.lmharnisch.com/images/victor_segnoC.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/victor_segnoC.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 360px; height: 187px;" src="//www.lmharnisch.com/images/victor_segnoC.jpg" alt="" border="0" /></a></p>
 <p style="text-align: center;" class="MsoNormal"><span style="font-weight: bold;">A. Victor Segno and &#8220;success waves&#8221; in action, from one of his books. Note the beautiful hair. </span>
 </p>
 <p class="MsoNormal">Divorce eventually followed as Segno set up an identical scheme in Berlin. He returned to the United States about 1915 as the clouds of World War I formed over Europe. Thereafter, Segno vanished from the news while his ex-wife was mentioned in a 1923 story because she had married Harry T. Robinson, apparently a member of a robbery gang. </p>
 <p class="MsoNormal">Thanks, EBay! </p>
-<p class="MsoNormal"><a href="https://www.lmharnisch.com/">Lmharnisch.com</a></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a></p>
+<p class="MsoNormal"><a href="http://www.lmharnisch.com/">Lmharnisch.com</a></p>
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a></p>
 <p class="MsoNormal">E-mail: lmharnisch (AT) gmail.com</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/15/another-ebay-mystery/">Another EBay Mystery</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/15/another-ebay-mystery/">Another EBay Mystery</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/15/another-ebay-mystery/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/15/another-ebay-mystery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In Cred I Ble</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/14/in-cred-i-ble-2/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/14/in-cred-i-ble-2/#respond</comments>
+		<link>https://1947project.com/2007/01/14/in-cred-i-ble-2/</link>
+					<comments>https://1947project.com/2007/01/14/in-cred-i-ble-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 14 Jan 2007 00:33:18 +0000</pubDate>
@@ -177,28 +177,28 @@ var sc_security="77307670";
 		<category><![CDATA[Ebay]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The EBay sale of 1940s mug shots, including one of Elizabeth Short, sold Jan. 12, 2007, for $1,802.77 (more than $78 per picture) to phenomaly. Although EBay now conceals biddersÃ¢â‚¬â„¢ identities, we can see that the next highest bid was $1,777.77. Obviously, people are willing to spend serious money for these mug shots. Please understand,&#8230; <a class="more-link" href="https://pensive-torvalds-020d34.netlify.app/2007/01/14/in-cred-i-ble-2/">Continue reading <span class="screen-reader-text">In Cred I Ble</span></a></p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/14/in-cred-i-ble-2/">In Cred I Ble</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The EBay sale of 1940s mug shots, including one of Elizabeth Short, sold Jan. 12, 2007, for $1,802.77 (more than $78 per picture) to phenomaly. Although EBay now conceals biddersÃ¢â‚¬â„¢ identities, we can see that the next highest bid was $1,777.77. Obviously, people are willing to spend serious money for these mug shots. Please understand,&#8230; <a class="more-link" href="https://1947project.com/2007/01/14/in-cred-i-ble-2/">Continue reading <span class="screen-reader-text">In Cred I Ble</span></a></p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/14/in-cred-i-ble-2/">In Cred I Ble</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>The EBay <a href="https://cgi.ebay.com/40-s-Mug-Shots-Including-Elizabeth-Short-Black-Dahlia_W0QQitemZ110075101809QQihZ001QQcategoryZ103990QQtcZphotoQQrdZ1QQcmdZViewItem">sale of 1940s mug shots</a>, including one of Elizabeth Short, sold Jan. 12, 2007, for $1,802.77 (more than $78 per picture) to phenomaly. Although EBay now <a href="https://offer.ebay.com/ws/eBayISAPI.dll?ViewBids&amp;item=110075101809">conceals biddersÃ¢â‚¬â„¢ identities</a>, we can see that the next highest bid was $1,777.77. Obviously, people are willing to spend serious money for these mug shots.</p>
+<div>The EBay <a href="http://cgi.ebay.com/40-s-Mug-Shots-Including-Elizabeth-Short-Black-Dahlia_W0QQitemZ110075101809QQihZ001QQcategoryZ103990QQtcZphotoQQrdZ1QQcmdZViewItem">sale of 1940s mug shots</a>, including one of Elizabeth Short, sold Jan. 12, 2007, for $1,802.77 (more than $78 per picture) to phenomaly. Although EBay now <a href="http://offer.ebay.com/ws/eBayISAPI.dll?ViewBids&amp;item=110075101809">conceals biddersÃ¢â‚¬â„¢ identities</a>, we can see that the next highest bid was $1,777.77. Obviously, people are willing to spend serious money for these mug shots.</p>
 <p>Please understand, the Elizabeth Short  mug shots were printed up <u>in bulk </u>during the investigation and handed out freely. The mug shot was also distributed by the wire services. Translation: There were many copies of this picture. Think carefully before getting into a bidding war over one of them. They turn upon EBay every couple of years.<br />
 <o:p></o:p><br />
-<a href="https://www.lmharnisch.com/">Lmharnisch.com</a><o:p></o:p><br />
-<a href="https://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a><a href="https://lmharnisch.blogspot.com/"><o:p></o:p></a></div>
+<a href="http://www.lmharnisch.com/">Lmharnisch.com</a><o:p></o:p><br />
+<a href="http://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a><a href="http://lmharnisch.blogspot.com/"><o:p></o:p></a></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/14/in-cred-i-ble-2/">In Cred I Ble</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/14/in-cred-i-ble-2/">In Cred I Ble</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/14/in-cred-i-ble-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/14/in-cred-i-ble-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>For Sale on EBay</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2007/01/03/for-sale-on-ebay/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2007/01/03/for-sale-on-ebay/#comments</comments>
+		<link>https://1947project.com/2007/01/03/for-sale-on-ebay/</link>
+					<comments>https://1947project.com/2007/01/03/for-sale-on-ebay/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 03 Jan 2007 15:16:48 +0000</pubDate>
@@ -208,24 +208,24 @@ var sc_security="77307670";
 		<category><![CDATA[Ebay]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/03/for-sale-on-ebay/">For Sale on EBay</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/03/for-sale-on-ebay/">For Sale on EBay</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/elizshort6.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 278px; height: 392px;" src="//www.lmharnisch.com/images/elizshort6.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/elizshort6.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 278px; height: 392px;" src="//www.lmharnisch.com/images/elizshort6.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2007/01/03/for-sale-on-ebay/">For Sale on EBay</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/03/for-sale-on-ebay/">For Sale on EBay</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2007/01/03/for-sale-on-ebay/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2007/01/03/for-sale-on-ebay/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>An EBay Mystery Worthy of Holmes</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/11/07/an-ebay-mystery-worthy-of-holmes/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/11/07/an-ebay-mystery-worthy-of-holmes/#respond</comments>
+		<link>https://1947project.com/2006/11/07/an-ebay-mystery-worthy-of-holmes/</link>
+					<comments>https://1947project.com/2006/11/07/an-ebay-mystery-worthy-of-holmes/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 07 Nov 2006 20:13:34 +0000</pubDate>
@@ -238,26 +238,26 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 6, 1907 Los Angeles Here</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/07/an-ebay-mystery-worthy-of-holmes/">An EBay Mystery Worthy of Holmes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/07/an-ebay-mystery-worthy-of-holmes/">An EBay Mystery Worthy of Holmes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1106PostA.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1106PostA.jpg" alt="" border="0" /></a><!--[endif]-->Nov. 6, 1907<br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1106PostA.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1106PostA.jpg" alt="" border="0" /></a><!--[endif]-->Nov. 6, 1907<br />
 Los Angeles  </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Here</div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/11/07/an-ebay-mystery-worthy-of-holmes/">An EBay Mystery Worthy of Holmes</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/07/an-ebay-mystery-worthy-of-holmes/">An EBay Mystery Worthy of Holmes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/11/07/an-ebay-mystery-worthy-of-holmes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/11/07/an-ebay-mystery-worthy-of-holmes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>So Rude!</title>
-		<link>https://pensive-torvalds-020d34.netlify.app/2006/09/04/so-rude/</link>
-					<comments>https://pensive-torvalds-020d34.netlify.app/2006/09/04/so-rude/#respond</comments>
+		<link>https://1947project.com/2006/09/04/so-rude/</link>
+					<comments>https://1947project.com/2006/09/04/so-rude/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 04 Sep 2006 12:38:39 +0000</pubDate>
@@ -271,17 +271,17 @@ Los Angeles  </p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>My goodness, one never knows what will turn up on Ebay. This morning I found a copy of</p>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/04/so-rude/">So Rude!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/04/so-rude/">So Rude!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://pensive-torvalds-020d34.netlify.app/wp-content/uploads/ebay_ellroy_paperback.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/ebay_ellroy_paperback.JPG" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/ebay_ellroy_avenger.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 283px; height: 378px;" src="//www.lmharnisch.com/images/ebay_ellroy_avenger.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://1947project.com/wp-content/uploads/ebay_ellroy_paperback.JPG"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/ebay_ellroy_paperback.JPG" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/ebay_ellroy_avenger.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 283px; height: 378px;" src="//www.lmharnisch.com/images/ebay_ellroy_avenger.jpg" alt="" border="0" /></a><br />
 My goodness, one never knows what will turn up on Ebay. This morning I found a copy of </div>
 </div>
-<p>The post <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/2006/09/04/so-rude/">So Rude!</a> appeared first on <a rel="nofollow" href="https://pensive-torvalds-020d34.netlify.app/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/04/so-rude/">So Rude!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pensive-torvalds-020d34.netlify.app/2006/09/04/so-rude/feed/</wfw:commentRss>
+					<wfw:commentRss>https://1947project.com/2006/09/04/so-rude/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
