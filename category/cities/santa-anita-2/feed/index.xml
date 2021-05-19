@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -49,7 +49,7 @@
 <p>The post <a rel="nofollow" href="https://1947project.com/2006/11/19/crime-wave-sweeps-l-a/">Crime Wave Sweeps L.A.</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1119.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 258px; height: 245px;" src="//www.lmharnisch.com/images/1907_1119.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1119.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 258px; height: 245px;" src="//www.lmharnisch.com/images/1907_1119.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Nov. 19, 1907<br />
 Los Angeles</p>
@@ -86,7 +86,7 @@ Los Angeles</p>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>April 19, 1907<br /> north of Monrovia </p>
-<p>It seems the rumors are true: there really is a wild man living in the remote reaches of Big Santa Anita Canyon! He was seen this week by two brave boys from Monrovia, Charles Crandall and Sherman Black, who climbed high into the hills, past the old Sturtevant camp, to the West Fork, then about two miles above <a href="http://www.dankat.com/advents/monrov.htm" target="_blank">Clam Shell Canon</a>. It was there they encountered the living myth.</p>
+<p>It seems the rumors are true: there really is a wild man living in the remote reaches of Big Santa Anita Canyon! He was seen this week by two brave boys from Monrovia, Charles Crandall and Sherman Black, who climbed high into the hills, past the old Sturtevant camp, to the West Fork, then about two miles above <a href="https://www.dankat.com/advents/monrov.htm" target="_blank">Clam Shell Canon</a>. It was there they encountered the living myth.</p>
 <p>The wild man has long been rumored to live in the caves high above civilization, and to be insane. The creature the Monrovians spied was old and yellow skinned, with long claws on his hands, a wild beard and stooped figure. He was surprised in the doorway of his rude dwelling, a windowless concrete hut with live oak rafters, but slammed the door when they attempted to make conversation. </p>
 <p>The young men of Monrovia are not to be so easily snubbed. Even now, an exploration party is being assembled, with the intention of learning more about what makes the wild man tick. </p>
 </div>

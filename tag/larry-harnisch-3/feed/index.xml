@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -50,7 +50,7 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Some of you have been asking, since we made the leap from 1907 to 1927 last month, &quot;hey, what happened to Larry?&quot; And because the answer was top secret, very hush hush and on a need-to-know basis, we&#8217;ve been unable to answer. Until now.</p>
-<p>Click on over to the <em>L.A. Times&#8217;</em> blog section, where you&#8217;ll discover Larry Harnisch&#8217;s brand new <a href="http://latimesblogs.latimes.com/thedailymirror/" target="_blank">Daily Mirror Blog</a>, a study of the crime and culture of 1957 Los Angeles. The new blog launched yesterday, but already features a backlog of tales, including the <a href="http://latimesblogs.latimes.com/thedailymirror/2007/04/silver_spoon.html" target="_blank">baffling</a> (for 1957) death-by-starvation of Buster Crabbe&#8217;s daughter, a first-person <a href="http://latimesblogs.latimes.com/thedailymirror/2007/04/voices.html" target="_blank">piece</a> by musician Dave Pell on the Sunset Strip scene, reprints of vintage Paul Coates columns and <a href="http://latimesblogs.latimes.com/thedailymirror/2007/04/the_wivesaving_.html" target="_blank">today&#8217;s post</a>, a nasty little story of lust, blackmail and murder in a glass walled house where nobody locked the doors.</p>
+<p>Click on over to the <em>L.A. Times&#8217;</em> blog section, where you&#8217;ll discover Larry Harnisch&#8217;s brand new <a href="https://latimesblogs.latimes.com/thedailymirror/" target="_blank">Daily Mirror Blog</a>, a study of the crime and culture of 1957 Los Angeles. The new blog launched yesterday, but already features a backlog of tales, including the <a href="https://latimesblogs.latimes.com/thedailymirror/2007/04/silver_spoon.html" target="_blank">baffling</a> (for 1957) death-by-starvation of Buster Crabbe&#8217;s daughter, a first-person <a href="https://latimesblogs.latimes.com/thedailymirror/2007/04/voices.html" target="_blank">piece</a> by musician Dave Pell on the Sunset Strip scene, reprints of vintage Paul Coates columns and <a href="https://latimesblogs.latimes.com/thedailymirror/2007/04/the_wivesaving_.html" target="_blank">today&#8217;s post</a>, a nasty little story of lust, blackmail and murder in a glass walled house where nobody locked the doors.</p>
 <p>The Times has been experimenting with blogs for a while. And while we&#8217;re sorry to lose him, we&#8217;re glad they finally noticed the ace blogger toiling away in their copy edit department, gave him a byline, and are letting him work his archival magic. 1957 seems rather a florid time from the tasteful vantage of 1927, but we&#8217;ll be cocking an eye in its direction regularly. After all, as Criswell liked to remind us, &quot;We are all interested in the future, for that is where you and I are going to spend the rest of our lives!&quot;</p>
 <p>Best of luck to Larry in this and future endeavors.&nbsp;</p>
 </div>
@@ -84,13 +84,13 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>Welcome, gentle reader, to the new and much-improved 1947project blog. After one full year blogging the crimes and oddities of 1947 Los Angeles, we begin Anno 2 by leaving behind the clunky primitivism of Blogger (no categories? no tags? single RSS feeds? come <em>on!</em>) for the cutting edge power of the <a href="http://www.dumplingfeed.com/" target="_blank">Dumplingfeed</a> engine (thanks, Richard!). </p>
-<p>The biggest change you&#8217;ll notice is the inclusion of our longtime king of comments <a href="http://lmharnisch.blogspot.com/" target="_blank">Larry Harnisch</a> to the official roster of 1947project bloggers. He brings extraordinary depth as a researcher, a sly wit, and a propensity for remixing historical content into intriguing new media. Welcome, Larry, to the front page! </p>
-<p>And then there&#8217;s the little matter of subject. Since I started this blog last March, people have been asking Nathan and myself: what comes after you finish the year? Will you start in on 1948, or something totally different? Nathan goofed at a party that the next year might be 1923, which was picked up by <a href="http://www.laobserved.com/archive/2005/12/first_thing_wednesday_122.html" target="_blank">LAObserved</a>. Sorry about the faux-scoop, Kevin&#8211;we actually had yet to decide what came next when Nathan set his gums to flapping. </p>
+<p>Welcome, gentle reader, to the new and much-improved 1947project blog. After one full year blogging the crimes and oddities of 1947 Los Angeles, we begin Anno 2 by leaving behind the clunky primitivism of Blogger (no categories? no tags? single RSS feeds? come <em>on!</em>) for the cutting edge power of the <a href="https://www.dumplingfeed.com/" target="_blank">Dumplingfeed</a> engine (thanks, Richard!). </p>
+<p>The biggest change you&#8217;ll notice is the inclusion of our longtime king of comments <a href="https://lmharnisch.blogspot.com/" target="_blank">Larry Harnisch</a> to the official roster of 1947project bloggers. He brings extraordinary depth as a researcher, a sly wit, and a propensity for remixing historical content into intriguing new media. Welcome, Larry, to the front page! </p>
+<p>And then there&#8217;s the little matter of subject. Since I started this blog last March, people have been asking Nathan and myself: what comes after you finish the year? Will you start in on 1948, or something totally different? Nathan goofed at a party that the next year might be 1923, which was picked up by <a href="https://www.laobserved.com/archive/2005/12/first_thing_wednesday_122.html" target="_blank">LAObserved</a>. Sorry about the faux-scoop, Kevin&#8211;we actually had yet to decide what came next when Nathan set his gums to flapping. </p>
 <p>Well, if you&#8217;ve found this URL in advance of Tuesday&#8217;s official changeover, we feel you deserve a little insider information. As hinted broadly in Larry&#8217;s horsey video below, we are about to plunge into the strange and fascinating year <strong>1907</strong>. </p>
 <p>Our initial research has shown us a Los Angeles that is deeply unfamiliar, despite the streets whose names we know. The locals were strange, the newspapers florid, and money flowed like wine. We look forward to exploring this year with you, and to learning more about a Los Angeles that seems very different from any of the versions of the city we feel we know.</p>
 <p>The new site features cross-referencing by types of crime and by neighborhood, so readers can delve into subjects that most interest them without having to follow a strictly chronological path. We&#8217;ve added tags (a sort of keyword), adding additional organizational data to each post. </p>
-<p>Readers may, if they wish, subscribe to any search result by clicking the little orange XML button that appears on the bottom of any page. Want to know whenever someone gets <a href="http://www.47upgradepath7.richardschave.com//taxonomy/term/41/0/feed" target="_blank">poisoned</a> or <a href="http://www.47upgradepath7.richardschave.com//taxonomy/term/37/0/feed" target="_blank">tossed out a window</a>? Use a feedreader like <a href="http://bloglines.com/" target="_blank">Bloglines</a> and subscribe to the appropriate feed, and you&#8217;ll be kept up to date. Or <a href="http://feeds.feedburner.com/1947project" target="_blank">subscribe to the full feed</a> for every little thing we publish.</p>
+<p>Readers may, if they wish, subscribe to any search result by clicking the little orange XML button that appears on the bottom of any page. Want to know whenever someone gets <a href="https://www.47upgradepath7.richardschave.com//taxonomy/term/41/0/feed" target="_blank">poisoned</a> or <a href="https://www.47upgradepath7.richardschave.com//taxonomy/term/37/0/feed" target="_blank">tossed out a window</a>? Use a feedreader like <a href="https://bloglines.com/" target="_blank">Bloglines</a> and subscribe to the appropriate feed, and you&#8217;ll be kept up to date. Or <a href="https://feeds.feedburner.com/1947project" target="_blank">subscribe to the full feed</a> for every little thing we publish.</p>
 <p>So hop into the Wayback Machine, gentle reader, and join your hosts Kim, Nathan and Larry as we touch down in a very weird and wonderful Los Angeles. We&#8217;re still called 1947project, but out the window it&#8217;s 1907&#8230; and we can&#8217;t wait to show you around!&nbsp;</p>
 </div>
 </div>
@@ -126,7 +126,7 @@
 <div>
 <div align="justify"><strong>  Spring Street, Los Angeles, California</strong></div>
 <div align="justify">&nbsp;</div>
-<div align="justify">This links to Google video, which seems to have much better bandwidth for streaming video than You Tube.&nbsp; <a href="http://video.google.com/videoplay?docid=4259806573125010096&#038;q=1907+project" target="_blank" title="Spring Street, Los Angeles">Spring Street, Los Angeles</a>, in 1897, Edison Studios. </div>
+<div align="justify">This links to Google video, which seems to have much better bandwidth for streaming video than You Tube.&nbsp; <a href="https://video.google.com/videoplay?docid=4259806573125010096&#038;q=1907+project" target="_blank" title="Spring Street, Los Angeles">Spring Street, Los Angeles</a>, in 1897, Edison Studios. </div>
 </p></div>
 </div>
 <p>The post <a rel="nofollow" href="https://1947project.com/2006/03/12/here-we-go/">Here We Go!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>

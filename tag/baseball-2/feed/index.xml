@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -48,7 +48,7 @@
 <p>The post <a rel="nofollow" href="https://1947project.com/2006/11/22/a-love-that-would-not-die/">A Love That Would Not Die</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="http://www.lmharnisch.com/images/1907_1122.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 242px; height: 335px;" src="//www.lmharnisch.com/images/1907_1122.jpg" alt="" border="0" /></a><br />
+<div><a href="https://www.lmharnisch.com/images/1907_1122.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 242px; height: 335px;" src="//www.lmharnisch.com/images/1907_1122.jpg" alt="" border="0" /></a><br />
 <!-- [if !supportEmptyParas]--><!--[endif]--></p>
 <p class="MsoNormal">Nov. 22, 1907<br />
 Los Angeles</p>
@@ -86,9 +86,9 @@ Los Angeles</p>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-weight: bold;font-size:130%;" >Oct. 25, 1907<br />
 Los Angeles</span></p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1025.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 265px; height: 1310px;" src="//www.lmharnisch.com/images/1907_1025.jpg" alt="" border="0" /></a><br />
-<a href="http://www.lmharnisch.com/">lmharnisch.com</a><br />
-<a href="http://lmharnisch.blogspot.com/">lmharnisch.blogspot.com </a></div>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1025.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 265px; height: 1310px;" src="//www.lmharnisch.com/images/1907_1025.jpg" alt="" border="0" /></a><br />
+<a href="https://www.lmharnisch.com/">lmharnisch.com</a><br />
+<a href="https://lmharnisch.blogspot.com/">lmharnisch.blogspot.com </a></div>
 </div>
 <p>The post <a rel="nofollow" href="https://1947project.com/2006/10/25/adieu-to-the-boys-of-summer/">Adieu to the Boys of Summer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></content:encoded>

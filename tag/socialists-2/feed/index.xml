@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -49,7 +49,7 @@
 <p>The post <a rel="nofollow" href="https://1947project.com/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 345px; height: 195px;" src="//www.lmharnisch.com/images/1907_1127A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 345px; height: 195px;" src="//www.lmharnisch.com/images/1907_1127A.jpg" alt="" border="0" /></a><br />
 Nov. 27, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries <a href="https://1947project.com/we-are-revolutionists">Ricardo Flores Magon, Antonio Villareal and Librado Rivera</a> in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.</p>
@@ -84,7 +84,7 @@ Los Angeles    </p>
 <p>The post <a rel="nofollow" href="https://1947project.com/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1113B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 320px;" src="//www.lmharnisch.com/images/1907_1113B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1113B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 320px;" src="//www.lmharnisch.com/images/1907_1113B.jpg" alt="" border="0" /></a><br />
 Nov. 13, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">An uproarious meeting was held last night at Simpson Auditorium to raise money for the <a href="https://1947project.com/we-are-revolutionists">four Mexican revolutionaries</a> being held in the Los Angeles County Jail. The hall was packed with </div>

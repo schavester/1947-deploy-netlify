@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -50,7 +50,7 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Some of you have been asking, since we made the leap from 1907 to 1927 last month, &quot;hey, what happened to Larry?&quot; And because the answer was top secret, very hush hush and on a need-to-know basis, we&#8217;ve been unable to answer. Until now.</p>
-<p>Click on over to the <em>L.A. Times&#8217;</em> blog section, where you&#8217;ll discover Larry Harnisch&#8217;s brand new <a href="http://latimesblogs.latimes.com/thedailymirror/" target="_blank">Daily Mirror Blog</a>, a study of the crime and culture of 1957 Los Angeles. The new blog launched yesterday, but already features a backlog of tales, including the <a href="http://latimesblogs.latimes.com/thedailymirror/2007/04/silver_spoon.html" target="_blank">baffling</a> (for 1957) death-by-starvation of Buster Crabbe&#8217;s daughter, a first-person <a href="http://latimesblogs.latimes.com/thedailymirror/2007/04/voices.html" target="_blank">piece</a> by musician Dave Pell on the Sunset Strip scene, reprints of vintage Paul Coates columns and <a href="http://latimesblogs.latimes.com/thedailymirror/2007/04/the_wivesaving_.html" target="_blank">today&#8217;s post</a>, a nasty little story of lust, blackmail and murder in a glass walled house where nobody locked the doors.</p>
+<p>Click on over to the <em>L.A. Times&#8217;</em> blog section, where you&#8217;ll discover Larry Harnisch&#8217;s brand new <a href="https://latimesblogs.latimes.com/thedailymirror/" target="_blank">Daily Mirror Blog</a>, a study of the crime and culture of 1957 Los Angeles. The new blog launched yesterday, but already features a backlog of tales, including the <a href="https://latimesblogs.latimes.com/thedailymirror/2007/04/silver_spoon.html" target="_blank">baffling</a> (for 1957) death-by-starvation of Buster Crabbe&#8217;s daughter, a first-person <a href="https://latimesblogs.latimes.com/thedailymirror/2007/04/voices.html" target="_blank">piece</a> by musician Dave Pell on the Sunset Strip scene, reprints of vintage Paul Coates columns and <a href="https://latimesblogs.latimes.com/thedailymirror/2007/04/the_wivesaving_.html" target="_blank">today&#8217;s post</a>, a nasty little story of lust, blackmail and murder in a glass walled house where nobody locked the doors.</p>
 <p>The Times has been experimenting with blogs for a while. And while we&#8217;re sorry to lose him, we&#8217;re glad they finally noticed the ace blogger toiling away in their copy edit department, gave him a byline, and are letting him work his archival magic. 1957 seems rather a florid time from the tasteful vantage of 1927, but we&#8217;ll be cocking an eye in its direction regularly. After all, as Criswell liked to remind us, &quot;We are all interested in the future, for that is where you and I are going to spend the rest of our lives!&quot;</p>
 <p>Best of luck to Larry in this and future endeavors.&nbsp;</p>
 </div>

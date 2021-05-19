@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -50,10 +50,10 @@
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>The 8th Annual Festival of Film Noir is coming to the American Cinematheque at the Egyptian from April 12-May 2, and getting discount tix for the whole series is a fine reason to become a member. Each screening includes a film set in Los Angeles set against one in New York. What burg will be the winner in this battle of mood, nuance, betrayal and pain? I think you know where <em>our</em> bet is laid!</p>
-<p>We&#8217;d like to especially pull your sleeve to the rare Leonard Maltin-introduced 35mm screening of <em>He Walked By Night</em> on April 22, based on the unbelievable-yet-true <a href="http://1947project.blogspot.com/2005/06/crazy-like-fox.html" target="_blank">Erwin Walker</a> case (more <a href="http://www.dickmeister.com/id23.html" target="_blank">here</a>)&#8211;as seen on our Halloween Horrors crime bus tour, where we share startling, little-known facts about the crime spree, graciously provided by Walker&#8217;s stepson. Sure, you can pick this public domain flick up on DVD at the 99 Cent Only Store, but you <em>really </em>want to see John Alton&#8217;s beautifully shot scenes of that L.A. River sewer escape bigger than life.</p>
-<p>For more info on the Festival of Film Noir, please visit the <a href="http://americancinematheque.com/archive1999/2007/Film_Noir_LAvsNY_2007.htm" target="_blank">series</a> webpage. And do come by and say hello at the reception on opening night, April 12, when some of the 1947project gang will be in attendance to answer your questions about the upcoming <a href="http://www.esotouric.com/" target="_blank">Esotouric</a> bus adventures, including the noir-heavy <em>Raymond Chandler&#8217;s Los Angeles</em>, and editor <a href="http://denisehamilton.com/books.html" target="_blank">Denise Hamilton</a> and contributors Jim Pascoe, Diana Wagman, Christopher Rice, Neal Pollack, Patt Morrison, Emory Holmes II, Gary Phillips, Lienna Silver and Naomi Hirahara will be on hand with copies of the brand new <em>Los Angeles Noir</em> anthology. This is the second of a slew of <em>Los Angeles Noir </em><a href="http://denisehamilton.com/events.html" target="_blank">events</a> 1947project folks will be attending.</p>
-<p><a href="http://www.amazon.com/exec/obidos/ASIN/1933354224/ref=nosim/bubblegumbook"><img src="//images.amazon.com/images/P/1933354224.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
-<p><form action="http://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.1933354224" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="//rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
+<p>We&#8217;d like to especially pull your sleeve to the rare Leonard Maltin-introduced 35mm screening of <em>He Walked By Night</em> on April 22, based on the unbelievable-yet-true <a href="https://1947project.blogspot.com/2005/06/crazy-like-fox.html" target="_blank">Erwin Walker</a> case (more <a href="https://www.dickmeister.com/id23.html" target="_blank">here</a>)&#8211;as seen on our Halloween Horrors crime bus tour, where we share startling, little-known facts about the crime spree, graciously provided by Walker&#8217;s stepson. Sure, you can pick this public domain flick up on DVD at the 99 Cent Only Store, but you <em>really </em>want to see John Alton&#8217;s beautifully shot scenes of that L.A. River sewer escape bigger than life.</p>
+<p>For more info on the Festival of Film Noir, please visit the <a href="https://americancinematheque.com/archive1999/2007/Film_Noir_LAvsNY_2007.htm" target="_blank">series</a> webpage. And do come by and say hello at the reception on opening night, April 12, when some of the 1947project gang will be in attendance to answer your questions about the upcoming <a href="https://www.esotouric.com/" target="_blank">Esotouric</a> bus adventures, including the noir-heavy <em>Raymond Chandler&#8217;s Los Angeles</em>, and editor <a href="https://denisehamilton.com/books.html" target="_blank">Denise Hamilton</a> and contributors Jim Pascoe, Diana Wagman, Christopher Rice, Neal Pollack, Patt Morrison, Emory Holmes II, Gary Phillips, Lienna Silver and Naomi Hirahara will be on hand with copies of the brand new <em>Los Angeles Noir</em> anthology. This is the second of a slew of <em>Los Angeles Noir </em><a href="https://denisehamilton.com/events.html" target="_blank">events</a> 1947project folks will be attending.</p>
+<p><a href="https://www.amazon.com/exec/obidos/ASIN/1933354224/ref=nosim/bubblegumbook"><img src="//images.amazon.com/images/P/1933354224.01.MZZZZZZZ.jpg" alt="Medium Image" /></a></p>
+<p><form action="https://buybox.amazon.com/o/dt/assoc/handle-buy-box=asin" method="post"><input type="hidden" name="asin.1933354224" value="1" /><input type="hidden" name="tag-value" value="bubblegumbook" /><input type="hidden" name="tag_value" value="bubblegumbook" /><input type="image" name="submit.add-to-cart" value="Buy from Amazon.com" src="//rcm-images.amazon.com/images/G/01/associates/add-to-cart.gif" alt="Buy from Amazon.com" border="0" /></form>
 </div>
 </div>
 <p>The post <a rel="nofollow" href="https://1947project.com/2007/04/04/noir-city-los-angeles-vs-new-york-at-the-american-cinematheque/">Noir City: Los Angeles vs New York at the American Cinematheque</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -53,7 +53,7 @@
 <div>
 <p>May 22, 1927<br />Los Angeles  </p>
 <p>Sometimes a guy just can&rsquo;t catch a break:  ask three ruffians who had little to show after today&rsquo;s &ldquo;reign of terror&rdquo; except black eyes and bruises.   </p>
-<p>Stealing a flivver was the easy part. The trouble began when they tried to hold up a disabled man, William Gehem, at the intersection of <a title="First hold up." target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=sunset+boulevard+and+benton+way,+los+angeles&#038;sll=34.109531,-118.126373&#038;sspn=0.252423,0.43602&#038;ie=UTF8&#038;ll=34.081757,-118.270397&#038;spn=0.007891,0.013626&#038;z=16&#038;iwloc=addr&#038;om=1">Sunset Boulevard and Benton Way</a>. Unimpressed by the large revolvers aimed at his person, Gehem smacked one of them out of his assailant&rsquo;s hand with his crutch. In retaliation, the bandits knocked him down and robbed him of $12.   </p>
+<p>Stealing a flivver was the easy part. The trouble began when they tried to hold up a disabled man, William Gehem, at the intersection of <a title="First hold up." target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=sunset+boulevard+and+benton+way,+los+angeles&#038;sll=34.109531,-118.126373&#038;sspn=0.252423,0.43602&#038;ie=UTF8&#038;ll=34.081757,-118.270397&#038;spn=0.007891,0.013626&#038;z=16&#038;iwloc=addr&#038;om=1">Sunset Boulevard and Benton Way</a>. Unimpressed by the large revolvers aimed at his person, Gehem smacked one of them out of his assailant&rsquo;s hand with his crutch. In retaliation, the bandits knocked him down and robbed him of $12.   </p>
 <p>The trio next drew their guns on one Sol Feyer. Accosted on the Cornwall Street bridge in Hollenbeck Heights, the feisty Feyer grabbed one of the guns and threw it in the gutter. He then acquitted himself with his fists so well that the bandits jumped into their car and sped off&mdash;but not before Feyer, lying bruised in the street, reached up and removed their license plate.   </p>
 <p>Things went a little better at Rosemont Avenue and Larchmont Boulevard, where the hoodlums held up John Lentz without incident, making off with $100 in cash and jewelry.   </p>
 <p>But such luck couldn&rsquo;t hold. Their next &ldquo;victim,&rdquo; Walter Swanson (attacked while walking at Pasadena Avenue and Avenue 63), beat two members of the gang with such gusto that police believe they were forced to abandon their nefarious activities for the night. Swanson estimated he battled with the beasts for ten minutes before losing consciousness and being dragged into a vacant lot, where he was stripped of $7 in cash and a $60 watch.   </p>

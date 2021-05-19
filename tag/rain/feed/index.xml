@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -48,7 +48,7 @@
 <p>The post <a rel="nofollow" href="https://1947project.com/2007/02/22/speaking-of-the-weather/">Speaking of the Weather</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0222.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0222.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0222.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0222.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Feb. 22, 1907<br />
 Los Angeles</p>
@@ -67,7 +67,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Normally, I donÃ¢â‚¬â„¢t like to merely copy what ran in The Times, but sometimes itÃ¢â‚¬â„¢s impossible to rewrite the stories and preserve the original flavor. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com  <!--[if !supportLineBreakNewLine]-->  <!--[endif]--></p>
 <p><!-- Start of StatCounter Code --><br />
@@ -77,7 +77,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>

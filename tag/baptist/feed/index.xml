@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -56,12 +56,12 @@
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--></p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0211B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 336px; height: 333px;" src="//www.lmharnisch.com/images/1907_0211B.jpg" alt="" border="0" /></a></p>
-<p style="text-align: center;" class="MsoNormal"><o:p></o:p><span style="font-weight: bold;">The Eastside gets a new </span><a style="font-weight: bold;" href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=200+S+St+Louis+St,+Los+Angeles,+CA+90033&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.043865,-118.214419&amp;spn=0.000576,0.002103&#038;t=h&amp;om=0">Baptist Church</a><span style="font-weight: bold;"> and 2</span><sup style="font-weight: bold;">nd</sup><span style="font-weight: bold;"> Street and St. Louis.</span></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0211B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 336px; height: 333px;" src="//www.lmharnisch.com/images/1907_0211B.jpg" alt="" border="0" /></a></p>
+<p style="text-align: center;" class="MsoNormal"><o:p></o:p><span style="font-weight: bold;">The Eastside gets a new </span><a style="font-weight: bold;" href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=200+S+St+Louis+St,+Los+Angeles,+CA+90033&#038;ie=UTF8&amp;amp;amp;z=19&#038;ll=34.043865,-118.214419&amp;spn=0.000576,0.002103&#038;t=h&amp;om=0">Baptist Church</a><span style="font-weight: bold;"> and 2</span><sup style="font-weight: bold;">nd</sup><span style="font-weight: bold;"> Street and St. Louis.</span></p>
 <div style="text-align: center;"><!--[if !supportEmptyParas]--> <o:p style="font-weight: bold;"></o:p>  </div>
 <p style="font-weight: bold;" class="MsoNormal">Like Tom and Huck</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">A large pond 7 feet deep at <a href="http://maps.google.com/maps?f=q&#038;hl=en&amp;q=S+Normandie+Ave+and+San+Marino+St,+Los+Angeles,+CA+90006&#038;ie=UTF8&amp;amp;amp;z=18&#038;ll=34.054428,-118.301007&amp;spn=0.001151,0.004206&#038;t=h&amp;om=0">Normandie and San Marino</a> left by the runoff of recent rainstorms proved too tempting to the boys of the Forrester tract and so they launched a raft to play. </p>
+<p class="MsoNormal">A large pond 7 feet deep at <a href="https://maps.google.com/maps?f=q&#038;hl=en&amp;q=S+Normandie+Ave+and+San+Marino+St,+Los+Angeles,+CA+90006&#038;ie=UTF8&amp;amp;amp;z=18&#038;ll=34.054428,-118.301007&amp;spn=0.001151,0.004206&#038;t=h&amp;om=0">Normandie and San Marino</a> left by the runoff of recent rainstorms proved too tempting to the boys of the Forrester tract and so they launched a raft to play. </p>
 <p class="MsoNormal">The raft tipped, The Times says, sending 8-year-old Clarence Rhodes of 1004 S. Jasmine tumbling into the water. Hearing the boysÃ¢â‚¬â„¢ cries for help, M. Allen rushed from his home at 922 Normandie, plunged into the water and rescued Clarence. </p>
 <p class="MsoNormal">After nearly half an hourÃ¢â‚¬â„¢s work, the boy was resuscitated, The Times says. </p>
 <p style="font-weight: bold;" class="MsoNormal">Abandoned Boy</p>
@@ -76,7 +76,7 @@ Los Angeles</p>
 <p class="MsoNormal">Note: I was amazed to learn just how many people were injured in 1907 by jumping from streetcars that failed to stop. Without checking further, I would say someone was hurt about once a week. </p>
 <p class="MsoNormal">Bonus fact: The local tourism industry is furious because the state Senate passed the <a href="https://1947project.com/centennial-ramblings">bill banning horses with docked tails</a>. Businesses note that wealthy visitors from the East often bring their teams to Los Angeles at great expense and if their fancy horses are prohibited, wealthy tourists will avoid the Southland in favor of Florida. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
-<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -88,7 +88,7 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>

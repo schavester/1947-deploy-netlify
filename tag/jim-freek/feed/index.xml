@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -45,7 +45,7 @@
 		<category><![CDATA[ballroom blitz]]></category>
 		<category><![CDATA[jim freek]]></category>
 		<category><![CDATA[nico bella]]></category>
-		<guid isPermaLink="false">http://www.1947redux.richardschave.com/2007/07/10/the-ballroom-blitz-downtown-swap-debuts-on-beth-shorts-birthday-729/</guid>
+		<guid isPermaLink="false">https://www.1947redux.richardschave.com/2007/07/10/the-ballroom-blitz-downtown-swap-debuts-on-beth-shorts-birthday-729/</guid>
 
 					<description><![CDATA[<p>Gentle reader, I&#8217;m writing to pull your sleeve to a wonderful event organized by Nico Bella, co-host of our upcoming Charles Bukowski tour and collaborator on many Esotouric projects. It&#8217;s the Ballroom Blitz, an indie swap meet and art fair in the exquisite Palm Court at the Alexandria Hotel on Sunday, 7/29&#8230; which just happens&#8230; <a class="more-link" href="https://1947project.com/2007/07/10/the-ballroom-blitz-downtown-swap-debuts-on-beth-shorts-birthday-729/">Continue reading <span class="screen-reader-text">The Ballroom Blitz downtown swap debuts on Beth Short&#8217;s birthday 7/29</span></a></p>
 <p>The post <a rel="nofollow" href="https://1947project.com/2007/07/10/the-ballroom-blitz-downtown-swap-debuts-on-beth-shorts-birthday-729/">The Ballroom Blitz downtown swap debuts on Beth Short&#8217;s birthday 7/29</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
@@ -63,7 +63,7 @@
 <p>Doors open @ Noon and we will be<br />shoppin&#8217;, swappin&#8217;, sippin&#8217; and rockin&#8217; til 7pm!</p>
 <p>For more information on The Ballroom Blitz or to book a table (just $10) please contact event organizer Nico Bella<br />213.325.0907 or via email royalpain@fleurdelethal.com</p>
 </div>
-<div align="center">Links<br /><a target="_blank" href="http://www.fleurdelethal.com/">http://www.fleurdelethal.com/<br /></a><a target="_blank" href="http://www.thealexandria.net/">http://www.thealexandria.net/</a></p>
+<div align="center">Links<br /><a target="_blank" href="https://www.fleurdelethal.com/">https://www.fleurdelethal.com/<br /></a><a target="_blank" href="https://www.thealexandria.net/">https://www.thealexandria.net/</a></p>
 </div>
 </div>
 </div>
