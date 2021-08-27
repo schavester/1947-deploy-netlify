@@ -12,8 +12,8 @@
 
 <channel>
 	<title>mid-wilshire &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/mid-wilshire/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/mid-wilshire/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>mid-wilshire &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Good Man is Hard to Find</title>
-		<link>https://1947project.com/2007/08/20/a-good-man-is-hard-to-find/</link>
-					<comments>https://1947project.com/2007/08/20/a-good-man-is-hard-to-find/#respond</comments>
+		<link>/2007/08/20/a-good-man-is-hard-to-find/</link>
+					<comments>/2007/08/20/a-good-man-is-hard-to-find/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 20 Aug 2007 15:03:53 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[mid-wilshire]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 20, 1927 Malibu In this case &#8220;A Good Man is Hard to Find&#8221; is not a reference to Flannery O&#8217;Connor&#8217;s allegorical tale of good and evil, faith and redemption &#8211; no, we are talking about finding a good man, one who won&#8217;t desert his date on a quiet stretch of highway at the first&#8230; <a class="more-link" href="https://1947project.com/2007/08/20/a-good-man-is-hard-to-find/">Continue reading <span class="screen-reader-text">A Good Man is Hard to Find</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/20/a-good-man-is-hard-to-find/">A Good Man is Hard to Find</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>August 20, 1927 Malibu In this case &#8220;A Good Man is Hard to Find&#8221; is not a reference to Flannery O&#8217;Connor&#8217;s allegorical tale of good and evil, faith and redemption &#8211; no, we are talking about finding a good man, one who won&#8217;t desert his date on a quiet stretch of highway at the first &#8230; <a href="/2007/08/20/a-good-man-is-hard-to-find/" class="more-link">Continue reading <span class="screen-reader-text">A Good Man is Hard to Find</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/08/20/a-good-man-is-hard-to-find/">A Good Man is Hard to Find</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,10 +59,10 @@
 <p>We suspect that this was the couple&rsquo;s last date. Maybe Thelda will keep company with that chivalrous truck driver. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/20/a-good-man-is-hard-to-find/">A Good Man is Hard to Find</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/08/20/a-good-man-is-hard-to-find/">A Good Man is Hard to Find</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/08/20/a-good-man-is-hard-to-find/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/08/20/a-good-man-is-hard-to-find/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Alexandria &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/alexandria/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/alexandria/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:36:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Alexandria &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Whew, THAT&#8217;S a Relief!</title>
-		<link>https://1947project.com/2007/12/01/whew-thats-a-relief/</link>
-					<comments>https://1947project.com/2007/12/01/whew-thats-a-relief/#respond</comments>
+		<link>/2007/12/01/whew-thats-a-relief/</link>
+					<comments>/2007/12/01/whew-thats-a-relief/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 01 Dec 2007 06:50:30 +0000</pubDate>
@@ -43,8 +43,8 @@
 		<category><![CDATA[earthquakes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; December 1, 1927Los Angeles A couple decades ago there was the great quaking of earth up in San Francisco&#8212;that couldn&#8217;t happen down here?&#160; Could it?&#160; Could it?! World Authority Doctor Robert T. Hill, geologist of International Repute, has spent years investigating the seismicity of Southern California, and today made public his findings.&#160; The business&#8230; <a class="more-link" href="https://1947project.com/2007/12/01/whew-thats-a-relief/">Continue reading <span class="screen-reader-text">Whew, THAT&#8217;S a Relief!</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/01/whew-thats-a-relief/">Whew, THAT&#8217;S a Relief!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; December 1, 1927Los Angeles A couple decades ago there was the great quaking of earth up in San Francisco&#8212;that couldn&#8217;t happen down here?&#160; Could it?&#160; Could it?! World Authority Doctor Robert T. Hill, geologist of International Repute, has spent years investigating the seismicity of Southern California, and today made public his findings.&#160; The business &#8230; <a href="/2007/12/01/whew-thats-a-relief/" class="more-link">Continue reading <span class="screen-reader-text">Whew, THAT&#8217;S a Relief!</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/12/01/whew-thats-a-relief/">Whew, THAT&#8217;S a Relief!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,10 +59,10 @@
 <p>As one of the <a title="buythisbook" target="_blank" href="https://www.amazon.com/Experts-Speak-Definitive-Authoritative-Misinformation/dp/0679778063">great geologists</a> of our or anyone&rsquo;s time, there&rsquo;s a <a title="hillsMS" target="_blank" href="https://www.dallasisd.org/schools/realtor_new.cfm?id_con=129">middle school</a> named after him.&nbsp; Which is, by all accounts, a really <a title="classroomorals" target="_blank" href="https://www.nbc5i.com/education/2608809/detail.html">weird</a> <a title="forcedbussing" target="_blank" href="https://www.wfaa.com/sharedcontent/dws/wfaa/latestnews/stories/wfaa071114_mo_busassault.4247c00.html">place</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/01/whew-thats-a-relief/">Whew, THAT&#8217;S a Relief!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/12/01/whew-thats-a-relief/">Whew, THAT&#8217;S a Relief!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/12/01/whew-thats-a-relief/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/12/01/whew-thats-a-relief/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Frank Stoltze &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/frank-stoltze/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/frank-stoltze/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:40:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Frank Stoltze &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Weird West Adams on KPCC</title>
-		<link>https://1947project.com/2007/07/19/weird-west-adams-on-kpcc/</link>
-					<comments>https://1947project.com/2007/07/19/weird-west-adams-on-kpcc/#respond</comments>
+		<link>/2007/07/19/weird-west-adams-on-kpcc/</link>
+					<comments>/2007/07/19/weird-west-adams-on-kpcc/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 19 Jul 2007 15:48:43 +0000</pubDate>
@@ -47,15 +47,15 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>We direct your attention to Frank Stoltze&#8217;s wonderful KPCC radio feature on Weird West Adams. This link goes to a transcript with a button you can press to listen. Please listen, Nathan gets some zingers in.</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/19/weird-west-adams-on-kpcc/">Weird West Adams on KPCC</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/19/weird-west-adams-on-kpcc/">Weird West Adams on KPCC</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>We direct your attention to Frank Stoltze&#8217;s wonderful KPCC radio feature on Weird West Adams. This <a href="https://www.scpr.org/news/stories/2007/07/19/00_esotouric_tour_07190.html" target="_blank">link</a> goes to a transcript with a button you can press to listen. Please listen, Nathan gets some zingers in.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/19/weird-west-adams-on-kpcc/">Weird West Adams on KPCC</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/19/weird-west-adams-on-kpcc/">Weird West Adams on KPCC</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/07/19/weird-west-adams-on-kpcc/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/19/weird-west-adams-on-kpcc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

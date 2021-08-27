@@ -12,8 +12,8 @@
 
 <channel>
 	<title>nuisance &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/nuisance/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/nuisance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:43:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>nuisance &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Sad Day For the Officers</title>
-		<link>https://1947project.com/2006/05/26/a-sad-day-for-the-officers/</link>
-					<comments>https://1947project.com/2006/05/26/a-sad-day-for-the-officers/#respond</comments>
+		<link>/2006/05/26/a-sad-day-for-the-officers/</link>
+					<comments>/2006/05/26/a-sad-day-for-the-officers/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 26 May 2006 03:48:15 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[vermin]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 25, 1907 Los Angeles For eleven years, pigeons have filled the nooks and roosts of the city&#8217;s police station, watching over the parade of troubled souls who come to that refuge, some dragged in bodily, others seeking aid. The police officers have coddled their feathered confederates, keeping them fat with daily offerings and giving&#8230; <a class="more-link" href="https://1947project.com/2006/05/26/a-sad-day-for-the-officers/">Continue reading <span class="screen-reader-text">A Sad Day For the Officers</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/26/a-sad-day-for-the-officers/">A Sad Day For the Officers</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 25, 1907 Los Angeles For eleven years, pigeons have filled the nooks and roosts of the city&#8217;s police station, watching over the parade of troubled souls who come to that refuge, some dragged in bodily, others seeking aid. The police officers have coddled their feathered confederates, keeping them fat with daily offerings and giving &#8230; <a href="/2006/05/26/a-sad-day-for-the-officers/" class="more-link">Continue reading <span class="screen-reader-text">A Sad Day For the Officers</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/05/26/a-sad-day-for-the-officers/">A Sad Day For the Officers</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -61,10 +61,10 @@ Los Angeles</p>
 <p>Tonight the police station is a mournful place, and the sweet cooing of its aerial residents inspire only sadness in those below. Old Bill has but one night to live, and when he dies so too will a piece of the hearts of all who knew him.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/26/a-sad-day-for-the-officers/">A Sad Day For the Officers</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/26/a-sad-day-for-the-officers/">A Sad Day For the Officers</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/26/a-sad-day-for-the-officers/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/26/a-sad-day-for-the-officers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

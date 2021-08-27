@@ -12,8 +12,8 @@
 
 <channel>
 	<title>cafepress &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/cafepress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/cafepress/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:40:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>cafepress &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Swag</title>
-		<link>https://1947project.com/2007/07/09/new-swag/</link>
-					<comments>https://1947project.com/2007/07/09/new-swag/#respond</comments>
+		<link>/2007/07/09/new-swag/</link>
+					<comments>/2007/07/09/new-swag/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 09 Jul 2007 20:32:45 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[cafepress]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The 1947project elves have been hard at work, updating our Cafepress shop with a delectable assortment of swag and oddities certain to enliven your life and spark conversations with local crazies. Surely, your Gremlin would be racier still were its bumper decorated with this jaunty slogan (also available as a license holder): &#160; And for&#8230; <a class="more-link" href="https://1947project.com/2007/07/09/new-swag/">Continue reading <span class="screen-reader-text">New Swag</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/09/new-swag/">New Swag</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The 1947project elves have been hard at work, updating our Cafepress shop with a delectable assortment of swag and oddities certain to enliven your life and spark conversations with local crazies. Surely, your Gremlin would be racier still were its bumper decorated with this jaunty slogan (also available as a license holder): &#160; And for &#8230; <a href="/2007/07/09/new-swag/" class="more-link">Continue reading <span class="screen-reader-text">New Swag</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/07/09/new-swag/">New Swag</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -64,10 +64,10 @@
 <p><a href="https://www.cafepress.com/cp/prod.aspx?p=1947project.149011088" target="_blank"><img border="0" src="//images.cafepress.com/product/149011088v3_240x240_Front_Color-BlackWhite.jpg" /></a>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/09/new-swag/">New Swag</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/09/new-swag/">New Swag</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/07/09/new-swag/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/09/new-swag/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

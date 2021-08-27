@@ -12,8 +12,8 @@
 
 <channel>
 	<title>married men &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/married-men/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/married-men/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:39:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>married men &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Scarlet Letters</title>
-		<link>https://1947project.com/2007/06/05/scarlet-letters/</link>
-					<comments>https://1947project.com/2007/06/05/scarlet-letters/#respond</comments>
+		<link>/2007/06/05/scarlet-letters/</link>
+					<comments>/2007/06/05/scarlet-letters/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 05 Jun 2007 04:07:40 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[secretarial school]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 5, 1927Hollywood The headlines turned her story into a clich&#233;: a young woman from the Midwest commits suicide by swallowing poison after the Hollywood star machine chews her up and spits her out. But 22-year-old Patricia Marshall&#8217;s death today was a bit more complicated than that. For one thing, though she took part in&#8230; <a class="more-link" href="https://1947project.com/2007/06/05/scarlet-letters/">Continue reading <span class="screen-reader-text">Scarlet Letters</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/05/scarlet-letters/">Scarlet Letters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 5, 1927Hollywood The headlines turned her story into a clich&#233;: a young woman from the Midwest commits suicide by swallowing poison after the Hollywood star machine chews her up and spits her out. But 22-year-old Patricia Marshall&#8217;s death today was a bit more complicated than that. For one thing, though she took part in &#8230; <a href="/2007/06/05/scarlet-letters/" class="more-link">Continue reading <span class="screen-reader-text">Scarlet Letters</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/06/05/scarlet-letters/">Scarlet Letters</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a title="Photo Sharing" href="https://www.flickr.com/photos/lperil/530898290/"><img loading="lazy" width="344" height="91" border="0" alt="poison" src="//farm2.static.flickr.com/1329/530898290_c9c59f649c.jpg" /></a></p>
@@ -60,10 +60,10 @@
 <p>Perhaps with Mrs. Marshall in mind, the coroner discreetly concluded that Patricia committed suicide after a &ldquo;disappointment&rdquo; in love.</p>
 <p><a title="Photo Sharing" href="https://www.flickr.com/photos/lperil/530898284/"><img loading="lazy" width="271" height="75" border="0" alt="secretarial-school" src="//farm2.static.flickr.com/1207/530898284_930edfc408.jpg" /></a></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/05/scarlet-letters/">Scarlet Letters</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/06/05/scarlet-letters/">Scarlet Letters</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/06/05/scarlet-letters/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/06/05/scarlet-letters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

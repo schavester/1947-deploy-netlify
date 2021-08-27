@@ -12,8 +12,8 @@
 
 <channel>
 	<title>City Jail &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/city-jail/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/city-jail/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:36:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>City Jail &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hickmaniana</title>
-		<link>https://1947project.com/2007/12/24/hickmaniana/</link>
-					<comments>https://1947project.com/2007/12/24/hickmaniana/#respond</comments>
+		<link>/2007/12/24/hickmaniana/</link>
+					<comments>/2007/12/24/hickmaniana/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 24 Dec 2007 02:20:51 +0000</pubDate>
@@ -55,8 +55,8 @@
 		<category><![CDATA[City Jail]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 23, 1927Los Angeles Following up yesterday&#8217;s story about whether one Ray McCoy was lynched for looking too much like Edward Hickman&#8230; The verdict of the Coroner&#8217;s jury?&#160; Jail officials and other prisoners, all vindicated.&#160; Nevertheless, it seems that Ralph &#8220;Ray McCoy&#8221; Fuller raised the ire of Angelenos in the grip of Hickman fever, whose&#8230; <a class="more-link" href="https://1947project.com/2007/12/24/hickmaniana/">Continue reading <span class="screen-reader-text">Hickmaniana</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/24/hickmaniana/">Hickmaniana</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 23, 1927Los Angeles Following up yesterday&#8217;s story about whether one Ray McCoy was lynched for looking too much like Edward Hickman&#8230; The verdict of the Coroner&#8217;s jury?&#160; Jail officials and other prisoners, all vindicated.&#160; Nevertheless, it seems that Ralph &#8220;Ray McCoy&#8221; Fuller raised the ire of Angelenos in the grip of Hickman fever, whose &#8230; <a href="/2007/12/24/hickmaniana/" class="more-link">Continue reading <span class="screen-reader-text">Hickmaniana</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/12/24/hickmaniana/">Hickmaniana</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -69,10 +69,10 @@
 <p><img loading="lazy" width="496" height="240" border="0" src="//farm3.static.flickr.com/2237/2132396970_580ef339f0_o.gif" alt="damnyoufriedrich" title="damnyoufriedrich" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/24/hickmaniana/">Hickmaniana</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/12/24/hickmaniana/">Hickmaniana</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/12/24/hickmaniana/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/12/24/hickmaniana/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

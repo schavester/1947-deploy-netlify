@@ -12,8 +12,8 @@
 
 <channel>
 	<title>rebels &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/rebels/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/rebels/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:39:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>rebels &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vultures Circle Over Los Angeles</title>
-		<link>https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/</link>
-					<comments>https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/#respond</comments>
+		<link>/2007/08/29/vultures-circle-over-los-angeles/</link>
+					<comments>/2007/08/29/vultures-circle-over-los-angeles/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Wed, 29 Aug 2007 04:24:32 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[will contest]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Los Angeles August 28, 1927 Five days ago, twenty Mexican Ã¢â‚¬Å“rebelsÃ¢â‚¬Â descended on a train carrying among its passengers a group of American schoolteachers headed back to Los Angeles after a summer session at the University of Mexico. Eyewitnesses said about 40 shots were fired into the cars, one of which hit 27-year-old Florence M.&#8230; <a class="more-link" href="https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/">Continue reading <span class="screen-reader-text">Vultures Circle Over Los Angeles</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Los Angeles August 28, 1927 Five days ago, twenty Mexican Ã¢â‚¬Å“rebelsÃ¢â‚¬Â descended on a train carrying among its passengers a group of American schoolteachers headed back to Los Angeles after a summer session at the University of Mexico. Eyewitnesses said about 40 shots were fired into the cars, one of which hit 27-year-old Florence M. &#8230; <a href="/2007/08/29/vultures-circle-over-los-angeles/" class="more-link">Continue reading <span class="screen-reader-text">Vultures Circle Over Los Angeles</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a href="https://www.flickr.com/photos/lperil/1263014457/" title="Photo Sharing"><img loading="lazy" src="//farm2.static.flickr.com/1388/1263014457_1653ec4fd3_o.jpg" width="367" height="250" alt="Ill-fated Tour Group" /></a></p>
@@ -64,10 +64,10 @@ August 28, 1927</p>
 <p><i>Postscript</i>. Charles Anderson gave it one more shot. On September 1, 1927, the <i>Times</i> reported that he had retained counsel and asked for a photographic copy of his daughterÃ¢â‚¬â„¢s will, which left the bulk of her $10,000 estate (about $118,000 in 2007) for the education of two young cousins, Claire and Arthur Strong (ages 13 and 11, respectively). Perhaps he thought better of it; the <i>Times</i> makes no further mention of this sordid mess.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/08/29/vultures-circle-over-los-angeles/">Vultures Circle Over Los Angeles</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/08/29/vultures-circle-over-los-angeles/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/08/29/vultures-circle-over-los-angeles/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

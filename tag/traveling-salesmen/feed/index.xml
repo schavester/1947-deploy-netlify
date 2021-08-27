@@ -12,8 +12,8 @@
 
 <channel>
 	<title>traveling salesmen &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/traveling-salesmen/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/traveling-salesmen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:39:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>traveling salesmen &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Never-Ending Story</title>
-		<link>https://1947project.com/2007/07/31/a-never-ending-story/</link>
-					<comments>https://1947project.com/2007/07/31/a-never-ending-story/#respond</comments>
+		<link>/2007/07/31/a-never-ending-story/</link>
+					<comments>/2007/07/31/a-never-ending-story/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Tue, 31 Jul 2007 03:45:41 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[traveling salesmen]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 31, 1927Los Angeles A terrible scene greeted the eyes of sisters Florence and Thelma Schuchart (ages 18 and 23, respectively) when they returned home to 158 W. 52nd Place from the beach about 4:30 p.m. today. There, in a pool of blood on the bedroom floor, lay their mother, Florence C. Schuchart , 44,&#8230; <a class="more-link" href="https://1947project.com/2007/07/31/a-never-ending-story/">Continue reading <span class="screen-reader-text">A Never-Ending Story</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/31/a-never-ending-story/">A Never-Ending Story</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 31, 1927Los Angeles A terrible scene greeted the eyes of sisters Florence and Thelma Schuchart (ages 18 and 23, respectively) when they returned home to 158 W. 52nd Place from the beach about 4:30 p.m. today. There, in a pool of blood on the bedroom floor, lay their mother, Florence C. Schuchart , 44, &#8230; <a href="/2007/07/31/a-never-ending-story/" class="more-link">Continue reading <span class="screen-reader-text">A Never-Ending Story</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/07/31/a-never-ending-story/">A Never-Ending Story</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -60,10 +60,10 @@
 <p>Rest in peace, Florence C. Schuchart.  </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/31/a-never-ending-story/">A Never-Ending Story</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/31/a-never-ending-story/">A Never-Ending Story</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/07/31/a-never-ending-story/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/31/a-never-ending-story/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

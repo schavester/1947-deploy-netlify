@@ -12,8 +12,8 @@
 
 <channel>
 	<title>hope &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/hope/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/hope/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:48:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>hope &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Bridge</title>
-		<link>https://1947project.com/2007/03/15/the-bridge/</link>
-					<comments>https://1947project.com/2007/03/15/the-bridge/#respond</comments>
+		<link>/2007/03/15/the-bridge/</link>
+					<comments>/2007/03/15/the-bridge/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2007 15:57:52 +0000</pubDate>
@@ -42,8 +42,8 @@
 		<category><![CDATA[hope]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 2007 South Pasadena HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still&#8230; <a class="more-link" href="https://1947project.com/2007/03/15/the-bridge/">Continue reading <span class="screen-reader-text">The Bridge</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 15, 2007 South Pasadena HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still &#8230; <a href="/2007/03/15/the-bridge/" class="more-link">Continue reading <span class="screen-reader-text">The Bridge</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_bridge_of_death01.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 267px;" src="//www.lmharnisch.com/images/1907_bridge_of_death01.jpg" alt="" border="0" /></a><br />
@@ -72,10 +72,10 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/15/the-bridge/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/15/the-bridge/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

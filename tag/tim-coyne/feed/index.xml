@@ -12,8 +12,8 @@
 
 <channel>
 	<title>tim coyne &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/tim-coyne/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/tim-coyne/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:41:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>tim coyne &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</title>
-		<link>https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/</link>
-					<comments>https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/#respond</comments>
+		<link>/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/</link>
+					<comments>/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 29 May 2007 18:11:42 +0000</pubDate>
@@ -53,8 +53,8 @@
 		<category><![CDATA[tim coyne]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Tim Coyne of The Hollywood Podcast rode along on The Real Black Dahlia crime bus tour and prepared a cool little piece for BBC 5&#8217;s Pods and Blogs program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t&#8230; <a class="more-link" href="https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">Continue reading <span class="screen-reader-text">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Tim Coyne of The Hollywood Podcast rode along on The Real Black Dahlia crime bus tour and prepared a cool little piece for BBC 5&#8217;s Pods and Blogs program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t &#8230; <a href="/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/" class="more-link">Continue reading <span class="screen-reader-text">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>Here&#8217;s a <a href="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" target="_blank">link</a> to the MP3 of Tim&#8217;s interview with Nathan and me.&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" length="0" type="audio/mpeg" />

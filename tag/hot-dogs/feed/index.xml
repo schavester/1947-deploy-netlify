@@ -12,8 +12,8 @@
 
 <channel>
 	<title>hot dogs &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/hot-dogs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/hot-dogs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:39:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>hot dogs &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Lacy Underthings and Seagull Wings</title>
-		<link>https://1947project.com/2007/10/24/lacy-underthings-and-seagull-wings/</link>
-					<comments>https://1947project.com/2007/10/24/lacy-underthings-and-seagull-wings/#respond</comments>
+		<link>/2007/10/24/lacy-underthings-and-seagull-wings/</link>
+					<comments>/2007/10/24/lacy-underthings-and-seagull-wings/#respond</comments>
 		
 		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
 		<pubDate>Wed, 24 Oct 2007 02:05:20 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[hot dogs]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 23, 1927Los Angeles John A. Horn was born to be a poet but Fate (O! cruel mistress she!) decreed he make his living as a lingerie salesman. Worse, he was married to a woman who did not understand the lyricism of his delicate artist&#8217;s soul. So he left his wife&#8212;but not before explaining himself&#8230; <a class="more-link" href="https://1947project.com/2007/10/24/lacy-underthings-and-seagull-wings/">Continue reading <span class="screen-reader-text">Lacy Underthings and Seagull Wings</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/24/lacy-underthings-and-seagull-wings/">Lacy Underthings and Seagull Wings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 23, 1927Los Angeles John A. Horn was born to be a poet but Fate (O! cruel mistress she!) decreed he make his living as a lingerie salesman. Worse, he was married to a woman who did not understand the lyricism of his delicate artist&#8217;s soul. So he left his wife&#8212;but not before explaining himself &#8230; <a href="/2007/10/24/lacy-underthings-and-seagull-wings/" class="more-link">Continue reading <span class="screen-reader-text">Lacy Underthings and Seagull Wings</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/10/24/lacy-underthings-and-seagull-wings/">Lacy Underthings and Seagull Wings</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a href="https://www.flickr.com/photos/lperil/1719609996/" title="Photo Sharing"><img loading="lazy" src="//farm3.static.flickr.com/2386/1719609996_bb0de4e2a4_o.jpg" width="288" height="220" alt="beach" /></a></p>
@@ -58,10 +58,10 @@
 <p>&quot;This is just another example of the ancient controversy between rhyme and reason,&quot; chortled Judge Gates before granting a divorce to the long-suffering Mrs. Horn.   </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/24/lacy-underthings-and-seagull-wings/">Lacy Underthings and Seagull Wings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/10/24/lacy-underthings-and-seagull-wings/">Lacy Underthings and Seagull Wings</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/10/24/lacy-underthings-and-seagull-wings/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/10/24/lacy-underthings-and-seagull-wings/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

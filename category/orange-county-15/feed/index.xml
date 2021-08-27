@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Orange County &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/orange-county-15/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/orange-county-15/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:58:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Orange County &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Physician, Kill Thyself</title>
-		<link>https://1947project.com/2008/02/18/physician-kill-thyself/</link>
-					<comments>https://1947project.com/2008/02/18/physician-kill-thyself/#respond</comments>
+		<link>/2008/02/18/physician-kill-thyself/</link>
+					<comments>/2008/02/18/physician-kill-thyself/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 18 Feb 2008 02:45:48 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[x-rays]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 17, 1927Santa Ana The widow Alice Hanmore has a bone to pick with Evangelists, or, more specifically, the College of Medical Evangelists.&#160; Truth be told, evangelists should be, oh, evangelical, and leave the application of R&#246;ntgen rays to the professionals. &#160; In March of 1926 Alice&#8217;s husband M. J. Hanmore, a Fullerton oil worker,&#8230; <a class="more-link" href="https://1947project.com/2008/02/18/physician-kill-thyself/">Continue reading <span class="screen-reader-text">Physician, Kill Thyself</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 17, 1927Santa Ana The widow Alice Hanmore has a bone to pick with Evangelists, or, more specifically, the College of Medical Evangelists.&#160; Truth be told, evangelists should be, oh, evangelical, and leave the application of R&#246;ntgen rays to the professionals. &#160; In March of 1926 Alice&#8217;s husband M. J. Hanmore, a Fullerton oil worker, &#8230; <a href="/2008/02/18/physician-kill-thyself/" class="more-link">Continue reading <span class="screen-reader-text">Physician, Kill Thyself</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>February 17, 1927<br />Santa Ana</p>
@@ -58,18 +58,18 @@
 <p>(Our evangelical docs Steen &amp; Steen will make the papers again in March, charged of malpractice by one Mary A. Greene of Fullerton&mdash;she goes in for an ingrown toenail, so they take that portion of the nail.&nbsp; So far so good.&nbsp; Steen &amp; Steen subsequently amputate her big toe.&nbsp; <em>Then</em> they amputate much of her leg.&nbsp; Further operations result in anthropy of Mary&#8217;s thigh muscles.&nbsp; She&rsquo;ll ask for $25,000.)</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/02/18/physician-kill-thyself/">Physician, Kill Thyself</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/02/18/physician-kill-thyself/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/02/18/physician-kill-thyself/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cowboys and Indians</title>
-		<link>https://1947project.com/2008/01/10/cowboys-and-indians/</link>
-					<comments>https://1947project.com/2008/01/10/cowboys-and-indians/#respond</comments>
+		<link>/2008/01/10/cowboys-and-indians/</link>
+					<comments>/2008/01/10/cowboys-and-indians/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 10 Jan 2008 19:27:44 +0000</pubDate>
@@ -88,26 +88,26 @@
 		<category><![CDATA[nightmares]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 10, 1927Unincorporated Los Angeles Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the&#8230; <a class="more-link" href="https://1947project.com/2008/01/10/cowboys-and-indians/">Continue reading <span class="screen-reader-text">Cowboys and Indians</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 10, 1927Unincorporated Los Angeles Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the &#8230; <a href="/2008/01/10/cowboys-and-indians/" class="more-link">Continue reading <span class="screen-reader-text">Cowboys and Indians</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>January 10, 1927<br />Unincorporated Los Angeles</p>
 <p>Sheriff&#8217;s officers responded to a desperate cry of murder after a corpse was found by oil field workers digging ditches in Brea, but when they investigated they determined it was merely the aged skeleton of an Indian, disinterred from his ancient grave. The corpse was reburied without ceremony, and the diggers advised to avoid the spot in the future.</p>
 <p>And in another Sheriff&#8217;s case with a fresher body, the peculiar suicide by gun of Charles Norton, shopkeeper at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=1760+East+Slauson,+los+angeles,+ca&#038;sll=34.09816,-118.28956&#038;sspn=0.00741,0.014205&#038;ie=UTF8&#038;ll=33.990484,-118.307905&#038;spn=0.007419,0.014205&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">1760 East Slauson</a>, was explained away rather ingeniously. Why was the man found dead in his bed in the store&#8217;s back room, when his brother said he had no reason to do away with himself? Deputy Sheriff Hackett believes the cause was a nightmare, triggered by the story &quot;Shooting Mad&quot; in the Wild West-themed magazine lying beside the dead man. Hackett suggests Norton dozed off while reading, dreamed a gunman was in the room, reached under the pillow for his own weapon and inadvertently shot himself. Stranger things have happened in Los Angeles.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/01/10/cowboys-and-indians/">Cowboys and Indians</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/01/10/cowboys-and-indians/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/01/10/cowboys-and-indians/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>When Does He Find Time to Play Pool?</title>
-		<link>https://1947project.com/2007/11/26/when-does-he-find-time-to-play-pool/</link>
-					<comments>https://1947project.com/2007/11/26/when-does-he-find-time-to-play-pool/#respond</comments>
+		<link>/2007/11/26/when-does-he-find-time-to-play-pool/</link>
+					<comments>/2007/11/26/when-does-he-find-time-to-play-pool/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 26 Nov 2007 04:49:44 +0000</pubDate>
@@ -120,8 +120,8 @@
 		<category><![CDATA[mother-in-law]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 25, 1927Santa Ana Those of you who have taken a club to an elderly woman know, that&#8217;s six months in County.&#160; Everybody knows that.&#160; And just as those of us who have wielded a pool cue at a mother-in-law are looking at the ol&#8217; six mos and that $500 ($5,515 USD2007) fine, that&#8217;s what&#8230; <a class="more-link" href="https://1947project.com/2007/11/26/when-does-he-find-time-to-play-pool/">Continue reading <span class="screen-reader-text">When Does He Find Time to Play Pool?</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/26/when-does-he-find-time-to-play-pool/">When Does He Find Time to Play Pool?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 25, 1927Santa Ana Those of you who have taken a club to an elderly woman know, that&#8217;s six months in County.&#160; Everybody knows that.&#160; And just as those of us who have wielded a pool cue at a mother-in-law are looking at the ol&#8217; six mos and that $500 ($5,515 USD2007) fine, that&#8217;s what &#8230; <a href="/2007/11/26/when-does-he-find-time-to-play-pool/" class="more-link">Continue reading <span class="screen-reader-text">When Does He Find Time to Play Pool?</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/11/26/when-does-he-find-time-to-play-pool/">When Does He Find Time to Play Pool?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -134,18 +134,18 @@
 <p></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/11/26/when-does-he-find-time-to-play-pool/">When Does He Find Time to Play Pool?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/11/26/when-does-he-find-time-to-play-pool/">When Does He Find Time to Play Pool?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/11/26/when-does-he-find-time-to-play-pool/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/11/26/when-does-he-find-time-to-play-pool/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>License to Ill</title>
-		<link>https://1947project.com/2007/10/24/license-to-ill/</link>
-					<comments>https://1947project.com/2007/10/24/license-to-ill/#respond</comments>
+		<link>/2007/10/24/license-to-ill/</link>
+					<comments>/2007/10/24/license-to-ill/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 24 Oct 2007 18:24:46 +0000</pubDate>
@@ -157,8 +157,8 @@
 		<category><![CDATA[quackery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Rex H.W. Albrexstondare was not a doctor, but he played one in Southern California. The pseudo-scientist claimed that he&#8217;d discovered the fountain of youth through proper diet and treatment, and had been restored from a 90-year-old man to a young man with a thick head of black hair.&#160; He said he&#8217;d grown four sets of&#8230; <a class="more-link" href="https://1947project.com/2007/10/24/license-to-ill/">Continue reading <span class="screen-reader-text">License to Ill</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Rex H.W. Albrexstondare was not a doctor, but he played one in Southern California. The pseudo-scientist claimed that he&#8217;d discovered the fountain of youth through proper diet and treatment, and had been restored from a 90-year-old man to a young man with a thick head of black hair.&#160; He said he&#8217;d grown four sets of &#8230; <a href="/2007/10/24/license-to-ill/" class="more-link">Continue reading <span class="screen-reader-text">License to Ill</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -178,18 +178,18 @@
 <p>And is it just my imagination, or does our own Nathan Marsak bear some small resemblance to the good doctor?&nbsp; Watch he doesn&#8217;t slip you any vegetable paste!</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/10/24/license-to-ill/">License to Ill</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/10/24/license-to-ill/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/10/24/license-to-ill/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Have a Zesty Labor Day!</title>
-		<link>https://1947project.com/2007/09/03/have-a-zesty-labor-day/</link>
-					<comments>https://1947project.com/2007/09/03/have-a-zesty-labor-day/#respond</comments>
+		<link>/2007/09/03/have-a-zesty-labor-day/</link>
+					<comments>/2007/09/03/have-a-zesty-labor-day/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2007 15:15:03 +0000</pubDate>
@@ -212,7 +212,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>September 3, 1927 Los Angeles If you&#8217;re planning to escape the heat this Labor Day by going boating on Lake Arrowhead, don&#8217;t forget to take along your radio!</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -221,18 +221,18 @@
 <p><img loading="lazy" title="Radio" height="579" alt="Radio" src="//farm2.static.flickr.com/1244/1312974828_4df2864e11_o.jpg" width="605" border="0" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/09/03/have-a-zesty-labor-day/">Have a Zesty Labor Day!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/09/03/have-a-zesty-labor-day/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/09/03/have-a-zesty-labor-day/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</title>
-		<link>https://1947project.com/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/</link>
-					<comments>https://1947project.com/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/#respond</comments>
+		<link>/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/</link>
+					<comments>/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 21 Jul 2007 22:05:17 +0000</pubDate>
@@ -245,8 +245,8 @@
 		<category><![CDATA[Lutherans]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 22, 1927Anaheim Mrs. Geraldine Haster was a product of her time&#8212;too bad her time was so terribly and sinfully debased!&#160; It was bad enough that she had taken to wearing cosmetics (!) but then she had even gone so far as to bob her hair (!!)!&#160; Why not just tattoo &#34;SCAPEGRACE&#34; across your forehead,&#8230; <a class="more-link" href="https://1947project.com/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/">Continue reading <span class="screen-reader-text">Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/">Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>July 22, 1927Anaheim Mrs. Geraldine Haster was a product of her time&#8212;too bad her time was so terribly and sinfully debased!&#160; It was bad enough that she had taken to wearing cosmetics (!) but then she had even gone so far as to bob her hair (!!)!&#160; Why not just tattoo &#34;SCAPEGRACE&#34; across your forehead, &#8230; <a href="/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/" class="more-link">Continue reading <span class="screen-reader-text">Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/">Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>July 22, 1927<br />Anaheim</p>
@@ -257,18 +257,18 @@
 <p>Lutherans sleep easy tonight knowing that American youth turned out <em>just fine</em>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/">Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/">Only Two Years, Three Months, &#038; One Week til this Whole Thing Blows Over</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/21/only-two-years-three-months-one-week-til-this-whole-thing-blows-over/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Mad Gasser of&#8230; Fullerton?</title>
-		<link>https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/</link>
-					<comments>https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/#respond</comments>
+		<link>/2007/06/28/the-mad-gasser-of-fullerton/</link>
+					<comments>/2007/06/28/the-mad-gasser-of-fullerton/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 28 Jun 2007 18:23:56 +0000</pubDate>
@@ -280,8 +280,8 @@
 		<category><![CDATA[chloroform]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 28, 1927Fullerton Scholars of the unexplained in America will be familiar with the legend of the Mad Gasser of Mattoon, a possibly imaginary figure who gassed his way across two communities over a decade and thence into the spooky books. But we&#8217;ve found a precedent in the Los Angeles area that beats the first&#8230; <a class="more-link" href="https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/">Continue reading <span class="screen-reader-text">The Mad Gasser of&#8230; Fullerton?</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>June 28, 1927Fullerton Scholars of the unexplained in America will be familiar with the legend of the Mad Gasser of Mattoon, a possibly imaginary figure who gassed his way across two communities over a decade and thence into the spooky books. But we&#8217;ve found a precedent in the Los Angeles area that beats the first &#8230; <a href="/2007/06/28/the-mad-gasser-of-fullerton/" class="more-link">Continue reading <span class="screen-reader-text">The Mad Gasser of&#8230; Fullerton?</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>June 28, 1927<br /><a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=fullerton,+ca&#038;ie=UTF8&#038;ll=33.876687,-117.928963&#038;spn=0.131973,0.205307&#038;z=12&#038;iwloc=addr&#038;om=1" target="_blank">Fullerton</a> </p>
@@ -289,18 +289,18 @@
 <p>But we&#8217;ve found a precedent in the Los Angeles area that beats the first Mad Gasser attacks by six years! This very evening, garage operator Alois Sabinski was asleep in his home at 111 North Nicholas Street when his wife was roused by the distinctive odor of chloroform, and discovered her husband in a swoon. The clever lady threw open all the windows to disperse the poison before she too was rendered insensible, and peeked outside to see a man running away carrying what looked like a bicycle pump. A bicycle pump of doom!</p>
 <p>Officer Roy Mills, called to the scene, found footprints under the window and on the porch, and evidence that the gasser had launched his fumes through the open transom. So close those transoms, kids, and beware strange men bearing pumps.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/06/28/the-mad-gasser-of-fullerton/">The Mad Gasser of&#8230; Fullerton?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/06/28/the-mad-gasser-of-fullerton/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/06/28/the-mad-gasser-of-fullerton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Insert Lawyer Joke Here</title>
-		<link>https://1947project.com/2007/05/19/insert-lawyer-joke-here/</link>
-					<comments>https://1947project.com/2007/05/19/insert-lawyer-joke-here/#respond</comments>
+		<link>/2007/05/19/insert-lawyer-joke-here/</link>
+					<comments>/2007/05/19/insert-lawyer-joke-here/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 19 May 2007 03:51:12 +0000</pubDate>
@@ -313,8 +313,8 @@
 		<category><![CDATA[car crash]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 19, 1927Santa Ana W. F. Linder is an unfortunate man.&#160; To begin with, he crashed his car.&#160; Into another car.&#160; Driven by a lawyer. &#160; That other-car-drivin&#8217; Los Angeles attorney, J. Irving McKenna, sued Linder for $12,000 ($142,542USD 2007) in damages.&#160; That was Wednesday.&#160; Today, two more damage suits were brought&#8212;seems passenger Mrs. Catherine&#8230; <a class="more-link" href="https://1947project.com/2007/05/19/insert-lawyer-joke-here/">Continue reading <span class="screen-reader-text">Insert Lawyer Joke Here</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 19, 1927Santa Ana W. F. Linder is an unfortunate man.&#160; To begin with, he crashed his car.&#160; Into another car.&#160; Driven by a lawyer. &#160; That other-car-drivin&#8217; Los Angeles attorney, J. Irving McKenna, sued Linder for $12,000 ($142,542USD 2007) in damages.&#160; That was Wednesday.&#160; Today, two more damage suits were brought&#8212;seems passenger Mrs. Catherine &#8230; <a href="/2007/05/19/insert-lawyer-joke-here/" class="more-link">Continue reading <span class="screen-reader-text">Insert Lawyer Joke Here</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><img loading="lazy" width="245" height="107" border="0" align="right" title="lawsuits" alt="lawsuits" src="//farm1.static.flickr.com/206/504001698_3de757f842_o.gif" />May 19, 1927<br />Santa Ana</p>
@@ -323,18 +323,18 @@
 <p>Drive carefully, folks. &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/05/19/insert-lawyer-joke-here/">Insert Lawyer Joke Here</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/05/19/insert-lawyer-joke-here/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/19/insert-lawyer-joke-here/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Green Gold</title>
-		<link>https://1947project.com/2007/05/10/green-gold/</link>
-					<comments>https://1947project.com/2007/05/10/green-gold/#respond</comments>
+		<link>/2007/05/10/green-gold/</link>
+					<comments>/2007/05/10/green-gold/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 10 May 2007 18:33:31 +0000</pubDate>
@@ -347,8 +347,8 @@
 		<category><![CDATA[rustling]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 10, 1927Santa Ana Then as now, avocados are expensive and desirable treats, and a produce man will find his business flourishing when his expenses are limited to gasoline for midnight raids on Orange County orchards and bullets for his gun. But the men of the Avocado Grower&#8217;s Association breathe easier tonight after the arrest&#8230; <a class="more-link" href="https://1947project.com/2007/05/10/green-gold/">Continue reading <span class="screen-reader-text">Green Gold</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/10/green-gold/">Green Gold</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 10, 1927Santa Ana Then as now, avocados are expensive and desirable treats, and a produce man will find his business flourishing when his expenses are limited to gasoline for midnight raids on Orange County orchards and bullets for his gun. But the men of the Avocado Grower&#8217;s Association breathe easier tonight after the arrest &#8230; <a href="/2007/05/10/green-gold/" class="more-link">Continue reading <span class="screen-reader-text">Green Gold</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/05/10/green-gold/">Green Gold</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -358,18 +358,18 @@
 <p>Back in the suspect&#8217;s rooms, sheriffs found a stash of dynamite. But what they couldn&#8217;t find was a snitch: the neighborhood clammed up quick, with some souls heard muttering about the Black Hand. That&#8217;s right: the Avocado Mafia, and don&#8217;t let me hear you tattling, or there&#8217;ll be no guacamole on your enchilada tonight or ever!</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/10/green-gold/">Green Gold</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/05/10/green-gold/">Green Gold</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/05/10/green-gold/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/10/green-gold/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Little Miss Understanding</title>
-		<link>https://1947project.com/2006/04/27/a-little-miss-understanding/</link>
-					<comments>https://1947project.com/2006/04/27/a-little-miss-understanding/#respond</comments>
+		<link>/2006/04/27/a-little-miss-understanding/</link>
+					<comments>/2006/04/27/a-little-miss-understanding/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 17:41:29 +0000</pubDate>
@@ -382,8 +382,8 @@
 		<category><![CDATA[Truelove Home]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 27, 1907 Los Angeles &#160; To Carl Tabbert, it seemed a mere triviality that when eloping with his intended to Santa Ana, that the wife-to-be swear she was eighteen years of age in order to secure a marriage license.&#160; Today, Tabbert is in Los Angeles Superior Court, charged with rape.&#160; In actuality, blushing bride&#8230; <a class="more-link" href="https://1947project.com/2006/04/27/a-little-miss-understanding/">Continue reading <span class="screen-reader-text">A Little Miss Understanding</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/a-little-miss-understanding/">A Little Miss Understanding</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 27, 1907 Los Angeles &#160; To Carl Tabbert, it seemed a mere triviality that when eloping with his intended to Santa Ana, that the wife-to-be swear she was eighteen years of age in order to secure a marriage license.&#160; Today, Tabbert is in Los Angeles Superior Court, charged with rape.&#160; In actuality, blushing bride &#8230; <a href="/2006/04/27/a-little-miss-understanding/" class="more-link">Continue reading <span class="screen-reader-text">A Little Miss Understanding</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/04/27/a-little-miss-understanding/">A Little Miss Understanding</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>April 27, 1907  </p>
@@ -394,10 +394,10 @@
 <div>Tabbert pleaded guilty, having been persuaded that he broke the law, of which he admitted some ignorance.&nbsp; While vaguely aware he had committed some offense, he had not believed it was in any way serious.&nbsp; While he awaits further hearings&mdash;wherein witnesses are expected to testify to his good character&mdash;his child-bride has been placed in the Truelove Home.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/a-little-miss-understanding/">A Little Miss Understanding</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/04/27/a-little-miss-understanding/">A Little Miss Understanding</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/04/27/a-little-miss-understanding/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/27/a-little-miss-understanding/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>absinthe &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/absinthe/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/absinthe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>absinthe &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Degeneracy Down In Europe</title>
-		<link>https://1947project.com/2006/03/27/degeneracy-down-in-europe/</link>
-					<comments>https://1947project.com/2006/03/27/degeneracy-down-in-europe/#respond</comments>
+		<link>/2006/03/27/degeneracy-down-in-europe/</link>
+					<comments>/2006/03/27/degeneracy-down-in-europe/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 27 Mar 2006 23:58:31 +0000</pubDate>
@@ -50,8 +50,8 @@
 		<category><![CDATA[wormwood]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Spring 1907 In France, the temperence society Le Croix Bleue works gathering nearly half a million signatures on its petition proclaiming that &#34;Absinthe makes you crazy and criminal, provokes epilepsy and tuberculosis, and has killed thousands of French people. It makes a ferocious beast of man, a martyr of woman, and a degenerate of the&#8230; <a class="more-link" href="https://1947project.com/2006/03/27/degeneracy-down-in-europe/">Continue reading <span class="screen-reader-text">Degeneracy Down In Europe</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/27/degeneracy-down-in-europe/">Degeneracy Down In Europe</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Spring 1907 In France, the temperence society Le Croix Bleue works gathering nearly half a million signatures on its petition proclaiming that &#34;Absinthe makes you crazy and criminal, provokes epilepsy and tuberculosis, and has killed thousands of French people. It makes a ferocious beast of man, a martyr of woman, and a degenerate of the &#8230; <a href="/2006/03/27/degeneracy-down-in-europe/" class="more-link">Continue reading <span class="screen-reader-text">Degeneracy Down In Europe</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/03/27/degeneracy-down-in-europe/">Degeneracy Down In Europe</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,10 +59,10 @@
 <p>In France, the temperence society Le Croix Bleue works gathering nearly half a million signatures on its petition proclaiming that &quot;Absinthe makes you crazy and criminal, provokes epilepsy and tuberculosis, and has killed thousands of French people. It makes a ferocious beast of man, a martyr of woman, and a degenerate of the infant, it disorganizes and ruins the family and menaces the future of the country.&quot;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/27/degeneracy-down-in-europe/">Degeneracy Down In Europe</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/03/27/degeneracy-down-in-europe/">Degeneracy Down In Europe</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/03/27/degeneracy-down-in-europe/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/27/degeneracy-down-in-europe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

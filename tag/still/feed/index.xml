@@ -12,8 +12,8 @@
 
 <channel>
 	<title>still &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/still/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/still/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:43:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>still &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Matthew 5:16 Goes Electric</title>
-		<link>https://1947project.com/2007/12/17/matthew-516-goes-electric/</link>
-					<comments>https://1947project.com/2007/12/17/matthew-516-goes-electric/#respond</comments>
+		<link>/2007/12/17/matthew-516-goes-electric/</link>
+					<comments>/2007/12/17/matthew-516-goes-electric/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 17 Dec 2007 09:55:52 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[still]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Â  December 16, 1927 Sawtelle &#160; Los Angeles Police Captain W. L. Hagenbaugh feeds more juice into the stills of Sawtelle than he gets from them; after he raids the moonshiners and chops up their contraptions of copper and coil, he fashions fixtures and floor lamps for his new nine-room Spanish job up on Comstock&#8230; <a class="more-link" href="https://1947project.com/2007/12/17/matthew-516-goes-electric/">Continue reading <span class="screen-reader-text">Matthew 5:16 Goes Electric</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Â  December 16, 1927 Sawtelle &#160; Los Angeles Police Captain W. L. Hagenbaugh feeds more juice into the stills of Sawtelle than he gets from them; after he raids the moonshiners and chops up their contraptions of copper and coil, he fashions fixtures and floor lamps for his new nine-room Spanish job up on Comstock &#8230; <a href="/2007/12/17/matthew-516-goes-electric/" class="more-link">Continue reading <span class="screen-reader-text">Matthew 5:16 Goes Electric</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -66,10 +66,10 @@ Sawtelle</p>
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/12/17/matthew-516-goes-electric/">Matthew 5:16 Goes Electric</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/12/17/matthew-516-goes-electric/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/12/17/matthew-516-goes-electric/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>laxatives &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/drugs/laxatives/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/drugs/laxatives/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:33:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>laxatives &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Sunday Paper</title>
-		<link>https://1947project.com/2008/03/12/the-sunday-paper/</link>
-					<comments>https://1947project.com/2008/03/12/the-sunday-paper/#respond</comments>
+		<link>/2008/03/12/the-sunday-paper/</link>
+					<comments>/2008/03/12/the-sunday-paper/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 12 Mar 2008 20:02:14 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[slow news day]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>In the past two weeks, I&#8217;ve come to understand why Kim usually waits until Fridays to post her 1947p stories. Ever since this leap year, I&#8217;ve found myself with the Sunday paper, which, while jam-packed with Bullock&#8217;s ads, real estate ventures, and fashion spreads (this week, an entire section devoted to shoes!), is rather short&#8230; <a class="more-link" href="https://1947project.com/2008/03/12/the-sunday-paper/">Continue reading <span class="screen-reader-text">The Sunday Paper</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/12/the-sunday-paper/">The Sunday Paper</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>In the past two weeks, I&#8217;ve come to understand why Kim usually waits until Fridays to post her 1947p stories. Ever since this leap year, I&#8217;ve found myself with the Sunday paper, which, while jam-packed with Bullock&#8217;s ads, real estate ventures, and fashion spreads (this week, an entire section devoted to shoes!), is rather short &#8230; <a href="/2008/03/12/the-sunday-paper/" class="more-link">Continue reading <span class="screen-reader-text">The Sunday Paper</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/12/the-sunday-paper/">The Sunday Paper</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -99,10 +99,10 @@ And take a look at this plug for Jewish boxing legend Lew Tendler, as he prepare
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/12/the-sunday-paper/">The Sunday Paper</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/12/the-sunday-paper/">The Sunday Paper</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/12/the-sunday-paper/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/12/the-sunday-paper/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

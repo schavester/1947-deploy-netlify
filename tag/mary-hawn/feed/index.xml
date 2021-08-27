@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Mary Hawn &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/mary-hawn/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/mary-hawn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:13:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Mary Hawn &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Of Human Bondage</title>
-		<link>https://1947project.com/2006/05/05/of-human-bondage/</link>
-					<comments>https://1947project.com/2006/05/05/of-human-bondage/#respond</comments>
+		<link>/2006/05/05/of-human-bondage/</link>
+					<comments>/2006/05/05/of-human-bondage/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Fri, 05 May 2006 07:04:02 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[Mary Hawn]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 5, 1907 Los AngelesMary Hawn is by all accounts an attractive twentysomething, average enough perhaps, save that she has a Superior Court case today. And she was bound and gagged in her bed by an intruder last night.&#8221;Being very much exhausted and having retired rather late, I fell into a sound sleep. When I&#8230; <a class="more-link" href="https://1947project.com/2006/05/05/of-human-bondage/">Continue reading <span class="screen-reader-text">Of Human Bondage</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/05/of-human-bondage/">Of Human Bondage</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 5, 1907 Los AngelesMary Hawn is by all accounts an attractive twentysomething, average enough perhaps, save that she has a Superior Court case today. And she was bound and gagged in her bed by an intruder last night.&#8221;Being very much exhausted and having retired rather late, I fell into a sound sleep. When I &#8230; <a href="/2006/05/05/of-human-bondage/" class="more-link">Continue reading <span class="screen-reader-text">Of Human Bondage</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/05/05/of-human-bondage/">Of Human Bondage</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>May 5, 1907<br />
@@ -56,10 +56,10 @@ Los AngelesMary Hawn is by all accounts an attractive twentysomething, average e
 <p>And the Superior Court case? The mysterious man&#8217;s widow is suing Miss Hawn for the insurance money. It is papers relating to this case that Miss Hawn alleges her visitor was after.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/05/of-human-bondage/">Of Human Bondage</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/05/of-human-bondage/">Of Human Bondage</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/05/of-human-bondage/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/05/of-human-bondage/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

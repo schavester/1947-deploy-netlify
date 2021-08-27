@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Monrovia &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/cities/monrovia-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/cities/monrovia-3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:18:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Monrovia &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Nathan and I</title>
-		<link>https://1947project.com/2006/11/30/nathan-and-i/</link>
-					<comments>https://1947project.com/2006/11/30/nathan-and-i/#comments</comments>
+		<link>/2006/11/30/nathan-and-i/</link>
+					<comments>/2006/11/30/nathan-and-i/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 30 Nov 2006 14:37:13 +0000</pubDate>
@@ -47,7 +47,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Nov. 30, 2006 Los Angeles I don</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/30/nathan-and-i/">Nathan and I</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/11/30/nathan-and-i/">Nathan and I</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">Nov. 30, 2006<br />
@@ -55,18 +55,18 @@
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">I don</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/30/nathan-and-i/">Nathan and I</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/11/30/nathan-and-i/">Nathan and I</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/11/30/nathan-and-i/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/30/nathan-and-i/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Roving to Monrovia</title>
-		<link>https://1947project.com/2006/11/25/roving-to-monrovia/</link>
-					<comments>https://1947project.com/2006/11/25/roving-to-monrovia/#respond</comments>
+		<link>/2006/11/25/roving-to-monrovia/</link>
+					<comments>/2006/11/25/roving-to-monrovia/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 25 Nov 2006 16:25:05 +0000</pubDate>
@@ -77,8 +77,8 @@
 		<category><![CDATA[John C. Rupp]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the&#8230; <a class="more-link" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the &#8230; <a href="/2006/11/25/roving-to-monrovia/" class="more-link">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1124.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 353px; height: 280px;" src="//www.lmharnisch.com/images/1907_1124.jpg" alt="" border="0" /></a>Nov. 24, 1907<br />
@@ -92,18 +92,18 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">I had a brief chat with the homeowner who gave me a tour of the grounds. He said that Rupp, a financier, built the home for his wife, but that she decided it was too far from Los Angeles and wouldn</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/11/25/roving-to-monrovia/">Roving to Monrovia</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Burning Bridges</title>
-		<link>https://1947project.com/2006/07/25/burning-bridges/</link>
-					<comments>https://1947project.com/2006/07/25/burning-bridges/#respond</comments>
+		<link>/2006/07/25/burning-bridges/</link>
+					<comments>/2006/07/25/burning-bridges/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2006 18:22:24 +0000</pubDate>
@@ -115,7 +115,7 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>July 25, 1907 Arcadia, Calif. Despite the efforts of 75 volunteer firefighters, a blaze rapidly consumed a 150-foot wooden bridge on Foothill Boulevard over the Santa Anita between Arcadia and Monrovia. Although the firefighters had a chemical apparatus,</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size: 100%;">July 25, 1907<br />
@@ -125,10 +125,10 @@ that it is still standing and in beautiful condition. In fact, it was nice to di
 </span><span style="font-size: 100%;"><br />
 </span><span style="font-size: 100%;">Although the firefighters had a chemical apparatus, </span></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/07/25/burning-bridges/">Burning Bridges</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/07/25/burning-bridges/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/07/25/burning-bridges/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

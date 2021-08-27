@@ -12,8 +12,8 @@
 
 <channel>
 	<title>rats &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/rats/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/rats/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:38:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>rats &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>His Bags are Being Sent</title>
-		<link>https://1947project.com/2006/10/03/his-bags-are-being-sent/</link>
-					<comments>https://1947project.com/2006/10/03/his-bags-are-being-sent/#respond</comments>
+		<link>/2006/10/03/his-bags-are-being-sent/</link>
+					<comments>/2006/10/03/his-bags-are-being-sent/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 03 Oct 2006 18:15:09 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[Van Nuys Hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 3, 1907Los Angeles During tonight&#8217;s dinnertime&#8212;the fashionable hour for society at the Hotel Van Nuys at Fourth and Main (Morgan &#38; Walls, 1896) a furry friend decided to hobnob with the upper crust.&#160; Strolling in through the Fourth Street entrance like the most gracious of chaps, of which there were many in the lobby,&#8230; <a class="more-link" href="https://1947project.com/2006/10/03/his-bags-are-being-sent/">Continue reading <span class="screen-reader-text">His Bags are Being Sent</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/03/his-bags-are-being-sent/">His Bags are Being Sent</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>October 3, 1907Los Angeles During tonight&#8217;s dinnertime&#8212;the fashionable hour for society at the Hotel Van Nuys at Fourth and Main (Morgan &#38; Walls, 1896) a furry friend decided to hobnob with the upper crust.&#160; Strolling in through the Fourth Street entrance like the most gracious of chaps, of which there were many in the lobby, &#8230; <a href="/2006/10/03/his-bags-are-being-sent/" class="more-link">Continue reading <span class="screen-reader-text">His Bags are Being Sent</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/10/03/his-bags-are-being-sent/">His Bags are Being Sent</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/03/his-bags-are-being-sent/">His Bags are Being Sent</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/10/03/his-bags-are-being-sent/">His Bags are Being Sent</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/10/03/his-bags-are-being-sent/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/03/his-bags-are-being-sent/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>rss &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/author/rss-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/author/rss-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Mon, 06 Aug 2007 13:52:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,39 +24,39 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>rss &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>I hate this</title>
-		<link>https://1947project.com/2007/08/06/i-hate-this/</link>
-					<comments>https://1947project.com/2007/08/06/i-hate-this/#respond</comments>
+		<link>/2007/08/06/i-hate-this/</link>
+					<comments>/2007/08/06/i-hate-this/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Mon, 06 Aug 2007 13:52:02 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>I hate when the engine does not work well.</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/i-hate-this/">I hate this</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/08/06/i-hate-this/">I hate this</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>I hate when the engine does not work well.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/06/i-hate-this/">I hate this</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/08/06/i-hate-this/">I hate this</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/08/06/i-hate-this/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/08/06/i-hate-this/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Crimebo on Jack &#038; Ali Show</title>
-		<link>https://1947project.com/2006/08/02/crimebo-on-jack-ali-show/</link>
-					<comments>https://1947project.com/2006/08/02/crimebo-on-jack-ali-show/#respond</comments>
+		<link>/2006/08/02/crimebo-on-jack-ali-show/</link>
+					<comments>/2006/08/02/crimebo-on-jack-ali-show/#respond</comments>
 		
 		<dc:creator><![CDATA[rss]]></dc:creator>
 		<pubDate>Wed, 02 Aug 2006 06:32:41 +0000</pubDate>
@@ -66,7 +66,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Listen to the podcast of Crimebo the Clown, Courtesy of Spin Talk with Jack &#38; Ali on Spin 1038 in Dublin, Ireland. Subscribe to the channel, and stay in tune.</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/02/crimebo-on-jack-ali-show/">Crimebo on Jack &#038; Ali Show</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/08/02/crimebo-on-jack-ali-show/">Crimebo on Jack &#038; Ali Show</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -74,10 +74,10 @@
 <p>Subscribe to the <a href="https://feeds.feedburner.com/1947project">channel</a>, and stay in tune.</p>
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/02/crimebo-on-jack-ali-show/">Crimebo on Jack &#038; Ali Show</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/08/02/crimebo-on-jack-ali-show/">Crimebo on Jack &#038; Ali Show</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/08/02/crimebo-on-jack-ali-show/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/02/crimebo-on-jack-ali-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>carl kozlowski &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/carl-kozlowski/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/carl-kozlowski/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>carl kozlowski &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Pasadena Weekly Puts Crimebo and Pals on its Cover</title>
-		<link>https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/</link>
-					<comments>https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/#respond</comments>
+		<link>/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/</link>
+					<comments>/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2006 14:29:02 +0000</pubDate>
@@ -51,7 +51,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>All the world loves a clown&#8230; especially a Crime clown! And when the editor of Pasadena Weekly heard about Crimebo, he upgraded Carl Kozlowski&#8217;s planned feature on the Pasadena Confidential tour from the arts section to the cover! Sneak a peek, online or in person, and don&#8217;t miss Matt Craig&#8217;s evocative photos.</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -60,10 +60,10 @@
 <p> <a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/205715991/"><img loading="lazy" width="275" height="412" border="0" alt="1947project in the Pasadena Weekly interior" src="//static.flickr.com/75/205715991_c4999cb37b_o.jpg" /></a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/">Pasadena Weekly Puts Crimebo and Pals on its Cover</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/03/pasadena-weekly-puts-crimebo-and-pals-on-its-cover/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

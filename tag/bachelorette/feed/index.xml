@@ -12,8 +12,8 @@
 
 <channel>
 	<title>bachelorette &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/bachelorette/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/bachelorette/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:48:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>bachelorette &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Book Crimebo For Your Event</title>
-		<link>https://1947project.com/2006/08/09/book-crimebo-for-your-event/</link>
-					<comments>https://1947project.com/2006/08/09/book-crimebo-for-your-event/#respond</comments>
+		<link>/2006/08/09/book-crimebo-for-your-event/</link>
+					<comments>/2006/08/09/book-crimebo-for-your-event/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 09 Aug 2006 19:27:40 +0000</pubDate>
@@ -50,8 +50,8 @@
 		<category><![CDATA[party]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit his page at Esotouric. Interested? Contact us with any questions, or to ask if&#8230; <a class="more-link" href="https://1947project.com/2006/08/09/book-crimebo-for-your-event/">Continue reading <span class="screen-reader-text">Book Crimebo For Your Event</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit his page at Esotouric. Interested? Contact us with any questions, or to ask if &#8230; <a href="/2006/08/09/book-crimebo-for-your-event/" class="more-link">Continue reading <span class="screen-reader-text">Book Crimebo For Your Event</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,10 +59,10 @@
 <p>Interested? <a target="_blank" href="https://www.47upgradepath7.richardschave.com//feedback">Contact us</a> with any questions, or to ask if your desired date and time are available. If you want the personalized touch, please include dates of the honoree&#8217;s birthday or anniversary (if different from the event date), so Crimebo can research all the terrible things that happened on that date. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/08/09/book-crimebo-for-your-event/">Book Crimebo For Your Event</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/08/09/book-crimebo-for-your-event/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/09/book-crimebo-for-your-event/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

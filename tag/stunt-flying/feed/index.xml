@@ -12,8 +12,8 @@
 
 <channel>
 	<title>stunt flying &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/stunt-flying/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/stunt-flying/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:35:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>stunt flying &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The REAL Aviator</title>
-		<link>https://1947project.com/2008/02/10/the-real-aviator/</link>
-					<comments>https://1947project.com/2008/02/10/the-real-aviator/#respond</comments>
+		<link>/2008/02/10/the-real-aviator/</link>
+					<comments>/2008/02/10/the-real-aviator/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 10 Feb 2008 00:09:56 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[stunt flying]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>February 9, 1927Los Angeles Sure, while we&#8217;ve repeatedly reported to you about blindfolded drivings&#8212;today was announced something that actually guarantees splintering wood and crunching metal. &#160; Finley Henderson has a really good idea:&#160; dive an airplane from a height of 1,000 feet, clip the wings from the machine between two telegraph poles, and crash into&#8230; <a class="more-link" href="https://1947project.com/2008/02/10/the-real-aviator/">Continue reading <span class="screen-reader-text">The REAL Aviator</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/10/the-real-aviator/">The REAL Aviator</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>February 9, 1927Los Angeles Sure, while we&#8217;ve repeatedly reported to you about blindfolded drivings&#8212;today was announced something that actually guarantees splintering wood and crunching metal. &#160; Finley Henderson has a really good idea:&#160; dive an airplane from a height of 1,000 feet, clip the wings from the machine between two telegraph poles, and crash into &#8230; <a href="/2008/02/10/the-real-aviator/" class="more-link">Continue reading <span class="screen-reader-text">The REAL Aviator</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/02/10/the-real-aviator/">The REAL Aviator</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>But wasn&rsquo;t that part of the <a title="TGWP" target="_blank" href="https://www.youtube.com/watch?v=sfZhXhCGwEA">thrill</a>?&nbsp; No wonder we went into a depression.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/02/10/the-real-aviator/">The REAL Aviator</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/02/10/the-real-aviator/">The REAL Aviator</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/02/10/the-real-aviator/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/02/10/the-real-aviator/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

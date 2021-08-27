@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Nathan Marsak &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/author/nathan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/author/nathan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Mon, 27 Jun 2016 14:15:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,49 +24,49 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Nathan Marsak &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A LAVA Sunday Salon extra: Nathan Marsak on L.A. Noire</title>
-		<link>https://1947project.com/2011/06/19/lanoirelava/</link>
-					<comments>https://1947project.com/2011/06/19/lanoirelava/#respond</comments>
+		<link>/2011/06/19/lanoirelava/</link>
+					<comments>/2011/06/19/lanoirelava/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 19 Jun 2011 22:07:02 +0000</pubDate>
 				<category><![CDATA[nathan marsak]]></category>
 		<guid isPermaLink="false">https://www.1947project.com/?p=5957</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2011/06/19/lanoirelava/">A LAVA Sunday Salon extra: Nathan Marsak on L.A. Noire</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/2011/06/19/lanoirelava/">A LAVA Sunday Salon extra: Nathan Marsak on L.A. Noire</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><iframe loading="lazy" src="https://www.youtube.com/embed/NtHApfPImlM" frameborder="0" width="560" height="349"></iframe></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2011/06/19/lanoirelava/">A LAVA Sunday Salon extra: Nathan Marsak on L.A. Noire</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2011/06/19/lanoirelava/">A LAVA Sunday Salon extra: Nathan Marsak on L.A. Noire</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2011/06/19/lanoirelava/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/06/19/lanoirelava/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Interesting/Painful</title>
-		<link>https://1947project.com/2011/05/17/interesting-painful/</link>
-					<comments>https://1947project.com/2011/05/17/interesting-painful/#respond</comments>
+		<link>/2011/05/17/interesting-painful/</link>
+					<comments>/2011/05/17/interesting-painful/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 17 May 2011 22:34:20 +0000</pubDate>
 				<category><![CDATA[Natural Disasters]]></category>
 		<guid isPermaLink="false">https://www.1947project.com/?p=5976</guid>
 
-					<description><![CDATA[<p>The Great Day is upon us. Few weeks back I penned a review of LA Noire which has since had a few thousand page reads.&#160; Our piece generated interest only because I&#8217;d played the game so early.&#160; Still, must confess to being enamored of the reaction it received.&#160; It can be interesting/painful to read was&#8230; <a class="more-link" href="https://1947project.com/2011/05/17/interesting-painful/">Continue reading <span class="screen-reader-text">Interesting/Painful</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2011/05/17/interesting-painful/">Interesting/Painful</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The Great Day is upon us. Few weeks back I penned a review of LA Noire which has since had a few thousand page reads.&#160; Our piece generated interest only because I&#8217;d played the game so early.&#160; Still, must confess to being enamored of the reaction it received.&#160; It can be interesting/painful to read was &#8230; <a href="/2011/05/17/interesting-painful/" class="more-link">Continue reading <span class="screen-reader-text">Interesting/Painful</span></a></p>
+<p>The post <a rel="nofollow" href="/2011/05/17/interesting-painful/">Interesting/Painful</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>The Great Day is upon us.</p>
-<p>Few weeks back I penned <a title="47PpLAN" href="/web/20160314090107/https://1947project.com/47PplaysLANoire" target="_blank">a review of <em>LA Noire</em></a> which has since had a few thousand page reads.&nbsp; Our piece generated interest only because I&#8217;d played the game so early.&nbsp; Still, must confess to being enamored of the reaction it received.&nbsp;</p>
+<p>Few weeks back I penned <a title="47PpLAN" href="/web/20160314090107//47PplaysLANoire" target="_blank">a review of <em>LA Noire</em></a> which has since had a few thousand page reads.&nbsp; Our piece generated interest only because I&#8217;d played the game so early.&nbsp; Still, must confess to being enamored of the reaction it received.&nbsp;</p>
 <p><em>It can be interesting/painful to read</em> was the <a title="painfullyinteresting" href="/web/20160314090107/https://messages.finance.yahoo.com/Stocks_%28A_to_Z%29/Stocks_T/threadview?m=tm&amp;bn=51309&amp;tid=58285&amp;mid=58354&amp;tof=1&amp;rt=2&amp;frt=2&amp;off=1" target="_blank">standout</a>:&nbsp; in that my historical interpretation was <em>interesting</em>, as such must infer <em>painful</em> did not connote my words were mere product of yr average monograph-producing dullard whose role as an academic historian serves no-one but his colleague.&nbsp; Don&#8217;t get me wrong<span style="font-size: 12pt; font-family: 'Times New Roman';">â€”</span>most of my work is performed for a small circle in allied studies<span style="font-size: 12pt; font-family: 'Times New Roman';">â€”</span>but the social function of critiquing <em>LA Noire</em> I take as a solemn task.&nbsp; In any event, I&#8217;m going to consider <em>painful</em> as synonymous with <em>challenging</em>.&nbsp; (&#8220;Blogging&#8221; <em>Noire</em> makes the process all the more important and aggravating&#8230;that I subconsciously include but consciously reject Sherman Kent&#8217;s <em>Writing History; </em>never thought I&#8217;d have to grapple with <em>that</em>.)&nbsp;</p>
 <p>My critique of <em>Noire</em> resulted in a little behind-the-scenes action, as you might imagine.&nbsp; Actually, I don&#8217;t know <em>what</em> you might imagine.&nbsp; Probably some dime-novel enantiodromia:&nbsp; &#8220;Rockstar worked so hard on recreating the world of 1947 Los Angeles, they may&#8217;ve well given us a game about dragging an oxcart through the Duchy of Lotharingia.&#8221;&nbsp; Nope, never implied that, nor did R* have to send their dime-novel goons after me either.&nbsp; Rather, now that the reviews are coming in fast and furious, it looks like they have their issues.&nbsp; And I have mine.&nbsp; Overall, me and the conventional reviewer are both quite positive.&nbsp; I, however, represent that previously unthought-of, unrecognized, and underutilized market:&nbsp; the first-time gamer.&nbsp; Who knew?</p>
 <p>Anyway&#8230;as I aimlessly occupy myself like everyone else for said game to be released in a coupla hours, we&#8217;ll amuse ourselves by playing &#8220;Critique the Critiques!&#8221;&nbsp; (Which I must admit is rather pointless as everyone who might read this once it&#8217;s posted will be glued to their consoles, chasing bad guys <a title="URM" href="/web/20160314090107/https://digitallibrary.usc.edu/assetserver/controller/view/DW-B5-52A-15-ISLA" target="_blank">up Main St</a>.)</p>
@@ -94,48 +94,48 @@
 <p>But I can&#8217;t turn a blind eye to LA Noire.&nbsp; The concept is too engrossing, my need too enveloping.&nbsp; I wrote in my previous piece of the game&#8217;s relationship to historiography.&nbsp; At this point, in a fever to amble into 1947, any further writing on the subject would more be akin to hagiography.&nbsp; After which the aforementioned &#8220;painful&#8221; epithet would be hurled with deserved, less subjective abandon.&nbsp; </p>
 <p>So tomorrow begins.&nbsp; I know it will be a succulent adventure, thick with wonder; at its best, I know it will be an interesting/painful journey.&nbsp;</p>
 <p>That&#8217;s all I ever asked.</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2011/05/17/interesting-painful/">Interesting/Painful</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2011/05/17/interesting-painful/">Interesting/Painful</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2011/05/17/interesting-painful/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/05/17/interesting-painful/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Day One:  The Arrival</title>
-		<link>https://1947project.com/2011/05/17/thearrival/</link>
-					<comments>https://1947project.com/2011/05/17/thearrival/#respond</comments>
+		<link>/2011/05/17/thearrival/</link>
+					<comments>/2011/05/17/thearrival/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 17 May 2011 22:32:28 +0000</pubDate>
 				<category><![CDATA[nathan marsak]]></category>
 		<guid isPermaLink="false">https://www.1947project.com/?p=5974</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2011/05/17/thearrival/">Day One:  The Arrival</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/2011/05/17/thearrival/">Day One:  The Arrival</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><img loading="lazy" src="/web/20160314090107im_/https://farm6.static.flickr.com/5065/5732029605_9a4b8d9c6f_b.jpg" alt="gunneddown" width="600" height="400" /></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2011/05/17/thearrival/">Day One:  The Arrival</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2011/05/17/thearrival/">Day One:  The Arrival</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2011/05/17/thearrival/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/05/17/thearrival/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>1947project plays LA Noire</title>
-		<link>https://1947project.com/2011/04/20/47pplayslanoire/</link>
-					<comments>https://1947project.com/2011/04/20/47pplayslanoire/#respond</comments>
+		<link>/2011/04/20/47pplayslanoire/</link>
+					<comments>/2011/04/20/47pplayslanoire/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Wed, 20 Apr 2011 22:38:50 +0000</pubDate>
 				<category><![CDATA[nathan marsak]]></category>
 		<guid isPermaLink="false">https://www.1947project.com/?p=5979</guid>
 
-					<description><![CDATA[<p>Greetings, 47fans!&#160; Been three years since our last post here, five-plus since those of the 1947 variety in particular.&#160; Of course post-47project there&#8217;s been On Bunker Hill and In SRO Land and many other adventures.&#160; But now it&#8217;s back to 1947&#8211;and why revisit that storied year of LA noir? LA Noire. Unless you&#8217;ve been under&#8230; <a class="more-link" href="https://1947project.com/2011/04/20/47pplayslanoire/">Continue reading <span class="screen-reader-text">1947project plays LA Noire</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2011/04/20/47pplayslanoire/">1947project plays LA Noire</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Greetings, 47fans!&#160; Been three years since our last post here, five-plus since those of the 1947 variety in particular.&#160; Of course post-47project there&#8217;s been On Bunker Hill and In SRO Land and many other adventures.&#160; But now it&#8217;s back to 1947&#8211;and why revisit that storied year of LA noir? LA Noire. Unless you&#8217;ve been under &#8230; <a href="/2011/04/20/47pplayslanoire/" class="more-link">Continue reading <span class="screen-reader-text">1947project plays LA Noire</span></a></p>
+<p>The post <a rel="nofollow" href="/2011/04/20/47pplayslanoire/">1947project plays LA Noire</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Greetings, 47fans!&nbsp;</p>
 <p>Been three years since our last post here, five-plus since those of the <a title="47p" href="https://1947project.blogspot.com/" target="_blank">1947 variety</a> in particular.&nbsp; Of course post-47project there&#8217;s been <a title="obh" href="https://onbunkerhill.org/" target="_blank"><em>On Bunker Hill</em></a> and <a title="insroland" href="https://www.insroland.org/" target="_blank"><em>In SRO Land</em></a> and many <a title="savethe76" href="https://www.savethe76ball.com/" target="_blank">other adventures</a>.&nbsp; But now it&#8217;s back to 1947&#8211;and why revisit that storied year of LA noir?<em> LA Noire.</em></p>
@@ -166,7 +166,7 @@
 <p>But it was the <a title="sa" href="https://jpg1.lapl.org/pics26/00032670.jpg" target="_blank">Spring Arcade</a>&#8230;that really showed me the true virtue of the game.&nbsp; I was busy crashing Chryslers, gazing gape-mouthed as I pummeled pedestrians, blah dee blah, video game stuff, when I <em>screeeee</em> parked my car lengthwise across Broadway.&nbsp; Exited said car, walked with dedicated purpose across the street &#8212; traffic came to a halt, ladies in veils waved their begloved fists at me &#8212; and I stepped into the quietude of the Spring Arcade.&nbsp; It was a revelation.&nbsp; Deep into our maniacal race to experience all we could see in this recreated world, I was now in the Arcade sans crap electronics and discount socks:&nbsp; a place of peace and elegance, as anathematic to 1947 as it is to 2011.&nbsp; People of 2011 (that&#8217;s you) can and should traverse what is LA&#8217;s most sublime space.&nbsp; That you may imagine its former glory, courtesy of and via this game, is rather lovely. </p>
 <p>Would that it were all hearts and rainbows, though.&nbsp; There were problems:&nbsp;</p>
 <p>The Westminster lacked its trademark sunburst <a title="westminster" href="https://farm6.static.flickr.com/5269/5638709909_5b9f898920_b.jpg" target="_blank">canopies</a>.&nbsp; And consider <a title="San Carlos" href="https://onbunkerhill.org/Auditorium/SanCarlosHotel" target="_blank">the San Carlos</a>:&nbsp; in the <em>Noire</em> version of &#8217;47 reality, the San Carlos exists, structurally, somewhere between its original &#8220;wedding cake&#8221; incarnation of 1911 and its 1930s cleanlining, i.e., there was an apparent misalignment in the matter transporter integrator/disentgrator device (shameless plug for the &#8217;58 version of <a title="fly" href="https://www.youtube.com/watch?v=621mwvO_-Zc" target="_blank">The Fly</a>) because here the San Carlos retains its Auditorium-era finials, though in a mutated streamline version.&nbsp; Weird.</p>
-<p>Also, the <a title="thehip" href="https://i132.photobucket.com/albums/q12/kencmcintyre/HPIM0489.jpg" target="_blank">Hippodrome</a> has been depicted as a structure separate from the Westminster.&nbsp; Across the street was of course <a title="follies" href="https://1947project.com/tags/follies" target="_blank">The Follies</a>, which has here been mistakenly represented as a motion-picture house, instead of as a burlesque-eteria:&nbsp; its bump-n-grind 1947 reality would have actually made this landscape more noir.&nbsp; (I might add that in <em>Noire&#8217;s</em> world LA&#8217;s picture-houses, according to their maquees, featured the same few 1947 noir films, and ignored the dictate of Warner&#8217;s showing Warners, RKO showing theirs, etc.)&nbsp;</p>
+<p>Also, the <a title="thehip" href="https://i132.photobucket.com/albums/q12/kencmcintyre/HPIM0489.jpg" target="_blank">Hippodrome</a> has been depicted as a structure separate from the Westminster.&nbsp; Across the street was of course <a title="follies" href="/tags/follies" target="_blank">The Follies</a>, which has here been mistakenly represented as a motion-picture house, instead of as a burlesque-eteria:&nbsp; its bump-n-grind 1947 reality would have actually made this landscape more noir.&nbsp; (I might add that in <em>Noire&#8217;s</em> world LA&#8217;s picture-houses, according to their maquees, featured the same few 1947 noir films, and ignored the dictate of Warner&#8217;s showing Warners, RKO showing theirs, etc.)&nbsp;</p>
 <p>Where was the Follies&#8217; neighbor <a title="Goodfellows Grotto" href="https://latimesblogs.latimes.com/thedailymirror/2008/03/main-street.html" target="_blank">Goodfellow&#8217;s Grotto</a>, touchstone of the time?&nbsp;&nbsp; And, to this day, along the backside of the Barclay, there exists a magnificent <a title="ghoooooost sign" href="https://farm6.static.flickr.com/5149/5637481680_83ba7a758e_o.jpg" target="_blank">ghost sign</a>, sad to see the gamefolk didn&#8217;t record it &#8212; the IN Van Nuys hotel had become the <a title="barclay" href="https://digitallibrary.usc.edu/assetserver/controller/view/DW-B5-52B-11-ISLA" target="_blank">Barclay</a> a full decade before 1947: so, where was the thing?&nbsp; It&#8217;s not like Team Bondi wasn&#8217;t there to photographic it:&nbsp; we all followed the tale of their <a title="barclay" href="https://www.rockstargames.com/newswire/article/13361/behind-the-scenes-of-la-noires-painstaking-production-design-par.html" target="_blank">rummaging through the hotel</a>.&nbsp;&nbsp; The <a title="finneys" href="https://bigorangelandmarks.blogspot.com/2008/04/no-137-finneys-cafeteria.html" target="_blank">Chocolate Shop</a> was an empty lot.&nbsp; The Baltimore Hotel was missing its blade signage (crimininally dumpstered a decade ago), but, most shockingly, <a title="KE" href="https://jpg1.lapl.org/pics39/00039456.jpg" target="_blank">King Eddie</a> was utterly absent.&nbsp; (Which is absolutely mystifying in that it stands there to this day in all its glory.&nbsp; Perhaps it&#8217;s just not in this &#8220;build?&#8221;)&nbsp; <a title="monarch" href="https://onbunkerhill.org/TheMonarch" target="_blank">The Monarch</a> was also plucked from the landscape.&nbsp; Odd.&nbsp;</p>
 <p>Some examples. <a title="grab" href="https://www.rockstargames.com/lanoire/screens/album/2511/21131/" target="_blank">Here</a>&#8216;s a screengrab from their site.</p>
 <p><img loading="lazy" src="//farm6.static.flickr.com/5149/5637481742_c037675912_o.jpg" alt="lanoire image" width="600" height="334" /></p>
@@ -197,18 +197,18 @@
 <p><strong>__</strong></p>
 <p><strong>Reserve to take Nathan Marsak&#8217;s free downtown&nbsp;<em>L.A. Noire</em> walking tour on May 29. Details <a href="https://lavatransforms.org/flaneur-lanoire" target="_blank">here</a>.&nbsp;</strong></p>
 <p>&nbsp;</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2011/04/20/47pplayslanoire/">1947project plays LA Noire</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2011/04/20/47pplayslanoire/">1947project plays LA Noire</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2011/04/20/47pplayslanoire/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/04/20/47pplayslanoire/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In the Line of Duty</title>
-		<link>https://1947project.com/2008/03/15/in-the-line-of-duty-2/</link>
-					<comments>https://1947project.com/2008/03/15/in-the-line-of-duty-2/#respond</comments>
+		<link>/2008/03/15/in-the-line-of-duty-2/</link>
+					<comments>/2008/03/15/in-the-line-of-duty-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:17:06 +0000</pubDate>
@@ -221,8 +221,8 @@
 		<category><![CDATA[Volstead Act]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 16, 1927 Los Angeles If the drys are gonna catch the wets, theyÃ¢â‚¬â„¢re gonna have to wet themselves. So to speak. At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">Continue reading <span class="screen-reader-text">In the Line of Duty</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 16, 1927 Los Angeles If the drys are gonna catch the wets, theyÃ¢â‚¬â„¢re gonna have to wet themselves. So to speak. At the trial of John H. Wyncoop, former chief field agent for the boys of the California/Arizona Federal Prohibition Enforcement Department, Wyncoop said Ã¢â‚¬Å“I knew that if I had liquor in my possession &#8230; <a href="/2008/03/15/in-the-line-of-duty-2/" class="more-link">Continue reading <span class="screen-reader-text">In the Line of Duty</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -240,18 +240,18 @@ At the trial of John H. Wyncoop, former chief field agent for the boys of the Ca
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/15/in-the-line-of-duty-2/">In the Line of Duty</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/15/in-the-line-of-duty-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/15/in-the-line-of-duty-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Behind Every Great Man&#8230;</title>
-		<link>https://1947project.com/2008/03/15/behind-every-great-man/</link>
-					<comments>https://1947project.com/2008/03/15/behind-every-great-man/#respond</comments>
+		<link>/2008/03/15/behind-every-great-man/</link>
+					<comments>/2008/03/15/behind-every-great-man/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:08:18 +0000</pubDate>
@@ -262,8 +262,8 @@ At the trial of John H. Wyncoop, former chief field agent for the boys of the Ca
 		<category><![CDATA[Clarence Brown]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; &#160; March 16, 1927 Los Angeles &#160; &#160; &#160; Clarence and Ona Brown were married in 1922, but now Ona wants a divorce. Ã¢â‚¬Å“When I married him,Ã¢â‚¬Â said Mrs. Brown, while weeping bitterly during her testimony before Judge Summerfield, Ã¢â‚¬Å“he was a second-rate assistant director, and I made a director out of him. That&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/behind-every-great-man/">Continue reading <span class="screen-reader-text">Behind Every Great Man&#8230;</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; &#160; March 16, 1927 Los Angeles &#160; &#160; &#160; Clarence and Ona Brown were married in 1922, but now Ona wants a divorce. Ã¢â‚¬Å“When I married him,Ã¢â‚¬Â said Mrs. Brown, while weeping bitterly during her testimony before Judge Summerfield, Ã¢â‚¬Å“he was a second-rate assistant director, and I made a director out of him. That &#8230; <a href="/2008/03/15/behind-every-great-man/" class="more-link">Continue reading <span class="screen-reader-text">Behind Every Great Man&#8230;</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -327,18 +327,18 @@ Think of <em>that</em> the next time you watch &quot;<a href="https://www.youtub
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/15/behind-every-great-man/">Behind Every Great Man&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/15/behind-every-great-man/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/15/behind-every-great-man/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Grossery Shopping</title>
-		<link>https://1947project.com/2008/03/15/grossery-shopping/</link>
-					<comments>https://1947project.com/2008/03/15/grossery-shopping/#respond</comments>
+		<link>/2008/03/15/grossery-shopping/</link>
+					<comments>/2008/03/15/grossery-shopping/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:05:18 +0000</pubDate>
@@ -349,8 +349,8 @@ Think of <em>that</em> the next time you watch &quot;<a href="https://www.youtub
 		<category><![CDATA[grocery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 1927 Los Angeles Traditionally, the term greengrocer refers to a retail tradesperson who sells fresh fruits and vegetables. Should you be down on Temple Street, you might find grocer Edith Green to be a greengrocer of the green meat variety. Mmmm. Heck, even her Temple Street neighbor Abraham Margolis purveys criminally suspect comestibles.&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/grossery-shopping/">Continue reading <span class="screen-reader-text">Grossery Shopping</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 15, 1927 Los Angeles Traditionally, the term greengrocer refers to a retail tradesperson who sells fresh fruits and vegetables. Should you be down on Temple Street, you might find grocer Edith Green to be a greengrocer of the green meat variety. Mmmm. Heck, even her Temple Street neighbor Abraham Margolis purveys criminally suspect comestibles. &#8230; <a href="/2008/03/15/grossery-shopping/" class="more-link">Continue reading <span class="screen-reader-text">Grossery Shopping</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -367,18 +367,18 @@ Los Angeles</p>
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/15/grossery-shopping/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/15/grossery-shopping/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Dyak Go Green</title>
-		<link>https://1947project.com/2008/03/09/the-dyak-go-green/</link>
-					<comments>https://1947project.com/2008/03/09/the-dyak-go-green/#respond</comments>
+		<link>/2008/03/09/the-dyak-go-green/</link>
+					<comments>/2008/03/09/the-dyak-go-green/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 09 Mar 2008 21:03:27 +0000</pubDate>
@@ -389,8 +389,8 @@ Los Angeles</p>
 		<category><![CDATA[head hunting]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 9, 1927 Borneo On the one hand, the Dutch governmentÃ¢â‚¬â„¢s Eurocentric cultural imperialism is wiping out the native culture of Borneo; on the other, theyÃ¢â‚¬â„¢re teaching headhunters the benefits of recycling. The Dyak have long needed a nice fresh human caput for any and every sort of local ritual, but the generations-long war against&#8230; <a class="more-link" href="https://1947project.com/2008/03/09/the-dyak-go-green/">Continue reading <span class="screen-reader-text">The Dyak Go Green</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/09/the-dyak-go-green/">The Dyak Go Green</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 9, 1927 Borneo On the one hand, the Dutch governmentÃ¢â‚¬â„¢s Eurocentric cultural imperialism is wiping out the native culture of Borneo; on the other, theyÃ¢â‚¬â„¢re teaching headhunters the benefits of recycling. The Dyak have long needed a nice fresh human caput for any and every sort of local ritual, but the generations-long war against &#8230; <a href="/2008/03/09/the-dyak-go-green/" class="more-link">Continue reading <span class="screen-reader-text">The Dyak Go Green</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/09/the-dyak-go-green/">The Dyak Go Green</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -415,18 +415,18 @@ Closer to home, LAPD became head-hunters of another kind when in January 1939, <
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/09/the-dyak-go-green/">The Dyak Go Green</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/09/the-dyak-go-green/">The Dyak Go Green</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/09/the-dyak-go-green/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/09/the-dyak-go-green/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Of Pachydermatae and Murder</title>
-		<link>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/</link>
-					<comments>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/#respond</comments>
+		<link>/2008/03/02/of-pachydermatae-and-murder/</link>
+					<comments>/2008/03/02/of-pachydermatae-and-murder/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 02 Mar 2008 22:15:29 +0000</pubDate>
@@ -438,8 +438,8 @@ Closer to home, LAPD became head-hunters of another kind when in January 1939, <
 		<category><![CDATA[elephants]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 2, 1927 Los Angeles The Wonderly shooting of Emerson over an elephant&#8217;s affection has been continued until March 15th. George Ã¢â‚¬Å“ScottyÃ¢â‚¬Â Wonderly is the keeper of the bloodhounds for the studios, George Emerson, trainer of the lions at Universal City. The story has a Old West theme to it to boot: on 15 February&#8230; <a class="more-link" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Continue reading <span class="screen-reader-text">Of Pachydermatae and Murder</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 2, 1927 Los Angeles The Wonderly shooting of Emerson over an elephant&#8217;s affection has been continued until March 15th. George Ã¢â‚¬Å“ScottyÃ¢â‚¬Â Wonderly is the keeper of the bloodhounds for the studios, George Emerson, trainer of the lions at Universal City. The story has a Old West theme to it to boot: on 15 February &#8230; <a href="/2008/03/02/of-pachydermatae-and-murder/" class="more-link">Continue reading <span class="screen-reader-text">Of Pachydermatae and Murder</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -459,18 +459,18 @@ Here, Wonderly shows how his beloved raised its trunk&#8230;and went on to maint
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/02/of-pachydermatae-and-murder/">Of Pachydermatae and Murder</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/02/of-pachydermatae-and-murder/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/02/of-pachydermatae-and-murder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Great Phallusy</title>
-		<link>https://1947project.com/2008/03/02/the-great-phallusy/</link>
-					<comments>https://1947project.com/2008/03/02/the-great-phallusy/#respond</comments>
+		<link>/2008/03/02/the-great-phallusy/</link>
+					<comments>/2008/03/02/the-great-phallusy/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 02 Mar 2008 21:24:05 +0000</pubDate>
@@ -482,8 +482,8 @@ Here, Wonderly shows how his beloved raised its trunk&#8230;and went on to maint
 		<category><![CDATA[social history]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 1, 1927 Ã¢â‚¬Å“Feminism is destructive of womenÃ¢â‚¬â„¢s happiness,Ã¢â‚¬Â declares Gina Lombroso Ferrero, ItalyÃ¢â‚¬â„¢s first woman physician and daughter of Cesare Lombroso (who, with GinaÃ¢â‚¬â„¢s husband, wrote The Female Offender). You may know Gina as author of the Italian 1922 antifeminist classic The Soul of Woman. Ã¢â‚¬Å“It endeavors to bring women to the enjoyment of&#8230; <a class="more-link" href="https://1947project.com/2008/03/02/the-great-phallusy/">Continue reading <span class="screen-reader-text">The Great Phallusy</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/the-great-phallusy/">The Great Phallusy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 1, 1927 Ã¢â‚¬Å“Feminism is destructive of womenÃ¢â‚¬â„¢s happiness,Ã¢â‚¬Â declares Gina Lombroso Ferrero, ItalyÃ¢â‚¬â„¢s first woman physician and daughter of Cesare Lombroso (who, with GinaÃ¢â‚¬â„¢s husband, wrote The Female Offender). You may know Gina as author of the Italian 1922 antifeminist classic The Soul of Woman. Ã¢â‚¬Å“It endeavors to bring women to the enjoyment of &#8230; <a href="/2008/03/02/the-great-phallusy/" class="more-link">Continue reading <span class="screen-reader-text">The Great Phallusy</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/02/the-great-phallusy/">The Great Phallusy</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -503,10 +503,10 @@ March 1, 1927
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/02/the-great-phallusy/">The Great Phallusy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/02/the-great-phallusy/">The Great Phallusy</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/02/the-great-phallusy/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/02/the-great-phallusy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

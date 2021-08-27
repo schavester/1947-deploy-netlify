@@ -12,8 +12,8 @@
 
 <channel>
 	<title>kissing &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/kissing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/kissing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:38:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>kissing &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>More Mashers</title>
-		<link>https://1947project.com/2006/11/18/more-mashers/</link>
-					<comments>https://1947project.com/2006/11/18/more-mashers/#respond</comments>
+		<link>/2006/11/18/more-mashers/</link>
+					<comments>/2006/11/18/more-mashers/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 18 Nov 2006 06:27:37 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[mashing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>November 17, 1907Los Angeles &#160;Mashers are at work across Los Angeles, although those at Levy&#8217;s Caf&#233; certainly don&#8217;t have the cachet of a Caruso (or even of a Cazauran, I suspect) as reported on in Larry&#8217;s post below. This time it was the work of ruffians, an all-too infrequently used word, which we at 1947project&#8230; <a class="more-link" href="https://1947project.com/2006/11/18/more-mashers/">Continue reading <span class="screen-reader-text">More Mashers</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>November 17, 1907Los Angeles &#160;Mashers are at work across Los Angeles, although those at Levy&#8217;s Caf&#233; certainly don&#8217;t have the cachet of a Caruso (or even of a Cazauran, I suspect) as reported on in Larry&#8217;s post below. This time it was the work of ruffians, an all-too infrequently used word, which we at 1947project &#8230; <a href="/2006/11/18/more-mashers/" class="more-link">Continue reading <span class="screen-reader-text">More Mashers</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>&#8230;.could this be an Edwardian-era building, remuddled into unrecognizability?&nbsp; Well, it&rsquo;s late on a Friday night, or early on a Saturday morning, and I&rsquo;m not about to go out investigating.&nbsp; But if it is an old building, I can conjecture with certitude that its interior no longer looks like this. <img loading="lazy" width="555" height="353" border="0" align="right" src="//static.flickr.com/113/299858559_be7c0aff4a_o.jpg" alt="levysinterior" title="levysinterior" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/11/18/more-mashers/">More Mashers</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/11/18/more-mashers/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/18/more-mashers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

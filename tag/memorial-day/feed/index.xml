@@ -12,8 +12,8 @@
 
 <channel>
 	<title>memorial day &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/memorial-day/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/memorial-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:59:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>memorial day &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Memorial Day &#8212; 1927</title>
-		<link>https://1947project.com/2007/05/28/memorial-day-1927/</link>
-					<comments>https://1947project.com/2007/05/28/memorial-day-1927/#respond</comments>
+		<link>/2007/05/28/memorial-day-1927/</link>
+					<comments>/2007/05/28/memorial-day-1927/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Mon, 28 May 2007 03:17:52 +0000</pubDate>
@@ -43,15 +43,15 @@
 		<category><![CDATA[memorial day]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/28/memorial-day-1927/">Memorial Day &#8212; 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/2007/05/28/memorial-day-1927/">Memorial Day &#8212; 1927</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><img loading="lazy" title="memorial day" height="356" alt="memorial day" src="//farm1.static.flickr.com/234/517171211_5b3b38173c.jpg" width="410" align="middle" border="0" /></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/28/memorial-day-1927/">Memorial Day &#8212; 1927</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/05/28/memorial-day-1927/">Memorial Day &#8212; 1927</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/05/28/memorial-day-1927/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/28/memorial-day-1927/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

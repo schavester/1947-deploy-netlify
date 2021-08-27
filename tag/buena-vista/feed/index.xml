@@ -12,8 +12,8 @@
 
 <channel>
 	<title>buena vista &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/buena-vista/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/buena-vista/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>buena vista &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Historic Cobblestones Exposed in Lincoln Heights</title>
-		<link>https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/</link>
-					<comments>https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/#respond</comments>
+		<link>/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/</link>
+					<comments>/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Mon, 29 May 2006 04:46:50 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[street works]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 27, 2007 Los Angeles It is more than two weeks now since the graders came and removed the surface layer of the asphalt on Avenue 20, between Albion and Broadway, then went away without finishing their work. For all that time, the NO PARKING signs have hung on the telephone poles, and the regular&#8230; <a class="more-link" href="https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Continue reading <span class="screen-reader-text">Historic Cobblestones Exposed in Lincoln Heights</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 27, 2007 Los Angeles It is more than two weeks now since the graders came and removed the surface layer of the asphalt on Avenue 20, between Albion and Broadway, then went away without finishing their work. For all that time, the NO PARKING signs have hung on the telephone poles, and the regular &#8230; <a href="/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/" class="more-link">Continue reading <span class="screen-reader-text">Historic Cobblestones Exposed in Lincoln Heights</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -71,10 +71,10 @@
 <p>your pal,<br /> Kim&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/">Historic Cobblestones Exposed in Lincoln Heights</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/29/historic-cobblestones-exposed-in-lincoln-heights/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

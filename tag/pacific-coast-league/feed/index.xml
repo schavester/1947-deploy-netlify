@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Pacific Coast League &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/pacific-coast-league/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/pacific-coast-league/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:52:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Pacific Coast League &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Adieu to the Boys of Summer</title>
-		<link>https://1947project.com/2006/10/25/adieu-to-the-boys-of-summer/</link>
-					<comments>https://1947project.com/2006/10/25/adieu-to-the-boys-of-summer/#respond</comments>
+		<link>/2006/10/25/adieu-to-the-boys-of-summer/</link>
+					<comments>/2006/10/25/adieu-to-the-boys-of-summer/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 25 Oct 2006 14:46:33 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 25, 1907 Los Angeles lmharnisch.com lmharnisch.blogspot.com</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/25/adieu-to-the-boys-of-summer/">Adieu to the Boys of Summer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/10/25/adieu-to-the-boys-of-summer/">Adieu to the Boys of Summer</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-weight: bold;font-size:130%;" >Oct. 25, 1907<br />
@@ -54,10 +54,10 @@ Los Angeles</span></p>
 <a href="https://www.lmharnisch.com/">lmharnisch.com</a><br />
 <a href="https://lmharnisch.blogspot.com/">lmharnisch.blogspot.com </a></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/25/adieu-to-the-boys-of-summer/">Adieu to the Boys of Summer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/10/25/adieu-to-the-boys-of-summer/">Adieu to the Boys of Summer</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/10/25/adieu-to-the-boys-of-summer/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/25/adieu-to-the-boys-of-summer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

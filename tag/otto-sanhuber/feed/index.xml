@@ -12,8 +12,8 @@
 
 <channel>
 	<title>otto sanhuber &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/otto-sanhuber/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/otto-sanhuber/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:50:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>otto sanhuber &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Dahlia Days Podcast II</title>
-		<link>https://1947project.com/2006/03/14/dahlia-days-podcast-ii/</link>
-					<comments>https://1947project.com/2006/03/14/dahlia-days-podcast-ii/#respond</comments>
+		<link>/2006/03/14/dahlia-days-podcast-ii/</link>
+					<comments>/2006/03/14/dahlia-days-podcast-ii/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2006 18:52:33 +0000</pubDate>
@@ -50,16 +50,16 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest podcast.</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/14/dahlia-days-podcast-ii/">Dahlia Days Podcast II</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/03/14/dahlia-days-podcast-ii/">Dahlia Days Podcast II</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/03/14/dahlia-days-podcast-ii/">Dahlia Days Podcast II</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/03/14/dahlia-days-podcast-ii/">Dahlia Days Podcast II</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/03/14/dahlia-days-podcast-ii/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/03/14/dahlia-days-podcast-ii/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />

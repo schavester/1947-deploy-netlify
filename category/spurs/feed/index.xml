@@ -12,8 +12,8 @@
 
 <channel>
 	<title>spurs &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/spurs/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/spurs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>spurs &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Horse Abuse At the Fiesta</title>
-		<link>https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/</link>
-					<comments>https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/#respond</comments>
+		<link>/2006/05/09/horse-abuse-at-the-fiesta/</link>
+					<comments>/2006/05/09/horse-abuse-at-the-fiesta/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 09 May 2006 23:38:56 +0000</pubDate>
@@ -48,8 +48,8 @@
 		<category><![CDATA[spca]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 9, 1907 Los Angeles The spies of the SPCA were watching closely as the Fiesta electrical parade wound its way down Broadway last night, ready to spring forward in defense of the poor animals on whose shoulders so much of the festivities rests. Sure enough, rider W.S. Voorsanger was spotted at 2nd and Broadway,&#8230; <a class="more-link" href="https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/">Continue reading <span class="screen-reader-text">Horse Abuse At the Fiesta</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 9, 1907 Los Angeles The spies of the SPCA were watching closely as the Fiesta electrical parade wound its way down Broadway last night, ready to spring forward in defense of the poor animals on whose shoulders so much of the festivities rests. Sure enough, rider W.S. Voorsanger was spotted at 2nd and Broadway, &#8230; <a href="/2006/05/09/horse-abuse-at-the-fiesta/" class="more-link">Continue reading <span class="screen-reader-text">Horse Abuse At the Fiesta</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -59,10 +59,10 @@
 <p><em>Voorsanger</em>&#8230; isn&#8217;t that Dutch for &quot;to make bloody&quot;?&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/09/horse-abuse-at-the-fiesta/">Horse Abuse At the Fiesta</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/09/horse-abuse-at-the-fiesta/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/09/horse-abuse-at-the-fiesta/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

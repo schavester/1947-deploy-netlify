@@ -12,8 +12,8 @@
 
 <channel>
 	<title>perry parker &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/perry-parker/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/perry-parker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:39:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>perry parker &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Find The Fox!</title>
-		<link>https://1947project.com/2007/12/20/find-the-fox/</link>
-					<comments>https://1947project.com/2007/12/20/find-the-fox/#respond</comments>
+		<link>/2007/12/20/find-the-fox/</link>
+					<comments>/2007/12/20/find-the-fox/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 20 Dec 2007 18:47:42 +0000</pubDate>
@@ -50,8 +50,8 @@
 		<category><![CDATA[perry parker]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 20, 1927Los Angeles As police scour the Bellevue Arms apartment*of &#34;Donald Evans&#34; (an alias for Marion Parker&#8217;s purported slayer Edward Hickman, otherwise known as The Fox), they find portions of a chocolate cake, broken golf clubs, and dirty dishes suggesting a hurried departure. Marion&#8217;s father Perry, upon discovering that the suspect is a former&#8230; <a class="more-link" href="https://1947project.com/2007/12/20/find-the-fox/">Continue reading <span class="screen-reader-text">Find The Fox!</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/20/find-the-fox/">Find The Fox!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 20, 1927Los Angeles As police scour the Bellevue Arms apartment*of &#34;Donald Evans&#34; (an alias for Marion Parker&#8217;s purported slayer Edward Hickman, otherwise known as The Fox), they find portions of a chocolate cake, broken golf clubs, and dirty dishes suggesting a hurried departure. Marion&#8217;s father Perry, upon discovering that the suspect is a former &#8230; <a href="/2007/12/20/find-the-fox/" class="more-link">Continue reading <span class="screen-reader-text">Find The Fox!</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/12/20/find-the-fox/">Find The Fox!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>*attention, modern readers: the Bellevue Arms is the partly boarded up, expansive brick apartment building flush against the 101 freeway heading north out of downtown. The Fox&#8217; lair was upstairs in the middle rear of the Western, burned-out wing. If you decide to visit, you&#8217;ll come via Sunset Boulevard, and via&#8230; <strong>MARION</strong>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/12/20/find-the-fox/">Find The Fox!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/12/20/find-the-fox/">Find The Fox!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/12/20/find-the-fox/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/12/20/find-the-fox/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

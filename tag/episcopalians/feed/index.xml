@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Episcopalians &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/episcopalians/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/episcopalians/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:53:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Episcopalians &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>He Lives</title>
-		<link>https://1947project.com/2006/08/27/he-lives/</link>
-					<comments>https://1947project.com/2006/08/27/he-lives/#respond</comments>
+		<link>/2006/08/27/he-lives/</link>
+					<comments>/2006/08/27/he-lives/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2006 11:53:00 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[undertaker]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Manhattan Beach Aug. 27, 2006 Retired Episcopal minister the Rev. John Jewett, 83, wanted to die, so while staying with his son-in-law, J.D. Porter, he slit his throat with a razor. The undertaker was called, but when he arrived with his hearse, Jewett was still alive, although death was imminent. The undertaker went back to&#8230; <a class="more-link" href="https://1947project.com/2006/08/27/he-lives/">Continue reading <span class="screen-reader-text">He Lives</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/27/he-lives/">He Lives</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Manhattan Beach Aug. 27, 2006 Retired Episcopal minister the Rev. John Jewett, 83, wanted to die, so while staying with his son-in-law, J.D. Porter, he slit his throat with a razor. The undertaker was called, but when he arrived with his hearse, Jewett was still alive, although death was imminent. The undertaker went back to &#8230; <a href="/2006/08/27/he-lives/" class="more-link">Continue reading <span class="screen-reader-text">He Lives</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/08/27/he-lives/">He Lives</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0827.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 236px; height: 67px;" src="//www.lmharnisch.com/images/1907_0827.jpg" alt="" border="0" /></a><br />
@@ -61,10 +61,10 @@
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/08/27/he-lives/">He Lives</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/08/27/he-lives/">He Lives</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/08/27/he-lives/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/08/27/he-lives/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

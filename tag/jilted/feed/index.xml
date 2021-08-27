@@ -12,8 +12,8 @@
 
 <channel>
 	<title>jilted &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/jilted/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/jilted/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:51:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>jilted &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Not Worthy</title>
-		<link>https://1947project.com/2006/11/11/not-worthy/</link>
-					<comments>https://1947project.com/2006/11/11/not-worthy/#respond</comments>
+		<link>/2006/11/11/not-worthy/</link>
+					<comments>/2006/11/11/not-worthy/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 11 Nov 2006 17:10:33 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[Topeka]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 11, 1907 Los Angeles On a trip to Topeka, Kans., to visit relatives, Lena River Packard of Los Angeles met Edgar (or Edwin) Campbell Arnold, a wealthy wholesale druggist who quickly became her constant companion and ardent suitor. Love soon blossomed and in a few months, Edgar arrived in Los Angeles to claim his&#8230; <a class="more-link" href="https://1947project.com/2006/11/11/not-worthy/">Continue reading <span class="screen-reader-text">Not Worthy</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/11/not-worthy/">Not Worthy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Nov. 11, 1907 Los Angeles On a trip to Topeka, Kans., to visit relatives, Lena River Packard of Los Angeles met Edgar (or Edwin) Campbell Arnold, a wealthy wholesale druggist who quickly became her constant companion and ardent suitor. Love soon blossomed and in a few months, Edgar arrived in Los Angeles to claim his &#8230; <a href="/2006/11/11/not-worthy/" class="more-link">Continue reading <span class="screen-reader-text">Not Worthy</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/11/11/not-worthy/">Not Worthy</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1111.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 216px; height: 284px;" src="//www.lmharnisch.com/images/1907_1111.jpg" alt="" border="0" /></a><br />
@@ -59,10 +59,10 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">And then the night before the ceremony, </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/11/11/not-worthy/">Not Worthy</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/11/11/not-worthy/">Not Worthy</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/11/11/not-worthy/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/11/11/not-worthy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

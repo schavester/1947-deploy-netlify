@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Los Angeles Public Library &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/los-angeles-public-library/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/los-angeles-public-library/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:34:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Los Angeles Public Library &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Don&#8217;t &#038;#*% With the Librarian</title>
-		<link>https://1947project.com/2007/10/03/dont-with-the-librarian/</link>
-					<comments>https://1947project.com/2007/10/03/dont-with-the-librarian/#respond</comments>
+		<link>/2007/10/03/dont-with-the-librarian/</link>
+					<comments>/2007/10/03/dont-with-the-librarian/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 03 Oct 2007 17:13:29 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[Los Angeles Public Library]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>These days, if you make off with a stack of library materials, the Los Angeles Public Library will report your thieving name to a collections agency.&#160; But library bandits of yesteryear like 20-year-old Clyde M. Thompson faced much stiffer penalties. A librarian at LAPL noticed that the copy of Eugene O&#8217;Neill&#8217;s controversial play All God&#8217;s&#8230; <a class="more-link" href="https://1947project.com/2007/10/03/dont-with-the-librarian/">Continue reading <span class="screen-reader-text">Don&#8217;t &#038;#*% With the Librarian</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/03/dont-with-the-librarian/">Don&#8217;t &#038;#*% With the Librarian</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>These days, if you make off with a stack of library materials, the Los Angeles Public Library will report your thieving name to a collections agency.&#160; But library bandits of yesteryear like 20-year-old Clyde M. Thompson faced much stiffer penalties. A librarian at LAPL noticed that the copy of Eugene O&#8217;Neill&#8217;s controversial play All God&#8217;s &#8230; <a href="/2007/10/03/dont-with-the-librarian/" class="more-link">Continue reading <span class="screen-reader-text">Don&#8217;t &#038;#*% With the Librarian</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/10/03/dont-with-the-librarian/">Don&#8217;t &#038;#*% With the Librarian</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -58,10 +58,10 @@
 <div align="left">While the library detectives frequently visited people at home to reclaim stolen books, it was rare that criminal charges were pursued.&nbsp; No particular reason was given for poor Clyde Thompson&#8217;s exceptionally harsh sentence.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/03/dont-with-the-librarian/">Don&#8217;t &#038;#*% With the Librarian</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/10/03/dont-with-the-librarian/">Don&#8217;t &#038;#*% With the Librarian</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/10/03/dont-with-the-librarian/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/10/03/dont-with-the-librarian/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

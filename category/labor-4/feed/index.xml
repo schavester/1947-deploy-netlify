@@ -12,8 +12,8 @@
 
 <channel>
 	<title>labor &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/labor-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/labor-4/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:55:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>labor &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Oh, God, the Bassoon!!</title>
-		<link>https://1947project.com/2006/10/29/oh-god-the-bassoon/</link>
-					<comments>https://1947project.com/2006/10/29/oh-god-the-bassoon/#comments</comments>
+		<link>/2006/10/29/oh-god-the-bassoon/</link>
+					<comments>/2006/10/29/oh-god-the-bassoon/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 29 Oct 2006 15:41:46 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Oct. 29, 1907 Los Angeles Given The Times</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/29/oh-god-the-bassoon/">Oh, God, the Bassoon!!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/10/29/oh-god-the-bassoon/">Oh, God, the Bassoon!!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1029A"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 356px; height: 189px;" src="https://www.lmharnisch.com/images/1907_1029A" alt="" border="0" /></a><br />
@@ -55,18 +55,18 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Given The Times</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/29/oh-god-the-bassoon/">Oh, God, the Bassoon!!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/10/29/oh-god-the-bassoon/">Oh, God, the Bassoon!!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/10/29/oh-god-the-bassoon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/29/oh-god-the-bassoon/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Want Ads</title>
-		<link>https://1947project.com/2006/10/10/the-want-ads/</link>
-					<comments>https://1947project.com/2006/10/10/the-want-ads/#respond</comments>
+		<link>/2006/10/10/the-want-ads/</link>
+					<comments>/2006/10/10/the-want-ads/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 10 Oct 2006 13:07:38 +0000</pubDate>
@@ -76,23 +76,23 @@ Los Angeles</p>
 		<category><![CDATA[employment]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1010.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1010.jpg" alt="" border="0" /></a></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/10/10/the-want-ads/">The Want Ads</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/10/10/the-want-ads/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/10/10/the-want-ads/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Public Guardian</title>
-		<link>https://1947project.com/2006/09/27/the-public-guardian/</link>
-					<comments>https://1947project.com/2006/09/27/the-public-guardian/#respond</comments>
+		<link>/2006/09/27/the-public-guardian/</link>
+					<comments>/2006/09/27/the-public-guardian/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 27 Sep 2006 14:46:24 +0000</pubDate>
@@ -103,8 +103,8 @@ Los Angeles</p>
 		<category><![CDATA[Ringling Bros.]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Sept. 27, 1907 Los Angeles Ringling Bros. manager Charles Davis said farewell to Los Angeles, leaving $50 ($1,026.18 USD 2005) and some choice words for local authorities. Child welfare officer Robert W. Reynolds spent several days attending the circus to ensure that there were no performances by underage children (The Times is a bit vague,&#8230; <a class="more-link" href="https://1947project.com/2006/09/27/the-public-guardian/">Continue reading <span class="screen-reader-text">The Public Guardian</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/27/the-public-guardian/">The Public Guardian</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Sept. 27, 1907 Los Angeles Ringling Bros. manager Charles Davis said farewell to Los Angeles, leaving $50 ($1,026.18 USD 2005) and some choice words for local authorities. Child welfare officer Robert W. Reynolds spent several days attending the circus to ensure that there were no performances by underage children (The Times is a bit vague, &#8230; <a href="/2006/09/27/the-public-guardian/" class="more-link">Continue reading <span class="screen-reader-text">The Public Guardian</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/09/27/the-public-guardian/">The Public Guardian</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0927.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 248px; height: 245px;" src="//www.lmharnisch.com/images/1907_0927.jpg" alt="" border="0" /></a><br />
@@ -117,18 +117,18 @@ Los Angeles</p>
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/09/27/the-public-guardian/">The Public Guardian</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/09/27/the-public-guardian/">The Public Guardian</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/09/27/the-public-guardian/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/09/27/the-public-guardian/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Too Hot to Handle</title>
-		<link>https://1947project.com/2006/06/20/too-hot-to-handle/</link>
-					<comments>https://1947project.com/2006/06/20/too-hot-to-handle/#respond</comments>
+		<link>/2006/06/20/too-hot-to-handle/</link>
+					<comments>/2006/06/20/too-hot-to-handle/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Tue, 20 Jun 2006 15:38:23 +0000</pubDate>
@@ -138,7 +138,7 @@ Los Angeles</p>
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>June 20, 1907 Los Angeles The salesclerks of Los Angeles are steaming</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/20/too-hot-to-handle/">Too Hot to Handle</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/06/20/too-hot-to-handle/">Too Hot to Handle</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://static.flickr.com/69/172000611_d76886223d_m.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 243px; height: 221px;" src="//static.flickr.com/69/172000611_d76886223d_m.jpg" alt="" border="0" /></a><br />
@@ -147,10 +147,10 @@ Los Angeles</p>
 </span><br />
 <span style="font-size:100%;">The salesclerks of Los Angeles are steaming</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/06/20/too-hot-to-handle/">Too Hot to Handle</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/06/20/too-hot-to-handle/">Too Hot to Handle</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/06/20/too-hot-to-handle/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/06/20/too-hot-to-handle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

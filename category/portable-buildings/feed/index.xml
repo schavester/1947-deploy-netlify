@@ -12,8 +12,8 @@
 
 <channel>
 	<title>portable buildings &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/portable-buildings/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/portable-buildings/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:49:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>portable buildings &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Architectural Ramblings</title>
-		<link>https://1947project.com/2007/01/20/architectural-ramblings-5/</link>
-					<comments>https://1947project.com/2007/01/20/architectural-ramblings-5/#respond</comments>
+		<link>/2007/01/20/architectural-ramblings-5/</link>
+					<comments>/2007/01/20/architectural-ramblings-5/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 20 Jan 2007 14:57:05 +0000</pubDate>
@@ -42,8 +42,8 @@
 		<category><![CDATA[Homes]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Los Angeles Jan. 20, 2007 What we do know about H.J. Brainerd is that he built a fair number of Ã¢â‚¬Å“portable homes.Ã¢â‚¬Â What we donÃ¢â‚¬â„¢t know, except in one case, is exactly where he put them. Brainerd was active from 1906 to 1911, building homes throughout Southern California. His ads appealed to people like sportsmen,&#8230; <a class="more-link" href="https://1947project.com/2007/01/20/architectural-ramblings-5/">Continue reading <span class="screen-reader-text">Architectural Ramblings</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/20/architectural-ramblings-5/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Los Angeles Jan. 20, 2007 What we do know about H.J. Brainerd is that he built a fair number of Ã¢â‚¬Å“portable homes.Ã¢â‚¬Â What we donÃ¢â‚¬â„¢t know, except in one case, is exactly where he put them. Brainerd was active from 1906 to 1911, building homes throughout Southern California. His ads appealed to people like sportsmen, &#8230; <a href="/2007/01/20/architectural-ramblings-5/" class="more-link">Continue reading <span class="screen-reader-text">Architectural Ramblings</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/01/20/architectural-ramblings-5/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/hj_brainerd.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/hj_brainerd.jpg" alt="" border="0" /></a></p>
@@ -69,10 +69,10 @@ Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/01/20/architectural-ramblings-5/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/01/20/architectural-ramblings-5/">Architectural Ramblings</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/01/20/architectural-ramblings-5/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/01/20/architectural-ramblings-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Patricia Noblesse Hogan &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/patricia-noblesse-hogan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/patricia-noblesse-hogan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Patricia Noblesse Hogan &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Lovely Mount Kalmia</title>
-		<link>https://1947project.com/2006/04/27/lovely-mount-kalmia/</link>
-					<comments>https://1947project.com/2006/04/27/lovely-mount-kalmia/#respond</comments>
+		<link>/2006/04/27/lovely-mount-kalmia/</link>
+					<comments>/2006/04/27/lovely-mount-kalmia/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 05:55:26 +0000</pubDate>
@@ -49,7 +49,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>A little bird sent us the above holiday card, issued from the magical Mount Kalmia seven years before the estate, overlooking the Sunset Strip, was the site of an especially seedy real estate scam. Somehow we doubt Johnny Depp has managed to preserve the landscaping&#8230;</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -57,10 +57,10 @@
 <p>A little bird sent us the above holiday card, issued from the magical Mount Kalmia seven years before the estate, overlooking the Sunset Strip, was the site of an <a href="https://www.47upgradepath7.richardschave.com//tags/mount-kalmia-castle" target="_blank">especially seedy</a> real estate scam. Somehow we doubt Johnny Depp has managed to preserve the landscaping&#8230; </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/04/27/lovely-mount-kalmia/">Lovely Mount Kalmia</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/04/27/lovely-mount-kalmia/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/27/lovely-mount-kalmia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

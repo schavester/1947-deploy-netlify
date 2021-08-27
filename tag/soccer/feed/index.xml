@@ -12,8 +12,8 @@
 
 <channel>
 	<title>soccer &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/soccer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/soccer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:49:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>soccer &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Soccer Returns</title>
-		<link>https://1947project.com/2007/02/23/soccer-returns/</link>
-					<comments>https://1947project.com/2007/02/23/soccer-returns/#respond</comments>
+		<link>/2007/02/23/soccer-returns/</link>
+					<comments>/2007/02/23/soccer-returns/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 23 Feb 2007 19:55:09 +0000</pubDate>
@@ -42,8 +42,8 @@
 		<category><![CDATA[soccer]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 23, 1907 Los Angeles The Scotch Thistles beat the English Victorias 3-2 in Southern CaliforniaÃ¢â‚¬â„¢s first soccer game since the Caledonians and the Pasadena team met at Agricultural Park in 1890, The Times says. Despite the poor condition of the field, the players displayed excellent skill and teamwork. The Times said the teams were&#8230; <a class="more-link" href="https://1947project.com/2007/02/23/soccer-returns/">Continue reading <span class="screen-reader-text">Soccer Returns</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/23/soccer-returns/">Soccer Returns</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 23, 1907 Los Angeles The Scotch Thistles beat the English Victorias 3-2 in Southern CaliforniaÃ¢â‚¬â„¢s first soccer game since the Caledonians and the Pasadena team met at Agricultural Park in 1890, The Times says. Despite the poor condition of the field, the players displayed excellent skill and teamwork. The Times said the teams were &#8230; <a href="/2007/02/23/soccer-returns/" class="more-link">Continue reading <span class="screen-reader-text">Soccer Returns</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/02/23/soccer-returns/">Soccer Returns</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0223.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 351px; height: 276px;" src="//www.lmharnisch.com/images/1907_0223.jpg" alt="" border="0" /></a><br />
@@ -74,10 +74,10 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/02/23/soccer-returns/">Soccer Returns</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/02/23/soccer-returns/">Soccer Returns</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/02/23/soccer-returns/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/02/23/soccer-returns/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

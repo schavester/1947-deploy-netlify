@@ -12,8 +12,8 @@
 
 <channel>
 	<title>royalty &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/royalty/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/royalty/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:38:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>royalty &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>His Majesty Requests</title>
-		<link>https://1947project.com/2008/03/06/his-majesty-requests/</link>
-					<comments>https://1947project.com/2008/03/06/his-majesty-requests/#respond</comments>
+		<link>/2008/03/06/his-majesty-requests/</link>
+					<comments>/2008/03/06/his-majesty-requests/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 06 Mar 2008 18:33:01 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[unwanted attention]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 6, 1927 Los Angeles Not every L.A. woman has the chance to be wooed by royalty, but Mrs. Edith Brown of 4720 Ã‚Â½ Mascot Street proved singularly unimpressed by the stream of letters emanating from the pen of Lionel I, self-proclaimed King of America. The lady, apparently a democrat, called the cops. They took&#8230; <a class="more-link" href="https://1947project.com/2008/03/06/his-majesty-requests/">Continue reading <span class="screen-reader-text">His Majesty Requests</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 6, 1927 Los Angeles Not every L.A. woman has the chance to be wooed by royalty, but Mrs. Edith Brown of 4720 Ã‚Â½ Mascot Street proved singularly unimpressed by the stream of letters emanating from the pen of Lionel I, self-proclaimed King of America. The lady, apparently a democrat, called the cops. They took &#8230; <a href="/2008/03/06/his-majesty-requests/" class="more-link">Continue reading <span class="screen-reader-text">His Majesty Requests</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 6, 1927<br />
@@ -56,10 +56,10 @@ Los Angeles</p>
 <p>Hmm, maybe the problem was that this would-be king never learned how to write a proper love letter. Lionel, Lionel, Lionel, no woman wants to read about how much the <em>army</em> loves you! Also, for future reference, we like rubies.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/06/his-majesty-requests/">His Majesty Requests</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/06/his-majesty-requests/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/06/his-majesty-requests/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

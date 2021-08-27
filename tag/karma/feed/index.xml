@@ -12,8 +12,8 @@
 
 <channel>
 	<title>karma &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/karma/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/karma/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:46:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>karma &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Diver Down</title>
-		<link>https://1947project.com/2007/04/20/diver-down/</link>
-					<comments>https://1947project.com/2007/04/20/diver-down/#respond</comments>
+		<link>/2007/04/20/diver-down/</link>
+					<comments>/2007/04/20/diver-down/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 20 Apr 2007 17:47:13 +0000</pubDate>
@@ -49,8 +49,8 @@
 		<category><![CDATA[kidnapping]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 20, 1927Los Angeles When evangelist Aimee Semple McPherson, the anointed queen of Echo Park&#8217;s Angelus Temple, went to Ocean Park Beach last May 18 and faked her own disappearance so she could run off with a boyfriend, even she could not have anticipated the hysteria that followed. For while her theological appearances were occasion&#8230; <a class="more-link" href="https://1947project.com/2007/04/20/diver-down/">Continue reading <span class="screen-reader-text">Diver Down</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/20/diver-down/">Diver Down</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 20, 1927Los Angeles When evangelist Aimee Semple McPherson, the anointed queen of Echo Park&#8217;s Angelus Temple, went to Ocean Park Beach last May 18 and faked her own disappearance so she could run off with a boyfriend, even she could not have anticipated the hysteria that followed. For while her theological appearances were occasion &#8230; <a href="/2007/04/20/diver-down/" class="more-link">Continue reading <span class="screen-reader-text">Diver Down</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/04/20/diver-down/">Diver Down</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>April 20, 1927<br />Los Angeles </p>
@@ -60,10 +60,10 @@
 <p>McPherson&#8217;s mother Minnie Kennedy took the stand, and said she had known nothing of Edgar Harrison&#8217;s dive until she was invited to attend his funeral, and that she had sent flowers and $500 to the widow, the latter which was returned. Edna countered that indeed $500 had been proffered, by two &quot;impudent&quot; representatives of the Temple, but that when she suggested they talk with her lawyer they had snatched the money away, called her &quot;a bitter woman&quot; and stalked off.</p>
 <p>Edgar Harrison was survived by two young children, Edgar Jr. and Lois.</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/20/diver-down/">Diver Down</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/04/20/diver-down/">Diver Down</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/04/20/diver-down/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/04/20/diver-down/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

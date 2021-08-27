@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Mayhem &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/category/crimes-against-persons-15/mayhem-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/category/crimes-against-persons-15/mayhem-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:04:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Mayhem &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>News N&#8217; Notes</title>
-		<link>https://1947project.com/2006/05/13/news-n-notes/</link>
-					<comments>https://1947project.com/2006/05/13/news-n-notes/#respond</comments>
+		<link>/2006/05/13/news-n-notes/</link>
+					<comments>/2006/05/13/news-n-notes/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 13 May 2006 21:31:20 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[Hollywood electric]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 13, 1907 Los AngelesCheck the barometer: rising suicide, murder and drunkenness let us know there&#8217;s a good chance of 1907 to-day.Lena Rossester lived in a bungalow at 604 Vitmer with a younger man&#8211;some would say her son, but the gentleman won&#8217;t give his name and begs that Lena&#8217;s recent fatal carbolic cocktail be suppressed&#8230; <a class="more-link" href="https://1947project.com/2006/05/13/news-n-notes/">Continue reading <span class="screen-reader-text">News N&#8217; Notes</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/13/news-n-notes/">News N&#8217; Notes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 13, 1907 Los AngelesCheck the barometer: rising suicide, murder and drunkenness let us know there&#8217;s a good chance of 1907 to-day.Lena Rossester lived in a bungalow at 604 Vitmer with a younger man&#8211;some would say her son, but the gentleman won&#8217;t give his name and begs that Lena&#8217;s recent fatal carbolic cocktail be suppressed &#8230; <a href="/2006/05/13/news-n-notes/" class="more-link">Continue reading <span class="screen-reader-text">News N&#8217; Notes</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/05/13/news-n-notes/">News N&#8217; Notes</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>May 13, 1907<br />
@@ -55,10 +55,10 @@ Los AngelesCheck the barometer: rising suicide, murder and drunkenness let us kn
 <p>Ah, the touchstones of our time.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/13/news-n-notes/">News N&#8217; Notes</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/13/news-n-notes/">News N&#8217; Notes</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/13/news-n-notes/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/13/news-n-notes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>monuments &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/monuments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/monuments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Wed, 06 Apr 2016 15:57:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>monuments &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Reader, have you seen&#8230;?</title>
-		<link>https://1947project.com/2007/10/18/reader-have-you-seen/</link>
-					<comments>https://1947project.com/2007/10/18/reader-have-you-seen/#respond</comments>
+		<link>/2007/10/18/reader-have-you-seen/</link>
+					<comments>/2007/10/18/reader-have-you-seen/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 18 Oct 2007 14:54:59 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[monuments]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Gentle reader, Although we selfishly wish you to stay here all day, frittering, may we nonetheless suggest a pair of historically-minded websites you might explore? Backroads of American Music operates from the charming supposition that&#160; the places where great music was made and heard, or where music makers broke bread, prayed or knocked their wives&#8230; <a class="more-link" href="https://1947project.com/2007/10/18/reader-have-you-seen/">Continue reading <span class="screen-reader-text">Reader, have you seen&#8230;?</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/18/reader-have-you-seen/">Reader, have you seen&#8230;?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Gentle reader, Although we selfishly wish you to stay here all day, frittering, may we nonetheless suggest a pair of historically-minded websites you might explore? Backroads of American Music operates from the charming supposition that&#160; the places where great music was made and heard, or where music makers broke bread, prayed or knocked their wives &#8230; <a href="/2007/10/18/reader-have-you-seen/" class="more-link">Continue reading <span class="screen-reader-text">Reader, have you seen&#8230;?</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/10/18/reader-have-you-seen/">Reader, have you seen&#8230;?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -58,10 +58,10 @@
 <p><a href="https://bigorangelandmarks.blogspot.com/" target="_blank">Big Orange Landmarks</a>, penned by the hirsute Floyd B. Bariscale, is one of those stunt blogs that the kids are all talking about. Only instead of cooking his way through the <em>Larousse Gastronomique</em> or eating nothing but peanut brittle and tracking the results, Floyd is working his way chronologically through the historic-cultural monuments of our great city, documenting the histories, providing new photographs, crowing when delighted and quite frankly stating his disappointment when the journey proves more than the destination. He&#8217;s up to #75, over on Carroll Avenue in Angelino Heights, but we&#8217;ll have to wait a while until he reaches&nbsp; <a href="https://www.you-are-here.com/victorian/grocery.html" target="_blank">Bob&#8217;s Market</a>, just steps away, but numbered 215. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/18/reader-have-you-seen/">Reader, have you seen&#8230;?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/10/18/reader-have-you-seen/">Reader, have you seen&#8230;?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/10/18/reader-have-you-seen/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/10/18/reader-have-you-seen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>grocery &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/grocery/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/grocery/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:35:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>grocery &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Grossery Shopping</title>
-		<link>https://1947project.com/2008/03/15/grossery-shopping/</link>
-					<comments>https://1947project.com/2008/03/15/grossery-shopping/#respond</comments>
+		<link>/2008/03/15/grossery-shopping/</link>
+					<comments>/2008/03/15/grossery-shopping/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sat, 15 Mar 2008 03:05:18 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[grocery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 1927 Los Angeles Traditionally, the term greengrocer refers to a retail tradesperson who sells fresh fruits and vegetables. Should you be down on Temple Street, you might find grocer Edith Green to be a greengrocer of the green meat variety. Mmmm. Heck, even her Temple Street neighbor Abraham Margolis purveys criminally suspect comestibles.&#8230; <a class="more-link" href="https://1947project.com/2008/03/15/grossery-shopping/">Continue reading <span class="screen-reader-text">Grossery Shopping</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 15, 1927 Los Angeles Traditionally, the term greengrocer refers to a retail tradesperson who sells fresh fruits and vegetables. Should you be down on Temple Street, you might find grocer Edith Green to be a greengrocer of the green meat variety. Mmmm. Heck, even her Temple Street neighbor Abraham Margolis purveys criminally suspect comestibles. &#8230; <a href="/2008/03/15/grossery-shopping/" class="more-link">Continue reading <span class="screen-reader-text">Grossery Shopping</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@ Los Angeles</p>
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/15/grossery-shopping/">Grossery Shopping</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/15/grossery-shopping/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/15/grossery-shopping/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

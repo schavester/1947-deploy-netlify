@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Gravity &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/gravity/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/gravity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:56:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Gravity &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Runaway Flats</title>
-		<link>https://1947project.com/2006/04/27/runaway-flats/</link>
-					<comments>https://1947project.com/2006/04/27/runaway-flats/#respond</comments>
+		<link>/2006/04/27/runaway-flats/</link>
+					<comments>/2006/04/27/runaway-flats/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 27 Apr 2006 00:22:39 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[Gravity]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes. Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time,&#8230; <a class="more-link" href="https://1947project.com/2006/04/27/runaway-flats/">Continue reading <span class="screen-reader-text">Runaway Flats</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes. Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time, &#8230; <a href="/2006/04/27/runaway-flats/" class="more-link">Continue reading <span class="screen-reader-text">Runaway Flats</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0426_runaway.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 265px; height: 320px;" src="//lmharnisch.com/images/1907_0426_runaway.jpg" alt="" border="0" /></a><br />
@@ -55,10 +55,10 @@
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">The flatcars, part of a gravel-hauling operation in  Roscoe [Sun Valley], inexplicably came loose and had a four-mile downhill start before blazing through the Burbank station. The Burbank operator sent warning ahead that he saw something rip past</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/04/27/runaway-flats/">Runaway Flats</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/04/27/runaway-flats/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/27/runaway-flats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

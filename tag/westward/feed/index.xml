@@ -12,8 +12,8 @@
 
 <channel>
 	<title>westward &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/westward/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/westward/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:38:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>westward &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Silly Fads</title>
-		<link>https://1947project.com/2007/05/01/silly-fads/</link>
-					<comments>https://1947project.com/2007/05/01/silly-fads/#respond</comments>
+		<link>/2007/05/01/silly-fads/</link>
+					<comments>/2007/05/01/silly-fads/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 01 May 2007 09:52:42 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[westward]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; &#160; &#160;April 30, 1927Los Angeles &#160; &#160; &#160; This Sid Grauman character is one kooky kat. First he builds a theater in foo-dog replete Chinesque, and now he&#8217;s decided to record Pickford and Fairbanks in the forecourt&#8217;s cement&#8212;pedally, manually, and chirographiocally. When the theater opens in two weeks, will the paving stones be filled&#8230; <a class="more-link" href="https://1947project.com/2007/05/01/silly-fads/">Continue reading <span class="screen-reader-text">Silly Fads</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/01/silly-fads/">Silly Fads</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; &#160; &#160;April 30, 1927Los Angeles &#160; &#160; &#160; This Sid Grauman character is one kooky kat. First he builds a theater in foo-dog replete Chinesque, and now he&#8217;s decided to record Pickford and Fairbanks in the forecourt&#8217;s cement&#8212;pedally, manually, and chirographiocally. When the theater opens in two weeks, will the paving stones be filled &#8230; <a href="/2007/05/01/silly-fads/" class="more-link">Continue reading <span class="screen-reader-text">Silly Fads</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/05/01/silly-fads/">Silly Fads</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -66,10 +66,10 @@
 <p>In other news, while everyone knows that the area of greatest density in Los Angeles is centered around First and Flower, it is said<img loading="lazy" width="237" height="142" border="0" align="right" src="//farm1.static.flickr.com/231/479611544_aaf7e7dde9_o.gif" alt="westwardho" title="westwardho" /> that the center of population is moving horribly, inexorably <em>westward</em>.  Alfred T. Pelton, president of Interstate Mortgage and Investment Company, feels that Los Angeles&rsquo; extremely low density is sadly due to there being too many single family homes.  As people bleed west into the Wilshire, Westlake and Hollywood districts, Pelton and his ilk are stirring up builders and investors to erect multifamily structures.  While there is talk of Hollywood and Highland becoming a corner of note, we here at the Project know it will never displace Los Angeles&#8217; top thriving business center&#8211;Brooklyn and Soto.  </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/01/silly-fads/">Silly Fads</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/05/01/silly-fads/">Silly Fads</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/05/01/silly-fads/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/01/silly-fads/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

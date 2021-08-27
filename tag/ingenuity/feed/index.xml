@@ -12,8 +12,8 @@
 
 <channel>
 	<title>ingenuity &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/ingenuity/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/ingenuity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:42:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>ingenuity &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Perfect Hostess</title>
-		<link>https://1947project.com/2007/04/25/a-perfect-hostess/</link>
-					<comments>https://1947project.com/2007/04/25/a-perfect-hostess/#respond</comments>
+		<link>/2007/04/25/a-perfect-hostess/</link>
+					<comments>/2007/04/25/a-perfect-hostess/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 25 Apr 2007 05:00:20 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[ingenuity]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 24, 1927Los Angeles&#160; Consider if you will the American bootlegger, that rat among rats, profiteer and fiend, feeder of poison to nice kids who hardly deserve to go blind or mad, lose their teeth in a brawl or crack their skulls in a crash. In time, some will become respectable, send their sons to&#8230; <a class="more-link" href="https://1947project.com/2007/04/25/a-perfect-hostess/">Continue reading <span class="screen-reader-text">A Perfect Hostess</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/25/a-perfect-hostess/">A Perfect Hostess</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 24, 1927Los Angeles&#160; Consider if you will the American bootlegger, that rat among rats, profiteer and fiend, feeder of poison to nice kids who hardly deserve to go blind or mad, lose their teeth in a brawl or crack their skulls in a crash. In time, some will become respectable, send their sons to &#8230; <a href="/2007/04/25/a-perfect-hostess/" class="more-link">Continue reading <span class="screen-reader-text">A Perfect Hostess</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/04/25/a-perfect-hostess/">A Perfect Hostess</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -58,10 +58,10 @@
 <p>It was all too much for Judge Turney to take, and so the (formerly?) supine lady was sentenced to six months in jail and a fine of $500. But here at 1947project, we salute a gal with the gumption to ensure a steady stream of visitors to her sickbed, and are already planning our own future recovery, which will include daily specials, jukebox music and popcorn shrimp served promptly at 4pm.&nbsp; &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/04/25/a-perfect-hostess/">A Perfect Hostess</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/04/25/a-perfect-hostess/">A Perfect Hostess</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/04/25/a-perfect-hostess/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/04/25/a-perfect-hostess/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

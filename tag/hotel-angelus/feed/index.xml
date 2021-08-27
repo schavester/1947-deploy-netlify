@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Hotel Angelus &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/hotel-angelus/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/hotel-angelus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:55:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Hotel Angelus &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Murderous Sweep</title>
-		<link>https://1947project.com/2006/05/10/a-murderous-sweep/</link>
-					<comments>https://1947project.com/2006/05/10/a-murderous-sweep/#respond</comments>
+		<link>/2006/05/10/a-murderous-sweep/</link>
+					<comments>/2006/05/10/a-murderous-sweep/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 10 May 2006 16:33:14 +0000</pubDate>
@@ -45,15 +45,15 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>All K. Tanimura wanted to do was clean the carpets at the Hotel Angelus at 407-411 S. Spring St. The sweeper, however, was broken so he sought help from the hotel</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">All K. Tanimura wanted to do was clean the carpets at the Hotel Angelus at 407-411 S. Spring St. The sweeper, however, was broken so he sought help from the hotel</div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/10/a-murderous-sweep/">A Murderous Sweep</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/10/a-murderous-sweep/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/10/a-murderous-sweep/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

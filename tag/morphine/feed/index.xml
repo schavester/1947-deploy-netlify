@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Morphine &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/morphine/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/morphine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Tue, 05 Apr 2016 19:34:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Morphine &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Woman Doctor here Near Death</title>
-		<link>https://1947project.com/2006/04/24/woman-doctor-here-near-death/</link>
-					<comments>https://1947project.com/2006/04/24/woman-doctor-here-near-death/#respond</comments>
+		<link>/2006/04/24/woman-doctor-here-near-death/</link>
+					<comments>/2006/04/24/woman-doctor-here-near-death/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 24 Apr 2006 17:22:36 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[Morphine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 24, 1907 Los Angeles Doctor Mary Green had a thriving practice once, for which she rented an office at 624 Fifth Street; she lives in a comfortable suite of rooms in the Hotel Avalon, also on Fifth.Â  And yet the Good Doctor, who has practiced in Chicago, Cincinnati, and San Francisco before landing in&#8230; <a class="more-link" href="https://1947project.com/2006/04/24/woman-doctor-here-near-death/">Continue reading <span class="screen-reader-text">Woman Doctor here Near Death</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/24/woman-doctor-here-near-death/">Woman Doctor here Near Death</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>April 24, 1907 Los Angeles Doctor Mary Green had a thriving practice once, for which she rented an office at 624 Fifth Street; she lives in a comfortable suite of rooms in the Hotel Avalon, also on Fifth.Â  And yet the Good Doctor, who has practiced in Chicago, Cincinnati, and San Francisco before landing in &#8230; <a href="/2006/04/24/woman-doctor-here-near-death/" class="more-link">Continue reading <span class="screen-reader-text">Woman Doctor here Near Death</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/04/24/woman-doctor-here-near-death/">Woman Doctor here Near Death</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -60,10 +60,10 @@
 <div>Last night, according to the proprietor of the Avalon, a man (claiming to be her husband) visited; a short time later, Doctor Mary Green lay dying.Â  At Receiving Hospital she was indeed found to be a heavy user of the needle.Â  And, as letters from a Doctor Anderson pointed out (penned after a recent trip of Greenâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s to Emergency General), she seemed likely to take her life.Â  While that life was saved at Receiving, it remains to be seen whether Doctor Mary Green will make it through much more life-time.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/04/24/woman-doctor-here-near-death/">Woman Doctor here Near Death</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/04/24/woman-doctor-here-near-death/">Woman Doctor here Near Death</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/04/24/woman-doctor-here-near-death/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/04/24/woman-doctor-here-near-death/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>yellow cab &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/yellow-cab/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/yellow-cab/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:38:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>yellow cab &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Case of the Twisted Wrist</title>
-		<link>https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/</link>
-					<comments>https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/#respond</comments>
+		<link>/2008/01/25/the-case-of-the-twisted-wrist/</link>
+					<comments>/2008/01/25/the-case-of-the-twisted-wrist/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 25 Jan 2008 21:43:43 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[yellow cab]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>January 25, 1927Los Angeles &#34;Wanna make some easy money? Come over here. Hang on a sec, let me just fix my coat, and now&#8230; here we go, will ya look at that! Looks like my wrist&#8217;s broken, eh? Naw, I just popped it out of the joint. It&#8217;s easy if you know how, especially if&#8230; <a class="more-link" href="https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/">Continue reading <span class="screen-reader-text">The Case of the Twisted Wrist</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>January 25, 1927Los Angeles &#34;Wanna make some easy money? Come over here. Hang on a sec, let me just fix my coat, and now&#8230; here we go, will ya look at that! Looks like my wrist&#8217;s broken, eh? Naw, I just popped it out of the joint. It&#8217;s easy if you know how, especially if &#8230; <a href="/2008/01/25/the-case-of-the-twisted-wrist/" class="more-link">Continue reading <span class="screen-reader-text">The Case of the Twisted Wrist</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>January 25, 1927<br />Los Angeles</p>
@@ -56,10 +56,10 @@
 <p>The charge was conspiracy to commit fraud. And while Rice would be convicted of this crime, the lady was acquitted, which gave Rice&#8217;s attorney the opportunity to appeal to the judge&mdash;how could a man conspire alone? It was a good point, and on May 9, our loose-limbed hero was turned loose to scam again.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/01/25/the-case-of-the-twisted-wrist/">The Case of the Twisted Wrist</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/01/25/the-case-of-the-twisted-wrist/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/01/25/the-case-of-the-twisted-wrist/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

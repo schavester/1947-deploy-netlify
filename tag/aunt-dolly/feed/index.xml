@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Aunt Dolly &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/aunt-dolly/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/aunt-dolly/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:33:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Aunt Dolly &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>You Know, For Kids</title>
-		<link>https://1947project.com/2008/03/05/you-know-for-kids/</link>
-					<comments>https://1947project.com/2008/03/05/you-know-for-kids/#respond</comments>
+		<link>/2008/03/05/you-know-for-kids/</link>
+					<comments>/2008/03/05/you-know-for-kids/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 05 Mar 2008 18:34:15 +0000</pubDate>
@@ -44,8 +44,8 @@
 		<category><![CDATA[youth activities]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 5, 1927 &#160; &#160; &#160; &#160; Beginning in 1923, Aunt Dolly&#8217;s Page occupied its own corner of the Junior Times, a Sunday supplement that urged young Angelenos to try their hands at blank verse, cartooning, and other feats of skill for fabulous prizes. There were also picnics, parades, community service projects, and a near-constant&#8230; <a class="more-link" href="https://1947project.com/2008/03/05/you-know-for-kids/">Continue reading <span class="screen-reader-text">You Know, For Kids</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/05/you-know-for-kids/">You Know, For Kids</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 5, 1927 &#160; &#160; &#160; &#160; Beginning in 1923, Aunt Dolly&#8217;s Page occupied its own corner of the Junior Times, a Sunday supplement that urged young Angelenos to try their hands at blank verse, cartooning, and other feats of skill for fabulous prizes. There were also picnics, parades, community service projects, and a near-constant &#8230; <a href="/2008/03/05/you-know-for-kids/" class="more-link">Continue reading <span class="screen-reader-text">You Know, For Kids</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/03/05/you-know-for-kids/">You Know, For Kids</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -84,10 +84,10 @@ The persona of Aunt Dolly was gradually nudged from the Junior Times in the late
 </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/03/05/you-know-for-kids/">You Know, For Kids</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/03/05/you-know-for-kids/">You Know, For Kids</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/03/05/you-know-for-kids/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/03/05/you-know-for-kids/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

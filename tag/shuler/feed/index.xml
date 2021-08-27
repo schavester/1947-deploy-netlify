@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Shuler &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/shuler/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/shuler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Shuler &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Round &#8217;em Up!</title>
-		<link>https://1947project.com/2007/10/28/round-em-up/</link>
-					<comments>https://1947project.com/2007/10/28/round-em-up/#respond</comments>
+		<link>/2007/10/28/round-em-up/</link>
+					<comments>/2007/10/28/round-em-up/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 28 Oct 2007 03:30:39 +0000</pubDate>
@@ -50,8 +50,8 @@
 		<category><![CDATA[Shuler]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; October 28, 1927Los Angeles The vice bulls had a titillating time on Main Street tonight as they swooped down on the scantily-clad hot mammas of &#8220;Hot Mamma&#8221; at the Follies Theater, grabbing twenty-seven of the tiny-leaf&#8217;d gals and loading them into paddy wagons.&#160; Also arrested were twelve chorus men of the Hot Mamma show;&#8230; <a class="more-link" href="https://1947project.com/2007/10/28/round-em-up/">Continue reading <span class="screen-reader-text">Round &#8217;em Up!</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/28/round-em-up/">Round &#8217;em Up!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; October 28, 1927Los Angeles The vice bulls had a titillating time on Main Street tonight as they swooped down on the scantily-clad hot mammas of &#8220;Hot Mamma&#8221; at the Follies Theater, grabbing twenty-seven of the tiny-leaf&#8217;d gals and loading them into paddy wagons.&#160; Also arrested were twelve chorus men of the Hot Mamma show; &#8230; <a href="/2007/10/28/round-em-up/" class="more-link">Continue reading <span class="screen-reader-text">Round &#8217;em Up!</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/10/28/round-em-up/">Round &#8217;em Up!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -75,10 +75,10 @@
 <p>&#8230;of course, they leave out all the obvious stuff&#8230;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/10/28/round-em-up/">Round &#8217;em Up!</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/10/28/round-em-up/">Round &#8217;em Up!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/10/28/round-em-up/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/10/28/round-em-up/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

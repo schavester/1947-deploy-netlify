@@ -12,8 +12,8 @@
 
 <channel>
 	<title>jailbreaks &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/jailbreaks/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/jailbreaks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:34:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>jailbreaks &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Sad Story of the Red Rose Killer</title>
-		<link>https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/</link>
-					<comments>https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/#respond</comments>
+		<link>/2007/05/09/the-sad-story-of-the-red-rose-killer/</link>
+					<comments>/2007/05/09/the-sad-story-of-the-red-rose-killer/#respond</comments>
 		
 		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
 		<pubDate>Wed, 09 May 2007 22:30:48 +0000</pubDate>
@@ -46,8 +46,8 @@
 		<category><![CDATA[jailbreaks]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 9, 1927&#160; &#160; Convicted murderer Earl J. Clark was granted a stay of execution today as his appeal twisted its way through the State Supreme Court.&#160; There was a time when Clark&#8217;s chances to avoid the gallows seemed promising; however, following an escape from prison, things were looking grim. It all began in April&#8230; <a class="more-link" href="https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/">Continue reading <span class="screen-reader-text">The Sad Story of the Red Rose Killer</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 9, 1927&#160; &#160; Convicted murderer Earl J. Clark was granted a stay of execution today as his appeal twisted its way through the State Supreme Court.&#160; There was a time when Clark&#8217;s chances to avoid the gallows seemed promising; however, following an escape from prison, things were looking grim. It all began in April &#8230; <a href="/2007/05/09/the-sad-story-of-the-red-rose-killer/" class="more-link">Continue reading <span class="screen-reader-text">The Sad Story of the Red Rose Killer</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -62,10 +62,10 @@
 <p>Los Angeles police officers took up a collection for Clark&#8217;s widow so she could have the body shipped to Minot for burial.&nbsp; She accepted the money, but not Clark&#8217;s remains.&nbsp; No one else claimed them either, and he was subsequently buried in the prison cemetery. </p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/05/09/the-sad-story-of-the-red-rose-killer/">The Sad Story of the Red Rose Killer</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/05/09/the-sad-story-of-the-red-rose-killer/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/05/09/the-sad-story-of-the-red-rose-killer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

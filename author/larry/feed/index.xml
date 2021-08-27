@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Larry Harnish &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/author/larry/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/author/larry/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:48:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Larry Harnish &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Postcards From the Past</title>
-		<link>https://1947project.com/2007/03/16/postcards-from-the-past/</link>
-					<comments>https://1947project.com/2007/03/16/postcards-from-the-past/#respond</comments>
+		<link>/2007/03/16/postcards-from-the-past/</link>
+					<comments>/2007/03/16/postcards-from-the-past/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 16 Mar 2007 13:02:54 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>The Hotel Green, Pasadena</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/16/postcards-from-the-past/">Postcards From the Past</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/16/postcards-from-the-past/">Postcards From the Past</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/pas_hotel_green.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 383px; height: 245px;" src="//www.lmharnisch.com/images/pas_hotel_green.jpg" alt="" border="0" /></a></p>
@@ -60,18 +60,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/16/postcards-from-the-past/">Postcards From the Past</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/16/postcards-from-the-past/">Postcards From the Past</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/16/postcards-from-the-past/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/16/postcards-from-the-past/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Bridge</title>
-		<link>https://1947project.com/2007/03/15/the-bridge/</link>
-					<comments>https://1947project.com/2007/03/15/the-bridge/#respond</comments>
+		<link>/2007/03/15/the-bridge/</link>
+					<comments>/2007/03/15/the-bridge/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2007 15:57:52 +0000</pubDate>
@@ -80,8 +80,8 @@ var sc_security="77307670";
 		<category><![CDATA[hope]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 2007 South Pasadena HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still&#8230; <a class="more-link" href="https://1947project.com/2007/03/15/the-bridge/">Continue reading <span class="screen-reader-text">The Bridge</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 15, 2007 South Pasadena HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still &#8230; <a href="/2007/03/15/the-bridge/" class="more-link">Continue reading <span class="screen-reader-text">The Bridge</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_bridge_of_death01.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 267px;" src="//www.lmharnisch.com/images/1907_bridge_of_death01.jpg" alt="" border="0" /></a><br />
@@ -110,18 +110,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/15/the-bridge/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/15/the-bridge/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>In Which a Ghostly Visitor Returns</title>
-		<link>https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/</link>
-					<comments>https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/#comments</comments>
+		<link>/2007/03/15/in-which-a-ghostly-visitor-returns/</link>
+					<comments>/2007/03/15/in-which-a-ghostly-visitor-returns/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 15 Mar 2007 13:12:47 +0000</pubDate>
@@ -135,8 +135,8 @@ var sc_security="77307670";
 		<category><![CDATA[safety]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 2007 Los Angeles Ã¢â‚¬Å“Well, dear boy, I suppose you thought you were through.Ã¢â‚¬Â Ã¢â‚¬Å“Yes, I did.Ã¢â‚¬Â Ã¢â‚¬Å“And?Ã¢â‚¬Â Ã¢â‚¬Å“Good grief! Do you see this bridge over the Gold Line? It looks like itÃ¢â‚¬â„¢s held up with hairpins and spit!Ã¢â‚¬Â Ã¢â‚¬Å“Saliva, dear boy. And what is the Gold Line?Ã¢â‚¬Â Ã¢â‚¬Å“Well, itÃ¢â‚¬â„¢s sort of a streetcar,&#8230; <a class="more-link" href="https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/">Continue reading <span class="screen-reader-text">In Which a Ghostly Visitor Returns</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 15, 2007 Los Angeles Ã¢â‚¬Å“Well, dear boy, I suppose you thought you were through.Ã¢â‚¬Â Ã¢â‚¬Å“Yes, I did.Ã¢â‚¬Â Ã¢â‚¬Å“And?Ã¢â‚¬Â Ã¢â‚¬Å“Good grief! Do you see this bridge over the Gold Line? It looks like itÃ¢â‚¬â„¢s held up with hairpins and spit!Ã¢â‚¬Â Ã¢â‚¬Å“Saliva, dear boy. And what is the Gold Line?Ã¢â‚¬Â Ã¢â‚¬Å“Well, itÃ¢â‚¬â„¢s sort of a streetcar, &#8230; <a href="/2007/03/15/in-which-a-ghostly-visitor-returns/" class="more-link">Continue reading <span class="screen-reader-text">In Which a Ghostly Visitor Returns</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0315.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 292px;" src="//www.lmharnisch.com/images/1907_0315.jpg" alt="" border="0" /></a><br />
@@ -219,18 +219,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/15/in-which-a-ghostly-visitor-returns/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/15/in-which-a-ghostly-visitor-returns/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Celebrity Interview</title>
-		<link>https://1947project.com/2007/03/14/the-celebrity-interview/</link>
-					<comments>https://1947project.com/2007/03/14/the-celebrity-interview/#respond</comments>
+		<link>/2007/03/14/the-celebrity-interview/</link>
+					<comments>/2007/03/14/the-celebrity-interview/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 14 Mar 2007 14:20:13 +0000</pubDate>
@@ -242,8 +242,8 @@ var sc_security="77307670";
 		<category><![CDATA[Metropolitan Opera]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 14, 1907 Los Angeles Harry C. Carr, future author of Ã¢â‚¬Å“Los Angeles: City of Dreams,Ã¢â‚¬Â visits Fely Dereyne, who is starring in the San Carlo Opera CompanyÃ¢â‚¬â„¢s touring production of Ã¢â‚¬Å“Carmen.Ã¢â‚¬Â Accompanied by Times artist Harold R. Coffman, who sketched the singer, Carr conducted a backstage interview with Dereyne with the help of two&#8230; <a class="more-link" href="https://1947project.com/2007/03/14/the-celebrity-interview/">Continue reading <span class="screen-reader-text">The Celebrity Interview</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/14/the-celebrity-interview/">The Celebrity Interview</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 14, 1907 Los Angeles Harry C. Carr, future author of Ã¢â‚¬Å“Los Angeles: City of Dreams,Ã¢â‚¬Â visits Fely Dereyne, who is starring in the San Carlo Opera CompanyÃ¢â‚¬â„¢s touring production of Ã¢â‚¬Å“Carmen.Ã¢â‚¬Â Accompanied by Times artist Harold R. Coffman, who sketched the singer, Carr conducted a backstage interview with Dereyne with the help of two &#8230; <a href="/2007/03/14/the-celebrity-interview/" class="more-link">Continue reading <span class="screen-reader-text">The Celebrity Interview</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/14/the-celebrity-interview/">The Celebrity Interview</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0314.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0314.jpg" alt="" border="0" /></a><br />
@@ -295,18 +295,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/14/the-celebrity-interview/">The Celebrity Interview</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/14/the-celebrity-interview/">The Celebrity Interview</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/14/the-celebrity-interview/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/14/the-celebrity-interview/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Farewell, Faithful Companion</title>
-		<link>https://1947project.com/2007/03/12/farewell-faithful-companion/</link>
-					<comments>https://1947project.com/2007/03/12/farewell-faithful-companion/#respond</comments>
+		<link>/2007/03/12/farewell-faithful-companion/</link>
+					<comments>/2007/03/12/farewell-faithful-companion/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Mon, 12 Mar 2007 15:30:38 +0000</pubDate>
@@ -317,8 +317,8 @@ var sc_security="77307670";
 		<category><![CDATA[Teddy Roosevelt]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 12, 1907 Whittier Don had rushed up San Juan Hill with the Rough Riders, fearless in the face of enemy fire. But he could not survive a speeding driver on the otherwise placid streets of Whittier. A present from Teddy Roosevelt to Hamilton Fish, Don was the mascot of Company B of the Rough&#8230; <a class="more-link" href="https://1947project.com/2007/03/12/farewell-faithful-companion/">Continue reading <span class="screen-reader-text">Farewell, Faithful Companion</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/12/farewell-faithful-companion/">Farewell, Faithful Companion</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>Feb. 12, 1907 Whittier Don had rushed up San Juan Hill with the Rough Riders, fearless in the face of enemy fire. But he could not survive a speeding driver on the otherwise placid streets of Whittier. A present from Teddy Roosevelt to Hamilton Fish, Don was the mascot of Company B of the Rough &#8230; <a href="/2007/03/12/farewell-faithful-companion/" class="more-link">Continue reading <span class="screen-reader-text">Farewell, Faithful Companion</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/12/farewell-faithful-companion/">Farewell, Faithful Companion</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0312.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 339px; height: 442px;" src="//www.lmharnisch.com/images/1907_0312.jpg" alt="" border="0" /></a><br />
@@ -346,18 +346,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/12/farewell-faithful-companion/">Farewell, Faithful Companion</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/12/farewell-faithful-companion/">Farewell, Faithful Companion</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/12/farewell-faithful-companion/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/12/farewell-faithful-companion/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Los Angeles Has No History&#8230;</title>
-		<link>https://1947project.com/2007/03/11/los-angeles-has-no-history/</link>
-					<comments>https://1947project.com/2007/03/11/los-angeles-has-no-history/#respond</comments>
+		<link>/2007/03/11/los-angeles-has-no-history/</link>
+					<comments>/2007/03/11/los-angeles-has-no-history/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sun, 11 Mar 2007 19:59:44 +0000</pubDate>
@@ -369,7 +369,7 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Feb. 24, 1907 Los Angeles Google Earth, 2007 lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/11/los-angeles-has-no-history/">Los Angeles Has No History&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/11/los-angeles-has-no-history/">Los Angeles Has No History&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Feb. 24, 1907<br />
@@ -392,18 +392,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/11/los-angeles-has-no-history/">Los Angeles Has No History&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/11/los-angeles-has-no-history/">Los Angeles Has No History&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/11/los-angeles-has-no-history/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/11/los-angeles-has-no-history/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Tumultuous Season</title>
-		<link>https://1947project.com/2007/03/10/a-tumultuous-season/</link>
-					<comments>https://1947project.com/2007/03/10/a-tumultuous-season/#respond</comments>
+		<link>/2007/03/10/a-tumultuous-season/</link>
+					<comments>/2007/03/10/a-tumultuous-season/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Sat, 10 Mar 2007 15:52:18 +0000</pubDate>
@@ -414,8 +414,8 @@ var sc_security="77307670";
 		<category><![CDATA[Zion]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 10, 1907 Los Angeles Someone who opened the Los Angeles Times on this Sunday might be forgiven for wondering what had become of the world, for Page 1 was full of news about the demise of two religious leaders. The first was the death of John Alexander Dowie, the founder of Zion, Ill., who&#8230; <a class="more-link" href="https://1947project.com/2007/03/10/a-tumultuous-season/">Continue reading <span class="screen-reader-text">A Tumultuous Season</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/10/a-tumultuous-season/">A Tumultuous Season</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 10, 1907 Los Angeles Someone who opened the Los Angeles Times on this Sunday might be forgiven for wondering what had become of the world, for Page 1 was full of news about the demise of two religious leaders. The first was the death of John Alexander Dowie, the founder of Zion, Ill., who &#8230; <a href="/2007/03/10/a-tumultuous-season/" class="more-link">Continue reading <span class="screen-reader-text">A Tumultuous Season</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/10/a-tumultuous-season/">A Tumultuous Season</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0310A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 367px; height: 145px;" src="//www.lmharnisch.com/images/1907_0310A.jpg" alt="" border="0" /></a><br />
@@ -456,18 +456,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/10/a-tumultuous-season/">A Tumultuous Season</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/10/a-tumultuous-season/">A Tumultuous Season</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/10/a-tumultuous-season/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/10/a-tumultuous-season/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Random Shots From Our 12-Bore</title>
-		<link>https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/</link>
-					<comments>https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/#comments</comments>
+		<link>/2007/03/09/random-shots-from-our-12-bore-3/</link>
+					<comments>/2007/03/09/random-shots-from-our-12-bore-3/#comments</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Fri, 09 Mar 2007 14:31:01 +0000</pubDate>
@@ -478,8 +478,8 @@ var sc_security="77307670";
 		<category><![CDATA[police]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 9, 1907 Los Angeles The Insanity Begins Led by I. Newerf and J.B. Dudley, the automobile owners of Los Angeles are fighting a new city ordinance that bans parking within 40 feet of downtown intersections. Newerf, the West Coast representative of Goodyear Tire Co., and Dudley, a car salesman, received citations for violating the&#8230; <a class="more-link" href="https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 9, 1907 Los Angeles The Insanity Begins Led by I. Newerf and J.B. Dudley, the automobile owners of Los Angeles are fighting a new city ordinance that bans parking within 40 feet of downtown intersections. Newerf, the West Coast representative of Goodyear Tire Co., and Dudley, a car salesman, received citations for violating the &#8230; <a href="/2007/03/09/random-shots-from-our-12-bore-3/" class="more-link">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0309A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 343px; height: 377px;" src="//www.lmharnisch.com/images/1907_0309A.jpg" alt="" border="0" /></a></p>
@@ -532,18 +532,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/09/random-shots-from-our-12-bore-3/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/09/random-shots-from-our-12-bore-3/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>It Was a Kinder, Simpler Time&#8230;</title>
-		<link>https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/</link>
-					<comments>https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/#respond</comments>
+		<link>/2007/03/08/it-was-a-kinder-simpler-time/</link>
+					<comments>/2007/03/08/it-was-a-kinder-simpler-time/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Thu, 08 Mar 2007 15:13:49 +0000</pubDate>
@@ -554,7 +554,7 @@ var sc_security="77307670";
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>March 8, 1907 Los Angeles lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 8, 1907<br />
@@ -573,18 +573,18 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/08/it-was-a-kinder-simpler-time/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/08/it-was-a-kinder-simpler-time/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Forget Bird Flu, This Is Serious</title>
-		<link>https://1947project.com/2007/03/07/forget-bird-flu-this-is-serious/</link>
-					<comments>https://1947project.com/2007/03/07/forget-bird-flu-this-is-serious/#respond</comments>
+		<link>/2007/03/07/forget-bird-flu-this-is-serious/</link>
+					<comments>/2007/03/07/forget-bird-flu-this-is-serious/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
 		<pubDate>Wed, 07 Mar 2007 14:08:13 +0000</pubDate>
@@ -597,8 +597,8 @@ var sc_security="77307670";
 		<category><![CDATA[veterinarians]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 7, 1907 Los Angeles A dreadful disease called acute glanders has been discovered in a horse and veterinarian R.J. Ramage ordered that the animal be destroyed immediately. In addition to rapidly causing death, acute glanders can be spread from horses to humans and there is no known cure, at least in 1907. Apparently several&#8230; <a class="more-link" href="https://1947project.com/2007/03/07/forget-bird-flu-this-is-serious/">Continue reading <span class="screen-reader-text">Forget Bird Flu, This Is Serious</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/07/forget-bird-flu-this-is-serious/">Forget Bird Flu, This Is Serious</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>March 7, 1907 Los Angeles A dreadful disease called acute glanders has been discovered in a horse and veterinarian R.J. Ramage ordered that the animal be destroyed immediately. In addition to rapidly causing death, acute glanders can be spread from horses to humans and there is no known cure, at least in 1907. Apparently several &#8230; <a href="/2007/03/07/forget-bird-flu-this-is-serious/" class="more-link">Continue reading <span class="screen-reader-text">Forget Bird Flu, This Is Serious</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/03/07/forget-bird-flu-this-is-serious/">Forget Bird Flu, This Is Serious</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0307B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 229px;" src="//www.lmharnisch.com/images/1907_0307B.jpg" alt="" border="0" /></a><br />
@@ -644,10 +644,10 @@ var sc_security="77307670";
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/03/07/forget-bird-flu-this-is-serious/">Forget Bird Flu, This Is Serious</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/03/07/forget-bird-flu-this-is-serious/">Forget Bird Flu, This Is Serious</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/03/07/forget-bird-flu-this-is-serious/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/03/07/forget-bird-flu-this-is-serious/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>taxi &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/taxi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/taxi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>taxi &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Another Accepted Invite</title>
-		<link>https://1947project.com/2007/08/20/another-accepted-invite/</link>
-					<comments>https://1947project.com/2007/08/20/another-accepted-invite/#respond</comments>
+		<link>/2007/08/20/another-accepted-invite/</link>
+					<comments>/2007/08/20/another-accepted-invite/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Mon, 20 Aug 2007 03:26:17 +0000</pubDate>
@@ -47,8 +47,8 @@
 		<category><![CDATA[taxi]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; &#160; August 19, 1927Los Angeles All the noir hallmarks here:&#160; a destitute, starry-eyed country girl, the shifty grifter she befriends, a rube with some dough in his pocket, a classic con, the crummy apartment hotel and a dark city. Anna Karrick, 22, ran away from her Illinois farm home to win fame in pictures,&#8230; <a class="more-link" href="https://1947project.com/2007/08/20/another-accepted-invite/">Continue reading <span class="screen-reader-text">Another Accepted Invite</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/20/another-accepted-invite/">Another Accepted Invite</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>&#160; &#160; August 19, 1927Los Angeles All the noir hallmarks here:&#160; a destitute, starry-eyed country girl, the shifty grifter she befriends, a rube with some dough in his pocket, a classic con, the crummy apartment hotel and a dark city. Anna Karrick, 22, ran away from her Illinois farm home to win fame in pictures, &#8230; <a href="/2007/08/20/another-accepted-invite/" class="more-link">Continue reading <span class="screen-reader-text">Another Accepted Invite</span></a></p>
+<p>The post <a rel="nofollow" href="/2007/08/20/another-accepted-invite/">Another Accepted Invite</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -63,10 +63,10 @@
 <p><img loading="lazy" width="400" height="314" border="0" align="left" title="532" alt="532" src="//farm2.static.flickr.com/1056/1176594125_47f11e68b0_o.gif" />532 South Fremont (now site of Glossy Black Tower, left) may be long gone, but it was a fun place while it lasted.&nbsp; In May 1929, Filipino nationals Cal Blanco and Ceferino Sandries argued over women with some sailors from the USS Colorado, when Blanco announced, &ldquo;I&rsquo;m going to kill all you sailors,&rdquo; and so sailor Clyde Forehand shot them both dead; July of 1929 saw a riot there involving thirty sailors and six women, at which two women and seven men were booked on suspicion of robbery; Jack Wilson and Clark Falcon, leaders of a gang of automobile plunderers, were arrested with their booty here in February, 1932; in September 1935 Robert Honchell, a 25 year-old taxi driver, was having a drinking party with his pal Edward Folder, a 29 year-old unemployed caf&eacute; worker, when a woman showed up with her infant daughter&mdash;Folder&rsquo;s insistence on taking the child out for candy started a quarrel, and Folder ended up stabbed mortally in the chest by Honchell&hellip;you get the idea.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/08/20/another-accepted-invite/">Another Accepted Invite</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/08/20/another-accepted-invite/">Another Accepted Invite</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/08/20/another-accepted-invite/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/08/20/another-accepted-invite/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

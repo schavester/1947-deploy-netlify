@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Holy City &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/holy-city/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/holy-city/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 21:58:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>Holy City &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Holy City Hi-Jinks</title>
-		<link>https://1947project.com/2008/01/01/holy-city-hi-jinks/</link>
-					<comments>https://1947project.com/2008/01/01/holy-city-hi-jinks/#respond</comments>
+		<link>/2008/01/01/holy-city-hi-jinks/</link>
+					<comments>/2008/01/01/holy-city-hi-jinks/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Tue, 01 Jan 2008 00:28:14 +0000</pubDate>
@@ -45,8 +45,8 @@
 		<category><![CDATA[Holy City]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>December 31, 1927 Los Angeles Mrs. Evelyn Rosenkrantz has claimed in court that her dream to become the Queen of Holy City, California was reduced to ashes and bitter tears when the City&#8217;s self-anointed King, William E. Riker, retracted his marriage proposal. Evelyn is asking for $500,000 ($3.5 million USD 2007) in damages for breach&#8230; <a class="more-link" href="https://1947project.com/2008/01/01/holy-city-hi-jinks/">Continue reading <span class="screen-reader-text">Holy City Hi-Jinks</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>December 31, 1927 Los Angeles Mrs. Evelyn Rosenkrantz has claimed in court that her dream to become the Queen of Holy City, California was reduced to ashes and bitter tears when the City&#8217;s self-anointed King, William E. Riker, retracted his marriage proposal. Evelyn is asking for $500,000 ($3.5 million USD 2007) in damages for breach &#8230; <a href="/2008/01/01/holy-city-hi-jinks/" class="more-link">Continue reading <span class="screen-reader-text">Holy City Hi-Jinks</span></a></p>
+<p>The post <a rel="nofollow" href="/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -63,10 +63,10 @@
 <p>If you&rsquo;re interested in owning a piece of California history, Holy City went on the market in 2006 with an asking price of $11 million. Maybe it&rsquo;s still for sale. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2008/01/01/holy-city-hi-jinks/">Holy City Hi-Jinks</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2008/01/01/holy-city-hi-jinks/feed/</wfw:commentRss>
+					<wfw:commentRss>/2008/01/01/holy-city-hi-jinks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

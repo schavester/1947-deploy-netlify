@@ -12,8 +12,8 @@
 
 <channel>
 	<title>dog asylums &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/dog-asylums/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/dog-asylums/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 20:37:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>dog asylums &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Once There was Sight</title>
-		<link>https://1947project.com/2007/07/01/once-there-was-sight/</link>
-					<comments>https://1947project.com/2007/07/01/once-there-was-sight/#respond</comments>
+		<link>/2007/07/01/once-there-was-sight/</link>
+					<comments>/2007/07/01/once-there-was-sight/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Sun, 01 Jul 2007 06:50:07 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[<p>Now, I&#8217;ve no particular illusions about India, commonly considered that ground zero of spirituality and holiness&#8212;it is, after all, both our fastest growing contributor to atmospheric carbon emissions, and our undisputed global king of human trafficking&#8212;but would I, in 1927, have dubbed them heathens?&#160; I think not. &#160;</p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/once-there-was-sight/">Once There was Sight</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/01/once-there-was-sight/">Once There was Sight</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -51,10 +51,10 @@
 <p><img loading="lazy" width="317" height="165" border="0" src="//farm2.static.flickr.com/1268/679611267_3cf3dc51c7_o.gif" alt="heathens" title="heathens" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2007/07/01/once-there-was-sight/">Once There was Sight</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2007/07/01/once-there-was-sight/">Once There was Sight</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2007/07/01/once-there-was-sight/feed/</wfw:commentRss>
+					<wfw:commentRss>/2007/07/01/once-there-was-sight/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

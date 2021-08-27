@@ -12,8 +12,8 @@
 
 <channel>
 	<title>inheritance &#8211; 1947 Project</title>
-	<atom:link href="https://1947project.com/tag/inheritance/feed/" rel="self" type="application/rss+xml" />
-	<link>https://1947project.com/</link>
+	<atom:link href="/tag/inheritance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Los Angeles De-Mythified</description>
 	<lastBuildDate>Sat, 12 Mar 2016 19:49:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://1947project.com/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
 	<title>inheritance &#8211; 1947 Project</title>
-	<link>https://1947project.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mad Mama?</title>
-		<link>https://1947project.com/2006/05/13/mad-mama/</link>
-					<comments>https://1947project.com/2006/05/13/mad-mama/#respond</comments>
+		<link>/2006/05/13/mad-mama/</link>
+					<comments>/2006/05/13/mad-mama/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 13 May 2006 18:25:34 +0000</pubDate>
@@ -52,8 +52,8 @@
 		<category><![CDATA[lies]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 13, 1907 Highland Park 15-year-old William McCormick visited the police to make a panicked plea for the salvation of his mother Janette, removed yesteday from 228 South Avenue 66 to the lunatics&#8217; ward of the County Hospital. His mother is, William swears, quite sane, and her confinement the result of a family plot to&#8230; <a class="more-link" href="https://1947project.com/2006/05/13/mad-mama/">Continue reading <span class="screen-reader-text">Mad Mama?</span></a></p>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/13/mad-mama/">Mad Mama?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+					<description><![CDATA[<p>May 13, 1907 Highland Park 15-year-old William McCormick visited the police to make a panicked plea for the salvation of his mother Janette, removed yesteday from 228 South Avenue 66 to the lunatics&#8217; ward of the County Hospital. His mother is, William swears, quite sane, and her confinement the result of a family plot to &#8230; <a href="/2006/05/13/mad-mama/" class="more-link">Continue reading <span class="screen-reader-text">Mad Mama?</span></a></p>
+<p>The post <a rel="nofollow" href="/2006/05/13/mad-mama/">Mad Mama?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
@@ -66,10 +66,10 @@
 <p>The police sargeant told the youngster to contact the District Attorney. </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://1947project.com/2006/05/13/mad-mama/">Mad Mama?</a> appeared first on <a rel="nofollow" href="https://1947project.com/">1947 Project</a>.</p>
+<p>The post <a rel="nofollow" href="/2006/05/13/mad-mama/">Mad Mama?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://1947project.com/2006/05/13/mad-mama/feed/</wfw:commentRss>
+					<wfw:commentRss>/2006/05/13/mad-mama/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
