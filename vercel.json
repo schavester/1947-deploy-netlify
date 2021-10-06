@@ -1,30 +1,30 @@
 {
   "redirects": [
     { 
-      "source": "bunker-hill-down-a-manhole",
+      "source": "/bunker-hill-down-a-manhole",
       "destination": "/2005/04/12/bunker-hill-down-a-manhole", 
       "permanent": true
     },
 
 { 
-      "source": "just-duck-soup-for-vegetarian-to-land-in-city-jail",
+      "source": "/just-duck-soup-for-vegetarian-to-land-in-city-jail",
       "destination": "/2005/04/11/just-duck-soup-for-vegetarian-to-land-in-city-jail", 
       "permanent": true
     },
 
 { 
-      "source": "in-the-soup",
+      "source": "/in-the-soup",
       "destination": "/2005/04/11/in-the-soup", 
       "permanent": true
     },
 { 
-      "source": "woman-found-stabbed-to-death-in-home",
+      "source": "/woman-found-stabbed-to-death-in-home",
       "destination": "/2005/04/11/woman-found-stabbed-to-death-in-home", 
       "permanent": true
     },
 
 { 
-      "source": "4032-princeton-to-day",
+      "source": "/4032-princeton-to-day",
       "destination": "/2005/04/11/4032-princeton-to-day", 
       "permanent": true
     }
