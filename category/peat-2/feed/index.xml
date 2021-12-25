@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -47,17 +47,14 @@
 		<category><![CDATA[Wilshire]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>September 7, 1927Los Angeles When, oh when, oh when will something be done to soothe the smoldering peat fires that spill noxious smoke and gas from the vicinity of Jefferson and Hauser Streets in the Baldwin Hills? For more than two years the fire has crept inexorably deeper into the peat beds, and now twelve &#8230; <a href="/2007/09/07/a-chunk-of-bog-and-thou/" class="more-link">Continue reading <span class="screen-reader-text">A chunk of bog and thou</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/09/07/a-chunk-of-bog-and-thou/">A chunk of bog and thou</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[September 7, 1927Los Angeles When, oh when, oh when will something be done to soothe the smoldering peat fires that spill noxious smoke and gas from the vicinity of Jefferson and Hauser Streets in the Baldwin Hills? For more than two years the fire has crept inexorably deeper into the peat beds, and now twelve &#8230; <a href="/2007/09/07/a-chunk-of-bog-and-thou/" class="more-link">Continue reading <span class="screen-reader-text">A chunk of bog and thou</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>September 7, 1927<br />Los Angeles</p>
-<p>When, oh when, oh when will something be done to soothe the smoldering peat fires that spill noxious smoke and gas from the vicinity of J<a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Jefferson+and+Hauser,+los+angeles,+ca&#038;sll=34.04458,-118.24896&#038;sspn=0.008161,0.013733&#038;ie=UTF8&#038;ll=34.026646,-118.365154&#038;spn=0.008163,0.013733&#038;t=k&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">efferson and Hauser Streets</a> in the Baldwin Hills? For more than two years the fire has crept inexorably deeper into the peat beds, and now twelve acres are burning just under the topsoil, endangering the health of 200,000 local lungs and the ankles of any local foolish enough to tramp through the booby-trapped fields. Forget the living! What of the <a href="https://en.wikipedia.org/wiki/Bog_body" target="_blank">mummies</a>?!</p>
+<p>When, oh when, oh when will something be done to soothe the smoldering peat fires that spill noxious smoke and gas from the vicinity of J<a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Jefferson+and+Hauser,+los+angeles,+ca&#038;sll=34.04458,-118.24896&#038;sspn=0.008161,0.013733&#038;ie=UTF8&#038;ll=34.026646,-118.365154&#038;spn=0.008163,0.013733&#038;t=k&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">efferson and Hauser Streets</a> in the Baldwin Hills? For more than two years the fire has crept inexorably deeper into the peat beds, and now twelve acres are burning just under the topsoil, endangering the health of 200,000 local lungs and the ankles of any local foolish enough to tramp through the booby-trapped fields. Forget the living! What of the <a href="http://en.wikipedia.org/wiki/Bog_body" target="_blank">mummies</a>?!</p>
 <p>Former City Councilman Mallard has issues a plea on behalf of his neighborhood that the City Council take this &quot;rank poison&quot; threat seriously and extinguish the blaze immediately. He even tells them how to do it: through steam shovels that can expose the burning beds, so water can be introduced. Of course, Mallard&#8217;s suggestion that the fire be fought in the manner of William Mulholland&#8217;s aqueduct project&mdash;get it done first, then get the permits&mdash;seems in retrospect to be in somewhat less than good taste, but the St. Francis dam disaster is still six months away, and the Mullholland name an untarnished example of Angeleno ingenuity.</p>
 <p>*</p>
-<p>In New York City, pioneer developer Gaylord Wilshire has died. In recent years, he <a href="https://www.thebakken.org/artifacts/wilshire.htm" target="_blank">devoted</a> himself to promoting an electric &quot;health belt&quot; of his own invention, the &ldquo;I-ON-A-CO.&rdquo;</div>
+<p>In New York City, pioneer developer Gaylord Wilshire has died. In recent years, he <a href="http://www.thebakken.org/artifacts/wilshire.htm" target="_blank">devoted</a> himself to promoting an electric &quot;health belt&quot; of his own invention, the &ldquo;I-ON-A-CO.&rdquo;</div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/09/07/a-chunk-of-bog-and-thou/">A chunk of bog and thou</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/09/07/a-chunk-of-bog-and-thou/feed/</wfw:commentRss>
@@ -84,9 +81,7 @@
 		<category><![CDATA[monkeys]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>August 10, 1927Los Angeles&#160; At Hauser and Jefferson today, Vernadine Burke and Margaret Goesman, both 16, sank up to their ankles in the burning peat that was combusting merrily away beneath the surface. In trying to extricate themselves, the horrified girls also scorched their hands. They were treated at Receiving Hospital and released. At the &#8230; <a href="/2007/08/10/only-in-la-peat-fires-mature-mermaids-and-baboon-co-pilots/" class="more-link">Continue reading <span class="screen-reader-text">Only in LA: Peat Fires, Mature Mermaids and Baboon Co-Pilots</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/08/10/only-in-la-peat-fires-mature-mermaids-and-baboon-co-pilots/">Only in LA: Peat Fires, Mature Mermaids and Baboon Co-Pilots</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[August 10, 1927Los Angeles&#160; At Hauser and Jefferson today, Vernadine Burke and Margaret Goesman, both 16, sank up to their ankles in the burning peat that was combusting merrily away beneath the surface. In trying to extricate themselves, the horrified girls also scorched their hands. They were treated at Receiving Hospital and released. At the &#8230; <a href="/2007/08/10/only-in-la-peat-fires-mature-mermaids-and-baboon-co-pilots/" class="more-link">Continue reading <span class="screen-reader-text">Only in LA: Peat Fires, Mature Mermaids and Baboon Co-Pilots</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>August 10, 1927<br />Los Angeles&nbsp;</p>
@@ -94,10 +89,9 @@
 <p>At the Biltmore, manager and VP James Woods was deftly fending off the insistent demands of Captain J.M. Burman, mariner, aviator and San Pedro resident, that the hotel back his scheme to fly from Japan to Los Angeles with his pet baboon as his co-pilot. Burman states he is ideally suited for such a flight because he knows all the Pacific mountain peaks by which he and his monkey pal would steer.</p>
 <p>And in Venice, Mrs. Anna E. Van Skike was planning to celebrate her 67th birthday with a 25-mile swim from Point Dume back to her home shore, in recognition of the good health that regular swimming has brought her. Her doctors declared she had tuberculosis at 55 and would surely die, but swimming chased the lung blots away for the Oklahoma native. Hundreds turned out in 1924 to watch the lady dive off the Venice pier, swim ten miles along the shore and sing the &quot;Star Spangled Banner&quot; from the waves on her return.</p>
 <p> This is Van Skike&#8217;s seventh birthday distance swim, and her longest, and will be done with the support, encouragement and liberal doses of hot coffee from lifeguards Slert and Kinney, who will row their boat in the wake of the olive oil-coated &quot;aged mermaid.&quot; She&#8217;ll begin the feat at 2am and hopes to be home in time for dinner, though she often quips she would &quot;rather swim than eat&quot; and avoids fried food and pastry for their waterlogging effects. She prefers the pre-dawn hours for her feats, as the water is calmer then, and she is subject to seasickness in heavy surf. She has founded a distance swimming club, and recommends the activity to all.</p>
-<p><a title="Photo Sharing" href="https://www.flickr.com/photos/richardschave/1073029201/"><img loading="lazy" width="500" height="467" border="0" alt="anna e van skike" src="//farm2.static.flickr.com/1307/1073029201_d6e22bfd49.jpg" /></a></p>
+<p><a title="Photo Sharing" href="http://www.flickr.com/photos/richardschave/1073029201/"><img loading="lazy" width="500" height="467" border="0" alt="anna e van skike" src="//farm2.static.flickr.com/1307/1073029201_d6e22bfd49.jpg" /></a></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/08/10/only-in-la-peat-fires-mature-mermaids-and-baboon-co-pilots/">Only in LA: Peat Fires, Mature Mermaids and Baboon Co-Pilots</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/08/10/only-in-la-peat-fires-mature-mermaids-and-baboon-co-pilots/feed/</wfw:commentRss>

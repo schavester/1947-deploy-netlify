@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -42,11 +42,9 @@
 		<category><![CDATA[Hotel Green]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The Hotel Green, Pasadena</p>
-<p>The post <a rel="nofollow" href="/2007/03/16/postcards-from-the-past/">Postcards From the Past</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[The Hotel Green, Pasadena]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/pas_hotel_green.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 383px; height: 245px;" src="//www.lmharnisch.com/images/pas_hotel_green.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/pas_hotel_green.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 383px; height: 245px;" src="//www.lmharnisch.com/images/pas_hotel_green.jpg" alt="" border="0" /></a></p>
 <div style="text-align: center;"><span style="font-weight: bold;">The Hotel Green, Pasadena</span>
 </div>
 <p><!-- Start of StatCounter Code --><br />
@@ -56,11 +54,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/16/postcards-from-the-past/">Postcards From the Past</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/16/postcards-from-the-past/feed/</wfw:commentRss>
@@ -80,22 +77,20 @@ var sc_security="77307670";
 		<category><![CDATA[hope]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 2007 South Pasadena HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still &#8230; <a href="/2007/03/15/the-bridge/" class="more-link">Continue reading <span class="screen-reader-text">The Bridge</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 15, 2007 South Pasadena HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still &#8230; <a href="/2007/03/15/the-bridge/" class="more-link">Continue reading <span class="screen-reader-text">The Bridge</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_bridge_of_death01.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 267px;" src="//www.lmharnisch.com/images/1907_bridge_of_death01.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_bridge_of_death01.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 267px;" src="//www.lmharnisch.com/images/1907_bridge_of_death01.jpg" alt="" border="0" /></a><br />
 <o:p></o:p>    </p>
 <p class="MsoNormal">March 15, 2007<br />
 South Pasadena</p>
 <p class="MsoNormal"> <o:p></o:p></p>
 <p class="MsoNormal">HereÃ¢â‚¬â„¢s the Gold Line, its passengers mercifully unaware that they are zipping along to Pasadena in the Ã¢â‚¬Å“Gorge of Eternal PerilÃ¢â‚¬Â beneath Ã¢â‚¬Å“The Bridge of Death.Ã¢â‚¬Â</p>
 <p class="MsoNormal">
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_bridge_of_death02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 352px; height: 251px;" src="//www.lmharnisch.com/images/1907_bridge_of_death02.jpg" alt="" border="0" /></a><br />
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_bridge_of_death02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 352px; height: 251px;" src="//www.lmharnisch.com/images/1907_bridge_of_death02.jpg" alt="" border="0" /></a><br />
 <o:p></o:p>  </p>
 <p class="MsoNormal">HereÃ¢â‚¬â„¢s a close-up of a patch made to fix one of the 1907 cracks in the bridge. And yes, the darn thing is still standing. Hm. Maybe I should call it Ã¢â‚¬Å“The Bridge of HopeÃ¢â‚¬Â instead. </p>
 <p class="MsoNormal">  <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"> <o:p></o:p></p>
@@ -106,11 +101,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/15/the-bridge/">The Bridge</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/15/the-bridge/feed/</wfw:commentRss>
@@ -135,11 +129,9 @@ var sc_security="77307670";
 		<category><![CDATA[safety]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 15, 2007 Los Angeles Ã¢â‚¬Å“Well, dear boy, I suppose you thought you were through.Ã¢â‚¬Â Ã¢â‚¬Å“Yes, I did.Ã¢â‚¬Â Ã¢â‚¬Å“And?Ã¢â‚¬Â Ã¢â‚¬Å“Good grief! Do you see this bridge over the Gold Line? It looks like itÃ¢â‚¬â„¢s held up with hairpins and spit!Ã¢â‚¬Â Ã¢â‚¬Å“Saliva, dear boy. And what is the Gold Line?Ã¢â‚¬Â Ã¢â‚¬Å“Well, itÃ¢â‚¬â„¢s sort of a streetcar, &#8230; <a href="/2007/03/15/in-which-a-ghostly-visitor-returns/" class="more-link">Continue reading <span class="screen-reader-text">In Which a Ghostly Visitor Returns</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 15, 2007 Los Angeles Ã¢â‚¬Å“Well, dear boy, I suppose you thought you were through.Ã¢â‚¬Â Ã¢â‚¬Å“Yes, I did.Ã¢â‚¬Â Ã¢â‚¬Å“And?Ã¢â‚¬Â Ã¢â‚¬Å“Good grief! Do you see this bridge over the Gold Line? It looks like itÃ¢â‚¬â„¢s held up with hairpins and spit!Ã¢â‚¬Â Ã¢â‚¬Å“Saliva, dear boy. And what is the Gold Line?Ã¢â‚¬Â Ã¢â‚¬Å“Well, itÃ¢â‚¬â„¢s sort of a streetcar, &#8230; <a href="/2007/03/15/in-which-a-ghostly-visitor-returns/" class="more-link">Continue reading <span class="screen-reader-text">In Which a Ghostly Visitor Returns</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0315.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 292px;" src="//www.lmharnisch.com/images/1907_0315.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0315.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 292px;" src="//www.lmharnisch.com/images/1907_0315.jpg" alt="" border="0" /></a><br />
 <o:p></o:p>    </p>
 <p class="MsoNormal">March 15, 2007<br />
 Los Angeles</p>
@@ -205,7 +197,7 @@ Los Angeles</p>
 <p class="MsoNormal">I didnÃ¢â‚¬â„¢t know what else to say: Ã¢â‚¬Å“Thanks for everything.Ã¢â‚¬Â</p>
 <p class="MsoNormal">Ã¢â‚¬Å“You are most welcome. And thank you.Ã¢â‚¬Â<span style="">  </span></p>
 <p class="MsoNormal">And then she was gone. </p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -215,11 +207,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/15/in-which-a-ghostly-visitor-returns/">In Which a Ghostly Visitor Returns</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/15/in-which-a-ghostly-visitor-returns/feed/</wfw:commentRss>
@@ -242,16 +233,14 @@ var sc_security="77307670";
 		<category><![CDATA[Metropolitan Opera]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 14, 1907 Los Angeles Harry C. Carr, future author of Ã¢â‚¬Å“Los Angeles: City of Dreams,Ã¢â‚¬Â visits Fely Dereyne, who is starring in the San Carlo Opera CompanyÃ¢â‚¬â„¢s touring production of Ã¢â‚¬Å“Carmen.Ã¢â‚¬Â Accompanied by Times artist Harold R. Coffman, who sketched the singer, Carr conducted a backstage interview with Dereyne with the help of two &#8230; <a href="/2007/03/14/the-celebrity-interview/" class="more-link">Continue reading <span class="screen-reader-text">The Celebrity Interview</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/14/the-celebrity-interview/">The Celebrity Interview</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 14, 1907 Los Angeles Harry C. Carr, future author of Ã¢â‚¬Å“Los Angeles: City of Dreams,Ã¢â‚¬Â visits Fely Dereyne, who is starring in the San Carlo Opera CompanyÃ¢â‚¬â„¢s touring production of Ã¢â‚¬Å“Carmen.Ã¢â‚¬Â Accompanied by Times artist Harold R. Coffman, who sketched the singer, Carr conducted a backstage interview with Dereyne with the help of two &#8230; <a href="/2007/03/14/the-celebrity-interview/" class="more-link">Continue reading <span class="screen-reader-text">The Celebrity Interview</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0314.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0314.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0314.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0314.jpg" alt="" border="0" /></a><br />
 <o:p></o:p>    </p>
 <p class="MsoNormal">March 14, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"> <o:p></o:p></p>
-<p class="MsoNormal">Harry C. Carr, future author of Ã¢â‚¬Å“<a href="https://www.amazon.com/LOS-ANGELES-DREAMS-Harry-Carr/dp/B000CDFC5I">Los Angeles: City of Dreams</a>,Ã¢â‚¬Â visits Fely Dereyne, who is starring in the San Carlo Opera CompanyÃ¢â‚¬â„¢s touring production of Ã¢â‚¬Å“Carmen.Ã¢â‚¬Â </p>
+<p class="MsoNormal">Harry C. Carr, future author of Ã¢â‚¬Å“<a href="http://www.amazon.com/LOS-ANGELES-DREAMS-Harry-Carr/dp/B000CDFC5I">Los Angeles: City of Dreams</a>,Ã¢â‚¬Â visits Fely Dereyne, who is starring in the San Carlo Opera CompanyÃ¢â‚¬â„¢s touring production of Ã¢â‚¬Å“Carmen.Ã¢â‚¬Â </p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Accompanied by Times artist Harold R. Coffman, who sketched the singer, Carr conducted a backstage interview with Dereyne with the help of two opera company members who served as translators. As an interview, it is disjointed, poorly organized and frustratingly incomplete; the early work of a green but talented writer who is somewhat smitten with his subject. And yet it is fresh and immediate.</p>
 <p class="MsoNormal"> <o:p></o:p></p>
@@ -265,7 +254,7 @@ Los Angeles</p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“Well, then, I hope you like this picture.Ã¢â‚¬Â</p>
 <p class="MsoNormal"><o:p></o:p></p>
-<p class="MsoNormal">Ã¢â‚¬Å“Oh,Ã¢â‚¬Â she said airily. Ã¢â‚¬Å“Sometimes I am verÃ¢â‚¬â€how do you call it? VerÃ¢â‚¬â„¢ nice.Ã¢â‚¬Â</p>
+<p class="MsoNormal">Ã¢â‚¬Å“Oh,Ã¢â‚¬Â she said airily. Ã¢â‚¬Å“Sometimes I am verÃ¢â‚¬”how do you call it? VerÃ¢â‚¬â„¢ nice.Ã¢â‚¬Â</p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“Like the little girl that had the little curl?Ã¢â‚¬Â</p>
 <p class="MsoNormal"><o:p></o:p></p>
@@ -275,11 +264,11 @@ Los Angeles</p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Dereyne, an incredibly obscure figure today, was described in The Times as Ã¢â‚¬Å“one of the best Carmens who has ever been seen upon the local stage, for with her vigor and vivacity she never loses sight of the vocal demands of the role. At all times she sings. Her stage work and byplay are constantly assertive.Ã¢â‚¬Â </p>
 <p class="MsoNormal"><o:p></o:p></p>
-<p class="MsoNormal">She made her Metropolitan Opera debut in <a href="https://66.187.153.86/archives/scripts/cgiip.exe/WService=BibSpeed/fullcit.w?xCID=40040&#038;limit=5000&amp;xBranch=ALL&#038;xsdate=&amp;amp;amp;amp;xedate=&#038;theterm=fely%20dereyne&amp;x=0&#038;xhomepath=https://66.187.153.86/archives/&amp;xhome=https://66.187.153.86/archives/bibpro.htm">November 1907</a> as Musetta in a performance of Ã¢â‚¬Å“La BohemeÃ¢â‚¬Â with Geraldine Farrar and Enrico Caruso. Her last Met performance was in 1908 as Nedda in Ã¢â‚¬Å“Pagliacci.Ã¢â‚¬Â After that she seems to have vanished from the stage. </p>
+<p class="MsoNormal">She made her Metropolitan Opera debut in <a href="http://66.187.153.86/archives/scripts/cgiip.exe/WService=BibSpeed/fullcit.w?xCID=40040&#038;limit=5000&amp;xBranch=ALL&#038;xsdate=&amp;amp;amp;amp;xedate=&#038;theterm=fely%20dereyne&amp;x=0&#038;xhomepath=http://66.187.153.86/archives/&amp;xhome=http://66.187.153.86/archives/bibpro.htm">November 1907</a> as Musetta in a performance of Ã¢â‚¬Å“La BohemeÃ¢â‚¬Â with Geraldine Farrar and Enrico Caruso. Her last Met performance was in 1908 as Nedda in Ã¢â‚¬Å“Pagliacci.Ã¢â‚¬Â After that she seems to have vanished from the stage. </p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">And there you have it; a moment backstage in a theater (Philharmonic Auditorium) that is gone with people who are, except for Carr, entirely forgotten. ThatÃ¢â‚¬â„¢s what I love about research. </p>
 <p class="MsoNormal"><o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"> <o:p></o:p></p>
@@ -291,11 +280,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/14/the-celebrity-interview/">The Celebrity Interview</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/14/the-celebrity-interview/feed/</wfw:commentRss>
@@ -317,11 +305,9 @@ var sc_security="77307670";
 		<category><![CDATA[Teddy Roosevelt]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 12, 1907 Whittier Don had rushed up San Juan Hill with the Rough Riders, fearless in the face of enemy fire. But he could not survive a speeding driver on the otherwise placid streets of Whittier. A present from Teddy Roosevelt to Hamilton Fish, Don was the mascot of Company B of the Rough &#8230; <a href="/2007/03/12/farewell-faithful-companion/" class="more-link">Continue reading <span class="screen-reader-text">Farewell, Faithful Companion</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/12/farewell-faithful-companion/">Farewell, Faithful Companion</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Feb. 12, 1907 Whittier Don had rushed up San Juan Hill with the Rough Riders, fearless in the face of enemy fire. But he could not survive a speeding driver on the otherwise placid streets of Whittier. A present from Teddy Roosevelt to Hamilton Fish, Don was the mascot of Company B of the Rough &#8230; <a href="/2007/03/12/farewell-faithful-companion/" class="more-link">Continue reading <span class="screen-reader-text">Farewell, Faithful Companion</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0312.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 339px; height: 442px;" src="//www.lmharnisch.com/images/1907_0312.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0312.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 339px; height: 442px;" src="//www.lmharnisch.com/images/1907_0312.jpg" alt="" border="0" /></a><br />
 Feb. 12, 1907<br />
 Whittier    </p>
 <p class="MsoNormal">Don had rushed up San Juan Hill with the Rough Riders, fearless in the face of enemy fire. But he could not survive a speeding driver on the otherwise placid streets of Whittier. </p>
@@ -332,7 +318,7 @@ Whittier    </p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Death came from Ã¢â‚¬Å“a big touring car containing four persons, going around a corner at so high a speed that the old dog, which was walking quietly along, could not get out of its way.Ã¢â‚¬Â</p>
 <p class="MsoNormal"> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -342,11 +328,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/12/farewell-faithful-companion/">Farewell, Faithful Companion</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/12/farewell-faithful-companion/feed/</wfw:commentRss>
@@ -368,18 +353,16 @@ var sc_security="77307670";
 		<category><![CDATA[pico]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Feb. 24, 1907 Los Angeles Google Earth, 2007 lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com</p>
-<p>The post <a rel="nofollow" href="/2007/03/11/los-angeles-has-no-history/">Los Angeles Has No History&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Feb. 24, 1907 Los Angeles Google Earth, 2007 lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>Feb. 24, 1907<br />
 Los Angeles</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0311.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 396px; height: 258px;" src="//www.lmharnisch.com/images/1907_0311.jpg" alt="" border="0" /></a></p>
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0311.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 396px; height: 258px;" src="//www.lmharnisch.com/images/1907_0311.jpg" alt="" border="0" /></a></p>
 <div style="text-align: center;"><span style="font-weight: bold;">Google Earth, 2007</span>
 </div>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_victoria.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 392px; height: 283px;" src="//www.lmharnisch.com/images/1907_victoria.jpg" alt="" border="0" /></a></p>
-<p><a href="https://lmharnisch.com/">lmharnisch.com<br />
-</a><a href="https://lmharnisch.blogspot.com/">lmharnisch.blogspot.com</a><br />
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_victoria.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 392px; height: 283px;" src="//www.lmharnisch.com/images/1907_victoria.jpg" alt="" border="0" /></a></p>
+<p><a href="http://lmharnisch.com/">lmharnisch.com<br />
+</a><a href="http://lmharnisch.blogspot.com/">lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com<br />
 <!-- Start of StatCounter Code --><br />
 <script type="text/javascript" language="javascript">
@@ -388,11 +371,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/11/los-angeles-has-no-history/">Los Angeles Has No History&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/11/los-angeles-has-no-history/feed/</wfw:commentRss>
@@ -414,16 +396,14 @@ var sc_security="77307670";
 		<category><![CDATA[Zion]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 10, 1907 Los Angeles Someone who opened the Los Angeles Times on this Sunday might be forgiven for wondering what had become of the world, for Page 1 was full of news about the demise of two religious leaders. The first was the death of John Alexander Dowie, the founder of Zion, Ill., who &#8230; <a href="/2007/03/10/a-tumultuous-season/" class="more-link">Continue reading <span class="screen-reader-text">A Tumultuous Season</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/10/a-tumultuous-season/">A Tumultuous Season</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 10, 1907 Los Angeles Someone who opened the Los Angeles Times on this Sunday might be forgiven for wondering what had become of the world, for Page 1 was full of news about the demise of two religious leaders. The first was the death of John Alexander Dowie, the founder of Zion, Ill., who &#8230; <a href="/2007/03/10/a-tumultuous-season/" class="more-link">Continue reading <span class="screen-reader-text">A Tumultuous Season</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0310A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 367px; height: 145px;" src="//www.lmharnisch.com/images/1907_0310A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0310A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 367px; height: 145px;" src="//www.lmharnisch.com/images/1907_0310A.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">March 10, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0310B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 259px; height: 514px;" src="//www.lmharnisch.com/images/1907_0310B.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0310B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 259px; height: 514px;" src="//www.lmharnisch.com/images/1907_0310B.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal">Someone who opened the Los Angeles Times on this Sunday might be forgiven for wondering what had become of the world, for Page 1 was full of news about the demise of two religious leaders. </p>
 <p class="MsoNormal"> <o:p></o:p></p>
 <p class="MsoNormal">The first was the death of John Alexander Dowie, the founder of Zion, Ill., who considered himself the reincarnation of the biblical prophet Elijah. The second was the decline of Mary Baker Eddy, founder of Christian Science. </p>
@@ -442,7 +422,7 @@ Los Angeles</p>
 <p class="MsoNormal"> <o:p></o:p></p>
 <p class="MsoNormal">DowieÃ¢â‚¬â„¢s last words were: Ã¢â‚¬Å“The millennium has come. I will return in a thousand years.Ã¢â‚¬Â </p>
 <p class="MsoNormal"> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p><!-- Start of StatCounter Code --><br />
@@ -452,11 +432,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/10/a-tumultuous-season/">A Tumultuous Season</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/10/a-tumultuous-season/feed/</wfw:commentRss>
@@ -478,11 +457,9 @@ var sc_security="77307670";
 		<category><![CDATA[police]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 9, 1907 Los Angeles The Insanity Begins Led by I. Newerf and J.B. Dudley, the automobile owners of Los Angeles are fighting a new city ordinance that bans parking within 40 feet of downtown intersections. Newerf, the West Coast representative of Goodyear Tire Co., and Dudley, a car salesman, received citations for violating the &#8230; <a href="/2007/03/09/random-shots-from-our-12-bore-3/" class="more-link">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 9, 1907 Los Angeles The Insanity Begins Led by I. Newerf and J.B. Dudley, the automobile owners of Los Angeles are fighting a new city ordinance that bans parking within 40 feet of downtown intersections. Newerf, the West Coast representative of Goodyear Tire Co., and Dudley, a car salesman, received citations for violating the &#8230; <a href="/2007/03/09/random-shots-from-our-12-bore-3/" class="more-link">Continue reading <span class="screen-reader-text">Random Shots From Our 12-Bore</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0309A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 343px; height: 377px;" src="//www.lmharnisch.com/images/1907_0309A.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0309A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 343px; height: 377px;" src="//www.lmharnisch.com/images/1907_0309A.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"> </o:p></p>
 <p class="MsoNormal">March 9, 1907<br />
 Los Angeles</p>
@@ -516,7 +493,7 @@ Los Angeles</p>
 <p class="MsoNormal"> <o:p></o:p></p>
 <p class="MsoNormal">Flood skipped town in September 1907. Ã¢â‚¬Å“He made the acquaintance of a fast sot and spent plenty of money, too much, in fact, for a man of his means. Late suppers at swell cafes cost Flood much cash. Then he became possessed of a desire to take long journeys in touring cars. He paid his bills with other peopleÃ¢â‚¬â„¢s money, the new restaurant manager says, by levying on the cash drawer of the restaurant, which is owned by a company,Ã¢â‚¬Â The Times says.<span style="">  </span></p>
 <p class="MsoNormal"> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"> <o:p></o:p></p>
@@ -528,11 +505,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/09/random-shots-from-our-12-bore-3/">Random Shots From Our 12-Bore</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/09/random-shots-from-our-12-bore-3/feed/</wfw:commentRss>
@@ -553,14 +529,12 @@ var sc_security="77307670";
 		<category><![CDATA[Transportation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 8, 1907 Los Angeles lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com</p>
-<p>The post <a rel="nofollow" href="/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 8, 1907 Los Angeles lmharnisch.com lmharnisch.blogspot.com E-mail: lmharnisch (AT) gmail.com]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>March 8, 1907<br />
 Los Angeles</p>
-<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0308.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0308.jpg" alt="" border="0" /></a><a href="https://lmharnisch.com/">lmharnisch.com</a><br />
-<a href="https://lmharnisch.blogspot.com/">lmharnisch.blogspot.com</a><br />
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0308.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0308.jpg" alt="" border="0" /></a><a href="http://lmharnisch.com/">lmharnisch.com</a><br />
+<a href="http://lmharnisch.blogspot.com/">lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com<br />
 <!-- Start of StatCounter Code --><br />
 <script type="text/javascript" language="javascript">
@@ -569,11 +543,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/08/it-was-a-kinder-simpler-time/">It Was a Kinder, Simpler Time&#8230;</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/08/it-was-a-kinder-simpler-time/feed/</wfw:commentRss>
@@ -597,18 +570,16 @@ var sc_security="77307670";
 		<category><![CDATA[veterinarians]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>March 7, 1907 Los Angeles A dreadful disease called acute glanders has been discovered in a horse and veterinarian R.J. Ramage ordered that the animal be destroyed immediately. In addition to rapidly causing death, acute glanders can be spread from horses to humans and there is no known cure, at least in 1907. Apparently several &#8230; <a href="/2007/03/07/forget-bird-flu-this-is-serious/" class="more-link">Continue reading <span class="screen-reader-text">Forget Bird Flu, This Is Serious</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/03/07/forget-bird-flu-this-is-serious/">Forget Bird Flu, This Is Serious</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[March 7, 1907 Los Angeles A dreadful disease called acute glanders has been discovered in a horse and veterinarian R.J. Ramage ordered that the animal be destroyed immediately. In addition to rapidly causing death, acute glanders can be spread from horses to humans and there is no known cure, at least in 1907. Apparently several &#8230; <a href="/2007/03/07/forget-bird-flu-this-is-serious/" class="more-link">Continue reading <span class="screen-reader-text">Forget Bird Flu, This Is Serious</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0307B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 229px;" src="//www.lmharnisch.com/images/1907_0307B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0307B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 230px; height: 229px;" src="//www.lmharnisch.com/images/1907_0307B.jpg" alt="" border="0" /></a><br />
 </o:p>    </p>
 <p class="MsoNormal">March 7, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">A dreadful disease called acute glanders has been discovered in a horse and veterinarian R.J. Ramage ordered that the animal be destroyed immediately. </p>
 <p class="MsoNormal"><o:p></o:p></p>
-<p class="MsoNormal">In addition to rapidly causing death, acute glanders can be spread from <a href="https://www.1911encyclopedia.org/Glanders">horses to humans</a> and there is no known cure, at least in 1907. Apparently several men in Los Angeles County died of acute glanders in 1893.
+<p class="MsoNormal">In addition to rapidly causing death, acute glanders can be spread from <a href="http://www.1911encyclopedia.org/Glanders">horses to humans</a> and there is no known cure, at least in 1907. Apparently several men in Los Angeles County died of acute glanders in 1893.
 </p>
 <p class="MsoNormal">Since glanders is often found in horsesÃ¢â‚¬â„¢ nasal passages, local veterinarians want to ban wooden water troughs from city streets, saying that they are a breeding ground for the disease. </p>
 <p class="MsoNormal"><o:p></o:p></p>
@@ -626,7 +597,7 @@ Los Angeles</p>
 <p class="MsoNormal"><o:p></o:p></p>
 <p class="MsoNormal">Eventually, Ramage recovered and told hospital attendants that he had been suffering from mania for years. Ã¢â‚¬Å“He had only a dim recollection of the trouble he went through there.Ã¢â‚¬Â</p>
 <p><o:p></o:p>      </p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail: lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><o:p></o:p></p>
@@ -640,11 +611,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/03/07/forget-bird-flu-this-is-serious/">Forget Bird Flu, This Is Serious</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/03/07/forget-bird-flu-this-is-serious/feed/</wfw:commentRss>

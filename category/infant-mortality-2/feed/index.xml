@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -44,9 +44,7 @@
 		<category><![CDATA[sleep deprivation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>June 20, 1927&#160; &#160; As long as there are newspapers, the following pieces will appear annually in them, although usually not all in one day: 1.&#160; The overall quality of fathers and the celebration of their designated holiday has diminished (generally found in letter to the editor form). &#160; &#160; &#160; &#160; 2.&#160; Worrying about &#8230; <a href="/2007/06/20/slow-news-day/" class="more-link">Continue reading <span class="screen-reader-text">Slow News Day</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/06/20/slow-news-day/">Slow News Day</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[June 20, 1927&#160; &#160; As long as there are newspapers, the following pieces will appear annually in them, although usually not all in one day: 1.&#160; The overall quality of fathers and the celebration of their designated holiday has diminished (generally found in letter to the editor form). &#160; &#160; &#160; &#160; 2.&#160; Worrying about &#8230; <a href="/2007/06/20/slow-news-day/" class="more-link">Continue reading <span class="screen-reader-text">Slow News Day</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <div align="left">June 20, 1927&nbsp;</div>
@@ -86,7 +84,6 @@
 <div align="left">&nbsp;4.&nbsp; The French are weird, but also somehow better than us.</div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/06/20/slow-news-day/">Slow News Day</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/06/20/slow-news-day/feed/</wfw:commentRss>
@@ -107,9 +104,7 @@
 		<category><![CDATA[Baby Week]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>May 2, 1927 Los Angeles While attending medical school in Philadelphia, Dr. Maud Wilde was horrified by the number of mothers who brought their children to the college dispensary suffering from illnesses that could easily have been prevented.Â  This, coupled with high infant mortality rates in the United States, convinced her that something must be &#8230; <a href="/2007/05/02/whos-the-most-perfect-baby-of-all/" class="more-link">Continue reading <span class="screen-reader-text">Who&#8217;s the Most Perfect Baby of All?</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/05/02/whos-the-most-perfect-baby-of-all/">Who&#8217;s the Most Perfect Baby of All?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[May 2, 1927 Los Angeles While attending medical school in Philadelphia, Dr. Maud Wilde was horrified by the number of mothers who brought their children to the college dispensary suffering from illnesses that could easily have been prevented.Â  This, coupled with high infant mortality rates in the United States, convinced her that something must be &#8230; <a href="/2007/05/02/whos-the-most-perfect-baby-of-all/" class="more-link">Continue reading <span class="screen-reader-text">Who&#8217;s the Most Perfect Baby of All?</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <div align="left">
@@ -122,7 +117,6 @@
 <p>Dr. Wilde placated the audience, saying, &#8220;Of all the 88,000 babies we have examined, not one has scored 100%.Â  To produce 100% perfect children, we must have 100% perfect parents.Â  However, we must not be discouraged.Â  It is possible that at the next show one of you mothers will exhibit the perfect baby.&#8221;</p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/05/02/whos-the-most-perfect-baby-of-all/">Who&#8217;s the Most Perfect Baby of All?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/05/02/whos-the-most-perfect-baby-of-all/feed/</wfw:commentRss>

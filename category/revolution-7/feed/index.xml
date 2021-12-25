@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -44,11 +44,9 @@
 		<category><![CDATA[Stanford]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Jan 28, 1907 Los Angeles Ã¢â‚¬Å“If my career seems strange to you, it seems stranger and more incredible to me,Ã¢â‚¬Â Gen. Homer Lea once said. And indeed it was, for LeaÃ¢â‚¬â„¢s life was the tale of a badly handicapped boyÃ¢â‚¬â„¢s adventures as a leader in an exotic foreign land. His 1912 obituary in The Times &#8230; <a href="/2007/01/28/a-most-remarkable-man/" class="more-link">Continue reading <span class="screen-reader-text">A Most Remarkable Man</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Jan 28, 1907 Los Angeles Ã¢â‚¬Å“If my career seems strange to you, it seems stranger and more incredible to me,Ã¢â‚¬Â Gen. Homer Lea once said. And indeed it was, for LeaÃ¢â‚¬â„¢s life was the tale of a badly handicapped boyÃ¢â‚¬â„¢s adventures as a leader in an exotic foreign land. His 1912 obituary in The Times &#8230; <a href="/2007/01/28/a-most-remarkable-man/" class="more-link">Continue reading <span class="screen-reader-text">A Most Remarkable Man</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0128B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0128B.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128B.jpg" alt="" border="0" /></a><br />
 <!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Jan 28, 1907<br />
 Los Angeles</p>
@@ -57,7 +55,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">His 1912 obituary in The Times begins: Ã¢â‚¬Å“His great work finished, the pitiful, wasted little body of the American boy who overthrew the tattered old Chinese empire lies silent in his home in Ocean Park. Gen. Homer Lea died yesterday.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal">Ã¢â‚¬Å“Thus ends one of the most extraordinary careers of modern times. Of a physique that would seem to have made a military life impossible, Homer Lea will pass into recollection and annals of men as one of the greatestÃ¢â‚¬â€if not the greatestÃ¢â‚¬â€military geniuses American has ever produced.Ã¢â‚¬Â</p>
+<p class="MsoNormal">Ã¢â‚¬Å“Thus ends one of the most extraordinary careers of modern times. Of a physique that would seem to have made a military life impossible, Homer Lea will pass into recollection and annals of men as one of the greatestÃ¢â‚¬”if not the greatestÃ¢â‚¬”military geniuses American has ever produced.Ã¢â‚¬Â</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">A Jan. 28, 1907, article in The Times notes that despite the physical strain of taking part in the recent city elections, Lea has written several articles on the Chinese Exclusion Act for various magazines and adds that his first novel, Ã¢â‚¬Å“The Vermillion Pencil,Ã¢â‚¬Â a critical work about Christian missionaries in China, is about to be published. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -65,7 +63,7 @@ Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">Ã¢â‚¬Å“So much rot and twaddle has been written about him that I want to set down the simple facts as I know them and as he told them to me,Ã¢â‚¬Â Carr said in LeaÃ¢â‚¬â„¢s obituary.
 </p>
-<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0128A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128A.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0128A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_0128A.jpg" alt="" border="0" /></a></p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal">LeaÃ¢â‚¬â„¢s disabilities kept him from taking part in athletics, but he had a keen mind, Carr says, and took part in the debating societies at Los Angeles High School. Upon graduating in the Class of 1897, Lea went to Stanford with the intention of becoming a lawyer. </p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
@@ -92,7 +90,7 @@ Los Angeles</p>
 <p class="MsoNormal">Ã¢â‚¬Å“In the course of newspaper life one gets to know many men of many manners,Ã¢â‚¬Â Carr says, Ã¢â‚¬Å“but I have never known a more lovable, kindly, simple-hearted gentleman than Homer Lea.Ã¢â‚¬Â</p>
 <p>And as you can tell from the photo, he wasn&#8217;t Chinese.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
-<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.com<br />
+<p class="MsoNormal"><a href="http://lmharnisch.blogspot.com/">Lmharnisch.com<br />
 Lmharnisch.blogspot.com</a><br />
 E-mail lmharnisch (AT) gmail.com</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
@@ -103,11 +101,10 @@ var sc_invisible=1;
 var sc_partition=20; 
 var sc_security="77307670"; 
 </script><br />
-<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="https://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
+<script type="text/javascript" language="javascript" src="//www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="//c21.statcounter.com/counter.php?sc_project=2224555&#038;java=0&#038;security=77307670&#038;invisible=1" alt="best tracker" border="0"></a> </noscript><br />
 <!-- End of StatCounter Code -->
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/01/28/a-most-remarkable-man/">A Most Remarkable Man</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/01/28/a-most-remarkable-man/feed/</wfw:commentRss>
@@ -131,11 +128,9 @@ var sc_security="77307670";
 		<category><![CDATA[Mexicans]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Dec. 4, 1907 Arcadia Charley Chew, the water superintendent on the Lucky Baldwin ranch, had fired two Mexican workers several months ago and one dark night near the Unruh residence, they ambushed him, shooting him in the back. Chew drew his pistol and shot Francisco Ramirez and Miguel Palamoratz in the stomach, then fled. Badly &#8230; <a href="/2006/12/04/ambush-in-arcadia/" class="more-link">Continue reading <span class="screen-reader-text">Ambush in Arcadia</span></a></p>
-<p>The post <a rel="nofollow" href="/2006/12/04/ambush-in-arcadia/">Ambush in Arcadia</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Dec. 4, 1907 Arcadia Charley Chew, the water superintendent on the Lucky Baldwin ranch, had fired two Mexican workers several months ago and one dark night near the Unruh residence, they ambushed him, shooting him in the back. Chew drew his pistol and shot Francisco Ramirez and Miguel Palamoratz in the stomach, then fled. Badly &#8230; <a href="/2006/12/04/ambush-in-arcadia/" class="more-link">Continue reading <span class="screen-reader-text">Ambush in Arcadia</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1204.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 240px;" src="//www.lmharnisch.com/images/1907_1204.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1204.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 233px; height: 240px;" src="//www.lmharnisch.com/images/1907_1204.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Dec. 4, 1907<br />
 </span><span style="font-size:100%;">Arcadia<br />
 </span><span style="font-size:100%;"><br />
@@ -143,7 +138,6 @@ var sc_security="77307670";
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Badly wounded, Ramirez and Palamoratz struggled to walk about a mile to a friend</div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/12/04/ambush-in-arcadia/">Ambush in Arcadia</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/12/04/ambush-in-arcadia/feed/</wfw:commentRss>
@@ -165,17 +159,14 @@ var sc_security="77307670";
 		<category><![CDATA[revolution]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 30, 1907 Los Angeles A secret witness in the trial of the Mexican revolutionaries</p>
-<p>The post <a rel="nofollow" href="/2006/11/30/in-the-days-before-polonium/">In the Days Before Polonium</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Nov. 30, 1907 Los Angeles A secret witness in the trial of the Mexican revolutionaries]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1130A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 90px;" src="//www.lmharnisch.com/images/1907_1130A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1130A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 362px; height: 90px;" src="//www.lmharnisch.com/images/1907_1130A.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 30, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">A secret witness in the trial of the <a href="/tags/mexico">Mexican revolutionaries</a></span><span style="font-size:100%;"></div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/11/30/in-the-days-before-polonium/">In the Days Before Polonium</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/11/30/in-the-days-before-polonium/feed/</wfw:commentRss>
@@ -198,18 +189,15 @@ var sc_security="77307670";
 		<category><![CDATA[Socialists]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 27, 1907 Los Angeles A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries Ricardo Flores Magon, Antonio Villareal and Librado Rivera in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.</p>
-<p>The post <a rel="nofollow" href="/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Nov. 27, 1907 Los Angeles A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries Ricardo Flores Magon, Antonio Villareal and Librado Rivera in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 345px; height: 195px;" src="//www.lmharnisch.com/images/1907_1127A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1127A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 345px; height: 195px;" src="//www.lmharnisch.com/images/1907_1127A.jpg" alt="" border="0" /></a><br />
 Nov. 27, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">A shadowy, global conspiracy of anarchists is being described in the trial of revolutionaries <a href="/we-are-revolutionists">Ricardo Flores Magon, Antonio Villareal and Librado Rivera</a> in federal court. The fourth defendant, L. Gutierrez De Lara, was charged separately with committing larceny in Sonora, Mexico.</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal"></div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/11/27/who-are-those-guys/">Who Are Those Guys?</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/11/27/who-are-those-guys/feed/</wfw:commentRss>
@@ -229,19 +217,16 @@ Los Angeles    </p>
 		<category><![CDATA[revolution]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Sept. 19, 1907 Los Angeles</p>
-<p>The post <a rel="nofollow" href="/2006/11/14/deadlier-than-male/">Deadlier Than Male</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Sept. 19, 1907 Los Angeles]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/talivera.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/talivera.jpg" alt="" border="0" /></a><br />
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0919.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 411px; height: 106px;" src="//lmharnisch.com/images/1907_0919.jpg" alt="" border="0" /></a></p>
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/talivera.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/talivera.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lmharnisch.com/images/1907_0919.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 411px; height: 106px;" src="//lmharnisch.com/images/1907_0919.jpg" alt="" border="0" /></a></p>
 <p><!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
 <p class="MsoNormal">Sept. 19, 1907<br />
 Los Angeles</p>
 <p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
 <p class="MsoNormal"></div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/11/14/deadlier-than-male/">Deadlier Than Male</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/11/14/deadlier-than-male/feed/</wfw:commentRss>
@@ -265,16 +250,13 @@ Los Angeles</p>
 		<category><![CDATA[Socialists]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 13, 1907 Los Angeles An uproarious meeting was held last night at Simpson Auditorium to raise money for the four Mexican revolutionaries being held in the Los Angeles County Jail. The hall was packed with</p>
-<p>The post <a rel="nofollow" href="/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Nov. 13, 1907 Los Angeles An uproarious meeting was held last night at Simpson Auditorium to raise money for the four Mexican revolutionaries being held in the Los Angeles County Jail. The hall was packed with]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1113B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 320px;" src="//www.lmharnisch.com/images/1907_1113B.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1113B.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 225px; height: 320px;" src="//www.lmharnisch.com/images/1907_1113B.jpg" alt="" border="0" /></a><br />
 Nov. 13, 1907<br />
 Los Angeles    </p>
 <p class="MsoNormal">An uproarious meeting was held last night at Simpson Auditorium to raise money for the <a href="/we-are-revolutionists">four Mexican revolutionaries</a> being held in the Los Angeles County Jail. The hall was packed with </div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/11/13/the-revolutionary-defense-fund/">The Revolutionary Defense Fund</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/11/13/the-revolutionary-defense-fund/feed/</wfw:commentRss>
@@ -294,21 +276,18 @@ Los Angeles    </p>
 		<category><![CDATA[revolution]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Nov. 9, 1907 Los Angeles Local sympathizers, anarchists and Socialists are organizing a mass meeting to protest the imprisonment of Ricardo Flores Magon, Librado Rivera, Antonio Villareal and L. Gutierrez De Lara, who are being held on charges of trying to overthrow the Mexican government. After years of avoiding capture, Magon, Rivera and Villareal were &#8230; <a href="/2006/11/09/we-are-revolutionists/" class="more-link">Continue reading <span class="screen-reader-text">We Are Revolutionists!</span></a></p>
-<p>The post <a rel="nofollow" href="/2006/11/09/we-are-revolutionists/">We Are Revolutionists!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Nov. 9, 1907 Los Angeles Local sympathizers, anarchists and Socialists are organizing a mass meeting to protest the imprisonment of Ricardo Flores Magon, Librado Rivera, Antonio Villareal and L. Gutierrez De Lara, who are being held on charges of trying to overthrow the Mexican government. After years of avoiding capture, Magon, Rivera and Villareal were &#8230; <a href="/2006/11/09/we-are-revolutionists/" class="more-link">Continue reading <span class="screen-reader-text">We Are Revolutionists!</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1109A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 359px; height: 240px;" src="//www.lmharnisch.com/images/1907_1109A.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1109A.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 359px; height: 240px;" src="//www.lmharnisch.com/images/1907_1109A.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Nov. 9, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
-</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1109_magon.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 167px; height: 235px;" src="//www.lmharnisch.com/images/1907_1109_magon.jpg" alt="" border="0" /></a><br />
+</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1109_magon.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 167px; height: 235px;" src="//www.lmharnisch.com/images/1907_1109_magon.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">Local sympathizers, anarchists and Socialists are organizing a mass meeting to protest the imprisonment of Ricardo Flores Magon, Librado Rivera, Antonio Villareal and L. Gutierrez De Lara, who are being held on charges of trying to overthrow the Mexican government.<br />
 </span><br />
 <span style="font-size:100%;">After years of avoiding capture, Magon, Rivera and Villareal were arrested Aug. 23 at 111 E. Pico St. after a brawl with Thomas Furlong of the Furlong Secret Service Bureau of St. Louis, along with Los Angeles Police Detectives Felipe Talamantes, Thomas F. Rico and two deputies. De Lara was arrested by U.S. marshals at 420 W. 4th St.  on Sept. 27.<br />
-</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1109_villareal.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 155px; height: 169px;" src="//www.lmharnisch.com/images/1907_1109_villareal.jpg" alt="" border="0" /></a><br />
+</span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_1109_villareal.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 155px; height: 169px;" src="//www.lmharnisch.com/images/1907_1109_villareal.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">The Times said of the August incident: </div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/11/09/we-are-revolutionists/">We Are Revolutionists!</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/11/09/we-are-revolutionists/feed/</wfw:commentRss>

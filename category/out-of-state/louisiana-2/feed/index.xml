@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -44,18 +44,15 @@
 		<category><![CDATA[disaster]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>It&#8217;s been a while since we&#8217;ve checked in with our friends down South. &#160; For horrors beyond your wildest imagination, please go here. Comrades of the Crescent, if you own a shotgun, I suggest you buy a shotgun.&#160; And I don&#8217;t mean the bracketed kind.&#160; Not that I mean to imply you should take up &#8230; <a href="/2007/07/30/monkeywrench-today-pocket-doors-tomorrow/" class="more-link">Continue reading <span class="screen-reader-text">Monkeywrench Today, Pocket Doors Tomorrow</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/07/30/monkeywrench-today-pocket-doors-tomorrow/">Monkeywrench Today, Pocket Doors Tomorrow</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[It&#8217;s been a while since we&#8217;ve checked in with our friends down South. &#160; For horrors beyond your wildest imagination, please go here. Comrades of the Crescent, if you own a shotgun, I suggest you buy a shotgun.&#160; And I don&#8217;t mean the bracketed kind.&#160; Not that I mean to imply you should take up &#8230; <a href="/2007/07/30/monkeywrench-today-pocket-doors-tomorrow/" class="more-link">Continue reading <span class="screen-reader-text">Monkeywrench Today, Pocket Doors Tomorrow</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>It&rsquo;s been a while since we&rsquo;ve checked in with our friends down <a href="/?p=1925" target="_blank" title="theflood">South</a>. &nbsp;</p>
 <p><img loading="lazy" width="255" height="157" border="0" src="//farm2.static.flickr.com/1221/947733813_c97fa3fe01_o.gif" alt="floodschools" title="floodschools" /></p>
-<p>For horrors beyond your wildest imagination, please go <a href="https://www.squanderedheritage.com/" target="_blank" title="squanderedheritage">here</a>.</p>
+<p>For horrors beyond your wildest imagination, please go <a href="http://www.squanderedheritage.com/" target="_blank" title="squanderedheritage">here</a>.</p>
 <p>Comrades of the Crescent, if you own a shotgun, I suggest you buy a shotgun.&nbsp; And I don&rsquo;t mean the bracketed kind.&nbsp; Not that I mean to imply you should take up arms against your government, well, yes I do.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/07/30/monkeywrench-today-pocket-doors-tomorrow/">Monkeywrench Today, Pocket Doors Tomorrow</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/07/30/monkeywrench-today-pocket-doors-tomorrow/feed/</wfw:commentRss>
@@ -76,9 +73,7 @@
 		<category><![CDATA[dynamite]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160;&#160; April 30, 1927&#160;La Louisiane Governor Simpson declared today that the homes of thousands of French Acadiana and Spanish Creoles in St. Bernard and Plaquemines parishes were tomorrow going to be deep underwater.&#160; And not just because nature was being nature, but because Simpson was to dynamite the levees, sentencing a huge swath of hunters &#8230; <a href="/2007/05/01/the-long-march-back/" class="more-link">Continue reading <span class="screen-reader-text">The Long March Back</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/05/01/the-long-march-back/">The Long March Back</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[&#160;&#160; April 30, 1927&#160;La Louisiane Governor Simpson declared today that the homes of thousands of French Acadiana and Spanish Creoles in St. Bernard and Plaquemines parishes were tomorrow going to be deep underwater.&#160; And not just because nature was being nature, but because Simpson was to dynamite the levees, sentencing a huge swath of hunters &#8230; <a href="/2007/05/01/the-long-march-back/" class="more-link">Continue reading <span class="screen-reader-text">The Long March Back</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="600" height="26" border="0" align="absmiddle" title="leveesdynamited" alt="leveesdynamited" src="//farm1.static.flickr.com/174/479660716_d807bbe855_o.gif" />&nbsp;</p>
@@ -89,7 +84,6 @@
 <p><img loading="lazy" width="360" height="216" border="0" align="middle" src="//farm1.static.flickr.com/180/479622811_ecea116b50_o.gif" alt="floodedhouses4/30" title="floodedhouses4/30" />&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/05/01/the-long-march-back/">The Long March Back</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/05/01/the-long-march-back/feed/</wfw:commentRss>

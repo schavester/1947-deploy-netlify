@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -49,14 +49,12 @@
 		<category><![CDATA[mental hospital]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; December 8, 1927Pasadena&#160; The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&#8217;d dementia praecox, do yourself a favor and head on over to Las Encinas. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&#160; &#8230; <a href="/2007/12/09/god-granted-him-the-serenity/" class="more-link">Continue reading <span class="screen-reader-text">God Granted Him the Serenity</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/12/09/god-granted-him-the-serenity/">God Granted Him the Serenity</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[&#160; December 8, 1927Pasadena&#160; The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&#8217;d dementia praecox, do yourself a favor and head on over to Las Encinas. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&#160; &#8230; <a href="/2007/12/09/god-granted-him-the-serenity/" class="more-link">Continue reading <span class="screen-reader-text">God Granted Him the Serenity</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="493" height="225" border="0" title="killsself" alt="killsself" src="//farm3.static.flickr.com/2100/2096315075_f39974bb25_o.gif" /></p>
 <p><img loading="lazy" width="253" height="567" border="0" align="right" title="francis" alt="francis" src="//farm3.static.flickr.com/2283/2096315069_0cee80f5f5_o.gif" />December 8, 1927<br />Pasadena&nbsp;</p>
-<p>The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&rsquo;d dementia praecox, do yourself a favor and head on over to <a href="https://www.lasencinashospital.com/about%20our%20facility/index.php" target="_blank" title="LasEncinas">Las Encinas</a>. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&nbsp; Watch as Dr. Drew administers kindly words to one or more Osbournes, and perhaps they&rsquo;ll put you in the bungalow where W. C. Fields drank and breathed his last.&nbsp; Then tell us if you happened upon the ghosts of Francis Stevens and his sons Georgie and Francis Jr. &nbsp;</p>
+<p>The next time you need to go to a 12-step meeting, or better yet a full detox, or just be hospitalized for that durn&rsquo;d dementia praecox, do yourself a favor and head on over to <a href="http://www.lasencinashospital.com/about%20our%20facility/index.php" target="_blank" title="LasEncinas">Las Encinas</a>. Take in the rolling lawns, the mature trees, and gorgeous hundred year-old shingle cottages.&nbsp; Watch as Dr. Drew administers kindly words to one or more Osbournes, and perhaps they&rsquo;ll put you in the bungalow where W. C. Fields drank and breathed his last.&nbsp; Then tell us if you happened upon the ghosts of Francis Stevens and his sons Georgie and Francis Jr. &nbsp;</p>
 <p>Francis E. Stevens was a Prominent Pasadenan&mdash;Vice-President of the First Trust and Savings Bank of Pasadena <em>and</em> the First National Bank of Pasadena, member of Pasadena&rsquo;s War Finance Committee, a man with a newly built home and a&hellip;lovely family. &nbsp;</p>
 <p>Lovely enough, but not entirely.&nbsp; His wife Elizabeth was prominent socially, certainly, and of his 16 year-old daughter Carol&rsquo;s charms there can be no doubt.&nbsp; But his sons&hellip;little George, 14, has been almost an invalid since birth, and &ldquo;backward&rdquo;.&nbsp; And as such the entirety of Francis&rsquo; hopes and expectations for the future rode on his namesake, Francis E. Jr., 20.&nbsp; Unfortunately, the star pupil at Univeristy of Michigan, where Francis Sr. had attended school, Francis Jr. crashed his car into a telephone pole near Ann Arbor and suffered a basal fracture that affected his mind, landing him what looked to be a permanent place back in Pasadena&#8230;at Las Encinas Sanitarium.</p>
 <p>And so Francis Sr. did what any concerned, dutiful father would do.&nbsp; He went to work at eight a.m., made light and cheery conversation the cashiers, and made certain all was in order; then went home to fetch George to take him off to James A. Garfield Grammar School (once at the NE corner of S. Pasadena and California Street).&nbsp; This he did, and the two sat outside the school, talking in the car, until about 9:15, according to witnesses.&nbsp; Then they drove off, to where, we&rsquo;ll never know.&nbsp; All we know is that Francis Sr. shot George in the head.&nbsp; And then arrived at Las Encinas at 10:15.</p>
@@ -68,7 +66,6 @@
 <p>The funeral for the Stevens men was held shortly thereafter, though in spirit, the trio were still, of course, at Las Encinas. &nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/12/09/god-granted-him-the-serenity/">God Granted Him the Serenity</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/12/09/god-granted-him-the-serenity/feed/</wfw:commentRss>
@@ -94,19 +91,16 @@
 		<category><![CDATA[alexandria hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 21, 1927Los Angeles Angelenos had a rough time on the road today&#8212;Miss Rachel Miller was struck by Joseph J. Reuter as she crossed the 2600 block of Pico, suffering a fractured skull, concussion of the brain, a broken knee and leg; Henry Van De Kamp was struck by I. Tomioka at East Second and &#8230; <a href="/2007/04/21/how-to-meet-a-big-movie-star/" class="more-link">Continue reading <span class="screen-reader-text">How to Meet a Big Movie Star</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/04/21/how-to-meet-a-big-movie-star/">How to Meet a Big Movie Star</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[April 21, 1927Los Angeles Angelenos had a rough time on the road today&#8212;Miss Rachel Miller was struck by Joseph J. Reuter as she crossed the 2600 block of Pico, suffering a fractured skull, concussion of the brain, a broken knee and leg; Henry Van De Kamp was struck by I. Tomioka at East Second and &#8230; <a href="/2007/04/21/how-to-meet-a-big-movie-star/" class="more-link">Continue reading <span class="screen-reader-text">How to Meet a Big Movie Star</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>April 21, 1927<img loading="lazy" width="300" height="80" border="0" align="right" src="//farm1.static.flickr.com/223/466758483_e1686a7d07_o.gif" alt="actorscar" title="actorscar" /><br />Los Angeles</p>
 <p>Angelenos had a rough time on the road today&mdash;Miss Rachel Miller was struck by Joseph J. Reuter as she crossed the 2600 block of Pico, suffering a fractured skull, concussion of the brain, a broken knee and leg; Henry Van De Kamp was struck by I. Tomioka at East Second and <img loading="lazy" width="125" height="228" border="0" align="left" title="harlanpic" alt="harlanpic" src="//farm1.static.flickr.com/196/466758485_55cabea944_o.gif" />Central, fractured skull, concussion of the brain; J. L. Perrine, who admitted his brakes were &ldquo;not so good,&rdquo; drove into and off of a 400-foot embankment on Effie in the Moreno Highlands, multiple abrasions; four motorists walked away when the front half of their auto was flattened by the Los Angeles Railway car at First and Hill; and one Miss Mollie Reesor miraculously suffered only black eyes and a nasal fracture after being hurled twenty-five feet by a hit-and-run at the corner of Washington Street and Harvard Boulevard.</p>
-<p>Most notable, naturally, was the pedestrian-killing of Mrs. Eleanor Bishop, fatally injured when run down by prolific film star <a title="harlan" target="_blank" href="https://www.imdb.com/name/nm0363218/">Kenneth Harlan</a>, of 810 Camden Drive.&nbsp; Harlan, on his way to a benefit at the Alexandria, stated<img loading="lazy" width="222" height="223" border="0" align="right" title="harlanprevost" alt="harlanprevost" src="//farm1.static.flickr.com/216/466785757_e0726055b6_o.gif" /> that the woman stepped from behind a parked car near Wilshire and Tremaine.&nbsp; After he struck Bishop, he drove her to the office of Dr. James Johnston at Sixth and Western, where she nonetheless expired.&nbsp; Assuming Harlan still had time to make the benefit, his day looked like <a title="harlandrives" target="_blank" href="https://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&#038;gid4=30109647&#038;q4=201+West+FIfth+Street%2C+Los+Angeles%2C+CA&#038;q3=Sixth+Street+at+Western+Avenue%2C+Los+Angeles%2C+CA&#038;q2=Wilshire+Boulevard+at+Tremaine+Avenue%2C+Los+Angeles%2C+CA&#038;q1=810+N+CAMDEN+DR%2C+Beverly+Hills%2C+CA%2C+90210&#038;trf=0&#038;lon=-118.332195&#038;lat=34.063752&#038;mag=6">this</a>.</p>
+<p>Most notable, naturally, was the pedestrian-killing of Mrs. Eleanor Bishop, fatally injured when run down by prolific film star <a title="harlan" target="_blank" href="http://www.imdb.com/name/nm0363218/">Kenneth Harlan</a>, of 810 Camden Drive.&nbsp; Harlan, on his way to a benefit at the Alexandria, stated<img loading="lazy" width="222" height="223" border="0" align="right" title="harlanprevost" alt="harlanprevost" src="//farm1.static.flickr.com/216/466785757_e0726055b6_o.gif" /> that the woman stepped from behind a parked car near Wilshire and Tremaine.&nbsp; After he struck Bishop, he drove her to the office of Dr. James Johnston at Sixth and Western, where she nonetheless expired.&nbsp; Assuming Harlan still had time to make the benefit, his day looked like <a title="harlandrives" target="_blank" href="http://maps.yahoo.com/;_ylc=X3oDMTExNmIycG51BF9TAzI3MTYxNDkEc2VjA2ZwLWJ1dHRvbgRzbGsDbGluaw--#mvt=m&#038;gid4=30109647&#038;q4=201+West+FIfth+Street%2C+Los+Angeles%2C+CA&#038;q3=Sixth+Street+at+Western+Avenue%2C+Los+Angeles%2C+CA&#038;q2=Wilshire+Boulevard+at+Tremaine+Avenue%2C+Los+Angeles%2C+CA&#038;q1=810+N+CAMDEN+DR%2C+Beverly+Hills%2C+CA%2C+90210&#038;trf=0&#038;lon=-118.332195&#038;lat=34.063752&#038;mag=6">this</a>.</p>
 <p>&nbsp;</p>
-<p>(Here&#8217;s Harlan putting the lovey dovey on then-wife [and subject of continued tasteless interest] <a title="prevost" target="_blank" href="https://www.francesfarmersrevenge.com/stuff/archive/oldnews/marieprevost.htm">Marie Prevost</a>.&nbsp; They divorced in 1927.)</p>
+<p>(Here&#8217;s Harlan putting the lovey dovey on then-wife [and subject of continued tasteless interest] <a title="prevost" target="_blank" href="http://www.francesfarmersrevenge.com/stuff/archive/oldnews/marieprevost.htm">Marie Prevost</a>.&nbsp; They divorced in 1927.)</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/04/21/how-to-meet-a-big-movie-star/">How to Meet a Big Movie Star</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/04/21/how-to-meet-a-big-movie-star/feed/</wfw:commentRss>
@@ -132,20 +126,17 @@
 		<category><![CDATA[Volstead]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>April 7, 1927Los Angeles A Coroner&#8217;s inquest commenced today in an effort to determine just what happened when two inebriates&#8212;Frank Farley and George H. Hudson&#8212;pixilatedly plowed their car head-on into the auto driven by Union Oil bigwig E. Percy Ingmire &#38; wife near Wilmington.&#160; Two things are certain:&#160; Ingmire is dead, and the two sots &#8230; <a href="/2007/04/08/when-dry-agents-go-wet/" class="more-link">Continue reading <span class="screen-reader-text">When Dry Agents Go Wet</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/04/08/when-dry-agents-go-wet/">When Dry Agents Go Wet</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[April 7, 1927Los Angeles A Coroner&#8217;s inquest commenced today in an effort to determine just what happened when two inebriates&#8212;Frank Farley and George H. Hudson&#8212;pixilatedly plowed their car head-on into the auto driven by Union Oil bigwig E. Percy Ingmire &#38; wife near Wilmington.&#160; Two things are certain:&#160; Ingmire is dead, and the two sots &#8230; <a href="/2007/04/08/when-dry-agents-go-wet/" class="more-link">Continue reading <span class="screen-reader-text">When Dry Agents Go Wet</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>April 7, 1927<br />Los Angeles<img loading="lazy" width="256" height="294" border="0" align="left" title="dryagentsgowethed" alt="dryagentsgowethed" src="//farm1.static.flickr.com/247/450424811_f0769f279c_o.gif" /></p>
 <p>A Coroner&rsquo;s inquest commenced today in an effort to determine just what happened when two inebriates&mdash;Frank Farley and George H. Hudson&mdash;pixilatedly plowed their car head-on into the auto driven by Union Oil bigwig E. Percy Ingmire &amp; wife near Wilmington.&nbsp; Two things are certain:&nbsp; Ingmire is dead, and the two sots being held for murder are Prohibition Agents, drunkenly driving a government car on government business.</p>
-<p>Seems our Boys of the Eighteenth, <a href="https://maps.live.com/default.aspx?v=2&#038;cp=ppm5n454jrnk&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=6866971&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="farleyhome">Farley</a>&nbsp; and <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=fresno,+ca&#038;layer=&#038;ie=UTF8&#038;z=12&#038;ll=36.758691,-119.771233&#038;spn=0.129277,0.233459&#038;om=1&#038;iwloc=addr" target="_blank" title="hudson">Hudson</a>, were out carousing (with liquor in the car on the wrong side of the road and with excessive speed) in the company of three seamen from the steamer Pomona and a Mrs. Margaret &ldquo;Bessie&rdquo; McCallister (at whose <a href="https://maps.live.com/default.aspx?v=2&#038;cp=pmppjg548tm4&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=7046604&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="bessiehouse">home</a> they&rsquo;d earlier had a drinking party) when the accident occurred.&nbsp;<img loading="lazy" width="171" height="300" border="0" align="right" title="ingmire" alt="ingmire" src="//farm1.static.flickr.com/212/450424809_1ad0225ddd_o.gif" /> Normally, drunken vehicular homicides under the auspices of Volstead-Feds get swept under the rug, but unfortunately Ingmire was former president of the <a href="https://www.sanpedrochamber.com/" target="_blank" title="spchambre">San Pedro Chamber of Commerce</a>, Past Master of the <a href="https://www.calodges.org/no332/" target="_blank" title="spmasons">San Pedro Masonic Lodge</a>, Past Exalted Ruler of <a href="https://www.sanpedroelks.org/history1.html" target="_blank" title="spelks">San Pedro Elks&rsquo; Lodge</a>, President of the San Pedro Industrial Association, ad infinitum.&nbsp; As such, all and sundry jumped into the fray:&nbsp; the DA appeared for the State, the Dep US Atty for the Feds, the prohibition administrators for themselves&mdash;the last of which entering into a fray with folks from the Customs Dept, who are fond of hampering prohibition enforcement in California.&nbsp; (The Department of Justice and the Intelligence Section of the Treasury Department are on deck.)</p>
+<p>Seems our Boys of the Eighteenth, <a href="http://maps.live.com/default.aspx?v=2&#038;cp=ppm5n454jrnk&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=6866971&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="farleyhome">Farley</a>&nbsp; and <a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=fresno,+ca&#038;layer=&#038;ie=UTF8&#038;z=12&#038;ll=36.758691,-119.771233&#038;spn=0.129277,0.233459&#038;om=1&#038;iwloc=addr" target="_blank" title="hudson">Hudson</a>, were out carousing (with liquor in the car on the wrong side of the road and with excessive speed) in the company of three seamen from the steamer Pomona and a Mrs. Margaret &ldquo;Bessie&rdquo; McCallister (at whose <a href="http://maps.live.com/default.aspx?v=2&#038;cp=pmppjg548tm4&#038;style=o&#038;lvl=1&#038;tilt=-90&#038;dir=0&#038;alt=-1000&#038;scene=7046604&#038;sp=Point.ppm5n454jrnk_848%20N%20Avenue%2065%2C%20Los%20Angeles%2C%20CA%2090042-1541%2C%20United%20States___~Point.pmppjg548tm4_245%20W%207th%20St%2C%20San%20Pedro%2C%20CA%2090731-3321%2C%20United%20States___&#038;encType=1" target="_blank" title="bessiehouse">home</a> they&rsquo;d earlier had a drinking party) when the accident occurred.&nbsp;<img loading="lazy" width="171" height="300" border="0" align="right" title="ingmire" alt="ingmire" src="//farm1.static.flickr.com/212/450424809_1ad0225ddd_o.gif" /> Normally, drunken vehicular homicides under the auspices of Volstead-Feds get swept under the rug, but unfortunately Ingmire was former president of the <a href="http://www.sanpedrochamber.com/" target="_blank" title="spchambre">San Pedro Chamber of Commerce</a>, Past Master of the <a href="http://www.calodges.org/no332/" target="_blank" title="spmasons">San Pedro Masonic Lodge</a>, Past Exalted Ruler of <a href="http://www.sanpedroelks.org/history1.html" target="_blank" title="spelks">San Pedro Elks&rsquo; Lodge</a>, President of the San Pedro Industrial Association, ad infinitum.&nbsp; As such, all and sundry jumped into the fray:&nbsp; the DA appeared for the State, the Dep US Atty for the Feds, the prohibition administrators for themselves&mdash;the last of which entering into a fray with folks from the Customs Dept, who are fond of hampering prohibition enforcement in California.&nbsp; (The Department of Justice and the Intelligence Section of the Treasury Department are on deck.)</p>
 <p>Dry Agent Farley, driver of the killer flivver, is a real catch.&nbsp; He had been arrested for a street holdup in 1923, was caught sneaking onto the Dutch steamer Eemdyk looking for booze (outside the official capacity of his employment, that is) and, according to Customs officials, was often insolent and acted beyond his authority.&nbsp; Of course, those Wet Agents from Customs <em>would</em> say that.</p>
 <p><img loading="lazy" width="400" height="108" border="0" align="middle" title="bailhead" alt="bailhead" src="//farm1.static.flickr.com/172/450424801_be01b44147_o.gif" /></p>
 <p>On September 20, a US District Judge gave Farley one to ten in San Quentin.&nbsp; Of course, the Federal Comptroller refused to pay Farley&rsquo;s railroad fare to Q, on the grounds that Farley was a State Prisoner.&nbsp; The State controller stated that Farley is a Federal prisoner and if anyone was going to pay his fare, it was the Feds.&nbsp; So Farley stayed a spell in County, where he made pals with one Maj. Donald McRae, on trial for robbing government liquor warehouses.&nbsp; Inside County they got liquor all the time, until Farley went up north and subsequently testified about his involvement in McRae&#8217;s phony alibis, whereafter McRae threatened his life.&nbsp; And so go our drunken, fallen Feds.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/04/08/when-dry-agents-go-wet/">When Dry Agents Go Wet</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/04/08/when-dry-agents-go-wet/feed/</wfw:commentRss>
@@ -169,13 +160,10 @@
 		<category><![CDATA[mass transit]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Anthony Kallan likes pigs</p>
-<p>The post <a rel="nofollow" href="/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Anthony Kallan likes pigs]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div><span style="font-size:100%;">Anthony Kallan likes pigs</div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/04/26/pigs-feet/">Pigs&#8217; Feet</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/04/26/pigs-feet/feed/</wfw:commentRss>

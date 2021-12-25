@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -42,11 +42,9 @@
 		<category><![CDATA[Education]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>July 11, 1907 Los Angeles Among the presentations at the current educators convention is a seminar on teaching the arts. If you have ever attended a colloquium on arts education or listened to arts educators, these comments from another era sound depressingly familiar, and for all the progress that may have been made, we have &#8230; <a href="/2006/07/11/oh-you-poor-things/" class="more-link">Continue reading <span class="screen-reader-text">Oh, You Poor Things</span></a></p>
-<p>The post <a rel="nofollow" href="/2006/07/11/oh-you-poor-things/">Oh, You Poor Things</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[July 11, 1907 Los Angeles Among the presentations at the current educators convention is a seminar on teaching the arts. If you have ever attended a colloquium on arts education or listened to arts educators, these comments from another era sound depressingly familiar, and for all the progress that may have been made, we have &#8230; <a href="/2006/07/11/oh-you-poor-things/" class="more-link">Continue reading <span class="screen-reader-text">Oh, You Poor Things</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0711.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 89px;" src="//www.lmharnisch.com/images/1907_0711.jpg" alt="" border="0" /></a><br />
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.lmharnisch.com/images/1907_0711.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 89px;" src="//www.lmharnisch.com/images/1907_0711.jpg" alt="" border="0" /></a><br />
 <span style="font-size:100%;">July 11, 1907<br />
 </span><span style="font-size:100%;">Los Angeles<br />
 </span><span style="font-size:100%;"><br />
@@ -54,7 +52,6 @@
 </span><span style="font-size:100%;"><br />
 </span><span style="font-size:100%;">Of course, there are some chestnuts, such as all good art is calming, uplifting and tames the most savage of us; that art only exists if it is useful. </div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/07/11/oh-you-poor-things/">Oh, You Poor Things</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/07/11/oh-you-poor-things/feed/</wfw:commentRss>

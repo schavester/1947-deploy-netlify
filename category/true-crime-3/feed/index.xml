@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -48,18 +48,15 @@
 		<category><![CDATA[radio]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>In the early 1990s, 1947project bloggers Kim Cooper and Nathan Marsak collaborated on a demented college radio program in Santa Barbara called The Manny Chavez Show. Nathan played Manny, a washed-up Catskills comic with a soft spot for bizarre thrift store records, while Kim manned the boards and giggled at Manny&#8217;s unfunny gags in the &#8230; <a href="/2006/07/10/kim-and-nathan-on-the-radio-on-friday/" class="more-link">Continue reading <span class="screen-reader-text">Kim and Nathan on the Radio on Friday</span></a></p>
-<p>The post <a rel="nofollow" href="/2006/07/10/kim-and-nathan-on-the-radio-on-friday/">Kim and Nathan on the Radio on Friday</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[In the early 1990s, 1947project bloggers Kim Cooper and Nathan Marsak collaborated on a demented college radio program in Santa Barbara called The Manny Chavez Show. Nathan played Manny, a washed-up Catskills comic with a soft spot for bizarre thrift store records, while Kim manned the boards and giggled at Manny&#8217;s unfunny gags in the &#8230; <a href="/2006/07/10/kim-and-nathan-on-the-radio-on-friday/" class="more-link">Continue reading <span class="screen-reader-text">Kim and Nathan on the Radio on Friday</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>In the early 1990s, 1947project bloggers Kim Cooper and Nathan Marsak collaborated on a demented college radio program in Santa Barbara called The Manny Chavez Show. Nathan played Manny, a washed-up Catskills comic with a soft spot for bizarre thrift store records, while Kim manned the boards and giggled at Manny&#8217;s unfunny gags in the character of daffy twins Mandy and Candy Dubois. A lowlight of their broadcast career was the night Nathan got arrested on his way to the studio, and the County Sheriff agreed to let him phone the show if he&#8217;d deliver an anti-drunk driving message.</p>
 <p> These days, their collaboration is somewhat more scholarly, though still demented: they blog historic Los Angeles crimes of 1947 and 1907 at the 1947project website, and lead Crime Bus Tours to scenes of forgotten mayhem.</p>
 <p> This Friday night, July 14 (and into the morning of the 15th), from midnight to three, Kim and Nathan return to the airwaves as special guests of Stella, whose KXLU (88.9 FM) program Stray Pop has been providing an eclectic disarray of music with in studio guests since 1980.</p>
 <p> They&#8217;ll be sharing favorite local true crime cases from their upcoming Pasadena Confidential Crime Bus Tour, spinning incredibly odd thrift store vinyl, plus talking about Kim&#8217;s projects like the Bubblegum Achievement Awards, Lost in the Grooves, the long-lived journal of unpopular culture Scram and her recent 33 1/3 book on Neutral Milk Hotel and the Elephant 6 collective. Listen for a special visit from Manny Chavez and his moldy joke book, and call in with questions or comments.</p>
-<p> What: Manny Chavez Show Reunion<br /> When: Friday July 14/Saturday July 15 from midnight-3am<br /> Where: KXLU 88.9 FM in L.A., streaming at https://www.kxlu.com/<br /> Request line:&nbsp; (310) 338-KXLU</p>
-<p> More info:<br /> <a href="../../../../undefined//" target="_blank">1947project</a> <br /> <a href="https://www.scrammagazine.com/" target="_blank">Scram Magazine</a><br /> <a href="https://www.bubblegum-music.com/" target="_blank">Bubblegum Achievement Awards</a><br /> <a href="https://www.lostinthegrooves.com/" target="_blank">Lost in the Grooves</a><br /> <a href="https://www.StrayPop.com/" target="_blank">Stray Pop<br /> </a></div>
+<p> What: Manny Chavez Show Reunion<br /> When: Friday July 14/Saturday July 15 from midnight-3am<br /> Where: KXLU 88.9 FM in L.A., streaming at http://www.kxlu.com/<br /> Request line:&nbsp; (310) 338-KXLU</p>
+<p> More info:<br /> <a href="../../../../undefined//" target="_blank">1947project</a> <br /> <a href="http://www.scrammagazine.com/" target="_blank">Scram Magazine</a><br /> <a href="http://www.bubblegum-music.com/" target="_blank">Bubblegum Achievement Awards</a><br /> <a href="http://www.lostinthegrooves.com/" target="_blank">Lost in the Grooves</a><br /> <a href="http://www.StrayPop.com/" target="_blank">Stray Pop<br /> </a></div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/07/10/kim-and-nathan-on-the-radio-on-friday/">Kim and Nathan on the Radio on Friday</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/07/10/kim-and-nathan-on-the-radio-on-friday/feed/</wfw:commentRss>
@@ -85,17 +82,14 @@
 		<category><![CDATA[nightmares of bunker hill]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal Dennis at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the O&#8217;Connor Electroplating Disaster to the hairy ghoul gal &#8230; <a href="/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/" class="more-link">Continue reading <span class="screen-reader-text">Nightmares on Bunker Hill Easter Tour Snaps</span></a></p>
-<p>The post <a rel="nofollow" href="/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Nightmares on Bunker Hill Easter Tour Snaps</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal Dennis at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the O&#8217;Connor Electroplating Disaster to the hairy ghoul gal &#8230; <a href="/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/" class="more-link">Continue reading <span class="screen-reader-text">Nightmares on Bunker Hill Easter Tour Snaps</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal <a href="https://www.laweekly.com/la-people-2006/sitting-bull/13232/" target="_blank">Dennis</a> at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the <a href="https://www.47upgradepath7.richardschave.com//tags/oconnor-electro-plating-company" target="_blank">O&#8217;Connor Electroplating Disaster</a> to the hairy ghoul gal of Old Sonoratown, severed hands to rotting panhandlers, deadly Xmas gifts to fake mediums, it was a delightful dip into the weird old L.A. that&#8217;s not there anymore.</p>
-<p>Here are a few photographic impressions to mark the day. And if you&#8217;d like a spin on the Crime Bus, please note: Nightmares of Bunker Hill <a href="https://www.dumplinglab.com/crimebus/?q=bunkerhilljune" target="_blank">rolls again</a> on June 10.</p>
+<p>On Sunday, April 16, a merry busload of crime geeks boarded our stretch hearse (actually a plush touring coach, courtesy of our pal <a href="http://www.laweekly.com/la-people-2006/sitting-bull/13232/" target="_blank">Dennis</a> at American Transporation Systems) for a five-hour tour into the weird crannies and freaky nooks of downtown Los Angeles and Chinatown. From the <a href="http://www.47upgradepath7.richardschave.com//tags/oconnor-electro-plating-company" target="_blank">O&#8217;Connor Electroplating Disaster</a> to the hairy ghoul gal of Old Sonoratown, severed hands to rotting panhandlers, deadly Xmas gifts to fake mediums, it was a delightful dip into the weird old L.A. that&#8217;s not there anymore.</p>
+<p>Here are a few photographic impressions to mark the day. And if you&#8217;d like a spin on the Crime Bus, please note: Nightmares of Bunker Hill <a href="http://www.dumplinglab.com/crimebus/?q=bunkerhilljune" target="_blank">rolls again</a> on June 10.</p>
 <p><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/50/131912523_d959023e1c.jpg" />&nbsp;<img border="0" src="//static.flickr.com/50/131912858_3942ac64b3.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/46/131913366_eafc44aec9.jpg" /><img border="0" src="//static.flickr.com/55/131913428_dd911c261a.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/48/131914142_35ce440f3a.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/52/131913268_14432cc8b0.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/49/131913506_fde79336d5.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/1/131914209_2a00c289ea.jpg" /><img loading="lazy" width="335" height="500" border="0" src="//static.flickr.com/52/131914546_a223b34127.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/54/131913552_46df42323d.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/49/131914290_1392f43a6e.jpg" /><img loading="lazy" width="500" height="335" border="0" src="//static.flickr.com/1/131914209_2a00c289ea.jpg" /></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/">Nightmares on Bunker Hill Easter Tour Snaps</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/04/21/nightmares-on-bunker-hill-easter-tour-snaps/feed/</wfw:commentRss>
@@ -122,20 +116,17 @@
 		<category><![CDATA[otto sanhuber]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest podcast.</p>
-<p>The post <a rel="nofollow" href="/2006/03/14/dahlia-days-podcast-ii/">Dahlia Days Podcast II</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest podcast.]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
+<div>Want to hear what some of the passengers said about the last Crime Bus tour? Check out the latest <a href="http://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3">podcast</a>.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/03/14/dahlia-days-podcast-ii/">Dahlia Days Podcast II</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/03/14/dahlia-days-podcast-ii/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />
+		<enclosure url="http://ia300238.us.archive.org/2/items/Dahlia_Days_II_Crime_Bus_Tour/1947projectDahliaDaysIIpodcast.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 	</channel>

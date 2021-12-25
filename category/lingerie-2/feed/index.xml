@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -45,11 +45,9 @@
 		<category><![CDATA[hot dogs]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 23, 1927Los Angeles John A. Horn was born to be a poet but Fate (O! cruel mistress she!) decreed he make his living as a lingerie salesman. Worse, he was married to a woman who did not understand the lyricism of his delicate artist&#8217;s soul. So he left his wife&#8212;but not before explaining himself &#8230; <a href="/2007/10/24/lacy-underthings-and-seagull-wings/" class="more-link">Continue reading <span class="screen-reader-text">Lacy Underthings and Seagull Wings</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/10/24/lacy-underthings-and-seagull-wings/">Lacy Underthings and Seagull Wings</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[October 23, 1927Los Angeles John A. Horn was born to be a poet but Fate (O! cruel mistress she!) decreed he make his living as a lingerie salesman. Worse, he was married to a woman who did not understand the lyricism of his delicate artist&#8217;s soul. So he left his wife&#8212;but not before explaining himself &#8230; <a href="/2007/10/24/lacy-underthings-and-seagull-wings/" class="more-link">Continue reading <span class="screen-reader-text">Lacy Underthings and Seagull Wings</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div><a href="https://www.flickr.com/photos/lperil/1719609996/" title="Photo Sharing"><img loading="lazy" src="//farm3.static.flickr.com/2386/1719609996_bb0de4e2a4_o.jpg" width="288" height="220" alt="beach" /></a></p>
+<div><a href="http://www.flickr.com/photos/lperil/1719609996/" title="Photo Sharing"><img loading="lazy" src="//farm3.static.flickr.com/2386/1719609996_bb0de4e2a4_o.jpg" width="288" height="220" alt="beach" /></a></p>
 <p>October 23, 1927<br />Los Angeles  </p>
 <p>John A. Horn was born to be a poet but Fate (O! cruel mistress she!) decreed he make his living as a lingerie salesman. Worse, he was married to a woman who did not understand the lyricism of his delicate artist&#8217;s soul. So he left his wife&mdash;but not before explaining himself in verse.   </p>
 <p>Martha Horn, seeking a divorce upon the grounds of desertion, recently handed her errant husband&#8217;s scribbled magnum opus to Judge Gates:    </p>
@@ -58,7 +56,6 @@
 <p>&quot;This is just another example of the ancient controversy between rhyme and reason,&quot; chortled Judge Gates before granting a divorce to the long-suffering Mrs. Horn.   </p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/10/24/lacy-underthings-and-seagull-wings/">Lacy Underthings and Seagull Wings</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/10/24/lacy-underthings-and-seagull-wings/feed/</wfw:commentRss>
@@ -83,9 +80,7 @@
 		<category><![CDATA[Van Nuys Hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>October 3, 1907Los Angeles During tonight&#8217;s dinnertime&#8212;the fashionable hour for society at the Hotel Van Nuys at Fourth and Main (Morgan &#38; Walls, 1896) a furry friend decided to hobnob with the upper crust.&#160; Strolling in through the Fourth Street entrance like the most gracious of chaps, of which there were many in the lobby, &#8230; <a href="/2006/10/03/his-bags-are-being-sent/" class="more-link">Continue reading <span class="screen-reader-text">His Bags are Being Sent</span></a></p>
-<p>The post <a rel="nofollow" href="/2006/10/03/his-bags-are-being-sent/">His Bags are Being Sent</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[October 3, 1907Los Angeles During tonight&#8217;s dinnertime&#8212;the fashionable hour for society at the Hotel Van Nuys at Fourth and Main (Morgan &#38; Walls, 1896) a furry friend decided to hobnob with the upper crust.&#160; Strolling in through the Fourth Street entrance like the most gracious of chaps, of which there were many in the lobby, &#8230; <a href="/2006/10/03/his-bags-are-being-sent/" class="more-link">Continue reading <span class="screen-reader-text">His Bags are Being Sent</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" width="400" height="115" border="0" align="left" title="sewerrat" alt="sewerrat" src="//static.flickr.com/92/259939250_2f2e19e641_o.gif" />October 3, 1907<br />Los Angeles</p>
@@ -98,7 +93,6 @@
 <p>&nbsp;</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2006/10/03/his-bags-are-being-sent/">His Bags are Being Sent</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2006/10/03/his-bags-are-being-sent/feed/</wfw:commentRss>

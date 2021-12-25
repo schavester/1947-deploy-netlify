@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="https://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-	xmlns:dc="https://purl.org/dc/elements/1.1/"
-	xmlns:atom="https://www.w3.org/2005/Atom"
-	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="https://www.georss.org/georss"
-	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
@@ -45,21 +45,18 @@
 		<category><![CDATA[trees]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; December 8, 1927Los Angeles Mrs. Nancy Parrish likes her palm tree.&#160; A lot.&#160; And who can blame her?&#160; This is Los Angeles.&#160; Palms define our city&#8212;in shape, in spirit, in soul.&#160; So when she looked out her window and saw someone digging up the palm in front of her home, 419 Court Street, she &#8230; <a href="/2007/12/09/next-time-they-wont-be-so-lucky/" class="more-link">Continue reading <span class="screen-reader-text">Next Time They Won&#8217;t Be So Lucky</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/12/09/next-time-they-wont-be-so-lucky/">Next Time They Won&#8217;t Be So Lucky</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[&#160; December 8, 1927Los Angeles Mrs. Nancy Parrish likes her palm tree.&#160; A lot.&#160; And who can blame her?&#160; This is Los Angeles.&#160; Palms define our city&#8212;in shape, in spirit, in soul.&#160; So when she looked out her window and saw someone digging up the palm in front of her home, 419 Court Street, she &#8230; <a href="/2007/12/09/next-time-they-wont-be-so-lucky/" class="more-link">Continue reading <span class="screen-reader-text">Next Time They Won&#8217;t Be So Lucky</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;<img loading="lazy" width="600" height="29" border="0" title="attacked" alt="attacked" src="//farm3.static.flickr.com/2320/2096277921_b9beb78c2c_o.gif" /></p>
 <p><img loading="lazy" width="249" height="283" border="0" align="left" title="theattack" alt="theattack" src="//farm3.static.flickr.com/2407/2096277917_dacdf15ed8_o.gif" />December 8, 1927<br />Los Angeles</p>
-<p>Mrs. Nancy Parrish likes her palm tree.&nbsp; A lot.&nbsp; And who can blame her?&nbsp; This is Los Angeles.&nbsp; Palms define our city&mdash;in shape, in spirit, in soul.&nbsp; So when she looked out her window and saw someone digging up the palm in front of her home, <a title="courtst" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=West+Court+St,+90026&#038;sll=34.068729,-118.2622&#038;sspn=0.016424,0.029182&#038;ie=UTF8&#038;ll=34.068196,-118.2622&#038;spn=0.016424,0.029182&#038;z=15&#038;iwloc=addr&#038;om=1">419 Court Street</a>, she became enraged, and grabbed the 1927 version of pepper spray, a can of red pepper.&nbsp; She raced down the stairs and threw it full in the workers&rsquo; faces. &nbsp;</p>
+<p>Mrs. Nancy Parrish likes her palm tree.&nbsp; A lot.&nbsp; And who can blame her?&nbsp; This is Los Angeles.&nbsp; Palms define our city&mdash;in shape, in spirit, in soul.&nbsp; So when she looked out her window and saw someone digging up the palm in front of her home, <a title="courtst" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=West+Court+St,+90026&#038;sll=34.068729,-118.2622&#038;sspn=0.016424,0.029182&#038;ie=UTF8&#038;ll=34.068196,-118.2622&#038;spn=0.016424,0.029182&#038;z=15&#038;iwloc=addr&#038;om=1">419 Court Street</a>, she became enraged, and grabbed the 1927 version of pepper spray, a can of red pepper.&nbsp; She raced down the stairs and threw it full in the workers&rsquo; faces. &nbsp;</p>
 <p>Never mind that it wasn&rsquo;t really her palm&mdash;Nancy&rsquo;s just a renter&mdash;she loved her palm, dammit.&nbsp; Of course that&rsquo;s no solace to poor Francisco Rodriquez, one of the diggers, who&rsquo;s facing the loss of his eyes, according to attendants at Receiving Hospital.&nbsp; Sidney Kanin, of 828 North Vermont, who&rsquo;d hired Rodriquez to help him dig out the palm, luckily turned his head in time to avoid the capsicum contents.&nbsp; Apparently Kanin had purchased the palm from Karl Vmorin, owner of Nancy&rsquo;s rentahouse. &nbsp;</p>
 <p>After the attack, Kanin summoned policemen William Price and J. L. Willis to the scene, but they refused to arrest Mrs. Parrish; nosy neighbors are reporting that matter to Chief Davis.&nbsp; A complaint charging Parrish with battery and wrongful acts, and a warrant for her arrest, have since been issued by Chief Deputy City Prosecutor Concannon.</p>
-<p><img loading="lazy" width="372" height="327" border="0" align="right" title="treekillaz" alt="treekillaz" src="//farm3.static.flickr.com/2339/2096277913_6f9c7f40d4_o.gif" />On a related note&mdash;here in the future&mdash;I like my palm tree.&nbsp; A lot.&nbsp; And who can blame me?&nbsp; So when I looked out my window and saw someone chainsawing&nbsp; up the palm in front of my home, I was close to grabbing something a lot stronger than a can of seasoning.&nbsp; (Never mind that it wasn&#8217;t really my palm&mdash;but on an embankment in front of my house&mdash;I loved my palm, dammit.)&nbsp; When the overscale condo development went up across the street from me, they stretched high-tension wires across to it.&nbsp; And then the DWP decided that the decades-old <a title="CIDP" target="_blank" href="https://en.wikipedia.org/wiki/Canary_Island_Date_Palm">Canary Island Date Palm</a> had to go; it was too close to the new wires (it wasn&rsquo;t, but that&rsquo;s just a matter of opinion).&nbsp; What&rsquo;s not a matter of opinion is this:&nbsp; that was a <a title="canarp" target="_blank" href="https://www.bigpalmtrees.com/size_specifications.htm">mature</a> $30,000 tree, and, in the world of palms, the <a href="https://www.sunpalmtrees.com/Palm-Trees-Pictures-Canary-Island-Date-Palms.htm" target="_blank" title="sunp"><em>Phoenix canariensis</em></a> is among the easiest to transplant.&nbsp; I&rsquo;m not necessarily saying that the wires should have, could have been moved&mdash;that&rsquo;s perfect world stuff&mdash;but the workers could have spent two hours moving the tree five feet to the left instead of spending one hour chopping it down.&nbsp; I&rsquo;m deep in the Highland Park <a title="hpoz" target="_blank" href="https://www.preservation.lacity.org/hpoz">HPOZ</a> and cutting down my tree, replete as it was with historic and cultural value, means I&rsquo;m reaching for my can o&rsquo; pepper.&nbsp; Ed Reyes, I&rsquo;m gunning for a new tree, and the fact that the &ldquo;<a title="nopalmsforLA" target="_blank" href="https://www.milliontreesla.org/mtabout.htm">Million Tree March</a>&rdquo; hates palms makes no never mind!&nbsp; The palm was the tree of choice for the Franciscan and Jesuit missionaries, Lucky Baldwin, Henry Huntington, and every builder of this city committed to its unique elan&hellip;certainly you are in that league, Councilman?&nbsp; Will he commit to Highland Park&rsquo;s streetscape heritage, reader?&nbsp; We&rsquo;ll keep you posted.</p>
+<p><img loading="lazy" width="372" height="327" border="0" align="right" title="treekillaz" alt="treekillaz" src="//farm3.static.flickr.com/2339/2096277913_6f9c7f40d4_o.gif" />On a related note&mdash;here in the future&mdash;I like my palm tree.&nbsp; A lot.&nbsp; And who can blame me?&nbsp; So when I looked out my window and saw someone chainsawing&nbsp; up the palm in front of my home, I was close to grabbing something a lot stronger than a can of seasoning.&nbsp; (Never mind that it wasn&#8217;t really my palm&mdash;but on an embankment in front of my house&mdash;I loved my palm, dammit.)&nbsp; When the overscale condo development went up across the street from me, they stretched high-tension wires across to it.&nbsp; And then the DWP decided that the decades-old <a title="CIDP" target="_blank" href="http://en.wikipedia.org/wiki/Canary_Island_Date_Palm">Canary Island Date Palm</a> had to go; it was too close to the new wires (it wasn&rsquo;t, but that&rsquo;s just a matter of opinion).&nbsp; What&rsquo;s not a matter of opinion is this:&nbsp; that was a <a title="canarp" target="_blank" href="http://www.bigpalmtrees.com/size_specifications.htm">mature</a> $30,000 tree, and, in the world of palms, the <a href="http://www.sunpalmtrees.com/Palm-Trees-Pictures-Canary-Island-Date-Palms.htm" target="_blank" title="sunp"><em>Phoenix canariensis</em></a> is among the easiest to transplant.&nbsp; I&rsquo;m not necessarily saying that the wires should have, could have been moved&mdash;that&rsquo;s perfect world stuff&mdash;but the workers could have spent two hours moving the tree five feet to the left instead of spending one hour chopping it down.&nbsp; I&rsquo;m deep in the Highland Park <a title="hpoz" target="_blank" href="http://www.preservation.lacity.org/hpoz">HPOZ</a> and cutting down my tree, replete as it was with historic and cultural value, means I&rsquo;m reaching for my can o&rsquo; pepper.&nbsp; Ed Reyes, I&rsquo;m gunning for a new tree, and the fact that the &ldquo;<a title="nopalmsforLA" target="_blank" href="http://www.milliontreesla.org/mtabout.htm">Million Tree March</a>&rdquo; hates palms makes no never mind!&nbsp; The palm was the tree of choice for the Franciscan and Jesuit missionaries, Lucky Baldwin, Henry Huntington, and every builder of this city committed to its unique elan&hellip;certainly you are in that league, Councilman?&nbsp; Will he commit to Highland Park&rsquo;s streetscape heritage, reader?&nbsp; We&rsquo;ll keep you posted.</p>
 <p></p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/12/09/next-time-they-wont-be-so-lucky/">Next Time They Won&#8217;t Be So Lucky</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/12/09/next-time-they-wont-be-so-lucky/feed/</wfw:commentRss>
@@ -85,22 +82,19 @@
 		<category><![CDATA[iodine]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>&#160; November 11, 1927Los Angeles Mrs. Marie Steen was minding her own beeswax tonight in her home at 8619 Grape Street, when a short, heavy-set man appeared at her door.&#160; He informed her that her husband had been in an accident, and that she&#8217;d better board the eastbound R car, go to the end of &#8230; <a href="/2007/11/11/grapes-of-wrath/" class="more-link">Continue reading <span class="screen-reader-text">Grapes of Wrath</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/11/11/grapes-of-wrath/">Grapes of Wrath</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[&#160; November 11, 1927Los Angeles Mrs. Marie Steen was minding her own beeswax tonight in her home at 8619 Grape Street, when a short, heavy-set man appeared at her door.&#160; He informed her that her husband had been in an accident, and that she&#8217;d better board the eastbound R car, go to the end of &#8230; <a href="/2007/11/11/grapes-of-wrath/" class="more-link">Continue reading <span class="screen-reader-text">Grapes of Wrath</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <div class="content">
 <p>&nbsp;</p>
 <p><img loading="lazy" width="246" height="192" border="0" src="//farm3.static.flickr.com/2216/1905386833_ea2a9034ab_o.gif" alt="ledintotrap" title="ledintotrap" /><img loading="lazy" width="178" height="400" border="0" align="right" src="//farm3.static.flickr.com/2315/1905386865_11e5f6c8b0_o.gif" alt="steen" title="steen" /> </p>
 <p>November 11, 1927<br />Los Angeles</p>
-<p>Mrs. Marie Steen was minding her own beeswax tonight in her home at <a title="8619GS" target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=8619+Grape+St,+Los+Angeles,+CA+90002&#038;sll=37.0625,-95.677068&#038;sspn=32.252269,59.765625&#038;ie=UTF8&#038;ll=33.960501,-118.236322&#038;spn=0.00824,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">8619 Grape Street</a>, when a short, heavy-set man appeared at her door.&nbsp; He informed her that her husband had been in an accident, and that she&rsquo;d better board the eastbound <a href="https://books.google.com/books?id=c6R3cHf1w5IC&#038;pg=PA24&#038;lpg=PA24&#038;dq=%22r+car%22+angeles&#038;source=web&#038;ots=1sdsrqIa39&#038;sig=5udlELyddDRA6Aym8J11R_fW3g0" target="_blank" title="RCarTortilaFlats">R car</a>, go to the end of the line and meet the man who&rsquo;d take her to her husband.&nbsp; Marie did as she was told, and at the end of the car line was met by a man in a new automobile who took her north on Eastern Avenue.&nbsp; When they reached an isolated spot, he, for reasons unknown, ripped her dress open at the neck, struck her over the head, and threw iodine in her face.</p>
+<p>Mrs. Marie Steen was minding her own beeswax tonight in her home at <a title="8619GS" target="_blank" href="http://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;time=&#038;date=&#038;ttype=&#038;q=8619+Grape+St,+Los+Angeles,+CA+90002&#038;sll=37.0625,-95.677068&#038;sspn=32.252269,59.765625&#038;ie=UTF8&#038;ll=33.960501,-118.236322&#038;spn=0.00824,0.014591&#038;z=16&#038;iwloc=addr&#038;om=1">8619 Grape Street</a>, when a short, heavy-set man appeared at her door.&nbsp; He informed her that her husband had been in an accident, and that she&rsquo;d better board the eastbound <a href="http://books.google.com/books?id=c6R3cHf1w5IC&#038;pg=PA24&#038;lpg=PA24&#038;dq=%22r+car%22+angeles&#038;source=web&#038;ots=1sdsrqIa39&#038;sig=5udlELyddDRA6Aym8J11R_fW3g0" target="_blank" title="RCarTortilaFlats">R car</a>, go to the end of the line and meet the man who&rsquo;d take her to her husband.&nbsp; Marie did as she was told, and at the end of the car line was met by a man in a new automobile who took her north on Eastern Avenue.&nbsp; When they reached an isolated spot, he, for reasons unknown, ripped her dress open at the neck, struck her over the head, and threw iodine in her face.</p>
 <p>She was treated at Gardens Hospital and returned home.</p>
-<p>Mrs. Steen certainly looks like she can take care of herself.&nbsp; On the other hand, Grape Street can be a pretty <a href="https://www.streetgangs.com/crips/grapestreet.html" target="_blank" title="grapestreet">rough place</a>.</p>
+<p>Mrs. Steen certainly looks like she can take care of herself.&nbsp; On the other hand, Grape Street can be a pretty <a href="http://www.streetgangs.com/crips/grapestreet.html" target="_blank" title="grapestreet">rough place</a>.</p>
 </p></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/11/11/grapes-of-wrath/">Grapes of Wrath</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/11/11/grapes-of-wrath/feed/</wfw:commentRss>
@@ -123,23 +117,20 @@
 		<category><![CDATA[true love]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>The podcast returns with a vengeance, as nasty ladies spank stolen children, acid is flung into coppers&#8217; eyes, a love bird feathers his nest and Crimebo answers your questions. Yes, friends, it&#8217;s time again to suffer through the 1947project podcastitifatorial, and you wouldn&#8217;t leave us to suffer alone&#8230; would you? Here is the iTunes link &#8230; <a href="/2007/10/10/1947project-podcast-8/" class="more-link">Continue reading <span class="screen-reader-text">1947project podcast #8</span></a></p>
-<p>The post <a rel="nofollow" href="/2007/10/10/1947project-podcast-8/">1947project podcast #8</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
-]]></description>
+					<description><![CDATA[The podcast returns with a vengeance, as nasty ladies spank stolen children, acid is flung into coppers&#8217; eyes, a love bird feathers his nest and Crimebo answers your questions. Yes, friends, it&#8217;s time again to suffer through the 1947project podcastitifatorial, and you wouldn&#8217;t leave us to suffer alone&#8230; would you? Here is the iTunes link &#8230; <a href="/2007/10/10/1947project-podcast-8/" class="more-link">Continue reading <span class="screen-reader-text">1947project podcast #8</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>The podcast returns with a vengeance, as nasty ladies spank stolen children, acid is flung into coppers&#8217; eyes, a love bird feathers his nest and Crimebo answers your questions. Yes, friends, it&#8217;s time again to <a href="https://www.archive.org/download/KimCooper1947project/podcast8.mp3">suffer through</a> the 1947project podcastitifatorial, and you wouldn&#8217;t leave us to suffer alone&#8230; would you?
+<div>The podcast returns with a vengeance, as nasty ladies spank stolen children, acid is flung into coppers&#8217; eyes, a love bird feathers his nest and Crimebo answers your questions. Yes, friends, it&#8217;s time again to <a href="http://www.archive.org/download/KimCooper1947project/podcast8.mp3">suffer through</a> the 1947project podcastitifatorial, and you wouldn&#8217;t leave us to suffer alone&#8230; would you?
 </p>
-<p>Here is the iTunes <a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">link</a> for you modern types.&nbsp;</p>
-<p>Also <a href="https://www.moli.com/esotouric" target="_blank">available</a> on Moli.</p>
+<p>Here is the iTunes <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">link</a> for you modern types.&nbsp;</p>
+<p>Also <a href="http://www.moli.com/esotouric" target="_blank">available</a> on Moli.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="/2007/10/10/1947project-podcast-8/">1947project podcast #8</a> appeared first on <a rel="nofollow" href="/">1947 Project</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2007/10/10/1947project-podcast-8/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
-		<enclosure url="https://www.archive.org/download/KimCooper1947project/podcast8.mp3" length="169" type="audio/mpeg" />
+		<enclosure url="http://www.archive.org/download/KimCooper1947project/podcast8.mp3" length="169" type="audio/mpeg" />
 
 			</item>
 	</channel>
