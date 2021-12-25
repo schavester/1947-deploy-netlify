@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>dog asylums &#8211; 1947 Project</title>
+	<atom:link href="/tag/dog-asylums/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:37:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>dog asylums &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Once There was Sight</title>
+		<link>/2007/07/01/once-there-was-sight/</link>
+					<comments>/2007/07/01/once-there-was-sight/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Sun, 01 Jul 2007 06:50:07 +0000</pubDate>
+				<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[dog asylums]]></category>
+		<category><![CDATA[India]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Now, I&#8217;ve no particular illusions about India, commonly considered that ground zero of spirituality and holiness&#8212;it is, after all, both our fastest growing contributor to atmospheric carbon emissions, and our undisputed global king of human trafficking&#8212;but would I, in 1927, have dubbed them heathens?&#160; I think not. &#160;]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Now, I&rsquo;ve no particular illusions about India, commonly considered that ground zero of spirituality and holiness&mdash;it is, after all, both our fastest growing contributor to atmospheric carbon emissions, and our undisputed global king of human trafficking&mdash;but would I, in 1927, have dubbed them heathens?&nbsp; I think not.</p>
+<p><img loading="lazy" width="317" height="165" border="0" src="//farm2.static.flickr.com/1268/679611267_3cf3dc51c7_o.gif" alt="heathens" title="heathens" />&nbsp;</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/07/01/once-there-was-sight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>cancer &#8211; 1947 Project</title>
+	<atom:link href="/tag/cancer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:41:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>cancer &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kiss of Death</title>
+		<link>/2007/06/15/kiss-of-death/</link>
+					<comments>/2007/06/15/kiss-of-death/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Fri, 15 Jun 2007 16:16:42 +0000</pubDate>
+				<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[Strangulation]]></category>
+		<category><![CDATA[Suicide]]></category>
+		<category><![CDATA[cancer]]></category>
+		<category><![CDATA[suicide pact]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[June 15, 1927Los Angeles When the peddler peeked into the back window of John and Lydia Kiss&#8217; home at the defunct address of 1843 Woolan Avenue he found, not a likely prospect, but a pair of gently swaying corpses, result of the couple&#8217;s successful suicide pact. Beneath their feet were upturned boxes, suggesting they had &#8230; <a href="/2007/06/15/kiss-of-death/" class="more-link">Continue reading <span class="screen-reader-text">Kiss of Death</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>June 15, 1927<br />Los Angeles </p>
+<p>When the peddler peeked into the back window of John and Lydia Kiss&#8217; home at the defunct address of 1843 Woolan Avenue he found, not a likely prospect, but a pair of gently swaying corpses, result of the couple&#8217;s successful suicide pact. Beneath their feet were upturned boxes, suggesting they had stood together and kicked off into eternity.</p>
+<p>Lydia, 53, had terminal cancer, and she and John chose to go out together rather than await her inevitable death. Lydia left several notes in Hungarian saying that she and John were tired of life, and their relatives, including a son in L.A., a daughter in Long Beach, and two sons in Chicago, would likely be happy to have their money. $1500 in cash was found in the home.</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/06/15/kiss-of-death/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Westlake &#8211; 1947 Project</title>
+	<atom:link href="/tag/westlake/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:51:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>Westlake &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Bad Way With Horses</title>
+		<link>/2006/11/12/a-bad-way-with-horses/</link>
+					<comments>/2006/11/12/a-bad-way-with-horses/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sun, 12 Nov 2006 15:33:06 +0000</pubDate>
+				<category><![CDATA[courts]]></category>
+		<category><![CDATA[horses]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[streetcars]]></category>
+		<category><![CDATA[accidents]]></category>
+		<category><![CDATA[animal cruelty]]></category>
+		<category><![CDATA[Westlake]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Nov.12, 1907 Los Angeles Half a block from his home at 1131 Westlake, John P. Shumway Jr. was badly injured when the carriage he was driving collided with the 11th Street trolley. Shumway was thrown about 20 feet, striking the pavement head-first, and the horse ran for the stable, pulling what was left of the &#8230; <a href="/2006/11/12/a-bad-way-with-horses/" class="more-link">Continue reading <span class="screen-reader-text">A Bad Way With Horses</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1112.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/1907_1112.jpg" alt="" border="0" /></a><br />
+<!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
+<p class="MsoNormal">Nov.12, 1907<br />
+Los Angeles</p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">Half a block from his home at <a href="https://www.zillow.com/HomeDetails.htm?city=Los+Angeles&#038;state=CA&amp;zprop=20624434">1131 Westlake</a>, John P. Shumway Jr. was badly injured when the carriage he was driving collided with the 11<sup>th</sup> Street trolley.<span style="">  </span>Shumway was thrown about 20 feet, striking the pavement head-first, and the horse ran for the stable, pulling what was left of the smashed carriage, witnesses said. </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">Shumway was carried to his home, where his father, Dr. John P. Shumway, treated him for a concussion, bruises and cuts. A year later, the family filed a personal injury suit against the Los Angeles Railway, seeking $10,355 ($204,938.83), although The Times failed to report the outcome of the trial.</p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">Whether Shumway was a troublesome sort before is unclear, but his problems continued. In 1909, he was arrested for passing a forged check for $25 at the Pioneer bar on North Main Street. He claimed that he was given the check for work he had performed and was freed when he promised to repay the money. </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">A few months later, he was fined $60 for cruelty to a horse. Witnesses said Shumway overloaded a three-horse truck in South Pasadena and </div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/11/12/a-bad-way-with-horses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

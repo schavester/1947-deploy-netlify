@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>disturbing the peace &#8211; 1947 Project</title>
+	<atom:link href="/tag/disturbing-the-peace/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:39:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>disturbing the peace &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>There is a Balm in Gilead</title>
+		<link>/2006/09/01/there-is-a-balm-in-gilead/</link>
+					<comments>/2006/09/01/there-is-a-balm-in-gilead/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2006 01:26:39 +0000</pubDate>
+				<category><![CDATA[downtown]]></category>
+		<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[singing]]></category>
+		<category><![CDATA[African-Americans]]></category>
+		<category><![CDATA[disturbing the peace]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[August 31, 1907Los Angeles William Bradley, the &#8220;Singing Negro,&#8221; was arrested three times yesterday before performing an act of singular bravery today. Everyone likes the religious fanatic,&#160; and because there is no law prohibiting a man from singing religious songs on the street, he&#8217;s been busting out camp-meetin&#8217; aubades downtown in a voice &#8220;that would &#8230; <a href="/2006/09/01/there-is-a-balm-in-gilead/" class="more-link">Continue reading <span class="screen-reader-text">There is a Balm in Gilead</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>August 31, 1907<br />Los Angeles</p>
+<p>William Bradley, the &ldquo;Singing Negro,&rdquo; was arrested three times yesterday before performing an act of singular bravery today.<img loading="lazy" width="400" height="126" border="0" align="right" src="//static.flickr.com/83/230514116_0c6c2c134f_o.gif" alt="bradley" title="bradley" /></p>
+<p>Everyone likes the religious fanatic,&nbsp; and because there is no law prohibiting a man from singing religious songs on the street, he&rsquo;s been busting out camp-meetin&rsquo; aubades downtown in a voice &ldquo;that would make the steam whistle on a New Orleans cotton-boat turn green with envy.&rdquo;</p>
+<p>When some motorman on the Temple-street car finally had had enough, and after his strenuous objection to authorities, a warrant was sworn out on Bradley for Disturbing the Peace.&nbsp; Friends quickly put up bail and Bradley burst into spirituals on the steps of the station.&nbsp; Arrested again as he marched down Spring, he was released and promptly arrested again as he belted out canticles on South Broadway.&nbsp; He finally agreed to hold in his gospel long enough to reach home, though said he guessed he&rsquo;d &ldquo;might near burst open.&rdquo;</p>
+<p>Today, Bradley was walking along Temple, singing at top strength, when a runaway horse charged down the hill, bearing straight for two women and a little girl.&nbsp; Men did not care to step off the sidewalk, but Bradley never stopped singing, his voice in fact rising higher in song, as he dashed into the street to throw himself upon and pinion the mad animal. &nbsp;</p>
+<p>Without waiting for thanks, he lifted his voice and trudged away.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/09/01/there-is-a-balm-in-gilead/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

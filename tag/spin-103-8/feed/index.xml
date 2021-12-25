@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>spin 103.8 &#8211; 1947 Project</title>
+	<atom:link href="/tag/spin-103-8/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:49:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>spin 103.8 &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Crimebo on the Radio</title>
+		<link>/2006/07/29/crimebo-on-the-radio/</link>
+					<comments>/2006/07/29/crimebo-on-the-radio/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2006 01:13:10 +0000</pubDate>
+				<category><![CDATA[Crimebo the Clown]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[dublin]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[jack and ali]]></category>
+		<category><![CDATA[montreal]]></category>
+		<category><![CDATA[spin 103.8]]></category>
+		<category><![CDATA[spin talk]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Seems like everyone wants to talk with our Crime Clown Crimebo! Tune in online this Monday to hear his first two interviews, both on international radio stations. In the morning, Crimebo shares some brekkie with Jack and Ali on Spin Talk 103.8 in Dublin, Ireland at 6:30am Los Angeles time. And then at 10:35pm Los &#8230; <a href="/2006/07/29/crimebo-on-the-radio/" class="more-link">Continue reading <span class="screen-reader-text">Crimebo on the Radio</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Seems like everyone wants to talk with our Crime Clown Crimebo!</p>
+<p> Tune in online this Monday to hear his first two interviews, both on international radio stations. In the morning, Crimebo shares some brekkie with Jack and Ali on <a href="https://www.spin1038.com/" target="_blank">Spin Talk 103.8</a> in Dublin, Ireland at 6:30am Los Angeles time. And then at 10:35pm Los Angeles time, he&#8217;s on air with Peter Anthony Holder on <a href="https://www.cjad.com/" target="_blank">CJAD 800 AM</a>, Montreal, Canada. On both shows, he&#8217;ll share some of the more grisly things that happened in the Los Angeles area on July 31s over the decades, and offer a little insight on what it&#8217;s like to be the world&#8217;s only Crime Clown.</p>
+<p>Crimebo will talk with you, too&#8230; for a price. <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_blank">Contact</a> the editrix to book an in-person or telephone consultation from Crimebo&#8217;s Big Book of Terrible Crimes for the date of your choosing.&nbsp;</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/07/29/crimebo-on-the-radio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

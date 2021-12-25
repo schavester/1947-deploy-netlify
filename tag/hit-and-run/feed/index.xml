@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>hit and run &#8211; 1947 Project</title>
+	<atom:link href="/tag/hit-and-run/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:59:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>hit and run &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Death Car</title>
+		<link>/2007/07/23/death-car/</link>
+					<comments>/2007/07/23/death-car/#respond</comments>
+		
+		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
+		<pubDate>Mon, 23 Jul 2007 14:51:11 +0000</pubDate>
+				<category><![CDATA[Accidents]]></category>
+		<category><![CDATA[East LA]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Joan Renner]]></category>
+		<category><![CDATA[Negligence]]></category>
+		<category><![CDATA[San Fernando Valley]]></category>
+		<category><![CDATA[hit and run]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[July 23, 1927 Los Angeles Detective Lieutenants Kallmeyer, Werne, and Roberts spent all day searching for the three contemptible men who cruelly drove away from a hit-and-run accident which left nineteen year old Aristo Santelanto of 712 Clara Street, dead at the scene. The hardworking Santelanto was with a crew of men repairing railway tracks &#8230; <a href="/2007/07/23/death-car/" class="more-link">Continue reading <span class="screen-reader-text">Death Car</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p><img loading="lazy" width="238" height="208" border="0" src="//farm2.static.flickr.com/1025/871158292_93df73f1c2_o.jpg" alt="death car headline" title="death car headline" /></p>
+<p>July 23, 1927 <br />Los Angeles </p>
+<p>Detective Lieutenants Kallmeyer, Werne, and Roberts spent all day searching for the three contemptible men who cruelly drove away from a hit-and-run accident which left nineteen year old Aristo Santelanto of <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=712+Clara+Street,+Los+Angeles&#038;sll=37.0625,-95.677068&#038;sspn=42.445866,74.707031&#038;ie=UTF8&#038;ll=34.057282,-118.231752&#038;spn=0.01088,0.018239&#038;z=16&#038;iwloc=cent&#038;om=1" title="712 Clara Street">712 Clara Street</a>, dead at the scene. </p>
+<p>The hardworking Santelanto was with a crew of men repairing railway tracks at <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=washington+and+cimarron,+Los++Angeles,+CA&#038;sll=34.09799,-118.331&#038;sspn=0.010874,0.018239&#038;ie=UTF8&#038;z=16&#038;iwloc=addr&#038;om=1" title="Washington and Cimarron">Washington Street and Cimarron Avenue</a> when an automobile that was traveling at approximately sixty miles an hour struck him. Without slowing, the death car sped away. </p>
+<p>A sharp eyed witness to the crime furnished detectives with numbers from the car&rsquo;s license plate. The investigation was complicated because the crime car had traded hands several times over a period of six months. Undeterred, the cops persisted in their search and as a result, A.T. House, 32, of <a target="_blank" href="https://en.wikipedia.org/wiki/North_Hollywood,_California" title="North Hollywood">Lankershim</a> (now North Hollywood), was handcuffed and taken into custody for suspicion of manslaughter. </p>
+<p>House&rsquo;s passengers, Eugene Long, 20, and Paul Post, 32, both of Lankershim, were picked up by police at <a target="_blank" href="https://maps.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=sunset+and+wilcox,+Hollywood,+CA&#038;sll=34.13588,-118.3512&#038;sspn=1.391269,2.334595&#038;ie=UTF8&#038;z=16&#038;iwloc=addr&#038;om=1" title="Sunset and Wilcox">Sunset Boulevard and Wilcox Street</a>, where they were employed.&nbsp; The two men were taken to the City Jail and charged with failure to render aid.</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/07/23/death-car/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

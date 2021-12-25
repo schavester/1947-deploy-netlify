@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>records &#8211; 1947 Project</title>
+	<atom:link href="/tag/records/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:55:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>records &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>From the recording horn</title>
+		<link>/2006/05/25/from-the-recording-horn/</link>
+					<comments>/2006/05/25/from-the-recording-horn/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Thu, 25 May 2006 15:39:53 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[opera]]></category>
+		<category><![CDATA[pryor]]></category>
+		<category><![CDATA[caruso]]></category>
+		<category><![CDATA[records]]></category>
+		<category><![CDATA[sousa]]></category>
+		<category><![CDATA[victor]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[May 25, 1907 Los Angeles Sold on the installment plan, $1 a week with the purchase of six records at 60 cents each, the Victor Talking Machines offered performances by Caruso, Melba and Scotti, as well as John Philip Sousa]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0525.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 211px; height: 631px;" src="//lmharnisch.com/images/1907_0525.jpg" alt="" border="0" /></a><span style="font-size:100%;">May 25, 1907<br />
+Los Angeles</p>
+<p></span><span style="font-size:100%;">Sold on the installment plan, $1 a week with the purchase of six records at 60 cents each, the Victor Talking Machines offered performances by <a href="https://ia300034.us.archive.org/1/items/Caruso_part1/Caruso-IPagliacci-VestiLaGiubbaMarch171907a.mp3">Caruso</a></span><span style="font-size:100%;">, Melba and Scotti, as well as <a href="https://ia300115.us.archive.org/2/items/SousasBand/SousasBand-AtaGeorgiaCampMeeting.mp3">John Philip Sousa</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/05/25/from-the-recording-horn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://ia300034.us.archive.org/1/items/Caruso_part1/Caruso-IPagliacci-VestiLaGiubbaMarch171907a.mp3" length="0" type="audio/mpeg" />
+<enclosure url="https://ia300115.us.archive.org/2/items/SousasBand/SousasBand-AtaGeorgiaCampMeeting.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

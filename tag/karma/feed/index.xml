@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>karma &#8211; 1947 Project</title>
+	<atom:link href="/tag/karma/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:46:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>karma &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Diver Down</title>
+		<link>/2007/04/20/diver-down/</link>
+					<comments>/2007/04/20/diver-down/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Fri, 20 Apr 2007 17:47:13 +0000</pubDate>
+				<category><![CDATA[Accidents]]></category>
+		<category><![CDATA[Beach Cities]]></category>
+		<category><![CDATA[Cons]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[The wacko file]]></category>
+		<category><![CDATA[aimee semple mcpherson]]></category>
+		<category><![CDATA[fake]]></category>
+		<category><![CDATA[karma]]></category>
+		<category><![CDATA[kidnapping]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[April 20, 1927Los Angeles When evangelist Aimee Semple McPherson, the anointed queen of Echo Park&#8217;s Angelus Temple, went to Ocean Park Beach last May 18 and faked her own disappearance so she could run off with a boyfriend, even she could not have anticipated the hysteria that followed. For while her theological appearances were occasion &#8230; <a href="/2007/04/20/diver-down/" class="more-link">Continue reading <span class="screen-reader-text">Diver Down</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>April 20, 1927<br />Los Angeles </p>
+<p>When evangelist Aimee Semple McPherson, the anointed queen of Echo Park&#8217;s Angelus Temple, went to Ocean Park Beach last May 18 and faked her own <a href="https://en.wikipedia.org/wiki/Aimee_Semple_McPherson#Reported_abduction" target="_blank">disappearance</a> so she could run off with a boyfriend, even she could not have anticipated the hysteria that followed. For while her theological appearances were occasion for outpourings of public adoration, in vanishing, she moved into a new realm of fame. </p>
+<p>Congregants promptly offered a $25,000 reward for the return of their favorite alive, though she was widely presumed drowned. Word of the reward passed like quicksilver among the community of professional divers, perhaps without the &quot;alive&quot; clause appended. One of these, Edgar Harrison, was already in town from Catalina to testify in an insanity case, and stopped off on his way home to take a dive off the end of amusement laden <a href="https://www.westland.net/venicehistory/mapsdocs/oppier-map.htm" target="_blank">Lick Pier</a> on May 25, where no sign of the missing woman was found. The water pressure exacerbated an attack of appendicitis, and Harrison died in agony. By the time Aimee stumbled out of the desert crying kidnap (a lie that was soon exposed), Edgar Harrison was in his grave.</p>
+<p>Today, his widow Edna sat in court seeking $500 in death benefits that had been denied by the State Industrial Accident Commission, which claimed that Harrison was acting as a private citizen when he went diving for Aimee&#8217;s reward. Edna countered that her husband was operating under orders when he received his injuries, and further that she had been receiving threatening letters, ostensibly from the City of Los Angeles, suggesting that she seek payment from McPherson and Angelus Temple, and leave the city out of it.</p>
+<p>McPherson&#8217;s mother Minnie Kennedy took the stand, and said she had known nothing of Edgar Harrison&#8217;s dive until she was invited to attend his funeral, and that she had sent flowers and $500 to the widow, the latter which was returned. Edna countered that indeed $500 had been proffered, by two &quot;impudent&quot; representatives of the Temple, but that when she suggested they talk with her lawyer they had snatched the money away, called her &quot;a bitter woman&quot; and stalked off.</p>
+<p>Edgar Harrison was survived by two young children, Edgar Jr. and Lois.</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/04/20/diver-down/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

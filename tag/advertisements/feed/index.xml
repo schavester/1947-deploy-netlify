@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>advertisements &#8211; 1947 Project</title>
+	<atom:link href="/tag/advertisements/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:34:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>advertisements &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Satan Kills Germs</title>
+		<link>/2007/06/06/satan-kills-germs/</link>
+					<comments>/2007/06/06/satan-kills-germs/#respond</comments>
+		
+		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2007 18:29:15 +0000</pubDate>
+				<category><![CDATA[Mary McCoy]]></category>
+		<category><![CDATA[The wacko file]]></category>
+		<category><![CDATA[advertisements]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[I want to see the package this comes in.&#160;]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p><img loading="lazy" width="321" height="170" border="0" src="//farm2.static.flickr.com/1435/533535863_4d642ec89f_o.jpg" alt="killsgerms" title="killsgerms" /></p>
+<p>I want to see the package this comes in.&nbsp;</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/06/06/satan-kills-germs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

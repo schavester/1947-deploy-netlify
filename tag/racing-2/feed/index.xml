@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>racing &#8211; 1947 Project</title>
+	<atom:link href="/tag/racing-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:55:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>racing &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Angelenos and Their Cars</title>
+		<link>/2006/06/28/angelenos-and-their-cars/</link>
+					<comments>/2006/06/28/angelenos-and-their-cars/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Wed, 28 Jun 2006 15:23:35 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[autos]]></category>
+		<category><![CDATA[driving]]></category>
+		<category><![CDATA[racing]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[June 28, 1907 Los Angeles Give cars to a bunch of wealthy Los Angeles residents and what do they do? Race them, of course. Not on a track this time, but in an endurance test from Los Angeles to Lakeside. And yes, it]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0628.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 373px; height: 271px;" src="//www.lmharnisch.com/images/1907_0628.jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">June 28, 1907<br />
+</span><span style="font-size:100%;">Los Angeles<br />
+</span><span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">Give cars to a bunch of wealthy Los Angeles residents and what do they do? Race them, of course. <a href="/barney-oldfields-green-dragon-blazes-through-los-angeles">Not on a track this time</a></span><span style="font-size:100%;">, but in an endurance test from <a href="https://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=los+angeles,+ca&#038;daddr=lakeside,+ca&amp;amp;amp;amp;amp;ie=UTF8&#038;t=h&amp;om=0">Los Angeles to Lakeside</a></span><span style="font-size:100%;">. And yes, it</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/06/28/angelenos-and-their-cars/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Barney Oldfield&#8217;s Green Dragon Blazes Through Los Angeles</title>
+		<link>/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/</link>
+					<comments>/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sat, 06 May 2006 19:03:03 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[autos]]></category>
+		<category><![CDATA[Barney Oldfield]]></category>
+		<category><![CDATA[Exposition Park]]></category>
+		<category><![CDATA[racing]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[What is it about Angelenos that as soon as you put them behind the wheel of a car, they want to see how fast it will go? But it]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0506_oldfield02.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//lmharnisch.com/images/1907_0506_oldfield02.jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">What is it about Angelenos that as soon as you put them behind the wheel of a car, they want to see how fast it will go?<br />
+</span><span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">But it</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/05/06/barney-oldfields-green-dragon-blazes-through-los-angeles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

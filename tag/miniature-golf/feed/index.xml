@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>miniature golf &#8211; 1947 Project</title>
+	<atom:link href="/tag/miniature-golf/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Tue, 05 Apr 2016 18:05:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>miniature golf &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>1947project Podcast #3, July 6 2007</title>
+		<link>/2007/07/10/1947project-podcast-3-july-6-2007/</link>
+					<comments>/2007/07/10/1947project-podcast-3-july-6-2007/#comments</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 10 Jul 2007 00:22:20 +0000</pubDate>
+				<category><![CDATA[Arson]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[clams]]></category>
+		<category><![CDATA[coolidge]]></category>
+		<category><![CDATA[cough syrup]]></category>
+		<category><![CDATA[delis]]></category>
+		<category><![CDATA[heroin]]></category>
+		<category><![CDATA[kkk]]></category>
+		<category><![CDATA[miniature golf]]></category>
+		<category><![CDATA[raccoon]]></category>
+		<category><![CDATA[stowaway]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Here&#8217;s the latest edition of our podcast, a little belatedly due to holidays and bear attack. This time &#8217;round, the giddy and peculiar show features Joan, Mary, Nathan and myself, and our clown pal Crimebo, riffing on some of the more interesting cases from the past couple weeks of 1947project, and is brought to you &#8230; <a href="/2007/07/10/1947project-podcast-3-july-6-2007/" class="more-link">Continue reading <span class="screen-reader-text">1947project Podcast #3, July 6 2007</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Here&#8217;s the <a href="https://ia300224.us.archive.org/0/items/KimCooper1947projectPodcast_3_0/podcast3july62007_64kb.mp3" target="_blank">latest edition</a> of our podcast, a little belatedly due to holidays and bear attack.</p>
+<p>This time &#8217;round, the giddy and peculiar show features Joan, Mary, Nathan and myself, and our clown pal Crimebo, riffing on some of the more interesting cases from the past couple weeks of 1947project, and is brought to you by our newest sponsors, <strong>Floyd Elberfeld&#8217;s Lilli-puttian Mini Stroke Tiny Golfatorium</strong> and <strong>Ku Klux Klams</strong>. Patronise both today!</p>
+<p>Have a question for Crimebo the Clown&#8217;s advice column? No inquiry is too personal. Merely <a href="https://www.47upgradepath7.richardschave.com//feedback" target="_blank">contact us</a> with your message to Crimebo, and you might get your answer on a future podcast.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/07/10/1947project-podcast-3-july-6-2007/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		<enclosure url="https://ia300224.us.archive.org/0/items/KimCooper1947projectPodcast_3_0/podcast3july62007_64kb.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

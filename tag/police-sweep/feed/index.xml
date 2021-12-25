@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>police sweep &#8211; 1947 Project</title>
+	<atom:link href="/tag/police-sweep/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:40:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>police sweep &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Big Pickup</title>
+		<link>/2006/04/25/the-big-pickup/</link>
+					<comments>/2006/04/25/the-big-pickup/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2006 17:25:01 +0000</pubDate>
+				<category><![CDATA[Assault]]></category>
+		<category><![CDATA[Beating]]></category>
+		<category><![CDATA[Cons]]></category>
+		<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[Fiesta]]></category>
+		<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[pickpockets]]></category>
+		<category><![CDATA[Robbery]]></category>
+		<category><![CDATA[Shriners]]></category>
+		<category><![CDATA[police sweep]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[April 25, 1907 Los Angeles &#160; Fiesta is coming!&#160; And men of low standing are being swept from the streets&#8212;today one M. Lawrence was arrested on the charge of peddling worthless jewelry.&#160; The police are making a special effort to remove from our midst swindlers of all stripes before Fiesta.&#160; Sometimes they have help:&#160; a &#8230; <a href="/2006/04/25/the-big-pickup/" class="more-link">Continue reading <span class="screen-reader-text">The Big Pickup</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>April 25, 1907 </p>
+<div>Los Angeles</div>
+<div>&nbsp;</div>
+<div>Fiesta is coming!&nbsp; And men of low standing are being swept from the streets&mdash;today one M. Lawrence was arrested on the charge of peddling worthless jewelry.&nbsp; The police are making a special effort to remove from our midst swindlers of all stripes before Fiesta.&nbsp; Sometimes they have help:&nbsp; a Mr. Johnson was admitted to Receiving Hospital with cuts and lacerations to the face; he was recognized as being C. W. Draper, the recently paroled forger.&nbsp; While attempting to sell goods to a woman at 115 North Olive Street, an unknown man leaped upon him and beat him severely.</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/04/25/the-big-pickup/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

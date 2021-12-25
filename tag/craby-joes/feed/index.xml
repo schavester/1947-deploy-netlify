@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>craby joe&#8217;s &#8211; 1947 Project</title>
+	<atom:link href="/tag/craby-joes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>craby joe&#8217;s &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Your Dog&#8217;s Breakfast rides the Charles Bukowski bus</title>
+		<link>/2007/11/22/your-dogs-breakfast-rides-the-charles-bukowski-bus/</link>
+					<comments>/2007/11/22/your-dogs-breakfast-rides-the-charles-bukowski-bus/#comments</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Thu, 22 Nov 2007 17:17:15 +0000</pubDate>
+				<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[charles bukowski]]></category>
+		<category><![CDATA[craby joe's]]></category>
+		<category><![CDATA[john dullaghan]]></category>
+		<category><![CDATA[richard schave]]></category>
+		<category><![CDATA[ryder palmere]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Radio Feature by Ryder Palmere &#8211; Your Dog&#8217;s Breakfast: Episode 105: &#8220;This is Charles Bukowski&#8230;&#8221; A brief history of the Angelino man known as the Poet Laureate of Skid Row, who pulled poetry out from beneath itself in the 20th century. We&#8217;ll take a look at his life as partially told by the Esotouric bus &#8230; <a href="/2007/11/22/your-dogs-breakfast-rides-the-charles-bukowski-bus/" class="more-link">Continue reading <span class="screen-reader-text">Your Dog&#8217;s Breakfast rides the Charles Bukowski bus</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a title="Episode 105: Ã¢â‚¬Å“This is Charles BukowskiÃ¢â‚¬Â¦Ã¢â‚¬Â" href="https://www.yourdogsbreakfast.org/2007/11/08/episode-105-this-is-charles-bukowski/">Radio Feature by Ryder Palmere &#8211; Your Dog&#8217;s Breakfast: Episode 105: &ldquo;This is Charles Bukowski&hellip;&rdquo;</a></h2>
+<p>A brief history of the Angelino man known as the Poet Laureate of Skid Row, who pulled poetry out from beneath itself in the 20th century. We&rsquo;ll take a look at his life as partially told by the <a href="https://esotouric.com/">Esotouric</a> bus tour, rolling through the neighborhoods in which he lived and created his greatest works, stopping by a bar or two in which he drank. Have a seat and bring a beer.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/11/22/your-dogs-breakfast-rides-the-charles-bukowski-bus/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>predictions &#8211; 1947 Project</title>
+	<atom:link href="/tag/predictions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:53:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>predictions &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Horoscope for the Day</title>
+		<link>/2006/09/10/horoscope-for-the-day/</link>
+					<comments>/2006/09/10/horoscope-for-the-day/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sun, 10 Sep 2006 13:50:35 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[astrology]]></category>
+		<category><![CDATA[girls of the big house]]></category>
+		<category><![CDATA[omens]]></category>
+		<category><![CDATA[predictions]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Sept. 10, 1907 Los Angeles A very uncertain day. No evil omens glare anywhere but in all aspects there lies a heavy veil, defying those who would peer into this day. Beware, therefore, of all and any unconsidered act. Promise nothing unless you comprehend clearly the full scope and limit of the pledge. Sign neither &#8230; <a href="/2006/09/10/horoscope-for-the-day/" class="more-link">Continue reading <span class="screen-reader-text">Horoscope for the Day</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/birell_02.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 267px; height: 366px;" src="//www.lmharnisch.com/images/birell_02.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/birell.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/birell.jpg" alt="" border="0" /></a>Sept. 10,  1907<br />
+Los Angeles  </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">A very uncertain day. No evil omens glare anywhere but in all aspects there lies a heavy veil, defying those who would peer into this day. Beware, therefore, of all and any unconsidered act. Promise nothing unless you comprehend clearly the full scope and limit of the pledge. Sign neither note nor contract this day without full security in your hand. Avoid speculative enterprises like the plague.</p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/09/10/horoscope-for-the-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

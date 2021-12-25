@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mideast &#8211; 1947 Project</title>
+	<atom:link href="/tag/mideast/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:53:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>Mideast &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Unrest in Morocco</title>
+		<link>/2006/08/20/unrest-in-morocco/</link>
+					<comments>/2006/08/20/unrest-in-morocco/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2006 14:51:31 +0000</pubDate>
+				<category><![CDATA[france]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[Mideast]]></category>
+		<category><![CDATA[Morocco]]></category>
+		<category><![CDATA[war]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Casa Blanca, Morocco Aug. 20, 1907 The Times carries a vivid description of a battle between Moorish tribesmen, French sharpshooters and spahis (Arabs in the French service), and though the story is extremely detailed about the fighting, there isn]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0820.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 374px; height: 209px;" src="//www.lmharnisch.com/images/1907_0820.jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">Casa Blanca, Morocco<br />
+</span><span style="font-size:100%;">Aug. 20, 1907<br />
+</span><span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">The Times carries a vivid description of a battle between Moorish tribesmen, French sharpshooters and spahis (Arabs in the French service), and though the story is extremely detailed about the fighting, there isn</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/08/20/unrest-in-morocco/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

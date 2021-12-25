@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ice cream sodas &#8211; 1947 Project</title>
+	<atom:link href="/tag/ice-cream-sodas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:53:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>ice cream sodas &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Little Devil</title>
+		<link>/2006/09/05/the-little-devil/</link>
+					<comments>/2006/09/05/the-little-devil/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Tue, 05 Sep 2006 13:12:50 +0000</pubDate>
+				<category><![CDATA[juvenile delinquents]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[whittier]]></category>
+		<category><![CDATA[google earth]]></category>
+		<category><![CDATA[ice cream sodas]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Sept. 5, 1907 Los Angeles Poor old Mrs. Moore was ill, so instead of paying the grocer his monthly bill, she put a $10 gold piece in an envelope and told her 9-year-old son, Cecil, to take it to him. But Cecil, of 155 W. 51st St., tore open the envelope, found the $10 ($205.24 &#8230; <a href="/2006/09/05/the-little-devil/" class="more-link">Continue reading <span class="screen-reader-text">The Little Devil</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/155_W_51st.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/155_W_51st.jpg" alt="" border="0" /></a><br />
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/155_w_51st_jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/155_w_51st_jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">Sept. 5, 1907<br />
+</span><span style="font-size:100%;">Los Angeles</span><br />
+<span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">Poor old Mrs. Moore was ill, so instead of paying the grocer his monthly bill, she put a $10 gold piece in an envelope and told her 9-year-old son, Cecil, to take it to him. But Cecil, of 155 W. 51st St.,  tore open the envelope, found the $10 ($205.24 USD 2005) and got other ideas, none of them good.<br />
+</span><br />
+<span style="font-size:100%;">First, Cecil treated his chums to sodas at a delicatessen, then he was off for trolley rides to see the city. For the last two days, he has kept one step ahead of police officers, telling his pals that he plans to visit all the local beaches and </div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/09/05/the-little-devil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

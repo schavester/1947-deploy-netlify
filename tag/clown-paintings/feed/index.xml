@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>clown paintings &#8211; 1947 Project</title>
+	<atom:link href="/tag/clown-paintings/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:53:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>clown paintings &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brian De Palma&#8217;s &#8220;The Black Dahlia&#8221;</title>
+		<link>/2006/09/15/brian-de-palmas-the-black-dahlia/</link>
+					<comments>/2006/09/15/brian-de-palmas-the-black-dahlia/#comments</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2006 19:54:28 +0000</pubDate>
+				<category><![CDATA[james ellroy]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[brian de palma]]></category>
+		<category><![CDATA[clown paintings]]></category>
+		<category><![CDATA[Shemp Howard]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/eckhart_hair02.jpg"><img style="margin: 10pt 10pt 10px 10px; float: right; cursor: pointer; width: 297px; height: 275px;" src="//www.lmharnisch.com/images/eckhart_hair02.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/wp-content/uploads/http:%5C%5Cwww.lmharnisch.com%5Cimages%5Ceckhard_hair02.jpg"><img style="margin: 10pt 10pt 10px 10px; float: right; cursor: pointer; width: 320px;" src="//1947project.hiddenhistoryblogs.com/wp-content/uploads/http:\\www.lmharnisch.com\images\eckhard_hair02.jpg" alt="" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/zootsuit.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px;" src="//www.lmharnisch.com/images/zootsuit.jpg" alt="" border="0" /></a><span style="font-size:100%;"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/09/15/brian-de-palmas-the-black-dahlia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

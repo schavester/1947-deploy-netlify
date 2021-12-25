@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mechanics &#8211; 1947 Project</title>
+	<atom:link href="/tag/mechanics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:38:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>mechanics &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>It Begins</title>
+		<link>/2007/04/08/it-begins/</link>
+					<comments>/2007/04/08/it-begins/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2007 20:13:23 +0000</pubDate>
+				<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[mechanics]]></category>
+		<category><![CDATA[toys]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[April 8, 1927International Waters You remember your last time traipsing through Target. Mounted fish flapped and sang. Homer Simpson&#8212;dressed as Santa&#8212;gyrated obscenely. A motion-activated James Brown squawked &#8220;I Feel Good,&#8221; barely audible over whir and crank of gear. &#160; Principiis obsta. Finem respice. &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>April 8, 1927<br />International Waters</p>
+<p><img loading="lazy" width="315" height="500" border="0" align="middle" src="//farm1.static.flickr.com/194/451090830_b80da08cf6_o.gif" alt="hulagirl" title="hulagirl" /> </p>
+<p>You remember your last time traipsing through Target.  Mounted fish flapped and sang. Homer Simpson&mdash;dressed as Santa&mdash;gyrated obscenely.  A motion-activated James Brown squawked &ldquo;I Feel Good,&rdquo; barely audible over whir and crank of gear.  </p>
+<p><img loading="lazy" width="498" height="211" border="0" align="middle" src="//farm1.static.flickr.com/173/451090838_316c3d9d42_o.gif" alt="hulatext" title="hulatext" /><img loading="lazy" width="220" height="220" border="0" align="left" src="//farm1.static.flickr.com/167/451112412_c986516c0b_o.gif" alt="penguin" title="penguin" /></p>
+<p>&nbsp;</p>
+<p>Principiis obsta.  Finem respice.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/04/08/it-begins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

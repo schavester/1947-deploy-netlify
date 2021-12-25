@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tamale &#8211; 1947 Project</title>
+	<atom:link href="/tag/tamale/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:50:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>tamale &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>No More Tamales</title>
+		<link>/2006/03/19/no-more-tamales/</link>
+					<comments>/2006/03/19/no-more-tamales/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sun, 19 Mar 2006 06:41:53 +0000</pubDate>
+				<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[downtown]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[los angeles]]></category>
+		<category><![CDATA[The wacko file]]></category>
+		<category><![CDATA[Victimless crimes]]></category>
+		<category><![CDATA[hotel gray]]></category>
+		<category><![CDATA[illegal]]></category>
+		<category><![CDATA[masa]]></category>
+		<category><![CDATA[mexican]]></category>
+		<category><![CDATA[street]]></category>
+		<category><![CDATA[street food]]></category>
+		<category><![CDATA[tamale]]></category>
+		<category><![CDATA[vendor]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[March 19, 1907 Los Angeles&#160; For the past two years, Mrs. C.M. Gray, elderly owner of the Hotel Gray at Third and Main Streets, has received a $15 monthly rental from a tamale vendor who sold his wares on her front walk. This illegal commerce has been stopped, and Mrs. Gray convicted and fined $50. &#8230; <a href="/2006/03/19/no-more-tamales/" class="more-link">Continue reading <span class="screen-reader-text">No More Tamales</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>March 19, 1907<br /> Los Angeles&nbsp;</p>
+<p>For the past two years, Mrs. C.M. Gray, elderly owner of the Hotel Gray at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;q=S+Main+St+%26+E+3rd+St,+Los+Angeles,+CA+90013&#038;ll=34.05081,-118.245635&#038;spn=0.014294,0.034976" target="_blank">Third and Main Streets</a>, has received a $15 monthly rental from a tamale vendor who sold his wares on her front walk. This illegal commerce has been stopped, and Mrs. Gray convicted and fined $50. Just the cost of doing business&#8230; </p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/03/19/no-more-tamales/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>merman &#8211; 1947 Project</title>
+	<atom:link href="/tag/merman/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:42:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>merman &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wither Sim Cross?</title>
+		<link>/2007/04/28/wither-sim-cross/</link>
+					<comments>/2007/04/28/wither-sim-cross/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 28 Apr 2007 04:23:42 +0000</pubDate>
+				<category><![CDATA[Assault]]></category>
+		<category><![CDATA[Beach Cities]]></category>
+		<category><![CDATA[Drowning]]></category>
+		<category><![CDATA[Kidnapping]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[mystery]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[The wacko file]]></category>
+		<category><![CDATA[merman]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[April 27, 1927Los Angeles Sim Cross is alive, ALIVE! The Los Angeles man, resident of 4195 Third Avenue, was believed a suicide by pals after a full suit of clothes but the underpants were found on the beach at Redondo on April 19. Mugs were raised, his good and bad points debated, and perhaps the &#8230; <a href="/2007/04/28/wither-sim-cross/" class="more-link">Continue reading <span class="screen-reader-text">Wither Sim Cross?</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>April 27, 1927<br />Los Angeles</p>
+<p>Sim Cross is alive, ALIVE! The Los Angeles man, resident of 4195 Third Avenue, was believed a suicide by pals after a full suit of clothes but the underpants were found on the beach at Redondo on April 19. Mugs were raised, his good and bad points debated, and perhaps the pals even parcelled out his nicest ties among them. But on the 21st there came a telegram, signed Sim and sent from San Francisco, announcing that reports of his demise were not to be believed. </p>
+<p>In time, he returned home, bearing a singularly peculiar tale. The last thing he remembered, see, he was fighting a riptide. And then, inky darkness. He came to 48 hours later in an SF hotel room, with bruised feet and no idea how he got there. In the room, clothes and a suitcase he&#8217;d never seen before. He dressed, and stepped into the street, where two men accosted him. It was thanks to them, they said, that Sim was in this spot. And now all they needed was for him to take someone&#8217;s place in a hospital for a few more days and&#8230;</p>
+<p>Here Sim drew the curtain over one of the most perfect descriptions of cliche detective&#8217;s peril as we&#8217;ve ever read. He claims that he simply demured and came home.</p>
+<p>Was it all fantasy? Or did once there dwell strangely maleable hoodlums, who would conk a guy while he swam and spirit him away to play a part in a bandage opera, then let him go when he said he wasn&#8217;t in the mood? We&#8217;ll never know, for after this one extraordinary incident, Sim Cross vanished from the record, but never from our hearts. </p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/04/28/wither-sim-cross/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

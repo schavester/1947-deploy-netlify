@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>musicians &#8211; 1947 Project</title>
+	<atom:link href="/tag/musicians-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:53:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>musicians &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Oh, God, the Bassoon!!</title>
+		<link>/2006/10/29/oh-god-the-bassoon/</link>
+					<comments>/2006/10/29/oh-god-the-bassoon/#comments</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2006 15:41:46 +0000</pubDate>
+				<category><![CDATA[labor]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[opera]]></category>
+		<category><![CDATA[musicians]]></category>
+		<category><![CDATA[unions]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Oct. 29, 1907 Los Angeles Given The Times]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1029A"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 356px; height: 189px;" src="https://www.lmharnisch.com/images/1907_1029A" alt="" border="0" /></a><br />
+<!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
+<p class="MsoNormal">Oct. 29, 1907<br />
+Los Angeles</p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">Given The Times</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/10/29/oh-god-the-bassoon/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Disharmony</title>
+		<link>/2006/09/26/disharmony/</link>
+					<comments>/2006/09/26/disharmony/#comments</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2006 14:25:18 +0000</pubDate>
+				<category><![CDATA[courts]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[long beach]]></category>
+		<category><![CDATA[musicians]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Sept. 26, 1907 Long Beach Marco Vessella, conductor of Long Beach]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0926A.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 253px; height: 257px;" src="//www.lmharnisch.com/images/1907_0926A.jpg" alt="" border="0" /></a></p>
+<p>Sept. 26, 1907<br />
+Long Beach  </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">Marco Vessella, conductor of Long Beach</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/09/26/disharmony/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

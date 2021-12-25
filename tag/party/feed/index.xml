@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>party &#8211; 1947 Project</title>
+	<atom:link href="/tag/party/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:48:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>party &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Book Crimebo For Your Event</title>
+		<link>/2006/08/09/book-crimebo-for-your-event/</link>
+					<comments>/2006/08/09/book-crimebo-for-your-event/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2006 19:27:40 +0000</pubDate>
+				<category><![CDATA[Crimebo the Clown]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[los angeles]]></category>
+		<category><![CDATA[weird]]></category>
+		<category><![CDATA[anniversary]]></category>
+		<category><![CDATA[bachelor]]></category>
+		<category><![CDATA[bachelorette]]></category>
+		<category><![CDATA[birthday]]></category>
+		<category><![CDATA[clowns]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[party]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit his page at Esotouric. Interested? Contact us with any questions, or to ask if &#8230; <a href="/2006/08/09/book-crimebo-for-your-event/" class="more-link">Continue reading <span class="screen-reader-text">Book Crimebo For Your Event</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Crimebo the Crime Clown is regularly available for party and event bookings within the metro Los Angeles area, and phone greetings anywhere. Out of town trips and other unusual requests can sometimes be accomodated, so please ask. For more info, visit <a href="https://www.esotouric.com/crimebo" target="_blank">his page</a> at Esotouric.</p>
+<p>Interested? <a target="_blank" href="https://www.47upgradepath7.richardschave.com//feedback">Contact us</a> with any questions, or to ask if your desired date and time are available. If you want the personalized touch, please include dates of the honoree&#8217;s birthday or anniversary (if different from the event date), so Crimebo can research all the terrible things that happened on that date. </p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/08/09/book-crimebo-for-your-event/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

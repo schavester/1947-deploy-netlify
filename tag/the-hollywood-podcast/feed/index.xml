@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>the hollywood podcast &#8211; 1947 Project</title>
+	<atom:link href="/tag/the-hollywood-podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:41:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>the hollywood podcast &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</title>
+		<link>/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/</link>
+					<comments>/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 18:11:42 +0000</pubDate>
+				<category><![CDATA[Beating]]></category>
+		<category><![CDATA[Black Dahlia]]></category>
+		<category><![CDATA[Crime Bus Tours]]></category>
+		<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[Knife]]></category>
+		<category><![CDATA[Murder]]></category>
+		<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[Rape]]></category>
+		<category><![CDATA[South Central]]></category>
+		<category><![CDATA[1947]]></category>
+		<category><![CDATA[the hollywood podcast]]></category>
+		<category><![CDATA[tim coyne]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Tim Coyne of The Hollywood Podcast rode along on The Real Black Dahlia crime bus tour and prepared a cool little piece for BBC 5&#8217;s Pods and Blogs program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t &#8230; <a href="/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/" class="more-link">Continue reading <span class="screen-reader-text">The Real Black Dahlia on the BBC&#8217;s Pods and Blogs show</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Tim Coyne of <a href="https://hollywoodpodcast.com/" target="_blank">The Hollywood Podcast</a> rode along on <a href="https://esotouric.com/blackdahlia" target="_blank">The Real Black Dahlia</a> crime bus tour and prepared a cool little piece for BBC 5&#8217;s <a href="https://www.bbc.co.uk/blogs/podsandblogs/?focuswin" target="_blank">Pods and Blogs</a> program (or programme, if you will) explaining Beth Short and our fascination with 1947 LA and the odd characters in her orbit to a nation that doesn&#8217;t know the case. </p>
+<p>Here&#8217;s a <a href="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" target="_blank">link</a> to the MP3 of Tim&#8217;s interview with Nathan and me.&nbsp;</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/05/29/the-real-black-dahlia-on-the-bbcs-pods-and-blogs-show/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://ia350643.us.archive.org/1/items/pods_blogsEsotouricPodcastBBCSpring_07/esotouric.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

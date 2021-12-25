@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>quality of life. esthetics &#8211; 1947 Project</title>
+	<atom:link href="/tag/quality-of-life-esthetics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:54:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>quality of life. esthetics &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Blight on the Land II</title>
+		<link>/2006/07/27/a-blight-on-the-land-ii/</link>
+					<comments>/2006/07/27/a-blight-on-the-land-ii/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2006 22:28:31 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[billboards]]></category>
+		<category><![CDATA[quality of life. esthetics]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[I can&#8217;t figure out how to comment and can&#8217;t access the original post, so here goes: Nope, no pictures in The Times, alas. It would be great to see them.]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>I can&#8217;t figure out how to comment and can&#8217;t access the original post, so here goes: Nope, no pictures in The Times, alas. It would be great to see them. </div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/07/27/a-blight-on-the-land-ii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

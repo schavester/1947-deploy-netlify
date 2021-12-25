@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>wharfs &#8211; 1947 Project</title>
+	<atom:link href="/tag/wharfs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:39:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>wharfs &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Our Harbors:  Built on the Body of Graecus</title>
+		<link>/2006/08/02/our-harbors-built-on-the-body-of-graecus/</link>
+					<comments>/2006/08/02/our-harbors-built-on-the-body-of-graecus/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2006 08:37:52 +0000</pubDate>
+				<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[San Pedro]]></category>
+		<category><![CDATA[Drowning]]></category>
+		<category><![CDATA[piers]]></category>
+		<category><![CDATA[wharfs]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[August 2, 1907San Pedro The great wharfs and piers of Los Angeles are by and large but a thing of memory.&#160; Who cannot tilt a head in wonder as one motors up PCH past the State Historic Landmark signage for the Port of Los Angeles Long Wharf, designating it &#8220;site of&#8221; the longest wooden pier &#8230; <a href="/2006/08/02/our-harbors-built-on-the-body-of-graecus/" class="more-link">Continue reading <span class="screen-reader-text">Our Harbors:  Built on the Body of Graecus</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>August 2, 1907<br />San Pedro</p>
+<p><img loading="lazy" width="333" height="230" border="0" align="left" src="//static.flickr.com/67/204670383_7048163aba_o.gif" alt="longwharf" title="longwharf" />The great wharfs and piers of Los Angeles are by and large but a thing of memory.&nbsp; Who cannot tilt a head in wonder as one motors up PCH past the State Historic Landmark signage for the Port of Los Angeles Long Wharf, designating it &ldquo;site of&rdquo; the longest wooden pier in the world?<br /><img loading="lazy" width="369" height="224" border="0" align="right" src="//static.flickr.com/58/204670423_58f934036c_o.gif" alt="pedrowharf" title="pedrowharf" /><br />It was dismantled after San Pedro became our official harbor in 1897.&nbsp; </p>
+<p>Ten years later, on this day, while the wharf was under construction, stout men were busy pulling bodies from the briny Pedro deep.</p>
+<p>Seems that trainmen ran heavily-loaded cars onto the trackless uncompleted portion, causing 365 feet of trestle work to collapse, crushing Bakko Kovavich and drowning three others&mdash;Melia Bolich and Miko Kovavich.&nbsp; Where Native Americans famously built our skyscrapers, it would appear that Greeks built our piers.</p>
+<p>Remember these men when next you enjoy the fruits of our port system.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/08/02/our-harbors-built-on-the-body-of-graecus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Gravity &#8211; 1947 Project</title>
+	<atom:link href="/tag/gravity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:56:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>Gravity &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Runaway Flats</title>
+		<link>/2006/04/27/runaway-flats/</link>
+					<comments>/2006/04/27/runaway-flats/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2006 00:22:39 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[Railroads]]></category>
+		<category><![CDATA[San Fernando Valley]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Gravity]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes. Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time, &#8230; <a href="/2006/04/27/runaway-flats/" class="more-link">Continue reading <span class="screen-reader-text">Runaway Flats</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://lmharnisch.com/images/1907_0426_runaway.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 265px; height: 320px;" src="//lmharnisch.com/images/1907_0426_runaway.jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">Water is not the only thing that flows downhill, as switchmen at the downtown Southern Pacific freight yard discovered when two runaway flatcars made a 13-mile trip from the San Fernando Valley in 10 minutes.<br />
+</span><span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">Although the runaway cars sent people scrambling as they crossed the tracks, there were no trains running at the time, so a serious accident was avoided.<br />
+</span><span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">The flatcars, part of a gravel-hauling operation in  Roscoe [Sun Valley], inexplicably came loose and had a four-mile downhill start before blazing through the Burbank station. The Burbank operator sent warning ahead that he saw something rip past</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/04/27/runaway-flats/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

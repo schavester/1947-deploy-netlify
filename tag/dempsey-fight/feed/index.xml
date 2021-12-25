@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>dempsey fight &#8211; 1947 Project</title>
+	<atom:link href="/tag/dempsey-fight/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:34:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>dempsey fight &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Don&#8217;t Die Over Spilt Milk</title>
+		<link>/2007/09/23/dont-die-over-spilt-milk/</link>
+					<comments>/2007/09/23/dont-die-over-spilt-milk/#respond</comments>
+		
+		<dc:creator><![CDATA[Mary McCoy]]></dc:creator>
+		<pubDate>Sun, 23 Sep 2007 21:29:39 +0000</pubDate>
+				<category><![CDATA[boxing]]></category>
+		<category><![CDATA[Mary McCoy]]></category>
+		<category><![CDATA[dempsey fight]]></category>
+		<category><![CDATA[heart attacks]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[From Eagle Rock to Valley Falls, NY, men around the United States were taking the news of Jack Dempsey&#8217;s defeat very much to heart. &#160; In Detroit, James Dempsey, 54, keeled over dead while arguing over the defeat of his namesake with a co-worker, while a 33-year-old man from Bridgeport, CT became overexcited while listening &#8230; <a href="/2007/09/23/dont-die-over-spilt-milk/" class="more-link">Continue reading <span class="screen-reader-text">Don&#8217;t Die Over Spilt Milk</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<div align="left"><img loading="lazy" width="489" height="124" border="0" src="//farm2.static.flickr.com/1185/1435162112_1a0b187f83_o.jpg" alt="fightnews" title="fightnews" /></div>
+<div align="left">From Eagle Rock to Valley Falls, NY, men around the United States were taking the news of Jack Dempsey&#8217;s defeat very much to heart.</div>
+<div align="left">&nbsp;</div>
+<div align="left">In Detroit, James Dempsey, 54, keeled over dead while arguing over the defeat of his namesake with a co-worker, while a 33-year-old man from Bridgeport, CT became overexcited while listening to the fight on the radio, and also died of a heart attack.</div>
+<div align="left">&nbsp;</div>
+<div align="left">In particular, the infamous <a href="https://www.eastsideboxing.com/news/DempseyvsTunney.php" target="_blank" title="longcount">Long Count</a> took a steep toll of frail listeners.&nbsp; Benjamin Moore of Monterey Park and James Chilson of Eagle Rock both gasped, clutched their chests, and fell over during the 9-count.&nbsp; Neither lived to discover the final outcome of the fight.</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/09/23/dont-die-over-spilt-milk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

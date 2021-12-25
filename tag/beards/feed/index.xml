@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>beards &#8211; 1947 Project</title>
+	<atom:link href="/tag/beards/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:39:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>beards &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>1947project podcast #11</title>
+		<link>/2007/11/30/1947project-podcast-11/</link>
+					<comments>/2007/11/30/1947project-podcast-11/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Fri, 30 Nov 2007 19:07:55 +0000</pubDate>
+				<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[beards]]></category>
+		<category><![CDATA[brides]]></category>
+		<category><![CDATA[freaks]]></category>
+		<category><![CDATA[smut]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[It&#8217;s another edition of the retrospective podcast, featuring child brides, freak shows, dirty books, long beards&#8230; and a cry for love from Crimebo the Clown. Stream it now on Moli, at iTunes or Archive.org.]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>It&#8217;s another edition of the retrospective podcast, featuring child brides, freak shows, dirty books, long beards&#8230; and a cry for love from Crimebo the Clown.  <a target="_blank" href="https://www.moli.com/p/media_album/v2XrRJ-wFdvpWZrcT82cKweg../media/v27yqaNSz6wDt2ixXB5SHvJ7V3-Z45u_nKGcPF90o7CCzFwr6KrkrgBw../Mjc0NjY,///">Stream it now</a> on Moli, at <a href="https://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=259710198" target="_blank">iTunes</a> or <a href="https://www.archive.org/download/KimCooper1947projectpodcast_11_0/podcast11.mp3" target="_blank">Archive.org</a>.</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/11/30/1947project-podcast-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://www.archive.org/download/KimCooper1947projectpodcast_11_0/podcast11.mp3" length="169" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

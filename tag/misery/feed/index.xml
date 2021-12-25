@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>misery &#8211; 1947 Project</title>
+	<atom:link href="/tag/misery/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:40:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>misery &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Stormy Marriage for a Stormy Night</title>
+		<link>/2007/10/13/stormy-marriage-for-a-stormy-night/</link>
+					<comments>/2007/10/13/stormy-marriage-for-a-stormy-night/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2007 05:52:36 +0000</pubDate>
+				<category><![CDATA[Child abuse]]></category>
+		<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[Gun]]></category>
+		<category><![CDATA[Kidnapping]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[Murder]]></category>
+		<category><![CDATA[police]]></category>
+		<category><![CDATA[misery]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[October 12, 1927Los Angeles Officer J.R. Reybuck had issues. Last summer, when he fought with his young wife, he thought he could resolve their troubles by choking her, snatching their baby son William, and running off to Yuma, Arizona, from which calmer perch he suggested she might join him and they could work everything out. &#8230; <a href="/2007/10/13/stormy-marriage-for-a-stormy-night/" class="more-link">Continue reading <span class="screen-reader-text">Stormy Marriage for a Stormy Night</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><img loading="lazy" width="122" height="500" border="0" align="left" src="//farm3.static.flickr.com/2310/1558323522_6db99fd90a.jpg" />October 12, 1927<br />Los Angeles</p>
+<p>Officer J.R. Reybuck had issues. Last summer, when he fought with his young wife, he thought he could resolve their troubles by choking her, snatching their baby son William, and running off to Yuma, Arizona, from which calmer perch he suggested she might join him and they could work everything out.</p>
+<p>Lillian Reybuck had other ideas, and obtained a restraining order. She and her baby were living with her brother, Herbert, and mother, Mrs. Fred Hendricks at <a href="https://maps.google.com/maps?f=q&#038;hl=en&#038;time=&#038;date=&#038;ttype=&#038;q=914+W+17th+St,+Los+Angeles,+Los+Angeles,+California+90015,+United+States&#038;sll=34.12193,-118.174396&#038;sspn=0.007745,0.013797&#038;ie=UTF8&#038;cd=1&#038;geocode=0,34.039025,-118.276495&#038;ll=34.039929,-118.276491&#038;spn=0.007752,0.013797&#038;z=16&#038;iwloc=addr&#038;om=1" target="_blank">914-and-three-fourths West Seventeenth Street</a>, and that was where J.R. came today on one of his twice weekly visits. He was holding the child when he brought out his service revolver and shot his wife dead as she sat sewing in the front room. When her mother ran out of the kitchen, he took a couple of potshots at her. Mrs. Hendricks escaped out the door. </p>
+<p>Reybuck unloaded a single shot through the left temple of baby William, killing him instantly. He then reloaded, leaned against the wall in front of his slain wife, and blew a hole through his brain.</p>
+<p>He had blamed his mother-in-law for poisoning his wife against him.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/10/13/stormy-marriage-for-a-stormy-night/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

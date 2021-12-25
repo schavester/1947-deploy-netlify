@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>lacc &#8211; 1947 Project</title>
+	<atom:link href="/tag/lacc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:48:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>lacc &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tai Kim of Scoops creating flavor to honor the Black Dahlia</title>
+		<link>/2006/08/29/tai-kim-of-scoops-creating-flavor-to-honor-the-black-dahlia/</link>
+					<comments>/2006/08/29/tai-kim-of-scoops-creating-flavor-to-honor-the-black-dahlia/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2006 05:11:37 +0000</pubDate>
+				<category><![CDATA[Black Dahlia]]></category>
+		<category><![CDATA[Crime Bus Tours]]></category>
+		<category><![CDATA[gelato]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[hel-mel]]></category>
+		<category><![CDATA[heliotrope]]></category>
+		<category><![CDATA[lacc]]></category>
+		<category><![CDATA[melrose]]></category>
+		<category><![CDATA[scoops]]></category>
+		<category><![CDATA[tai kim]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[I spoke with master gelato artiste Tai Kim today and confirmed that he will be making a special Black Dahlia gelato to honor the memory of murder victim Elizabeth Short and the mystery of her unsolved slaying. This flavor will debut on Friday 9/15, the day the movie of the same name is released, and &#8230; <a href="/2006/08/29/tai-kim-of-scoops-creating-flavor-to-honor-the-black-dahlia/" class="more-link">Continue reading <span class="screen-reader-text">Tai Kim of Scoops creating flavor to honor the Black Dahlia</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>I spoke with master gelato artiste Tai Kim today and confirmed that he will be making a special Black Dahlia gelato to honor the memory of murder victim Elizabeth Short and the mystery of her unsolved slaying. This flavor will debut on Friday 9/15, the day the movie of the same name is released, and will be available on a limited basis through Saturday 9/16. </p>
+<p>Tai is still weighing the right ingredients for the flavor&#8211;we talked about squid ink, black sesame, tea, jasmine, tomato (Bloody Mary sorbet) and basil all being options. The flavor&#8217;s specifics will be nailed down in the next week or so, and I&#8217;m very curious to see what he does with it.</p>
+<p>Scoops flavors sampled today: Chocolate Wasabi (great texture and color, very intense flavor), Olive Oil and Salt (sweet, savory and weirdly greasy, interesting but a sample spoon was the perfect size) and Arnold Palmer (soooo lemony, very refreshing).</p>
+<p>The Real Black Dahlia Crime Bus Tour will stop at Scoops for a taste of the Black Dahlia as part of its route, at no additional charge. I&#8217;m  excited Tai was so open to collaborating, and happy to be able to introduce our passengers to his amazing shop.</p>
+<p>Scoops is at 712 N. Heliotrope Dr., just north of Melrose, and is open Monday-Saturday, 12pm-9pm. </p></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/08/29/tai-kim-of-scoops-creating-flavor-to-honor-the-black-dahlia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

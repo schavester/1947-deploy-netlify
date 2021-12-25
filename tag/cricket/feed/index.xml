@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>cricket &#8211; 1947 Project</title>
+	<atom:link href="/tag/cricket/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:54:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>cricket &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Can This Be the Fourth of July?</title>
+		<link>/2006/07/04/can-this-be-the-fourth-of-july/</link>
+					<comments>/2006/07/04/can-this-be-the-fourth-of-july/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2006 16:17:19 +0000</pubDate>
+				<category><![CDATA[holidays]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[bagpipes]]></category>
+		<category><![CDATA[cricket]]></category>
+		<category><![CDATA[firecrackers]]></category>
+		<category><![CDATA[Independence Day]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[July 4, 1907 Los Angeles And how does Los Angeles celebrate Independence Day? With cricket matches and bagpipe contests. The Times said: &#8220;Oratory and music are to replace firewater and fireworks in this year]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0704_cricket.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 413px; height: 229px;" src="//www.lmharnisch.com/images/1907_0704_cricket.jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">July 4, 1907<br />
+</span><span style="font-size:100%;">Los Angeles<br />
+</span><span style="font-size:100%;"><br />
+</span><span style="font-size:100%;">And how does Los Angeles celebrate Independence Day? With cricket matches and bagpipe</span><span style="font-size:100%;"> contests.</p>
+<p></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_0704_pipes.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 275px; height: 394px;" src="//www.lmharnisch.com/images/1907_0704_pipes.jpg" alt="" border="0" /></a><br />
+<span style="font-size:100%;">The Times said: &#8220;Oratory and music are to replace firewater and fireworks in this year</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/07/04/can-this-be-the-fourth-of-july/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

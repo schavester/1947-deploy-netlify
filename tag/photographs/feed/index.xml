@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>photographs &#8211; 1947 Project</title>
+	<atom:link href="/tag/photographs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:49:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>photographs &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Also on EBay</title>
+		<link>/2007/01/16/also-on-ebay/</link>
+					<comments>/2007/01/16/also-on-ebay/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2007 14:36:10 +0000</pubDate>
+				<category><![CDATA[Black Dahlia]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[Ebay]]></category>
+		<category><![CDATA[photographs]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Jan. 16, 2007 Sfxarchive is selling a 4- by 5-inch negative ostensibly from the Black Dahlia case. I donÃ¢â‚¬â„¢t recognize any of these individuals, nor have I ever seen the image. It doesnÃ¢â‚¬â„¢t show any of the main suspects, nor does it show the main detectives, Harry Hansen and Finis Brown. I would say its &#8230; <a href="/2007/01/16/also-on-ebay/" class="more-link">Continue reading <span class="screen-reader-text">Also on EBay</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1949_unid_cops_ebay.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 357px; height: 282px;" src="//www.lmharnisch.com/images/1949_unid_cops_ebay.jpg" alt="" border="0" /></a><br />
+<!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>  </p>
+<p class="MsoNormal">Jan. 16, 2007</p>
+<p class="MsoNormal"><a href="https://cgi.ebay.com/1949-Black-Dahlia-Hollywood-Murder-Photo-Negative-Blue_W0QQitemZ150081723728QQihZ005QQcategoryZ48QQtcZphotoQQrdZ1QQcmdZViewItem">Sfxarchive</a> is selling a 4- by 5-inch negative ostensibly from the Black Dahlia case. I donÃ¢â‚¬â„¢t recognize any of these individuals, nor have I ever seen the image. It doesnÃ¢â‚¬â„¢t show any of the main suspects, nor does it show the main detectives, Harry Hansen and Finis Brown. </p>
+<p class="MsoNormal">I would say its importance is limited. Note that the sellerÃ¢â‚¬â„¢s date (January 1949) is contradicted by the calendar in the picture, which says December 1948.</p>
+<p class="MsoNormal">The bottom line: I would not spend any serious money on this image. </p>
+<p class="MsoNormal"><a href="https://www.lmharnisch.com/">Lmharnisch.com</a></p>
+<p class="MsoNormal"><a href="https://lmharnisch.blogspot.com/">Lmharnisch.blogspot.com</a></p>
+<p class="MsoNormal">E-mail: lmharnisch (AT) gmail.com</p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <!--[endif]--><o:p></o:p></p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/01/16/also-on-ebay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

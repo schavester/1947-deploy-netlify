@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>birthdays &#8211; 1947 Project</title>
+	<atom:link href="/tag/birthdays/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:54:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>birthdays &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Elizabeth Short</title>
+		<link>/2006/07/29/elizabeth-short/</link>
+					<comments>/2006/07/29/elizabeth-short/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2006 14:43:39 +0000</pubDate>
+				<category><![CDATA[Black Dahlia]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[birthdays]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Today is Elizabeth Short&#8217;s birthday. She would have been 82. lmharnisch.com lmharnisch.blogspot.com]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>Today is Elizabeth Short&#8217;s <a href="https://www.astro.com/cgi/atxgen.cgi?btyp=apx&#038;&#038;cid=73tfile9T43jn-u1154184132">birthday. </a> She would have been 82.</p>
+<p><a href="https://www.lmharnisch.com/">lmharnisch.com</a><br />
+<a href="https://lmharnisch.blogspot.com/"><br />
+lmharnisch.blogspot.com</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/07/29/elizabeth-short/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>memorial day &#8211; 1947 Project</title>
+	<atom:link href="/tag/memorial-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:59:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>memorial day &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Memorial Day &#8212; 1927</title>
+		<link>/2007/05/28/memorial-day-1927/</link>
+					<comments>/2007/05/28/memorial-day-1927/#respond</comments>
+		
+		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
+		<pubDate>Mon, 28 May 2007 03:17:52 +0000</pubDate>
+				<category><![CDATA[Joan Renner]]></category>
+		<category><![CDATA[veterans]]></category>
+		<category><![CDATA[holiday]]></category>
+		<category><![CDATA[memorial day]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><img loading="lazy" title="memorial day" height="356" alt="memorial day" src="//farm1.static.flickr.com/234/517171211_5b3b38173c.jpg" width="410" align="middle" border="0" /></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/05/28/memorial-day-1927/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

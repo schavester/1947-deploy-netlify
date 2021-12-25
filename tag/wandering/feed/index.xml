@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>wandering &#8211; 1947 Project</title>
+	<atom:link href="/tag/wandering/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:39:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>wandering &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Visitation of the Rambler</title>
+		<link>/2006/06/19/visitation-of-the-rambler/</link>
+					<comments>/2006/06/19/visitation-of-the-rambler/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Mon, 19 Jun 2006 21:21:07 +0000</pubDate>
+				<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[homelessness]]></category>
+		<category><![CDATA[wandering]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[June 19, 1907 Los Angeles John Sheres has graced Los Angeles with his presence. The professional adventurer, or, as he self-describes, &#8220;chronic loafer,&#8221; boasts that he has never done a month&#8217;s of real work in his life. Sheres says he has been a wanderer ever since he was able to walk, and as such was &#8230; <a href="/2006/06/19/visitation-of-the-rambler/" class="more-link">Continue reading <span class="screen-reader-text">Visitation of the Rambler</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>June 19, 1907<br />
+Los Angeles</p>
+<p>John Sheres has graced Los Angeles with his presence.  The professional adventurer, or, as he self-describes, &#8220;chronic loafer,&#8221; boasts that he has never done a month&#8217;s of real work in his life.  Sheres says he has been a wanderer ever since he was able to walk, and as such was promptly arrested and given a short jail term on his arrival in our Fair City.</p>
+<p>Town to town, jail to jail, Sheres wanders, or &#8220;beats;&#8221; he was beating his way to San Francisco looking to jump some vessel bound for New York.  He is hoping to reach England, from where he intends to finagle passage to South Africa or India.</p>
+<p>Released to-day from our local gaol, the itch to move is upon him, and so we shall bid farewell to Mr. Sheres.  We wish him a fulfilling life of beating, unburdened by the terrible specter of work.  He states he expects to die a professional tramp.
+</p></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/06/19/visitation-of-the-rambler/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>trench reynolds &#8211; 1947 Project</title>
+	<atom:link href="/tag/trench-reynolds/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:47:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>trench reynolds &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rolling Stone lauds 1947project</title>
+		<link>/2006/11/21/rolling-stone-lauds-1947project/</link>
+					<comments>/2006/11/21/rolling-stone-lauds-1947project/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2006 03:24:01 +0000</pubDate>
+				<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[The wacko file]]></category>
+		<category><![CDATA[crime blogs]]></category>
+		<category><![CDATA[mark gribben]]></category>
+		<category><![CDATA[rolling stone magazine]]></category>
+		<category><![CDATA[steve huff]]></category>
+		<category><![CDATA[trench reynolds]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Rolling Stone magazine, in a current feature on the growing influence of true crime blogs on the mainstream media, has named 1947project as one of the best stops on the Web. Making special note of the site&#8217;s year-long exploration of forgotten 1940s crimes, RS raves: &#34;If you&#8217;re a fan of Raymond Chandler or Chinatown, this &#8230; <a href="/2006/11/21/rolling-stone-lauds-1947project/" class="more-link">Continue reading <span class="screen-reader-text">Rolling Stone lauds 1947project</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p><em>Rolling Stone</em> magazine, in a current feature on the growing influence of true crime blogs on the mainstream media, has named 1947project as one of the best stops on the Web. Making special note of the site&#8217;s year-long exploration of forgotten 1940s crimes, <em>RS</em> raves: &quot;If you&#8217;re a fan of Raymond Chandler or <em>Chinatown,</em> this L.A.-noir site goes deep into the year 1947 and the murder of the Black Dahlia, positing the homicide as one of the most pivotal events in the city&#8217;s history. </p>
+<p>Also singled out for notice in &quot;Cyber Cops: Inside the frightening world of the Web&#8217;s original crime blogger&quot; are Trench Reynolds of <a href="https://www.thetrenchcoat.com/" target="_blank">thetrenchcoat.com</a>, Steve Huff of <a href="https://crimeblog.us/" target="_blank">crimeblog.us</a>, Mark Gribben of <a href="https://www.markgribben.com/" target="_blank">markgribben.com</a> and the dark-side-of-myspace site <a href="https://www.mycrimespace.com/" target="_blank">mycrimespace.com</a>.</p>
+<p>We&#8217;re pleased to be in such good company, and welcome <em>RS</em> readers to explore our current site, a day-by-day accounting of L.A. in the year 1907, as well as our <a href="https://1947project.blogspot.com/" target="_blank">prior incarnation</a> on blogger, where the subject was the 1947 of Beth Short, Bugsy Siegel and many other fascinating, forgotten figures. FYI, we also lead regular Crime Bus tours to scenes of mayhem and weirdness all around L.A., and hope local readers will <a href="https://scram.notifylist.com/1947project.html" target="_blank">subscribe to</a> our email list to be kept informed of upcoming events, like this Saturday&#8217;s Pasadena Confidential tour, Weird West Adams on 12/16 and the 60th anniversary Real Black Dahlia tour on 1/13/07.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/11/21/rolling-stone-lauds-1947project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

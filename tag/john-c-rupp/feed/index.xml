@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>John C. Rupp &#8211; 1947 Project</title>
+	<atom:link href="/tag/john-c-rupp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:51:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>John C. Rupp &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Roving to Monrovia</title>
+		<link>/2006/11/25/roving-to-monrovia/</link>
+					<comments>/2006/11/25/roving-to-monrovia/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2006 16:25:05 +0000</pubDate>
+				<category><![CDATA[architecture]]></category>
+		<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[Monrovia]]></category>
+		<category><![CDATA[preservation]]></category>
+		<category><![CDATA[John C. Rupp]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Nov. 24, 1907 Monrovia The Times real estate section takes a look at what was then the distant suburb of Monrovia, 22 miles from downtown Los Angeles. The writer notes the increasing use of concrete and stone, explaining that the cost of lumber is forcing builders to use other materials. The writer also notes the &#8230; <a href="/2006/11/25/roving-to-monrovia/" class="more-link">Continue reading <span class="screen-reader-text">Roving to Monrovia</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1124.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 353px; height: 280px;" src="//www.lmharnisch.com/images/1907_1124.jpg" alt="" border="0" /></a>Nov. 24, 1907<br />
+Monrovia    </p>
+<p class="MsoNormal">The Times real estate section takes a look at what was then the distant suburb of Monrovia, <a href="https://maps.google.com/maps?f=d&#038;hl=en&amp;saddr=202+W+1st+St,+Los+Angeles,+CA+90012&#038;daddr=269+N+Ivy+Ave,+Monrovia,+CA+91016&amp;sll=37.0625,-95.677068&#038;sspn=36.042042,87.1875&amp;amp;amp;amp;amp;amp;amp;amp;amp;ie=UTF8&#038;z=11&amp;t=h&#038;om=0">22 miles from downtown Los Angeles</a>. The writer notes the increasing use of concrete and stone, explai<img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 235px; height: 205px;" src="//www.lmharnisch.com/images/1907_1124B.jpg" alt="" border="0" />ning that the cost of lumber is forcing builders to use other materials. The writer also notes the broad, shaded verandas of three featured homes as well as the outlines of their roofs.</p>
+<p class="MsoNormal">The story highlights the home of B.R. Davisson on East Orange Avenue, H.M. Slemmons (or Slemon) on North Myrtle Avenue and the home of John C. Rupp at Ivy and Greystone, built for $6,500 ($133,403.21 USD 2005). </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">Without exact addresses, it would be difficult for me to locate the Davisson and Slemmons homes, but I took a pleasant drive out to Monrovia recently to look for the Rupp house and was happy to find<br />
+that it is still standing and in beautiful condition. In fact, it was nice to discover that the neighborhood has quite a few well-maintained historic homes; a contrast to the condition of the houses I located in Pico Heights.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_rupp_obit.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 185px; height: 402px;" src="//www.lmharnisch.com/images/1907_rupp_obit.jpg" alt="" border="0" /></a></p>
+<p class="MsoNormal">
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">I had a brief chat with the homeowner who gave me a tour of the grounds. He said that Rupp, a financier, built the home for his wife, but that she decided it was too far from Los Angeles and wouldn</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/11/25/roving-to-monrovia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>activism &#8211; 1947 Project</title>
+	<atom:link href="/tag/activism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 20:39:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>activism &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Notes from the Hydrocarbon Front</title>
+		<link>/2006/07/19/notes-from-the-hydrocarbon-front/</link>
+					<comments>/2006/07/19/notes-from-the-hydrocarbon-front/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2006 23:07:24 +0000</pubDate>
+				<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[activism]]></category>
+		<category><![CDATA[explosions]]></category>
+		<category><![CDATA[seventh ward]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[July 19, 1907Los Angeles After Doheny hit oil near (what&#8217;s now) Dodger Stadium back in &#8217;92, Los Angeles went brea-happy, depressing world oil prices with its outstanding production and eventually producing 3/4 of the world&#8217;s supply after the 20s hits in Wilmington, Dominquez Hills, Huntington and Long Beach, et al. In 1907 everybody was getting &#8230; <a href="/2006/07/19/notes-from-the-hydrocarbon-front/" class="more-link">Continue reading <span class="screen-reader-text">Notes from the Hydrocarbon Front</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>July 19, 1907<br />Los Angeles  </p>
+<p>After Doheny hit oil near (what&#8217;s now) Dodger Stadium back in &#8217;92, Los Angeles went brea-happy, depressing world oil prices with its outstanding production and eventually producing 3/4 of the world&#8217;s supply after the 20s hits in Wilmington, Dominquez Hills, Huntington and Long Beach, et al.  </p>
+<p>In 1907 everybody was getting into the act.  Including the mayor.  Mayor A. C. Harper has announced the formation of the Los Angeles-Utah Oil Company, the other directors of the corporation a coterie of mayoral cronies picked from the Police and Fire Commissions, and, interestingly, there&#8217;s a Councilman by the name of Clampitt.  The Mayor has been spending much of his time not in City Hall, but in his new oil company offices at the Bank of Commerce, across from the Times building.  (Though &quot;Clampitt&quot; should be a propitious name in the oil production game, Utah&#8217;s Virgin Valley field never really pans out&#8211;which taught the mayor not to go wildcatting outside of LA [or perhaps their failings were due to the misspelling of <em>Clampett</em>.])</p>
+<p>  Meanwhile, a grassroots movement has started in the Seventh Ward to throw oil refineries and storage tanks out of the city in and into the country.  The Eighth Ward, also known for tanks with 500+ barrel capacity (21,000 gallons) has joined in to make noise about a tank&#8217;s ability to incinerate large swaths of the city should a refinery explode.  (Of course, it was the location of these tanks that brought manufacturing and worker&#8217;s housing to southeastern Los Angeles in the first place.)  </p>
+<p>While everyone was worried about being blown up by oil storage tanks, today one Ernest Malcom, of the Los Angeles City Dye Works, was cleaning a suit of clothes in some distillate&#8230;when there was a tremendous flash and a roar.  He was thrown thirty feet backward and into a door, which gave way and he tumbled into the street uharmed.  A series of tremendous inflammable cleaning fluid explosions incinerated the rest of the building, although firefighters were able to save the surrounding houses. </p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/07/19/notes-from-the-hydrocarbon-front/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

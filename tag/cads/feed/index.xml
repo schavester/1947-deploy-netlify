@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>cads &#8211; 1947 Project</title>
+	<atom:link href="/tag/cads/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:51:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>cads &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Not Worthy</title>
+		<link>/2006/11/11/not-worthy/</link>
+					<comments>/2006/11/11/not-worthy/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Harnish]]></dc:creator>
+		<pubDate>Sat, 11 Nov 2006 17:10:33 +0000</pubDate>
+				<category><![CDATA[Larry Harnish]]></category>
+		<category><![CDATA[marriage]]></category>
+		<category><![CDATA[cads]]></category>
+		<category><![CDATA[jilted]]></category>
+		<category><![CDATA[Topeka]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Nov. 11, 1907 Los Angeles On a trip to Topeka, Kans., to visit relatives, Lena River Packard of Los Angeles met Edgar (or Edwin) Campbell Arnold, a wealthy wholesale druggist who quickly became her constant companion and ardent suitor. Love soon blossomed and in a few months, Edgar arrived in Los Angeles to claim his &#8230; <a href="/2006/11/11/not-worthy/" class="more-link">Continue reading <span class="screen-reader-text">Not Worthy</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://www.lmharnisch.com/images/1907_1111.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 216px; height: 284px;" src="//www.lmharnisch.com/images/1907_1111.jpg" alt="" border="0" /></a><br />
+<!--[if !supportEmptyParas]--><!--[endif]--><o:p></o:p>    </p>
+<p class="MsoNormal">Nov. 11, 1907<br />
+Los Angeles</p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">On a trip to Topeka, Kans., to visit relatives, Lena River Packard of Los Angeles met Edgar (or Edwin) Campbell Arnold, a wealthy wholesale druggist who quickly became her constant companion and ardent suitor. Love soon blossomed and in a few months, Edgar arrived in Los Angeles to claim his bride. </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">A lavish wedding was arranged, bridal showers were given for Lena and the minister was brought to town from Ventura, where the Packards once lived. Edgar gave her a diamond-studded bracelet as a token of their upcoming marriage. </p>
+<p class="MsoNormal"><!--[if !supportEmptyParas]--> <o:p></o:p></p>
+<p class="MsoNormal">And then the night before the ceremony, </div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/11/11/not-worthy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

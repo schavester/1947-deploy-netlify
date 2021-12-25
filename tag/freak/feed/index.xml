@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>freak &#8211; 1947 Project</title>
+	<atom:link href="/tag/freak/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 19:40:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>freak &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Circus freaks and balloon walks</title>
+		<link>/2007/08/04/circus-freaks-and-balloon-walks/</link>
+					<comments>/2007/08/04/circus-freaks-and-balloon-walks/#comments</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 04 Aug 2007 00:26:43 +0000</pubDate>
+				<category><![CDATA[circus]]></category>
+		<category><![CDATA[Kim Cooper]]></category>
+		<category><![CDATA[medicine]]></category>
+		<category><![CDATA[The wacko file]]></category>
+		<category><![CDATA[freak]]></category>
+		<category><![CDATA[helium]]></category>
+		<category><![CDATA[novelty]]></category>
+		<category><![CDATA[pharmacy]]></category>
+		<category><![CDATA[rx]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[August 3, 1927 On this slow news day, readers of the Los Angeles Times were treated to a pair of interesting stories on page A8. The first was a five paragraph reprint from American Druggist magazine introducing Ben D. Rinehart, acting pharmacist for the Ringling-Barnum &#38; Bailey circus. You probably never stopped to think that &#8230; <a href="/2007/08/04/circus-freaks-and-balloon-walks/" class="more-link">Continue reading <span class="screen-reader-text">Circus freaks and balloon walks</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>August 3, 1927 </p>
+<p>On this slow news day, readers of the Los Angeles Times were treated to a pair of interesting stories on page A8. The first was a five paragraph reprint from American Druggist magazine introducing Ben D. Rinehart, acting pharmacist for the Ringling-Barnum &amp; Bailey circus. You probably never stopped to think that a 600-pound fat lady might need three times the normal dose for a sleeping potion to work, but Ben has. He&#8217;s also proud of his rickets treatments for elephants, who consume quarts of cod liver oil and are wrapped in bandages the size of bedsheets.</p>
+<p>More whimsical still was the piece entitled &quot;How To Walk On Air.&quot; How, you ask? Why, via that new and enervating sport of Balloon Jumping, as proposed in The Forum Magazine. Just grab hold of a big balloon with just slightly less lift than your weight and LEAP, over buildings, lakes and elephants with rickets! Mr. (wait for it) Frederick S. Hoppin is convinced that we&#8217;re at the outset of an age of shoulder-mounted gaspacks when everyone will have the ability to gambol about bearing just a portion of their natural weight. &quot;Our whole present-day world would be turned upside-down. Legislatures will be busily engaged in passing laws prohibiting people from leaving the earth too freely, or rules for the right of way up and down and sideways, or regulations against landing on the head of a fellow citizen or planting a foot on any part of him as you rise. And then there would be the new rule of etiquette: should you pass over or around a lady?&quot;</p>
+<p>All right, class: discuss.&nbsp;  </p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/08/04/circus-freaks-and-balloon-walks/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

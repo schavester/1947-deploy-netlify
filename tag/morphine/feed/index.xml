@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Morphine &#8211; 1947 Project</title>
+	<atom:link href="/tag/morphine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Tue, 05 Apr 2016 19:34:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>Morphine &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Woman Doctor here Near Death</title>
+		<link>/2006/04/24/woman-doctor-here-near-death/</link>
+					<comments>/2006/04/24/woman-doctor-here-near-death/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2006 17:22:36 +0000</pubDate>
+				<category><![CDATA[Downtown]]></category>
+		<category><![CDATA[Fraud]]></category>
+		<category><![CDATA[hospitals]]></category>
+		<category><![CDATA[nathan marsak]]></category>
+		<category><![CDATA[Suicide]]></category>
+		<category><![CDATA[Hotel Avalon]]></category>
+		<category><![CDATA[Mary Green]]></category>
+		<category><![CDATA[Morphine]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[April 24, 1907 Los Angeles Doctor Mary Green had a thriving practice once, for which she rented an office at 624 Fifth Street; she lives in a comfortable suite of rooms in the Hotel Avalon, also on Fifth.Â  And yet the Good Doctor, who has practiced in Chicago, Cincinnati, and San Francisco before landing in &#8230; <a href="/2006/04/24/woman-doctor-here-near-death/" class="more-link">Continue reading <span class="screen-reader-text">Woman Doctor here Near Death</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<div>April 24, 1907</div>
+<div>Los Angeles</div>
+<div></div>
+<div>Doctor Mary Green had a thriving practice once, for which she rented an office at 624 Fifth Street; she lives in a comfortable suite of rooms in the Hotel Avalon, also on Fifth.Â  And yet the Good Doctor, who has practiced in Chicago, Cincinnati, and San Francisco before landing in Los Angeles, is said to be unable to show any certificate showing she is a graduated physician.Â  It is said as well that she is addicted to morphine.</div>
+<div></div>
+<div>Last night, according to the proprietor of the Avalon, a man (claiming to be her husband) visited; a short time later, Doctor Mary Green lay dying.Â  At Receiving Hospital she was indeed found to be a heavy user of the needle.Â  And, as letters from a Doctor Anderson pointed out (penned after a recent trip of Green”<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s to Emergency General), she seemed likely to take her life.Â  While that life was saved at Receiving, it remains to be seen whether Doctor Mary Green will make it through much more life-time.</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2006/04/24/woman-doctor-here-near-death/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>coffee &#8211; 1947 Project</title>
+	<atom:link href="/tag/coffee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Los Angeles De-Mythified</description>
+	<lastBuildDate>Sat, 12 Mar 2016 21:38:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-1947logoSquare-32x32.jpg</url>
+	<title>coffee &#8211; 1947 Project</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Coffee, Tea &#8230; or Murder?</title>
+		<link>/2007/12/11/coffee-tea-or-murder/</link>
+					<comments>/2007/12/11/coffee-tea-or-murder/#respond</comments>
+		
+		<dc:creator><![CDATA[Lynn Peril]]></dc:creator>
+		<pubDate>Tue, 11 Dec 2007 22:25:30 +0000</pubDate>
+				<category><![CDATA[daughters]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Lynn Peril]]></category>
+		<category><![CDATA[Poisoning]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[widows]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[December 11, 1927 Hollywood The death of motion-picture actor George Donald Bailey was announced this morning. The 63-year-old thespian complained of feeling ill yesterday. A doctor was summoned, but Bailey died within a few hours. The death certificate, signed by Dr. C.D. Baker (a friend of the deceased), stated the cause as heart disease. The &#8230; <a href="/2007/12/11/coffee-tea-or-murder/" class="more-link">Continue reading <span class="screen-reader-text">Coffee, Tea &#8230; or Murder?</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div><a href="https://www.flickr.com/photos/lperil/2104423662/" title="Coffee, Tea ... or Murder? by peril61, on Flickr"><img loading="lazy" src="//farm3.static.flickr.com/2332/2104423662_cda69a5027_o.jpg" width="129" height="297" alt="Coffee, Tea ... or Murder?"/></a></p>
+<p>December 11, 1927<br />
+Hollywood</p>
+<p>The death of motion-picture actor George Donald Bailey was announced this morning. The 63-year-old thespian complained of feeling ill yesterday. A doctor was summoned, but Bailey died within a few hours. The death certificate, signed by Dr. C.D. Baker (a friend of the deceased), stated the cause as heart disease. </p>
+<p>The matter would seem to rest there, but this afternoon Bailey&#8217;s widow was visited by her daughter, Blanche Olivarias, and Blanche&#8217;s sister-in-law, Miss Tommy Olivarias. The women brewed a soothing pot of coffee, sipped from their cups, and immediately were gripped by nausea. Tommy, in particular, became violently sick and felt a choking sensation in her throat. </p>
+<p>Unusual, you think, but this is where the plot thickens:  &#8220;&#8216;My husband clutched at his throat just prior to his death,&#8217; Mrs. Bailey said. &#8216;He kept mumbling he was being choked to death'&#8221;Ã¢â‚¬”just after having a cup of coffee from the same fatal pot. Indeed, doctors say the only reason Tommy recovered was emergency treatment. </p>
+<p>The county coroner requested a chemical analysis of Bailey&#8217;s organs. The coffee pot and whatever liquid remained in it were turned over to the county chemist. Results were expected sometime the following week. </p>
+<p>Did heart disease kill George D. BaileyÃ¢â‚¬”or was it poison? Were his widow, daughter, and her sister-in-law victims of the same toxin? Alas, the <i>Times</i> never reported on the outcome of the autopsy or tests on the coffee pot.
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2007/12/11/coffee-tea-or-murder/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
